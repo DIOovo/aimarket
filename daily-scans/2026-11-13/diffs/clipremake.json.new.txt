@@ -1,0 +1,3 @@
+ClipRemake new=2 gone=0 prev=47 now=49
+fish-chop-ai	https://clipremake.com/templates/fish-chop-ai
+tiger-fight-ai	https://clipremake.com/templates/tiger-fight-ai

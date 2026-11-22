@@ -1,0 +1,1923 @@
+{
+  "site": "SameVid AI",
+  "home": "https://samevid.com/",
+  "checked_at": "2026-11-20T09:39:28+08:00",
+  "sitemap_urls_found": [
+    "https://samevid.com/sitemap.xml"
+  ],
+  "sitemap_existed": true,
+  "template_count": 299,
+  "new_count": 82,
+  "removed_count": 0,
+  "new_templates": [
+    {
+      "id_or_slug": "80s-portrait-ai",
+      "title": "80s Portrait",
+      "url": "https://samevid.com/template/80s-portrait-ai"
+    },
+    {
+      "id_or_slug": "ai-fluffy",
+      "title": "AI Fluffy",
+      "url": "https://samevid.com/template/ai-fluffy"
+    },
+    {
+      "id_or_slug": "ai-glasses-filter",
+      "title": "AI Glasses Filter",
+      "url": "https://samevid.com/template/ai-glasses-filter"
+    },
+    {
+      "id_or_slug": "ai-pinch-cheek",
+      "title": "AI Pinch Cheek",
+      "url": "https://samevid.com/template/ai-pinch-cheek"
+    },
+    {
+      "id_or_slug": "ai-rugby-header",
+      "title": "AI Rugby Header",
+      "url": "https://samevid.com/template/ai-rugby-header"
+    },
+    {
+      "id_or_slug": "ai-skeleton-filter",
+      "title": "AI Skeleton Face Filter",
+      "url": "https://samevid.com/template/ai-skeleton-filter"
+    },
+    {
+      "id_or_slug": "ai-smile-cartoon",
+      "title": "AI Smile Cartoon",
+      "url": "https://samevid.com/template/ai-smile-cartoon"
+    },
+    {
+      "id_or_slug": "an-g-la-krik-dance",
+      "title": "An G la Krik Dance",
+      "url": "https://samevid.com/template/an-g-la-krik-dance"
+    },
+    {
+      "id_or_slug": "baby-dolls-dance-ai",
+      "title": "Baby Dolls Dance",
+      "url": "https://samevid.com/template/baby-dolls-dance-ai"
+    },
+    {
+      "id_or_slug": "baby-ice-cream-cone-ai",
+      "title": "Baby Ice Cream Cone",
+      "url": "https://samevid.com/template/baby-ice-cream-cone-ai"
+    },
+    {
+      "id_or_slug": "bad-dance-ai",
+      "title": "Bad Dance",
+      "url": "https://samevid.com/template/bad-dance-ai"
+    },
+    {
+      "id_or_slug": "birthday-cake-drive-up-ai",
+      "title": "Birthday Cake Drive Up",
+      "url": "https://samevid.com/template/birthday-cake-drive-up-ai"
+    },
+    {
+      "id_or_slug": "cabbage-patch-kid-baby-face-filter",
+      "title": "Cabbage Patch Kid Baby Face Filter",
+      "url": "https://samevid.com/template/cabbage-patch-kid-baby-face-filter"
+    },
+    {
+      "id_or_slug": "calm-down-ai-dance",
+      "title": "Calm Down AI Dance",
+      "url": "https://samevid.com/template/calm-down-ai-dance"
+    },
+    {
+      "id_or_slug": "cash-fan-ai",
+      "title": "Cash Fan",
+      "url": "https://samevid.com/template/cash-fan-ai"
+    },
+    {
+      "id_or_slug": "cooking-animation-pop-ai",
+      "title": "Cooking Animation Pop",
+      "url": "https://samevid.com/template/cooking-animation-pop-ai"
+    },
+    {
+      "id_or_slug": "disney-couple-three-panel-ai",
+      "title": "Disney Couple Three Panel",
+      "url": "https://samevid.com/template/disney-couple-three-panel-ai"
+    },
+    {
+      "id_or_slug": "dont-worry-bout-a-thing-ai-dance",
+      "title": "Don't Worry Bout A Thing AI Dance",
+      "url": "https://samevid.com/template/dont-worry-bout-a-thing-ai-dance"
+    },
+    {
+      "id_or_slug": "electric-fan-dance-ai",
+      "title": "Electric Fan Dance",
+      "url": "https://samevid.com/template/electric-fan-dance-ai"
+    },
+    {
+      "id_or_slug": "elegant-hijab-ai",
+      "title": "Elegant Hijab",
+      "url": "https://samevid.com/template/elegant-hijab-ai"
+    },
+    {
+      "id_or_slug": "feliz-navidad-ai-dance",
+      "title": "Feliz Navidad AI Dance",
+      "url": "https://samevid.com/template/feliz-navidad-ai-dance"
+    },
+    {
+      "id_or_slug": "flyboard-ai",
+      "title": "Flyboard",
+      "url": "https://samevid.com/template/flyboard-ai"
+    },
+    {
+      "id_or_slug": "frozen-feet-couple-ai",
+      "title": "Frozen Feet Couple",
+      "url": "https://samevid.com/template/frozen-feet-couple-ai"
+    },
+    {
+      "id_or_slug": "fruit-baby-ai",
+      "title": "Fruit Baby",
+      "url": "https://samevid.com/template/fruit-baby-ai"
+    },
+    {
+      "id_or_slug": "funny-goalkeeper-ai",
+      "title": "Funny Goalkeeper",
+      "url": "https://samevid.com/template/funny-goalkeeper-ai"
+    },
+    {
+      "id_or_slug": "future-family-ai",
+      "title": "Future Family",
+      "url": "https://samevid.com/template/future-family-ai"
+    },
+    {
+      "id_or_slug": "goalkeeper-save-ai",
+      "title": "Goalkeeper Save",
+      "url": "https://samevid.com/template/goalkeeper-save-ai"
+    },
+    {
+      "id_or_slug": "grandma-parkour-ai",
+      "title": "Grandma Parkour",
+      "url": "https://samevid.com/template/grandma-parkour-ai"
+    },
+    {
+      "id_or_slug": "gta-5-goodbye-ai",
+      "title": "GTA 5 Goodbye",
+      "url": "https://samevid.com/template/gta-5-goodbye-ai"
+    },
+    {
+      "id_or_slug": "gta-6-cheat-code-ai",
+      "title": "GTA 6 Cheat Code AI Concept Generator",
+      "url": "https://samevid.com/template/gta-6-cheat-code-ai"
+    },
+    {
+      "id_or_slug": "gta-6-couple-ai",
+      "title": "GTA 6 Couple",
+      "url": "https://samevid.com/template/gta-6-couple-ai"
+    },
+    {
+      "id_or_slug": "gta-6-loading-screen-ai",
+      "title": "GTA 6 Loading Screen",
+      "url": "https://samevid.com/template/gta-6-loading-screen-ai"
+    },
+    {
+      "id_or_slug": "gta-wasted-ai",
+      "title": "GTA Wasted",
+      "url": "https://samevid.com/template/gta-wasted-ai"
+    },
+    {
+      "id_or_slug": "hot-coffee-run-ai",
+      "title": "Hot Coffee Run",
+      "url": "https://samevid.com/template/hot-coffee-run-ai"
+    },
+    {
+      "id_or_slug": "i-am-doom-ai-video",
+      "title": "I Am Doom",
+      "url": "https://samevid.com/template/i-am-doom-ai-video"
+    },
+    {
+      "id_or_slug": "i-love-you-more-ai",
+      "title": "I Love You More",
+      "url": "https://samevid.com/template/i-love-you-more-ai"
+    },
+    {
+      "id_or_slug": "james-bond-reveal-ai",
+      "title": "James Bond Reveal",
+      "url": "https://samevid.com/template/james-bond-reveal-ai"
+    },
+    {
+      "id_or_slug": "jatayu-indian-mythology-ai-video",
+      "title": "Jatayu Indian Mythology",
+      "url": "https://samevid.com/template/jatayu-indian-mythology-ai-video"
+    },
+    {
+      "id_or_slug": "lego-couple-ai",
+      "title": "Lego Couple",
+      "url": "https://samevid.com/template/lego-couple-ai"
+    },
+    {
+      "id_or_slug": "lions-human-centipede-celebration-ai",
+      "title": "Lions Human Centipede Celebration",
+      "url": "https://samevid.com/template/lions-human-centipede-celebration-ai"
+    },
+    {
+      "id_or_slug": "looks-can-kill-ai-dance",
+      "title": "Looks Can Kill AI Dance",
+      "url": "https://samevid.com/template/looks-can-kill-ai-dance"
+    },
+    {
+      "id_or_slug": "malfoid-ai",
+      "title": "Malfoid",
+      "url": "https://samevid.com/template/malfoid-ai"
+    },
+    {
+      "id_or_slug": "medieval-subway-dance-ai",
+      "title": "Medieval Subway Dance",
+      "url": "https://samevid.com/template/medieval-subway-dance-ai"
+    },
+    {
+      "id_or_slug": "mf-pimp-ai",
+      "title": "MF Pimp",
+      "url": "https://samevid.com/template/mf-pimp-ai"
+    },
+    {
+      "id_or_slug": "more-like-a-quesadilla-ai",
+      "title": "More Like a Quesadilla",
+      "url": "https://samevid.com/template/more-like-a-quesadilla-ai"
+    },
+    {
+      "id_or_slug": "mountain-skydive-ai",
+      "title": "Mountain Skydive",
+      "url": "https://samevid.com/template/mountain-skydive-ai"
+    },
+    {
+      "id_or_slug": "my-moon-my-man-ai",
+      "title": "My Moon My Man",
+      "url": "https://samevid.com/template/my-moon-my-man-ai"
+    },
+    {
+      "id_or_slug": "nao-percebi-dance-ai",
+      "title": "Não Percebi Dance",
+      "url": "https://samevid.com/template/nao-percebi-dance-ai"
+    },
+    {
+      "id_or_slug": "naruto-genjutsu-ai",
+      "title": "Naruto Genjutsu",
+      "url": "https://samevid.com/template/naruto-genjutsu-ai"
+    },
+    {
+      "id_or_slug": "no-i-aint-crazy-yb-ai",
+      "title": "No I Ain’t Crazy YB",
+      "url": "https://samevid.com/template/no-i-aint-crazy-yb-ai"
+    },
+    {
+      "id_or_slug": "olly-olly-dance-ai",
+      "title": "Olly Olly Dance",
+      "url": "https://samevid.com/template/olly-olly-dance-ai"
+    },
+    {
+      "id_or_slug": "paloma-blanca-ai",
+      "title": "Paloma Blanca AI Dance Generator",
+      "url": "https://samevid.com/template/paloma-blanca-ai"
+    },
+    {
+      "id_or_slug": "private-jet-arrival-ai",
+      "title": "Private Jet Arrival",
+      "url": "https://samevid.com/template/private-jet-arrival-ai"
+    },
+    {
+      "id_or_slug": "ps2-heist-interview-ai",
+      "title": "PS2 Heist Interview",
+      "url": "https://samevid.com/template/ps2-heist-interview-ai"
+    },
+    {
+      "id_or_slug": "punching-bag-combo-ai",
+      "title": "Punching Bag Combo",
+      "url": "https://samevid.com/template/punching-bag-combo-ai"
+    },
+    {
+      "id_or_slug": "red-car-exit-salute-ai",
+      "title": "Red Car Exit Salute",
+      "url": "https://samevid.com/template/red-car-exit-salute-ai"
+    },
+    {
+      "id_or_slug": "red-car-exit-wave-ai",
+      "title": "Red Car Exit Wave",
+      "url": "https://samevid.com/template/red-car-exit-wave-ai"
+    },
+    {
+      "id_or_slug": "red-tie-dance-ai",
+      "title": "Red Tie Dance",
+      "url": "https://samevid.com/template/red-tie-dance-ai"
+    },
+    {
+      "id_or_slug": "rollie-on-my-wrist-ai",
+      "title": "Rollie on My Wrist",
+      "url": "https://samevid.com/template/rollie-on-my-wrist-ai"
+    },
+    {
+      "id_or_slug": "santa-tell-me-ai",
+      "title": "Santa Tell Me AI Dance",
+      "url": "https://samevid.com/template/santa-tell-me-ai"
+    },
+    {
+      "id_or_slug": "selfie-talk-pose-ai",
+      "title": "Selfie Talk Pose",
+      "url": "https://samevid.com/template/selfie-talk-pose-ai"
+    },
+    {
+      "id_or_slug": "shop-doorway-arms-up-dance-ai",
+      "title": "Shop Doorway Arms Up Dance",
+      "url": "https://samevid.com/template/shop-doorway-arms-up-dance-ai"
+    },
+    {
+      "id_or_slug": "singing-pet-ai",
+      "title": "Singing Pet",
+      "url": "https://samevid.com/template/singing-pet-ai"
+    },
+    {
+      "id_or_slug": "somebody-that-i-used-to-know-ai",
+      "title": "Somebody That I Used To Know",
+      "url": "https://samevid.com/template/somebody-that-i-used-to-know-ai"
+    },
+    {
+      "id_or_slug": "space-dive-zoom-ai",
+      "title": "Space Dive Zoom",
+      "url": "https://samevid.com/template/space-dive-zoom-ai"
+    },
+    {
+      "id_or_slug": "spirit-tunnel-ai",
+      "title": "Spirit Tunnel",
+      "url": "https://samevid.com/template/spirit-tunnel-ai"
+    },
+    {
+      "id_or_slug": "suit-living-room-dance-ai",
+      "title": "Suit Living Room Dance",
+      "url": "https://samevid.com/template/suit-living-room-dance-ai"
+    },
+    {
+      "id_or_slug": "suitcase-skate-kickflip-ai",
+      "title": "Suitcase Skate Kickflip",
+      "url": "https://samevid.com/template/suitcase-skate-kickflip-ai"
+    },
+    {
+      "id_or_slug": "toll-road-car-launch-ai",
+      "title": "Toll Road Car Launch",
+      "url": "https://samevid.com/template/toll-road-car-launch-ai"
+    },
+    {
+      "id_or_slug": "tom-hardy-legend-edit-ai",
+      "title": "Tom Hardy Legend Edit",
+      "url": "https://samevid.com/template/tom-hardy-legend-edit-ai"
+    },
+    {
+      "id_or_slug": "traffic-jam-rocket-car-ai",
+      "title": "Traffic Jam Rocket Car",
+      "url": "https://samevid.com/template/traffic-jam-rocket-car-ai"
+    },
+    {
+      "id_or_slug": "twins-carousel-ai",
+      "title": "Twins at The Carousel",
+      "url": "https://samevid.com/template/twins-carousel-ai"
+    },
+    {
+      "id_or_slug": "two-girls-kicking-ai",
+      "title": "Two Girls Kicking",
+      "url": "https://samevid.com/template/two-girls-kicking-ai"
+    },
+    {
+      "id_or_slug": "vice-city-arrival-ai",
+      "title": "Vice City Arrival",
+      "url": "https://samevid.com/template/vice-city-arrival-ai"
+    },
+    {
+      "id_or_slug": "wembanyama-goalkeeper-ai",
+      "title": "Wembanyama Goalkeeper",
+      "url": "https://samevid.com/template/wembanyama-goalkeeper-ai"
+    },
+    {
+      "id_or_slug": "wet-black-and-white-ai-portrait",
+      "title": "Wet Black and White AI Portrait Generator",
+      "url": "https://samevid.com/template/wet-black-and-white-ai-portrait"
+    },
+    {
+      "id_or_slug": "what-is-love-dance-ai",
+      "title": "What Is Love Dance",
+      "url": "https://samevid.com/template/what-is-love-dance-ai"
+    },
+    {
+      "id_or_slug": "whoville-ai",
+      "title": "Whoville",
+      "url": "https://samevid.com/template/whoville-ai"
+    },
+    {
+      "id_or_slug": "window-dog-burger-ai",
+      "title": "Window Dog Burger",
+      "url": "https://samevid.com/template/window-dog-burger-ai"
+    },
+    {
+      "id_or_slug": "winter-bus-ai",
+      "title": "Winter Bus",
+      "url": "https://samevid.com/template/winter-bus-ai"
+    },
+    {
+      "id_or_slug": "winter-wonderland-dance",
+      "title": "Winter Wonderland Dance",
+      "url": "https://samevid.com/template/winter-wonderland-dance"
+    },
+    {
+      "id_or_slug": "young-sheldon-ai-dance",
+      "title": "Young Sheldon AI Dance",
+      "url": "https://samevid.com/template/young-sheldon-ai-dance"
+    }
+  ],
+  "removed_templates": [],
+  "templates": [
+    {
+      "id_or_slug": "58th-floor-ai",
+      "title": "58th Floor AI",
+      "url": "https://samevid.com/template/58th-floor-ai"
+    },
+    {
+      "id_or_slug": "age-filter-ai",
+      "title": "Age Filter AI",
+      "url": "https://samevid.com/template/age-filter-ai"
+    },
+    {
+      "id_or_slug": "ai-aging-video-filter",
+      "title": "AI Aging Video Filter",
+      "url": "https://samevid.com/template/ai-aging-video-filter"
+    },
+    {
+      "id_or_slug": "ai-alligator-dance",
+      "title": "AI Alligator Dance",
+      "url": "https://samevid.com/template/ai-alligator-dance"
+    },
+    {
+      "id_or_slug": "ai-army-soldier",
+      "title": "AI Army Soldier",
+      "url": "https://samevid.com/template/ai-army-soldier"
+    },
+    {
+      "id_or_slug": "ai-cafe",
+      "title": "First Time in a Fancy Cafe",
+      "url": "https://samevid.com/template/ai-cafe"
+    },
+    {
+      "id_or_slug": "ai-chaos-trend",
+      "title": "AI Chaos Trend",
+      "url": "https://samevid.com/template/ai-chaos-trend"
+    },
+    {
+      "id_or_slug": "ai-clone-effect",
+      "title": "AI Clone Effect",
+      "url": "https://samevid.com/template/ai-clone-effect"
+    },
+    {
+      "id_or_slug": "ai-dog-christmas-video",
+      "title": "AI Dog Christmas Video",
+      "url": "https://samevid.com/template/ai-dog-christmas-video"
+    },
+    {
+      "id_or_slug": "ai-dress-trend",
+      "title": "AI Dress Trend",
+      "url": "https://samevid.com/template/ai-dress-trend"
+    },
+    {
+      "id_or_slug": "ai-rain-effect",
+      "title": "AI Rain Effect",
+      "url": "https://samevid.com/template/ai-rain-effect"
+    },
+    {
+      "id_or_slug": "ai-snow",
+      "title": "AI Snow",
+      "url": "https://samevid.com/template/ai-snow"
+    },
+    {
+      "id_or_slug": "ai-tattoo-filter",
+      "title": "AI Tattoo Filter",
+      "url": "https://samevid.com/template/ai-tattoo-filter"
+    },
+    {
+      "id_or_slug": "ai-wedding-video",
+      "title": "AI Wedding Video",
+      "url": "https://samevid.com/template/ai-wedding-video"
+    },
+    {
+      "id_or_slug": "ai-zombie-video-generator",
+      "title": "AI Zombie Video Generator",
+      "url": "https://samevid.com/template/ai-zombie-video-generator"
+    },
+    {
+      "id_or_slug": "aint-you-my-gangsta-ai",
+      "title": "Ain't You My Gangsta AI",
+      "url": "https://samevid.com/template/aint-you-my-gangsta-ai"
+    },
+    {
+      "id_or_slug": "aircraft-carrier-dance-ai",
+      "title": "Aircraft Carrier Dance AI",
+      "url": "https://samevid.com/template/aircraft-carrier-dance-ai"
+    },
+    {
+      "id_or_slug": "ali-g-ai",
+      "title": "Ali G AI",
+      "url": "https://samevid.com/template/ali-g-ai"
+    },
+    {
+      "id_or_slug": "all-i-need-is-a-little-bit-ai-dance",
+      "title": "All I Need Is A Little Bit AI Dance",
+      "url": "https://samevid.com/template/all-i-need-is-a-little-bit-ai-dance"
+    },
+    {
+      "id_or_slug": "all-i-want-for-christmas-ai",
+      "title": "All I Want for Christmas AI",
+      "url": "https://samevid.com/template/all-i-want-for-christmas-ai"
+    },
+    {
+      "id_or_slug": "almost-almost-ai-trend",
+      "title": "Almost Almost AI Trend",
+      "url": "https://samevid.com/template/almost-almost-ai-trend"
+    },
+    {
+      "id_or_slug": "alvin-and-the-chipmunks-ai",
+      "title": "Alvin and the Chipmunks AI",
+      "url": "https://samevid.com/template/alvin-and-the-chipmunks-ai"
+    },
+    {
+      "id_or_slug": "americano-dance-ai",
+      "title": "Americano Dance AI",
+      "url": "https://samevid.com/template/americano-dance-ai"
+    },
+    {
+      "id_or_slug": "aproveita-que-eu-to-brigado-ai",
+      "title": "Aproveita Que Eu Tô Brigado AI",
+      "url": "https://samevid.com/template/aproveita-que-eu-to-brigado-ai"
+    },
+    {
+      "id_or_slug": "are-you-hungry-i-can-cook",
+      "title": "Are You Hungry I Can Cook",
+      "url": "https://samevid.com/template/are-you-hungry-i-can-cook"
+    },
+    {
+      "id_or_slug": "arrested-ai",
+      "title": "Arrested AI",
+      "url": "https://samevid.com/template/arrested-ai"
+    },
+    {
+      "id_or_slug": "ba-ba-ba-ai-dance",
+      "title": "Ba Ba Ba AI Dance",
+      "url": "https://samevid.com/template/ba-ba-ba-ai-dance"
+    },
+    {
+      "id_or_slug": "baby-dance-ai",
+      "title": "Baby Dance AI",
+      "url": "https://samevid.com/template/baby-dance-ai"
+    },
+    {
+      "id_or_slug": "baby-on-hand-ai",
+      "title": "Baby On Hand AI",
+      "url": "https://samevid.com/template/baby-on-hand-ai"
+    },
+    {
+      "id_or_slug": "baby-podcast-ai",
+      "title": "Baby Podcast AI",
+      "url": "https://samevid.com/template/baby-podcast-ai"
+    },
+    {
+      "id_or_slug": "baby-riding-reindeer-ai",
+      "title": "Baby Riding Reindeer AI",
+      "url": "https://samevid.com/template/baby-riding-reindeer-ai"
+    },
+    {
+      "id_or_slug": "bad-aim-ai",
+      "title": "Bad Aim AI",
+      "url": "https://samevid.com/template/bad-aim-ai"
+    },
+    {
+      "id_or_slug": "bad-times-dance",
+      "title": "Bad Times Dance",
+      "url": "https://samevid.com/template/bad-times-dance"
+    },
+    {
+      "id_or_slug": "ballon-dor-ai",
+      "title": "Ballon Dor AI",
+      "url": "https://samevid.com/template/ballon-dor-ai"
+    },
+    {
+      "id_or_slug": "balmain-couple-yacht-ai",
+      "title": "Balmain Couple Yacht AI",
+      "url": "https://samevid.com/template/balmain-couple-yacht-ai"
+    },
+    {
+      "id_or_slug": "barbie-girl-dance-ai-trend",
+      "title": "Barbie Girl Dance AI Trend",
+      "url": "https://samevid.com/template/barbie-girl-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "bat-smash-bottle-splash-ai",
+      "title": "Bat Smash Bottle Splash AI",
+      "url": "https://samevid.com/template/bat-smash-bottle-splash-ai"
+    },
+    {
+      "id_or_slug": "be-your-own-umbrella-ai",
+      "title": "Be Your Own Umbrella AI",
+      "url": "https://samevid.com/template/be-your-own-umbrella-ai"
+    },
+    {
+      "id_or_slug": "beans-greens-potatoes-tomatoes-ai-video",
+      "title": "Beans Greens Potatoes Tomatoes AI Video",
+      "url": "https://samevid.com/template/beans-greens-potatoes-tomatoes-ai-video"
+    },
+    {
+      "id_or_slug": "beat-the-case-ai",
+      "title": "Beat The Case AI",
+      "url": "https://samevid.com/template/beat-the-case-ai"
+    },
+    {
+      "id_or_slug": "belly-dance-ai",
+      "title": "Belly Dance AI",
+      "url": "https://samevid.com/template/belly-dance-ai"
+    },
+    {
+      "id_or_slug": "bicep-heart-trend",
+      "title": "Bicep Heart Trend",
+      "url": "https://samevid.com/template/bicep-heart-trend"
+    },
+    {
+      "id_or_slug": "big-michael-baby-dance-ai",
+      "title": "Big Michael Baby Dance AI",
+      "url": "https://samevid.com/template/big-michael-baby-dance-ai"
+    },
+    {
+      "id_or_slug": "birthday-wife-ai",
+      "title": "Birthday Wife AI",
+      "url": "https://samevid.com/template/birthday-wife-ai"
+    },
+    {
+      "id_or_slug": "black-and-white-cinematic-ai",
+      "title": "Black And White Cinematic AI",
+      "url": "https://samevid.com/template/black-and-white-cinematic-ai"
+    },
+    {
+      "id_or_slug": "boss-entrance-ai",
+      "title": "Boss Entrance AI",
+      "url": "https://samevid.com/template/boss-entrance-ai"
+    },
+    {
+      "id_or_slug": "brick-by-brick-ai",
+      "title": "Brick By Brick AI",
+      "url": "https://samevid.com/template/brick-by-brick-ai"
+    },
+    {
+      "id_or_slug": "broken-heart-ai",
+      "title": "Broken Heart AI",
+      "url": "https://samevid.com/template/broken-heart-ai"
+    },
+    {
+      "id_or_slug": "bulin-47-ai",
+      "title": "Bulin 47 AI",
+      "url": "https://samevid.com/template/bulin-47-ai"
+    },
+    {
+      "id_or_slug": "burning-bridges-ai",
+      "title": "Burning Bridges AI",
+      "url": "https://samevid.com/template/burning-bridges-ai"
+    },
+    {
+      "id_or_slug": "cam-skattebo-stare-meme",
+      "title": "Cam Skattebo Stare Meme",
+      "url": "https://samevid.com/template/cam-skattebo-stare-meme"
+    },
+    {
+      "id_or_slug": "camera-orbit-ai",
+      "title": "Camera Orbit AI",
+      "url": "https://samevid.com/template/camera-orbit-ai"
+    },
+    {
+      "id_or_slug": "can-i-ride-ai",
+      "title": "Can I Ride AI",
+      "url": "https://samevid.com/template/can-i-ride-ai"
+    },
+    {
+      "id_or_slug": "can-you-make-it-cap-ai",
+      "title": "Can You Make It Cap AI",
+      "url": "https://samevid.com/template/can-you-make-it-cap-ai"
+    },
+    {
+      "id_or_slug": "car-jump-ai",
+      "title": "Car Jump AI",
+      "url": "https://samevid.com/template/car-jump-ai"
+    },
+    {
+      "id_or_slug": "casa-tupka-ai",
+      "title": "Casa Tupka AI",
+      "url": "https://samevid.com/template/casa-tupka-ai"
+    },
+    {
+      "id_or_slug": "cat-riding-surron-ai",
+      "title": "Cat Riding Surron AI",
+      "url": "https://samevid.com/template/cat-riding-surron-ai"
+    },
+    {
+      "id_or_slug": "catch-santa-chimney-ai",
+      "title": "Catch Santa Chimney AI",
+      "url": "https://samevid.com/template/catch-santa-chimney-ai"
+    },
+    {
+      "id_or_slug": "catch-the-grinch-ai",
+      "title": "Catch the Grinch AI",
+      "url": "https://samevid.com/template/catch-the-grinch-ai"
+    },
+    {
+      "id_or_slug": "cause-im-the-one-ai",
+      "title": "Cause I'm The One AI",
+      "url": "https://samevid.com/template/cause-im-the-one-ai"
+    },
+    {
+      "id_or_slug": "ceiling-fan-ai",
+      "title": "Ceiling Fan AI",
+      "url": "https://samevid.com/template/ceiling-fan-ai"
+    },
+    {
+      "id_or_slug": "christmas-dance-ai",
+      "title": "Christmas Dance AI",
+      "url": "https://samevid.com/template/christmas-dance-ai"
+    },
+    {
+      "id_or_slug": "christmas-photobooth-ai",
+      "title": "Christmas Photobooth AI",
+      "url": "https://samevid.com/template/christmas-photobooth-ai"
+    },
+    {
+      "id_or_slug": "christmas-tree-illusion-ai",
+      "title": "Christmas Tree Illusion AI",
+      "url": "https://samevid.com/template/christmas-tree-illusion-ai"
+    },
+    {
+      "id_or_slug": "chunky-chunky-dance-ai",
+      "title": "Chunky Chunky Dance AI",
+      "url": "https://samevid.com/template/chunky-chunky-dance-ai"
+    },
+    {
+      "id_or_slug": "clayface-ai",
+      "title": "Clayface AI",
+      "url": "https://samevid.com/template/clayface-ai"
+    },
+    {
+      "id_or_slug": "closing-door-prank",
+      "title": "Closing Door Prank",
+      "url": "https://samevid.com/template/closing-door-prank"
+    },
+    {
+      "id_or_slug": "coffee-fail-ai",
+      "title": "Coffee Fail AI",
+      "url": "https://samevid.com/template/coffee-fail-ai"
+    },
+    {
+      "id_or_slug": "come-slide-with-me-ai",
+      "title": "Come Slide With Me AI",
+      "url": "https://samevid.com/template/come-slide-with-me-ai"
+    },
+    {
+      "id_or_slug": "cortis-go-ai",
+      "title": "CORTIS GO AI",
+      "url": "https://samevid.com/template/cortis-go-ai"
+    },
+    {
+      "id_or_slug": "crunch-ai",
+      "title": "Crunch AI",
+      "url": "https://samevid.com/template/crunch-ai"
+    },
+    {
+      "id_or_slug": "crying-ai",
+      "title": "Crying AI",
+      "url": "https://samevid.com/template/crying-ai"
+    },
+    {
+      "id_or_slug": "dame-hombro-ai",
+      "title": "Dame Hombro AI",
+      "url": "https://samevid.com/template/dame-hombro-ai"
+    },
+    {
+      "id_or_slug": "damon-salvatore-ai",
+      "title": "Damon Salvatore AI",
+      "url": "https://samevid.com/template/damon-salvatore-ai"
+    },
+    {
+      "id_or_slug": "dan-thy-ai-dance",
+      "title": "Dan Thy AI Dance",
+      "url": "https://samevid.com/template/dan-thy-ai-dance"
+    },
+    {
+      "id_or_slug": "davul-zurna-ai-trend",
+      "title": "Davul Zurna AI Trend",
+      "url": "https://samevid.com/template/davul-zurna-ai-trend"
+    },
+    {
+      "id_or_slug": "ddg-and-dub-ai-dance",
+      "title": "DDG and Dub AI Dance",
+      "url": "https://samevid.com/template/ddg-and-dub-ai-dance"
+    },
+    {
+      "id_or_slug": "digi-digi-ai",
+      "title": "Digi Digi AI",
+      "url": "https://samevid.com/template/digi-digi-ai"
+    },
+    {
+      "id_or_slug": "digidi-digidi-ai-dance",
+      "title": "Digidi Digidi AI Dance",
+      "url": "https://samevid.com/template/digidi-digidi-ai-dance"
+    },
+    {
+      "id_or_slug": "dime-dime-baby-ai",
+      "title": "Dime Dime Baby AI",
+      "url": "https://samevid.com/template/dime-dime-baby-ai"
+    },
+    {
+      "id_or_slug": "disney-pet-ai",
+      "title": "Disney Pet AI",
+      "url": "https://samevid.com/template/disney-pet-ai"
+    },
+    {
+      "id_or_slug": "distracted-boyfriend-ai-meme",
+      "title": "Distracted Boyfriend AI Meme",
+      "url": "https://samevid.com/template/distracted-boyfriend-ai-meme"
+    },
+    {
+      "id_or_slug": "doritos-trio-car-ai",
+      "title": "Doritos Trio Car AI",
+      "url": "https://samevid.com/template/doritos-trio-car-ai"
+    },
+    {
+      "id_or_slug": "driving-wave-ai",
+      "title": "Driving Wave AI",
+      "url": "https://samevid.com/template/driving-wave-ai"
+    },
+    {
+      "id_or_slug": "dubai-vacation-ai",
+      "title": "Dubai Vacation AI",
+      "url": "https://samevid.com/template/dubai-vacation-ai"
+    },
+    {
+      "id_or_slug": "edmund-fitzgerald-ai",
+      "title": "Edmund Fitzgerald AI",
+      "url": "https://samevid.com/template/edmund-fitzgerald-ai"
+    },
+    {
+      "id_or_slug": "elsa-ai-video",
+      "title": "Elsa AI Video",
+      "url": "https://samevid.com/template/elsa-ai-video"
+    },
+    {
+      "id_or_slug": "enchantress-filter-ai",
+      "title": "Enchantress Filter AI",
+      "url": "https://samevid.com/template/enchantress-filter-ai"
+    },
+    {
+      "id_or_slug": "fish-cutting-meme-ai",
+      "title": "Fish Cutting Meme AI",
+      "url": "https://samevid.com/template/fish-cutting-meme-ai"
+    },
+    {
+      "id_or_slug": "fitting-room-outfit-change-ai",
+      "title": "Fitting Room Outfit Change AI",
+      "url": "https://samevid.com/template/fitting-room-outfit-change-ai"
+    },
+    {
+      "id_or_slug": "flying-car-ai",
+      "title": "Flying Car AI",
+      "url": "https://samevid.com/template/flying-car-ai"
+    },
+    {
+      "id_or_slug": "fortnite-pirate-shop-token-meme",
+      "title": "Fortnite Pirate Shop Token Meme",
+      "url": "https://samevid.com/template/fortnite-pirate-shop-token-meme"
+    },
+    {
+      "id_or_slug": "gas-station-dance-ai",
+      "title": "Gas Station Dance AI",
+      "url": "https://samevid.com/template/gas-station-dance-ai"
+    },
+    {
+      "id_or_slug": "genjutsu-basketball-ai",
+      "title": "Genjutsu Basketball AI",
+      "url": "https://samevid.com/template/genjutsu-basketball-ai"
+    },
+    {
+      "id_or_slug": "giant-cat-ai",
+      "title": "Giant Cat AI",
+      "url": "https://samevid.com/template/giant-cat-ai"
+    },
+    {
+      "id_or_slug": "give-it-all-ai",
+      "title": "Give It All AI",
+      "url": "https://samevid.com/template/give-it-all-ai"
+    },
+    {
+      "id_or_slug": "grandma-vs-grandpa-fight-ai",
+      "title": "Grandma vs Grandpa Fight AI",
+      "url": "https://samevid.com/template/grandma-vs-grandpa-fight-ai"
+    },
+    {
+      "id_or_slug": "hello-2027-ai",
+      "title": "Hello 2027 AI",
+      "url": "https://samevid.com/template/hello-2027-ai"
+    },
+    {
+      "id_or_slug": "hit-me-baby-one-more-time-ai-video",
+      "title": "Hit Me Baby One More Time AI Video",
+      "url": "https://samevid.com/template/hit-me-baby-one-more-time-ai-video"
+    },
+    {
+      "id_or_slug": "hit-the-road-dude-ai",
+      "title": "Hit The Road Dude AI",
+      "url": "https://samevid.com/template/hit-the-road-dude-ai"
+    },
+    {
+      "id_or_slug": "hold-me-back-ai",
+      "title": "Hold Me Back AI",
+      "url": "https://samevid.com/template/hold-me-back-ai"
+    },
+    {
+      "id_or_slug": "hop-hop-hop-dance-ai",
+      "title": "Hop Hop Hop Dance AI",
+      "url": "https://samevid.com/template/hop-hop-hop-dance-ai"
+    },
+    {
+      "id_or_slug": "hospital-flying-knee-ai",
+      "title": "Hospital Flying Knee AI",
+      "url": "https://samevid.com/template/hospital-flying-knee-ai"
+    },
+    {
+      "id_or_slug": "hotel-lobby-ai",
+      "title": "Hotel Lobby AI",
+      "url": "https://samevid.com/template/hotel-lobby-ai"
+    },
+    {
+      "id_or_slug": "hotline-bling-ai",
+      "title": "Hotline Bling AI",
+      "url": "https://samevid.com/template/hotline-bling-ai"
+    },
+    {
+      "id_or_slug": "i-love-the-smiths-ai",
+      "title": "I Love The Smiths AI",
+      "url": "https://samevid.com/template/i-love-the-smiths-ai"
+    },
+    {
+      "id_or_slug": "ice-ice-baby-ai-dance",
+      "title": "Ice Ice Baby AI Dance",
+      "url": "https://samevid.com/template/ice-ice-baby-ai-dance"
+    },
+    {
+      "id_or_slug": "icky-sticky-bubblegum-ai-dance",
+      "title": "Icky Sticky Bubblegum AI Dance",
+      "url": "https://samevid.com/template/icky-sticky-bubblegum-ai-dance"
+    },
+    {
+      "id_or_slug": "iconic-by-mistake-dance-ai",
+      "title": "Iconic By Mistake Dance AI",
+      "url": "https://samevid.com/template/iconic-by-mistake-dance-ai"
+    },
+    {
+      "id_or_slug": "is-this-how-you-cut-it-ai-video",
+      "title": "Is This How You Cut It AI Video",
+      "url": "https://samevid.com/template/is-this-how-you-cut-it-ai-video"
+    },
+    {
+      "id_or_slug": "ishowspeed-brazil-dance-ai",
+      "title": "IShowSpeed Brazil Dance AI",
+      "url": "https://samevid.com/template/ishowspeed-brazil-dance-ai"
+    },
+    {
+      "id_or_slug": "island-boy-ai",
+      "title": "Island Boy AI",
+      "url": "https://samevid.com/template/island-boy-ai"
+    },
+    {
+      "id_or_slug": "its-friday-pet-dance-ai",
+      "title": "It's Friday Pet Dance AI",
+      "url": "https://samevid.com/template/its-friday-pet-dance-ai"
+    },
+    {
+      "id_or_slug": "jensen-huang-ai",
+      "title": "Jensen Huang AI",
+      "url": "https://samevid.com/template/jensen-huang-ai"
+    },
+    {
+      "id_or_slug": "jensen-huang-worth-it-ai",
+      "title": "Jensen Huang Worth It AI",
+      "url": "https://samevid.com/template/jensen-huang-worth-it-ai"
+    },
+    {
+      "id_or_slug": "jetski-dance-ai",
+      "title": "Jetski Dance AI",
+      "url": "https://samevid.com/template/jetski-dance-ai"
+    },
+    {
+      "id_or_slug": "jim-carrey-pointing-dance-ai",
+      "title": "Jim Carrey Pointing Dance AI",
+      "url": "https://samevid.com/template/jim-carrey-pointing-dance-ai"
+    },
+    {
+      "id_or_slug": "jude-bellingham-ai",
+      "title": "Jude Bellingham AI",
+      "url": "https://samevid.com/template/jude-bellingham-ai"
+    },
+    {
+      "id_or_slug": "jurassic-run-ai",
+      "title": "Jurassic Run AI",
+      "url": "https://samevid.com/template/jurassic-run-ai"
+    },
+    {
+      "id_or_slug": "karak-king-slowmo-ai",
+      "title": "Karak King Slowmo AI",
+      "url": "https://samevid.com/template/karak-king-slowmo-ai"
+    },
+    {
+      "id_or_slug": "kids-drawing-to-life-ai",
+      "title": "Kids Drawing To Life AI",
+      "url": "https://samevid.com/template/kids-drawing-to-life-ai"
+    },
+    {
+      "id_or_slug": "king-nasir-dance-ai",
+      "title": "King Nasir Dance AI",
+      "url": "https://samevid.com/template/king-nasir-dance-ai"
+    },
+    {
+      "id_or_slug": "la-calabaza-dance-ai",
+      "title": "La Calabaza Dance AI",
+      "url": "https://samevid.com/template/la-calabaza-dance-ai"
+    },
+    {
+      "id_or_slug": "la-la-land-ai-dance",
+      "title": "La La Land AI Dance",
+      "url": "https://samevid.com/template/la-la-land-ai-dance"
+    },
+    {
+      "id_or_slug": "last-dance-ai",
+      "title": "Last Dance AI",
+      "url": "https://samevid.com/template/last-dance-ai"
+    },
+    {
+      "id_or_slug": "let-me-be-dance-ai",
+      "title": "Let Me Be Dance AI",
+      "url": "https://samevid.com/template/let-me-be-dance-ai"
+    },
+    {
+      "id_or_slug": "lion-riding-ai",
+      "title": "Lion Riding AI",
+      "url": "https://samevid.com/template/lion-riding-ai"
+    },
+    {
+      "id_or_slug": "lion-transform-ai",
+      "title": "Lion Transform AI",
+      "url": "https://samevid.com/template/lion-transform-ai"
+    },
+    {
+      "id_or_slug": "lisa-crab-dance-ai",
+      "title": "LISA Crab Dance AI",
+      "url": "https://samevid.com/template/lisa-crab-dance-ai"
+    },
+    {
+      "id_or_slug": "little-house-on-the-prairie-ai-dance",
+      "title": "Little House on the Prairie AI Dance",
+      "url": "https://samevid.com/template/little-house-on-the-prairie-ai-dance"
+    },
+    {
+      "id_or_slug": "lonyo-summer-of-love-ai",
+      "title": "Lonyo Summer Of Love AI",
+      "url": "https://samevid.com/template/lonyo-summer-of-love-ai"
+    },
+    {
+      "id_or_slug": "lush-curls-ai",
+      "title": "Lush Curls AI",
+      "url": "https://samevid.com/template/lush-curls-ai"
+    },
+    {
+      "id_or_slug": "lush-life-dog-ai",
+      "title": "Lush Life Dog AI",
+      "url": "https://samevid.com/template/lush-life-dog-ai"
+    },
+    {
+      "id_or_slug": "luxury-shopping-walk-ai",
+      "title": "Luxury Shopping Walk AI",
+      "url": "https://samevid.com/template/luxury-shopping-walk-ai"
+    },
+    {
+      "id_or_slug": "marble-hallway-dance-ai",
+      "title": "Marble Hallway Dance AI",
+      "url": "https://samevid.com/template/marble-hallway-dance-ai"
+    },
+    {
+      "id_or_slug": "marlon-street-ai",
+      "title": "Marlon Street AI",
+      "url": "https://samevid.com/template/marlon-street-ai"
+    },
+    {
+      "id_or_slug": "mean-girls-jingle-bell-rock-ai",
+      "title": "Mean Girls Jingle Bell Rock AI",
+      "url": "https://samevid.com/template/mean-girls-jingle-bell-rock-ai"
+    },
+    {
+      "id_or_slug": "meimei-cat-dance-ai",
+      "title": "Meimei Cat Dance AI",
+      "url": "https://samevid.com/template/meimei-cat-dance-ai"
+    },
+    {
+      "id_or_slug": "mermaid-ai",
+      "title": "Mermaid AI",
+      "url": "https://samevid.com/template/mermaid-ai"
+    },
+    {
+      "id_or_slug": "messy-makeup-ai-filter",
+      "title": "Messy Makeup AI Filter",
+      "url": "https://samevid.com/template/messy-makeup-ai-filter"
+    },
+    {
+      "id_or_slug": "michael-jackson-ai-dance",
+      "title": "Michael Jackson AI Dance",
+      "url": "https://samevid.com/template/michael-jackson-ai-dance"
+    },
+    {
+      "id_or_slug": "microsoft-outage-meme",
+      "title": "Microsoft Outage Meme",
+      "url": "https://samevid.com/template/microsoft-outage-meme"
+    },
+    {
+      "id_or_slug": "misanthropy-meme",
+      "title": "Misanthropy Meme",
+      "url": "https://samevid.com/template/misanthropy-meme"
+    },
+    {
+      "id_or_slug": "mobland-dance-ai",
+      "title": "Mobland Dance AI",
+      "url": "https://samevid.com/template/mobland-dance-ai"
+    },
+    {
+      "id_or_slug": "money-flex-ai",
+      "title": "Money Flex AI",
+      "url": "https://samevid.com/template/money-flex-ai"
+    },
+    {
+      "id_or_slug": "mother-monster-ai",
+      "title": "Mother Monster AI",
+      "url": "https://samevid.com/template/mother-monster-ai"
+    },
+    {
+      "id_or_slug": "motu-patlu-ai",
+      "title": "Motu Patlu AI",
+      "url": "https://samevid.com/template/motu-patlu-ai"
+    },
+    {
+      "id_or_slug": "need-girl-ai",
+      "title": "I Need A Girl AI",
+      "url": "https://samevid.com/template/need-girl-ai"
+    },
+    {
+      "id_or_slug": "neymar-studio-ai",
+      "title": "Neymar Studio AI",
+      "url": "https://samevid.com/template/neymar-studio-ai"
+    },
+    {
+      "id_or_slug": "not-like-us-ai",
+      "title": "Not Like Us AI",
+      "url": "https://samevid.com/template/not-like-us-ai"
+    },
+    {
+      "id_or_slug": "object-morph-ai",
+      "title": "Object Morph AI",
+      "url": "https://samevid.com/template/object-morph-ai"
+    },
+    {
+      "id_or_slug": "ocarina-of-time-remake-meme",
+      "title": "Ocarina of Time Remake Meme",
+      "url": "https://samevid.com/template/ocarina-of-time-remake-meme"
+    },
+    {
+      "id_or_slug": "old-town-road-ai-video",
+      "title": "Old Town Road AI Video",
+      "url": "https://samevid.com/template/old-town-road-ai-video"
+    },
+    {
+      "id_or_slug": "one-more-thing-keynote-ai",
+      "title": "One More Thing Keynote AI",
+      "url": "https://samevid.com/template/one-more-thing-keynote-ai"
+    },
+    {
+      "id_or_slug": "opa-opa-opa-ai",
+      "title": "Opa Opa Opa AI",
+      "url": "https://samevid.com/template/opa-opa-opa-ai"
+    },
+    {
+      "id_or_slug": "ozil-goal-ai",
+      "title": "Ozil Goal AI",
+      "url": "https://samevid.com/template/ozil-goal-ai"
+    },
+    {
+      "id_or_slug": "party-popper-ai",
+      "title": "Party Popper AI",
+      "url": "https://samevid.com/template/party-popper-ai"
+    },
+    {
+      "id_or_slug": "patrick-jane-ai",
+      "title": "Patrick Jane AI",
+      "url": "https://samevid.com/template/patrick-jane-ai"
+    },
+    {
+      "id_or_slug": "pet-rock-ai",
+      "title": "Pet Rock AI",
+      "url": "https://samevid.com/template/pet-rock-ai"
+    },
+    {
+      "id_or_slug": "peter-griffin-ai",
+      "title": "Peter Griffin AI",
+      "url": "https://samevid.com/template/peter-griffin-ai"
+    },
+    {
+      "id_or_slug": "photographing-dolphins-ai",
+      "title": "Photographing Dolphins AI",
+      "url": "https://samevid.com/template/photographing-dolphins-ai"
+    },
+    {
+      "id_or_slug": "pick-it-up-dance",
+      "title": "Pick It Up Dance",
+      "url": "https://samevid.com/template/pick-it-up-dance"
+    },
+    {
+      "id_or_slug": "pitch-invader-tackle-ai",
+      "title": "Pitch Invader Tackle AI",
+      "url": "https://samevid.com/template/pitch-invader-tackle-ai"
+    },
+    {
+      "id_or_slug": "plane-wing-dance-backflip-ai",
+      "title": "Plane Wing Dance Backflip AI",
+      "url": "https://samevid.com/template/plane-wing-dance-backflip-ai"
+    },
+    {
+      "id_or_slug": "prada-ai",
+      "title": "Prada AI",
+      "url": "https://samevid.com/template/prada-ai"
+    },
+    {
+      "id_or_slug": "raindance-ai",
+      "title": "Raindance AI",
+      "url": "https://samevid.com/template/raindance-ai"
+    },
+    {
+      "id_or_slug": "rainy-night-portrait-ai",
+      "title": "Rainy Night Portrait AI",
+      "url": "https://samevid.com/template/rainy-night-portrait-ai"
+    },
+    {
+      "id_or_slug": "reaching-out-cat-ai",
+      "title": "Reaching Out Cat AI",
+      "url": "https://samevid.com/template/reaching-out-cat-ai"
+    },
+    {
+      "id_or_slug": "rich-era-ai",
+      "title": "Rich Era AI",
+      "url": "https://samevid.com/template/rich-era-ai"
+    },
+    {
+      "id_or_slug": "ronaldo-header-ai",
+      "title": "Ronaldo Header AI",
+      "url": "https://samevid.com/template/ronaldo-header-ai"
+    },
+    {
+      "id_or_slug": "rooster-wet-cement-ai",
+      "title": "Rooster Wet Cement AI",
+      "url": "https://samevid.com/template/rooster-wet-cement-ai"
+    },
+    {
+      "id_or_slug": "russian-dance-ai",
+      "title": "Russian Dance AI",
+      "url": "https://samevid.com/template/russian-dance-ai"
+    },
+    {
+      "id_or_slug": "santa-message-ai",
+      "title": "Santa Message AI",
+      "url": "https://samevid.com/template/santa-message-ai"
+    },
+    {
+      "id_or_slug": "scuba-dance-ai",
+      "title": "Scuba Dance AI",
+      "url": "https://samevid.com/template/scuba-dance-ai"
+    },
+    {
+      "id_or_slug": "sheru-bhai-ai",
+      "title": "Sheru Bhai AI",
+      "url": "https://samevid.com/template/sheru-bhai-ai"
+    },
+    {
+      "id_or_slug": "signature-ai-video",
+      "title": "Signature AI Video",
+      "url": "https://samevid.com/template/signature-ai-video"
+    },
+    {
+      "id_or_slug": "skull-cap-ai",
+      "title": "Skull Cap AI",
+      "url": "https://samevid.com/template/skull-cap-ai"
+    },
+    {
+      "id_or_slug": "smalltown-boy-ai",
+      "title": "Smalltown Boy AI",
+      "url": "https://samevid.com/template/smalltown-boy-ai"
+    },
+    {
+      "id_or_slug": "soda-pop-ai-dance",
+      "title": "Soda Pop AI Dance",
+      "url": "https://samevid.com/template/soda-pop-ai-dance"
+    },
+    {
+      "id_or_slug": "spin-that-coupe-ai",
+      "title": "Spin That Coupe AI",
+      "url": "https://samevid.com/template/spin-that-coupe-ai"
+    },
+    {
+      "id_or_slug": "squishy-ai",
+      "title": "Squishy AI",
+      "url": "https://samevid.com/template/squishy-ai"
+    },
+    {
+      "id_or_slug": "srk-ai-dance",
+      "title": "SRK AI Dance",
+      "url": "https://samevid.com/template/srk-ai-dance"
+    },
+    {
+      "id_or_slug": "starbucks-sandwich-meme-ai",
+      "title": "Starbucks Sandwich Meme AI",
+      "url": "https://samevid.com/template/starbucks-sandwich-meme-ai"
+    },
+    {
+      "id_or_slug": "staring-at-me-mad-ai",
+      "title": "She's Staring At Me Mad AI",
+      "url": "https://samevid.com/template/staring-at-me-mad-ai"
+    },
+    {
+      "id_or_slug": "stay-with-me-ai",
+      "title": "Stay With Me AI",
+      "url": "https://samevid.com/template/stay-with-me-ai"
+    },
+    {
+      "id_or_slug": "step-brothers-christmas-ai",
+      "title": "Step Brothers Christmas AI",
+      "url": "https://samevid.com/template/step-brothers-christmas-ai"
+    },
+    {
+      "id_or_slug": "step-brothers-dance-ai",
+      "title": "Step Brothers Dance AI",
+      "url": "https://samevid.com/template/step-brothers-dance-ai"
+    },
+    {
+      "id_or_slug": "stop-sign",
+      "title": "Stop Sign",
+      "url": "https://samevid.com/template/stop-sign"
+    },
+    {
+      "id_or_slug": "stop-the-wedding-trend",
+      "title": "Stop the Wedding Trend",
+      "url": "https://samevid.com/template/stop-the-wedding-trend"
+    },
+    {
+      "id_or_slug": "storm-ai",
+      "title": "Storm AI",
+      "url": "https://samevid.com/template/storm-ai"
+    },
+    {
+      "id_or_slug": "stormzy-shut-up-ai",
+      "title": "Stormzy Shut Up AI",
+      "url": "https://samevid.com/template/stormzy-shut-up-ai"
+    },
+    {
+      "id_or_slug": "stuffed-animal-ufc-ai",
+      "title": "Stuffed Animal Ufc AI",
+      "url": "https://samevid.com/template/stuffed-animal-ufc-ai"
+    },
+    {
+      "id_or_slug": "sunset-horse-ride-ai",
+      "title": "Sunset Horse Ride AI",
+      "url": "https://samevid.com/template/sunset-horse-ride-ai"
+    },
+    {
+      "id_or_slug": "surveillance-tiger-fight-ai",
+      "title": "Surveillance Tiger Fight AI",
+      "url": "https://samevid.com/template/surveillance-tiger-fight-ai"
+    },
+    {
+      "id_or_slug": "sway-dance-ai",
+      "title": "Sway Dance AI",
+      "url": "https://samevid.com/template/sway-dance-ai"
+    },
+    {
+      "id_or_slug": "sweater-portrait-ai",
+      "title": "Sweater Portrait AI",
+      "url": "https://samevid.com/template/sweater-portrait-ai"
+    },
+    {
+      "id_or_slug": "talking-pet-ai",
+      "title": "Talking Pet AI",
+      "url": "https://samevid.com/template/talking-pet-ai"
+    },
+    {
+      "id_or_slug": "thank-you-baby-dance-ai",
+      "title": "Thank You Baby Dance AI",
+      "url": "https://samevid.com/template/thank-you-baby-dance-ai"
+    },
+    {
+      "id_or_slug": "the-office-ai-parody",
+      "title": "The Office AI Parody",
+      "url": "https://samevid.com/template/the-office-ai-parody"
+    },
+    {
+      "id_or_slug": "three-kittens-you-spin-me-round-dance",
+      "title": "Three Kittens You Spin Me Round Dance",
+      "url": "https://samevid.com/template/three-kittens-you-spin-me-round-dance"
+    },
+    {
+      "id_or_slug": "thriller-dance-ai",
+      "title": "Thriller Dance AI",
+      "url": "https://samevid.com/template/thriller-dance-ai"
+    },
+    {
+      "id_or_slug": "tiny-desk-ai-trend",
+      "title": "Tiny Desk AI Trend",
+      "url": "https://samevid.com/template/tiny-desk-ai-trend"
+    },
+    {
+      "id_or_slug": "tip-toeing-in-my-jordans-ai",
+      "title": "Tip Toeing In My Jordans AI",
+      "url": "https://samevid.com/template/tip-toeing-in-my-jordans-ai"
+    },
+    {
+      "id_or_slug": "toc-toc-ai",
+      "title": "Toc Toc AI",
+      "url": "https://samevid.com/template/toc-toc-ai"
+    },
+    {
+      "id_or_slug": "trouble-maker-ai-dance",
+      "title": "Trouble Maker AI Dance",
+      "url": "https://samevid.com/template/trouble-maker-ai-dance"
+    },
+    {
+      "id_or_slug": "trump-ai-meme",
+      "title": "Trump AI Meme",
+      "url": "https://samevid.com/template/trump-ai-meme"
+    },
+    {
+      "id_or_slug": "tung-tung-sahur-dance-ai",
+      "title": "Tung Tung Sahur Dance AI",
+      "url": "https://samevid.com/template/tung-tung-sahur-dance-ai"
+    },
+    {
+      "id_or_slug": "turning-my-mom-into-me",
+      "title": "Turning My Mom Into Me",
+      "url": "https://samevid.com/template/turning-my-mom-into-me"
+    },
+    {
+      "id_or_slug": "unforgettable-car",
+      "title": "Unforgettable Car",
+      "url": "https://samevid.com/template/unforgettable-car"
+    },
+    {
+      "id_or_slug": "up-and-down-ai-dance",
+      "title": "Up and Down AI Dance",
+      "url": "https://samevid.com/template/up-and-down-ai-dance"
+    },
+    {
+      "id_or_slug": "up-up-dance-ai",
+      "title": "Up Up Dance AI",
+      "url": "https://samevid.com/template/up-up-dance-ai"
+    },
+    {
+      "id_or_slug": "vampire-ai",
+      "title": "Vampire AI",
+      "url": "https://samevid.com/template/vampire-ai"
+    },
+    {
+      "id_or_slug": "vintage-vuitton-earfzilla-ai",
+      "title": "Vintage Vuitton Earfzilla AI",
+      "url": "https://samevid.com/template/vintage-vuitton-earfzilla-ai"
+    },
+    {
+      "id_or_slug": "walking-confidently-ai",
+      "title": "Walking Confidently AI",
+      "url": "https://samevid.com/template/walking-confidently-ai"
+    },
+    {
+      "id_or_slug": "wildflower-meadow-ai",
+      "title": "Wildflower Meadow AI",
+      "url": "https://samevid.com/template/wildflower-meadow-ai"
+    },
+    {
+      "id_or_slug": "yan-diomande-ai",
+      "title": "Yan Diomande AI",
+      "url": "https://samevid.com/template/yan-diomande-ai"
+    },
+    {
+      "id_or_slug": "you-rock-my-world-ai",
+      "title": "You Rock My World AI",
+      "url": "https://samevid.com/template/you-rock-my-world-ai"
+    },
+    {
+      "id_or_slug": "80s-portrait-ai",
+      "title": "80s Portrait",
+      "url": "https://samevid.com/template/80s-portrait-ai"
+    },
+    {
+      "id_or_slug": "ai-fluffy",
+      "title": "AI Fluffy",
+      "url": "https://samevid.com/template/ai-fluffy"
+    },
+    {
+      "id_or_slug": "ai-glasses-filter",
+      "title": "AI Glasses Filter",
+      "url": "https://samevid.com/template/ai-glasses-filter"
+    },
+    {
+      "id_or_slug": "ai-pinch-cheek",
+      "title": "AI Pinch Cheek",
+      "url": "https://samevid.com/template/ai-pinch-cheek"
+    },
+    {
+      "id_or_slug": "ai-rugby-header",
+      "title": "AI Rugby Header",
+      "url": "https://samevid.com/template/ai-rugby-header"
+    },
+    {
+      "id_or_slug": "ai-skeleton-filter",
+      "title": "AI Skeleton Face Filter",
+      "url": "https://samevid.com/template/ai-skeleton-filter"
+    },
+    {
+      "id_or_slug": "ai-smile-cartoon",
+      "title": "AI Smile Cartoon",
+      "url": "https://samevid.com/template/ai-smile-cartoon"
+    },
+    {
+      "id_or_slug": "an-g-la-krik-dance",
+      "title": "An G la Krik Dance",
+      "url": "https://samevid.com/template/an-g-la-krik-dance"
+    },
+    {
+      "id_or_slug": "baby-dolls-dance-ai",
+      "title": "Baby Dolls Dance",
+      "url": "https://samevid.com/template/baby-dolls-dance-ai"
+    },
+    {
+      "id_or_slug": "baby-ice-cream-cone-ai",
+      "title": "Baby Ice Cream Cone",
+      "url": "https://samevid.com/template/baby-ice-cream-cone-ai"
+    },
+    {
+      "id_or_slug": "bad-dance-ai",
+      "title": "Bad Dance",
+      "url": "https://samevid.com/template/bad-dance-ai"
+    },
+    {
+      "id_or_slug": "birthday-cake-drive-up-ai",
+      "title": "Birthday Cake Drive Up",
+      "url": "https://samevid.com/template/birthday-cake-drive-up-ai"
+    },
+    {
+      "id_or_slug": "cabbage-patch-kid-baby-face-filter",
+      "title": "Cabbage Patch Kid Baby Face Filter",
+      "url": "https://samevid.com/template/cabbage-patch-kid-baby-face-filter"
+    },
+    {
+      "id_or_slug": "calm-down-ai-dance",
+      "title": "Calm Down AI Dance",
+      "url": "https://samevid.com/template/calm-down-ai-dance"
+    },
+    {
+      "id_or_slug": "cash-fan-ai",
+      "title": "Cash Fan",
+      "url": "https://samevid.com/template/cash-fan-ai"
+    },
+    {
+      "id_or_slug": "cooking-animation-pop-ai",
+      "title": "Cooking Animation Pop",
+      "url": "https://samevid.com/template/cooking-animation-pop-ai"
+    },
+    {
+      "id_or_slug": "disney-couple-three-panel-ai",
+      "title": "Disney Couple Three Panel",
+      "url": "https://samevid.com/template/disney-couple-three-panel-ai"
+    },
+    {
+      "id_or_slug": "dont-worry-bout-a-thing-ai-dance",
+      "title": "Don't Worry Bout A Thing AI Dance",
+      "url": "https://samevid.com/template/dont-worry-bout-a-thing-ai-dance"
+    },
+    {
+      "id_or_slug": "electric-fan-dance-ai",
+      "title": "Electric Fan Dance",
+      "url": "https://samevid.com/template/electric-fan-dance-ai"
+    },
+    {
+      "id_or_slug": "elegant-hijab-ai",
+      "title": "Elegant Hijab",
+      "url": "https://samevid.com/template/elegant-hijab-ai"
+    },
+    {
+      "id_or_slug": "feliz-navidad-ai-dance",
+      "title": "Feliz Navidad AI Dance",
+      "url": "https://samevid.com/template/feliz-navidad-ai-dance"
+    },
+    {
+      "id_or_slug": "flyboard-ai",
+      "title": "Flyboard",
+      "url": "https://samevid.com/template/flyboard-ai"
+    },
+    {
+      "id_or_slug": "frozen-feet-couple-ai",
+      "title": "Frozen Feet Couple",
+      "url": "https://samevid.com/template/frozen-feet-couple-ai"
+    },
+    {
+      "id_or_slug": "fruit-baby-ai",
+      "title": "Fruit Baby",
+      "url": "https://samevid.com/template/fruit-baby-ai"
+    },
+    {
+      "id_or_slug": "funny-goalkeeper-ai",
+      "title": "Funny Goalkeeper",
+      "url": "https://samevid.com/template/funny-goalkeeper-ai"
+    },
+    {
+      "id_or_slug": "future-family-ai",
+      "title": "Future Family",
+      "url": "https://samevid.com/template/future-family-ai"
+    },
+    {
+      "id_or_slug": "goalkeeper-save-ai",
+      "title": "Goalkeeper Save",
+      "url": "https://samevid.com/template/goalkeeper-save-ai"
+    },
+    {
+      "id_or_slug": "grandma-parkour-ai",
+      "title": "Grandma Parkour",
+      "url": "https://samevid.com/template/grandma-parkour-ai"
+    },
+    {
+      "id_or_slug": "gta-5-goodbye-ai",
+      "title": "GTA 5 Goodbye",
+      "url": "https://samevid.com/template/gta-5-goodbye-ai"
+    },
+    {
+      "id_or_slug": "gta-6-cheat-code-ai",
+      "title": "GTA 6 Cheat Code AI Concept Generator",
+      "url": "https://samevid.com/template/gta-6-cheat-code-ai"
+    },
+    {
+      "id_or_slug": "gta-6-couple-ai",
+      "title": "GTA 6 Couple",
+      "url": "https://samevid.com/template/gta-6-couple-ai"
+    },
+    {
+      "id_or_slug": "gta-6-loading-screen-ai",
+      "title": "GTA 6 Loading Screen",
+      "url": "https://samevid.com/template/gta-6-loading-screen-ai"
+    },
+    {
+      "id_or_slug": "gta-wasted-ai",
+      "title": "GTA Wasted",
+      "url": "https://samevid.com/template/gta-wasted-ai"
+    },
+    {
+      "id_or_slug": "hot-coffee-run-ai",
+      "title": "Hot Coffee Run",
+      "url": "https://samevid.com/template/hot-coffee-run-ai"
+    },
+    {
+      "id_or_slug": "i-am-doom-ai-video",
+      "title": "I Am Doom",
+      "url": "https://samevid.com/template/i-am-doom-ai-video"
+    },
+    {
+      "id_or_slug": "i-love-you-more-ai",
+      "title": "I Love You More",
+      "url": "https://samevid.com/template/i-love-you-more-ai"
+    },
+    {
+      "id_or_slug": "james-bond-reveal-ai",
+      "title": "James Bond Reveal",
+      "url": "https://samevid.com/template/james-bond-reveal-ai"
+    },
+    {
+      "id_or_slug": "jatayu-indian-mythology-ai-video",
+      "title": "Jatayu Indian Mythology",
+      "url": "https://samevid.com/template/jatayu-indian-mythology-ai-video"
+    },
+    {
+      "id_or_slug": "lego-couple-ai",
+      "title": "Lego Couple",
+      "url": "https://samevid.com/template/lego-couple-ai"
+    },
+    {
+      "id_or_slug": "lions-human-centipede-celebration-ai",
+      "title": "Lions Human Centipede Celebration",
+      "url": "https://samevid.com/template/lions-human-centipede-celebration-ai"
+    },
+    {
+      "id_or_slug": "looks-can-kill-ai-dance",
+      "title": "Looks Can Kill AI Dance",
+      "url": "https://samevid.com/template/looks-can-kill-ai-dance"
+    },
+    {
+      "id_or_slug": "malfoid-ai",
+      "title": "Malfoid",
+      "url": "https://samevid.com/template/malfoid-ai"
+    },
+    {
+      "id_or_slug": "medieval-subway-dance-ai",
+      "title": "Medieval Subway Dance",
+      "url": "https://samevid.com/template/medieval-subway-dance-ai"
+    },
+    {
+      "id_or_slug": "mf-pimp-ai",
+      "title": "MF Pimp",
+      "url": "https://samevid.com/template/mf-pimp-ai"
+    },
+    {
+      "id_or_slug": "more-like-a-quesadilla-ai",
+      "title": "More Like a Quesadilla",
+      "url": "https://samevid.com/template/more-like-a-quesadilla-ai"
+    },
+    {
+      "id_or_slug": "mountain-skydive-ai",
+      "title": "Mountain Skydive",
+      "url": "https://samevid.com/template/mountain-skydive-ai"
+    },
+    {
+      "id_or_slug": "my-moon-my-man-ai",
+      "title": "My Moon My Man",
+      "url": "https://samevid.com/template/my-moon-my-man-ai"
+    },
+    {
+      "id_or_slug": "nao-percebi-dance-ai",
+      "title": "Não Percebi Dance",
+      "url": "https://samevid.com/template/nao-percebi-dance-ai"
+    },
+    {
+      "id_or_slug": "naruto-genjutsu-ai",
+      "title": "Naruto Genjutsu",
+      "url": "https://samevid.com/template/naruto-genjutsu-ai"
+    },
+    {
+      "id_or_slug": "no-i-aint-crazy-yb-ai",
+      "title": "No I Ain’t Crazy YB",
+      "url": "https://samevid.com/template/no-i-aint-crazy-yb-ai"
+    },
+    {
+      "id_or_slug": "olly-olly-dance-ai",
+      "title": "Olly Olly Dance",
+      "url": "https://samevid.com/template/olly-olly-dance-ai"
+    },
+    {
+      "id_or_slug": "paloma-blanca-ai",
+      "title": "Paloma Blanca AI Dance Generator",
+      "url": "https://samevid.com/template/paloma-blanca-ai"
+    },
+    {
+      "id_or_slug": "private-jet-arrival-ai",
+      "title": "Private Jet Arrival",
+      "url": "https://samevid.com/template/private-jet-arrival-ai"
+    },
+    {
+      "id_or_slug": "ps2-heist-interview-ai",
+      "title": "PS2 Heist Interview",
+      "url": "https://samevid.com/template/ps2-heist-interview-ai"
+    },
+    {
+      "id_or_slug": "punching-bag-combo-ai",
+      "title": "Punching Bag Combo",
+      "url": "https://samevid.com/template/punching-bag-combo-ai"
+    },
+    {
+      "id_or_slug": "red-car-exit-salute-ai",
+      "title": "Red Car Exit Salute",
+      "url": "https://samevid.com/template/red-car-exit-salute-ai"
+    },
+    {
+      "id_or_slug": "red-car-exit-wave-ai",
+      "title": "Red Car Exit Wave",
+      "url": "https://samevid.com/template/red-car-exit-wave-ai"
+    },
+    {
+      "id_or_slug": "red-tie-dance-ai",
+      "title": "Red Tie Dance",
+      "url": "https://samevid.com/template/red-tie-dance-ai"
+    },
+    {
+      "id_or_slug": "rollie-on-my-wrist-ai",
+      "title": "Rollie on My Wrist",
+      "url": "https://samevid.com/template/rollie-on-my-wrist-ai"
+    },
+    {
+      "id_or_slug": "santa-tell-me-ai",
+      "title": "Santa Tell Me AI Dance",
+      "url": "https://samevid.com/template/santa-tell-me-ai"
+    },
+    {
+      "id_or_slug": "selfie-talk-pose-ai",
+      "title": "Selfie Talk Pose",
+      "url": "https://samevid.com/template/selfie-talk-pose-ai"
+    },
+    {
+      "id_or_slug": "shop-doorway-arms-up-dance-ai",
+      "title": "Shop Doorway Arms Up Dance",
+      "url": "https://samevid.com/template/shop-doorway-arms-up-dance-ai"
+    },
+    {
+      "id_or_slug": "singing-pet-ai",
+      "title": "Singing Pet",
+      "url": "https://samevid.com/template/singing-pet-ai"
+    },
+    {
+      "id_or_slug": "somebody-that-i-used-to-know-ai",
+      "title": "Somebody That I Used To Know",
+      "url": "https://samevid.com/template/somebody-that-i-used-to-know-ai"
+    },
+    {
+      "id_or_slug": "space-dive-zoom-ai",
+      "title": "Space Dive Zoom",
+      "url": "https://samevid.com/template/space-dive-zoom-ai"
+    },
+    {
+      "id_or_slug": "spirit-tunnel-ai",
+      "title": "Spirit Tunnel",
+      "url": "https://samevid.com/template/spirit-tunnel-ai"
+    },
+    {
+      "id_or_slug": "suit-living-room-dance-ai",
+      "title": "Suit Living Room Dance",
+      "url": "https://samevid.com/template/suit-living-room-dance-ai"
+    },
+    {
+      "id_or_slug": "suitcase-skate-kickflip-ai",
+      "title": "Suitcase Skate Kickflip",
+      "url": "https://samevid.com/template/suitcase-skate-kickflip-ai"
+    },
+    {
+      "id_or_slug": "toll-road-car-launch-ai",
+      "title": "Toll Road Car Launch",
+      "url": "https://samevid.com/template/toll-road-car-launch-ai"
+    },
+    {
+      "id_or_slug": "tom-hardy-legend-edit-ai",
+      "title": "Tom Hardy Legend Edit",
+      "url": "https://samevid.com/template/tom-hardy-legend-edit-ai"
+    },
+    {
+      "id_or_slug": "traffic-jam-rocket-car-ai",
+      "title": "Traffic Jam Rocket Car",
+      "url": "https://samevid.com/template/traffic-jam-rocket-car-ai"
+    },
+    {
+      "id_or_slug": "twins-carousel-ai",
+      "title": "Twins at The Carousel",
+      "url": "https://samevid.com/template/twins-carousel-ai"
+    },
+    {
+      "id_or_slug": "two-girls-kicking-ai",
+      "title": "Two Girls Kicking",
+      "url": "https://samevid.com/template/two-girls-kicking-ai"
+    },
+    {
+      "id_or_slug": "vice-city-arrival-ai",
+      "title": "Vice City Arrival",
+      "url": "https://samevid.com/template/vice-city-arrival-ai"
+    },
+    {
+      "id_or_slug": "wembanyama-goalkeeper-ai",
+      "title": "Wembanyama Goalkeeper",
+      "url": "https://samevid.com/template/wembanyama-goalkeeper-ai"
+    },
+    {
+      "id_or_slug": "wet-black-and-white-ai-portrait",
+      "title": "Wet Black and White AI Portrait Generator",
+      "url": "https://samevid.com/template/wet-black-and-white-ai-portrait"
+    },
+    {
+      "id_or_slug": "what-is-love-dance-ai",
+      "title": "What Is Love Dance",
+      "url": "https://samevid.com/template/what-is-love-dance-ai"
+    },
+    {
+      "id_or_slug": "whoville-ai",
+      "title": "Whoville",
+      "url": "https://samevid.com/template/whoville-ai"
+    },
+    {
+      "id_or_slug": "window-dog-burger-ai",
+      "title": "Window Dog Burger",
+      "url": "https://samevid.com/template/window-dog-burger-ai"
+    },
+    {
+      "id_or_slug": "winter-bus-ai",
+      "title": "Winter Bus",
+      "url": "https://samevid.com/template/winter-bus-ai"
+    },
+    {
+      "id_or_slug": "winter-wonderland-dance",
+      "title": "Winter Wonderland Dance",
+      "url": "https://samevid.com/template/winter-wonderland-dance"
+    },
+    {
+      "id_or_slug": "young-sheldon-ai-dance",
+      "title": "Young Sheldon AI Dance",
+      "url": "https://samevid.com/template/young-sheldon-ai-dance"
+    }
+  ],
+  "note": "82 genuine templates added to inventory as a catalog backfill; not itemized in the digest."
+}

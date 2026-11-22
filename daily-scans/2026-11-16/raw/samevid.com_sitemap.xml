@@ -1,0 +1,2513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://samevid.com/</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://samevid.com/about</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://samevid.com/models</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://samevid.com/templates</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://samevid.com/templates/dance</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samevid.com/templates/funny</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samevid.com/templates/effects</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samevid.com/templates/music</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samevid.com/templates/transformation</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samevid.com/templates/movie-tv</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samevid.com/templates/sports</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samevid.com/templates/halloween</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samevid.com/templates/friends</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samevid.com/templates/couple</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samevid.com/templates/baby-kids</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samevid.com/templates/pets</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samevid.com/templates/family</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samevid.com/templates/dance/page/2</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://samevid.com/templates/funny/page/2</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://samevid.com/templates/effects/page/2</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://samevid.com/templates/friends/page/2</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://samevid.com/templates/new</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samevid.com/templates/new/page/2</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://samevid.com/templates/new/page/3</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://samevid.com/templates/new/page/4</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://samevid.com/pricing</loc>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/russian-dance-ai</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/russian-dance-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Russian Dance AI Video Generator — 9s Prisyadka Squat Dance</video:title>
+      <video:description>A 9-second vertical Russian Dance AI video example featuring authentic Prisyadka squat kicks, mid-air straddle jumps, and salute finish to Dschinghis Khan Moskau in 720p.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/russian-dance-ai/v1/original.mp4</video:content_loc>
+      <video:duration>9</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/mobland-dance-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/mobland-dance-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Mobland Dance AI reference performance with original sound</video:title>
+      <video:description>One full-body dancer completes the Mobland routine in a bright room with a fixed portrait camera.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/mobland-dance-ai/v1/original.mp4</video:content_loc>
+      <video:duration>10</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/jim-carrey-pointing-dance-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/jim-carrey-pointing-dance-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Jim Carrey Pointing Dance AI creator example</video:title>
+      <video:description>One performer acts out a fast pointing and open-palm routine in a grey kitchen over fifteen seconds.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/jim-carrey-pointing-dance-ai/v1/original.mp4</video:content_loc>
+      <video:duration>15</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/object-morph-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/object-morph-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Object Morph AI example: a hand-held hourglass unfolds into a phone</video:title>
+      <video:description>A hand holds a compact hourglass-shaped object that smoothly unfolds into a folding smartphone in one continuous vertical shot.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/object-morph-ai/v1/original.mp4</video:content_loc>
+      <video:duration>10</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/doritos-trio-car-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/doritos-trio-car-ai/v2/cover.webp</video:thumbnail_loc>
+      <video:title>Doritos Trio Car reference scene</video:title>
+      <video:description>Three friends go from casual Doritos snacking in their car to an instant full-glam party makeover at the beat drop.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/doritos-trio-car-ai/v2/original.mp4</video:content_loc>
+      <video:duration>7</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/be-your-own-umbrella-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/be-your-own-umbrella-ai/v2/cover.webp</video:thumbnail_loc>
+      <video:title>Be Your Own Umbrella AI rain portrait reference</video:title>
+      <video:description>A person holding a bouquet faces a rain-soaked wall portrait of the same person beneath an umbrella.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/be-your-own-umbrella-ai/v2/original.mp4</video:content_loc>
+      <video:duration>7</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/walking-confidently-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/walking-confidently-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Walking Confidently AI brick walkway reference clip</video:title>
+      <video:description>A nine-second full-body reference clip of one person walking confidently toward the camera along a brick-lined outdoor walkway.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/walking-confidently-ai/v1/original.mp4</video:content_loc>
+      <video:duration>9</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/hotel-lobby-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/hotel-lobby-ai/v4/examples/poster-vertical-tight.webp</video:thumbnail_loc>
+      <video:title>Hotel Lobby AI video example</video:title>
+      <video:description>Add one or two photos and get the Hotel Lobby performance in the orange booth: 15 seconds, with the original track, in 1080p and the frame you choose.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/hotel-lobby-ai/v4/examples/source-15s-vertical-720p-tight-with-original-audio-from-lets-get.mp4</video:content_loc>
+      <video:duration>15</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/gas-station-dance-ai</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/gas-station-dance-ai/v1/examples/standard-trio-1-poster.webp</video:thumbnail_loc>
+      <video:title>Gas Station Dance AI video example</video:title>
+      <video:description>Add a photo for each of the three shots, or one photo for all of them. SameVid AI makes the full 15-second gas station dance with its original track.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/gas-station-dance-ai/v1/examples/standard-trio-1-with-audio-web.mp4</video:content_loc>
+      <video:duration>15</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/raindance-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/raindance-ai/v1/examples/cat-duet.webp</video:thumbnail_loc>
+      <video:title>Raindance AI video example</video:title>
+      <video:description>Two photos, one Raindance AI video. Choose who waits by the water and who walks in singing, and get the eight-second pier scene with its song.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/raindance-ai/v1/examples/cat-duet.mp4</video:content_loc>
+      <video:duration>8</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/tip-toeing-in-my-jordans-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/tip-toeing-in-my-jordans-ai/v1/examples/tiptoe-template-720p.webp</video:thumbnail_loc>
+      <video:title>Tip Toeing in My Jordans AI video example</video:title>
+      <video:description>Upload a photo of one or two people and put them in the AI tip toe dance: a 12-second, 16:9 video, 1080p, with the beat already on it.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/tip-toeing-in-my-jordans-ai/v1/examples/tiptoe-template-720p.mp4</video:content_loc>
+      <video:duration>12</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/ai-zombie-video-generator</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/ai-zombie-video-generator/v1/couple/poster.webp</video:thumbnail_loc>
+      <video:title>AI Zombie Video Generator example</video:title>
+      <video:description>Couple story: a survivor lowers his weapon before his infected partner on a rainy street, then the scene cuts to a sunset beach kiss.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/ai-zombie-video-generator/v1/couple/preview.mp4</video:content_loc>
+      <video:duration>15</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/bulin-47-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/bulin-47-ai/v1/poster.webp</video:thumbnail_loc>
+      <video:title>Bulin 47 AI freestyle with a cartoon-style performer</video:title>
+      <video:description>A social AI version of the Bulin 47 freestyle: a cartoon-style performer raps on red-lit stairs to a fan holding a phone and a speaker.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/bulin-47-ai/v1/preview.mp4</video:content_loc>
+      <video:duration>15</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/unforgettable-car</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/unforgettable-car/v1/poster.webp</video:thumbnail_loc>
+      <video:title>Unforgettable Car AI video example</video:title>
+      <video:description>Upload your photo to make a 10-second Unforgettable Car video: walk toward the camera through the garage, flick the 2 and 4 cards, and reveal a sports car behind you. Add a car photo to use your own vehicle.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/unforgettable-car/v1/reference.mp4</video:content_loc>
+      <video:duration>10</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/smalltown-boy-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/smalltown-boy-ai/v1/poster.webp</video:thumbnail_loc>
+      <video:title>Smalltown Boy AI video example</video:title>
+      <video:description>Make a Smalltown Boy AI video from two photos of people, cats or other pets: one subject screams into the wide-angle camera while the other dances, then they swap and dance together. Choose your duo for a 15-second vertical MP4 with audio.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/smalltown-boy-ai/v1/preview.mp4</video:content_loc>
+      <video:duration>15</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/signature-ai-video</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/signature-ai-video/v4/showcase-1.webp</video:thumbnail_loc>
+      <video:title>Signature AI video example: Mira Lane</video:title>
+      <video:description>An 8-second vertical signature AI video made with this template: a pen signs &quot;Mira Lane&quot; in black ink on white paper, circles the name with a wide oval and ends on a final dot.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/signature-ai-video/v4/showcase-1.mp4</video:content_loc>
+      <video:duration>8</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/dame-hombro-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/dame-hombro-ai/v1/poster.webp</video:thumbnail_loc>
+      <video:title>Dame Hombro three-person shoulder dance, original clip</video:title>
+      <video:description>Three dancers do the Dame Hombro shoulder dance in front of a gray roll-up shutter, 15 seconds with the trend audio.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/dame-hombro-ai/v1/original.mp4</video:content_loc>
+      <video:duration>15</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/flying-car-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/flying-car-ai/v3/poster.webp</video:thumbnail_loc>
+      <video:title>Flying car AI video: a sports car hovers and lifts off a street</video:title>
+      <video:description>A white sports car hovers over a sunny street on four jets, blows newspapers and cups across the road, then lifts straight up and flies away.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/flying-car-ai/v3/preview.mp4</video:content_loc>
+      <video:duration>11</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/ceiling-fan-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/ceiling-fan-ai/v1/poster.webp</video:thumbnail_loc>
+      <video:title>Ceiling fan AI outfit transition with four looks</video:title>
+      <video:description>A social AI version of the ceiling fan transition: a woman rolls off a pink sofa onto a blue rug and changes into a new gown each time the fan blade sweeps past.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/ceiling-fan-ai/v1/preview.mp4</video:content_loc>
+      <video:duration>12</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/ballon-dor-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/ballon-dor-ai/v2/poster.webp</video:thumbnail_loc>
+      <video:title>Ballon d'Or AI video made from one photo</video:title>
+      <video:description>A Ballon d'Or AI video made with SameVid from one headshot: a man with braided hair in a black suit rises from his seat, walks up the steps, shakes hands with the presenter and lifts a golden football trophy.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/ballon-dor-ai/v2/preview.mp4</video:content_loc>
+      <video:duration>10</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/let-me-be-dance-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/let-me-be-dance-ai/v1/poster.webp</video:thumbnail_loc>
+      <video:title>Let Me Be dance, three-dancer rooftop original clip</video:title>
+      <video:description>Three dancers do the Let Me Be dance on a rooftop parking lot in one take, 15 seconds with the original track.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/let-me-be-dance-ai/v1/original.mp4</video:content_loc>
+      <video:duration>15</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/hop-hop-hop-dance-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/hop-hop-hop-dance-ai/v1/poster.webp</video:thumbnail_loc>
+      <video:title>Hop Hop Hop dance, two friends on a night street</video:title>
+      <video:description>Two friends do the Hop Hop Hop dance in one take on a night street: one presses a flat hand down while the other hops lower, then they swap places. 8 seconds with the original sound.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/hop-hop-hop-dance-ai/v1/original.mp4</video:content_loc>
+      <video:duration>8</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/thriller-dance-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/thriller-dance-ai/v1/poster.webp</video:thumbnail_loc>
+      <video:title>Thriller Dance AI, lead dancer with a zombie crowd on a night street</video:title>
+      <video:description>A dancer in a brown jacket and red T-shirt sings to the camera, then leads a crowd of zombies through the Thriller routine on a blue-lit night street. 10 seconds with sound.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/thriller-dance-ai/v1/original.mp4</video:content_loc>
+      <video:duration>10</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/stay-with-me-ai</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/stay-with-me-ai/v1/poster.webp</video:thumbnail_loc>
+      <video:title>Stay With Me AI, the rest-stop dance set to Akcent</video:title>
+      <video:description>A man dances on the tarmac at sunset, a friend films himself, and a woman leans out of a car and dances between two cars. 15 seconds with the Akcent track.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/stay-with-me-ai/v4/original.mp4</video:content_loc>
+      <video:duration>15</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/vampire-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/vampire-ai/v3/poster.webp</video:thumbnail_loc>
+      <video:title>Vampire AI transformation from a single portrait</video:title>
+      <video:description>A woman in a white blouse goes from a calm indoor portrait to a vampire with glowing red eyes and fangs in one 10-second shot with the original sound.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/vampire-ai/v3/original.mp4</video:content_loc>
+      <video:duration>10</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/bad-times-dance</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/bad-times-dance/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Bad Times Dance, the kitchen argument set to Imael Angel</video:title>
+      <video:description>A woman in a grey kitchen strikes a pose, pushes both palms forward, walks up to the camera and argues in close-up. 15 seconds with the song.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/bad-times-dance/v1/original-clean.mp4</video:content_loc>
+      <video:duration>15</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/michael-jackson-ai-dance</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/michael-jackson-ai-dance/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Michael Jackson AI Dance, a solo routine in a black fedora and white shirt</video:title>
+      <video:description>A dancer in a black fedora, white shirt, black gloves and white socks kicks, spins and slides through a Michael Jackson style routine in a bedroom. 15 seconds with sound.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/michael-jackson-ai-dance/v1/original.mp4</video:content_loc>
+      <video:duration>15</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/storm-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/storm-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Storm AI, a crowd of warriors bowing around one woman in the dust</video:title>
+      <video:description>A woman with long braids walks into a crowd of men in red robes and beaded necklaces; she turns to face the camera and the whole crowd bows in waves around her while she stays standing, in golden backlit dust. 15 seconds with sound.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/storm-ai/v2/original.mp4</video:content_loc>
+      <video:duration>15</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/baby-dance-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/baby-dance-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Baby Dance AI, a laughing toddler dancing to I Don’t Listen to Opinions</video:title>
+      <video:description>A barefoot toddler in a pale yellow bodysuit dances on a shag rug in a bright living room: waving, patting the chest, hands on the head, little stamps and a spin, laughing the whole time. 15 seconds with the song.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/baby-dance-ai/v1/original.mp4</video:content_loc>
+      <video:duration>15</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/americano-dance-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/americano-dance-ai/v1/duo/poster.webp</video:thumbnail_loc>
+      <video:title>Americano duo dance, two friends in a garage</video:title>
+      <video:description>Two friends dance side by side in one take in a garage: a 16-second duo routine with sound, filmed on a phone.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/americano-dance-ai/v1/duo/original.mp4</video:content_loc>
+      <video:duration>16</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/ai-army-soldier</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/ai-army-soldier/v1/poster.webp</video:thumbnail_loc>
+      <video:title>AI army soldier video turning a portrait into a soldier</video:title>
+      <video:description>A head-and-shoulders portrait of a woman is wiped away and replaced by a full-length soldier in camouflage with body armor and a rifle, standing in front of an armored vehicle. 6 seconds with the original sound.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/ai-army-soldier/v1/preview.mp4</video:content_loc>
+      <video:duration>6</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/arrested-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/arrested-ai/v1/poster.webp</video:thumbnail_loc>
+      <video:title>Arrested AI trend, walked out of a house under police lights</video:title>
+      <video:description>Two officers walk a man in a patterned shirt out of a brick house at night under blue and red police lights; he turns to smile at the camera. 8 seconds with the original sound.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/arrested-ai/v1/original.mp4</video:content_loc>
+      <video:duration>8</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/messy-makeup-ai-filter</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/messy-makeup-ai-filter/v1/poster.webp</video:thumbnail_loc>
+      <video:title>Messy Makeup AI filter, bare face to full glam in one shot</video:title>
+      <video:description>A makeup artist's hands slick back a woman's hair and take her from bare skin to smoky eyes, winged liner and glossy lips. 5 seconds.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/messy-makeup-ai-filter/v2/original.mp4</video:content_loc>
+      <video:duration>5</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/ai-rain-effect</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/ai-rain-effect/v1/poster.webp</video:thumbnail_loc>
+      <video:title>AI rain effect video of a woman crying in the rain at night</video:title>
+      <video:description>A woman in a red satin blouse walks down a rain-soaked night street, breaks down, sits on a wooden bench, covers her face and cries out. 12 seconds with the original sound.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/ai-rain-effect/v1/preview.mp4</video:content_loc>
+      <video:duration>12</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/ozil-goal-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/ozil-goal-ai/v2/poster.webp</video:thumbnail_loc>
+      <video:title>Ozil goal AI video of a man in a suit chipping the keeper and scoring</video:title>
+      <video:description>Under stadium floodlights a man in a dark suit and green tie lifts the ball over a diving goalkeeper, cuts back past a sliding defender and scores. 15 seconds with the original sound.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/ozil-goal-ai/v2/preview.mp4</video:content_loc>
+      <video:duration>15</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/tiny-desk-ai-trend</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/tiny-desk-ai-trend/v3/poster.webp</video:thumbnail_loc>
+      <video:title>AI Tiny Desk trend video made with SameVid</video:title>
+      <video:description>A keyboard player in a denim shirt sings with two backing singers at an office desk, the lead singer in headphones laughs into a close-up and a saxophonist plays the solo. 13 seconds with the original sound.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/tiny-desk-ai-trend/v3/preview.mp4</video:content_loc>
+      <video:duration>13</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/tung-tung-sahur-dance-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/tung-tung-sahur-dance-ai/v1/poster.webp</video:thumbnail_loc>
+      <video:title>Tung Tung Sahur dance with a man and the wooden character</video:title>
+      <video:description>A man in a white T-shirt and the 3D wooden Tung Tung Tung Sahur character do the Triple T top rock dance side by side in a living room, 12 seconds with the trend audio.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/tung-tung-sahur-dance-ai/v1/preview.mp4</video:content_loc>
+      <video:duration>12</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/ali-g-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/ali-g-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Ali G AI, a deadpan driver head-banging behind a blue steering wheel</video:title>
+      <video:description>A driver with long blonde hair grips a chunky blue steering wheel, stares into the camera, then head-bangs to the beat across four quick front and side angles inside a small car. 5 seconds with music.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/ali-g-ai/v1/original.mp4?v=2</video:content_loc>
+      <video:duration>5</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/burning-bridges-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/burning-bridges-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Burning Bridges AI, a lead in a silver gown raising a cup at a chandelier party</video:title>
+      <video:description>A woman in a silver sequin gown walks up through a crowd in black tie under crystal chandeliers, holds a silver cup, presses a hand to her chest, points at the camera, then turns to wave to the room and looks back. 15 seconds with the original sound.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/burning-bridges-ai/v1/original.mp4</video:content_loc>
+      <video:duration>15</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/age-filter-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/age-filter-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Age Filter AI, a young man aging to 40 and then to 80 as numbers fly onto his face</video:title>
+      <video:description>A young man with red hair faces the camera in a black hoodie. The number 40 flies onto his face and cuts him to age 40, then 80 flies on and cuts him to a white-haired 80-year-old. 6 seconds with the trend sound.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/age-filter-ai/v1/original.mp4</video:content_loc>
+      <video:duration>6</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/crying-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/crying-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Crying AI trend example: a smile that breaks into tears</video:title>
+      <video:description>A woman looks up at someone at night, her smile slowly breaks into tears, then she lowers her head and turns to walk away.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/crying-ai/v1/original.mp4</video:content_loc>
+      <video:duration>10</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/sway-dance-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/sway-dance-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Sway Dance AI example: a baby sways, turns and kicks in a nursery</video:title>
+      <video:description>A barefoot baby in a white bodysuit sways side to side, turns around, throws both arms up and kicks one knee high in front of a wooden crib.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/sway-dance-ai/v1/original.mp4</video:content_loc>
+      <video:duration>14</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/money-flex-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/money-flex-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Money Flex AI example: a dog fans a stack of $100 bills</video:title>
+      <video:description>A 14-second money flex clip: a dog in a gold chain hugs a chain of $100 stacks behind a desk, tosses the bills and fans the cash at a low bedroom camera.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/money-flex-ai/v1/original.mp4</video:content_loc>
+      <video:duration>14</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/coffee-fail-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/coffee-fail-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Coffee Fail AI: When Two Legends Try to Make Coffee</video:title>
+      <video:description>A 15-second coffee fail AI video: two people behind a kitchen counter trying to brew coffee with zero coordination, spilling water and grounds before flooding the counter with milk.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/coffee-fail-ai/v1/original.mp4</video:content_loc>
+      <video:duration>15</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/hit-the-road-dude-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/hit-the-road-dude-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Hit The Road Dude AI example: a golden retriever in a white pickup</video:title>
+      <video:description>A 13-second Hit the Road Dude clip: a golden retriever leans out of a white pickup window, stares the visitor down and waves them off to the private property audio.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/hit-the-road-dude-ai/v1/original.mp4</video:content_loc>
+      <video:duration>13</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/closing-door-prank</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/closing-door-prank/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Closing Door Prank AI video example</video:title>
+      <video:description>A 12-second Closing Door Prank clip: an adult holding the door handle while a child sprints down the hallway and dives onto the carpet in a hilarious near-miss.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/closing-door-prank/v1/original.mp4</video:content_loc>
+      <video:duration>12</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/58th-floor-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/58th-floor-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>58th Floor AI video example</video:title>
+      <video:description>A 15-second 58th Floor AI rap duet clip in a monochromatic teal COLORS studio with two performers trading lines around a vintage hanging mic.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/58th-floor-ai/v1/original.mp4</video:content_loc>
+      <video:duration>15</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/damon-salvatore-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/damon-salvatore-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Damon Salvatore AI church entrance video example</video:title>
+      <video:description>A 15-second Damon Salvatore AI clip showing a confident walk into church, dipping fingers in holy water, and delivering the iconic vampire smirk.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/damon-salvatore-ai/v1/original.mp4</video:content_loc>
+      <video:duration>15</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/hello-2027-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/hello-2027-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Hello 2027 AI mountain climb video example</video:title>
+      <video:description>An 8-second cinematic New Year 2027 AI video of a climber pulling themselves atop giant 3D &quot;2027&quot; numbers on an alpine mountain peak at sunset.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/hello-2027-ai/v1/original.mp4</video:content_loc>
+      <video:duration>8</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/ai-aging-video-filter</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/ai-aging-video-filter/v1/cover.webp</video:thumbnail_loc>
+      <video:title>AI Aging Video Filter, a young woman aging from 4 to 80 as numbers fly onto her face</video:title>
+      <video:description>A young woman in a red top stands in a sunny living room. The numbers 4, 12, 21, 40 and 80 fly onto her face one by one, each cutting her to that age, ending with silver hair at 80. 13 seconds with the trend sound.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/ai-aging-video-filter/v1/original.mp4</video:content_loc>
+      <video:duration>13</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/toc-toc-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/toc-toc-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Toc Toc AI, a man in a white suit and platinum wig doing the solo Toc Toc dance</video:title>
+      <video:description>A man in a white suit and a big platinum wig dances alone in a plain room: one-foot hops, knocks on an invisible door, side kicks and spins, staring straight at the camera. 11 seconds with the Toc Toc song.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/toc-toc-ai/v1/original.mp4</video:content_loc>
+      <video:duration>11</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/dime-dime-baby-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/dime-dime-baby-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Dime Dime Baby AI concha party dance</video:title>
+      <video:description>A 9-second party dance where one lead walks toward the camera, takes a bite of concha, holds the look, then turns back to the crowd.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/dime-dime-baby-ai/v1/original.mp4</video:content_loc>
+      <video:duration>9</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/can-i-ride-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/can-i-ride-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Can I Ride dance: a solo hand routine in a bedroom</video:title>
+      <video:description>A dancer follows the complete Can I Ride hand routine in one continuous bedroom take with the original sound.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/can-i-ride-ai/v1/original.mp4</video:content_loc>
+      <video:duration>10</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/digi-digi-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/digi-digi-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Digi Digi AI robot dance reference</video:title>
+      <video:description>A 15-second fixed-camera robot dance used as the visual reference for this template.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/digi-digi-ai/v1/original.mp4</video:content_loc>
+      <video:duration>15</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/ai-clone-effect</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/ai-clone-effect/v1/cover.webp</video:thumbnail_loc>
+      <video:title>AI Clone Effect reference clip</video:title>
+      <video:description>Three identical versions of one dancer move together in a bright living room, with the original sound.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/ai-clone-effect/v1/original.mp4</video:content_loc>
+      <video:duration>5</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/ba-ba-ba-ai-dance</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/ba-ba-ba-ai-dance/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Ba Ba Ba duo dance in a bedroom</video:title>
+      <video:description>Two dancers perform the Ba Ba Ba duo routine in a fixed bedroom shot, with the original sound.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/ba-ba-ba-ai-dance/v1/original.mp4</video:content_loc>
+      <video:duration>15</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/brick-by-brick-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/brick-by-brick-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Brick by Brick AI reference car scene</video:title>
+      <video:description>A passenger speaks with expressive hand gestures while a driver listens in a vintage car, ending with a wide view through the windshield.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/brick-by-brick-ai/v2/original.mp4</video:content_loc>
+      <video:duration>14</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/hold-me-back-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/hold-me-back-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Hold Me Back AI reference scene</video:title>
+      <video:description>Friends hold back an animated man while a calm friend waits by the wall, then the camera turns to reveal a fourth friend arriving from the alley.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/hold-me-back-ai/v1/original.mp4</video:content_loc>
+      <video:duration>12</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/last-dance-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/last-dance-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Last Dance duo in an autumn backyard</video:title>
+      <video:description>Two dancers hold hands, stretch apart and turn together in one fixed autumn backyard shot with the original sound.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/last-dance-ai/v1/original.mp4</video:content_loc>
+      <video:duration>11</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/patrick-jane-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/patrick-jane-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Patrick Jane low-angle dance reference</video:title>
+      <video:description>A dancer in a dark three-piece suit shuffles, kicks, flicks back their hair and smiles at the camera in a low-angle cinema-lobby shot.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/patrick-jane-ai/v1/original.mp4</video:content_loc>
+      <video:duration>15</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/kids-drawing-to-life-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/kids-drawing-to-life-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Kids Drawing to Life AI reference preview</video:title>
+      <video:description>A childlike lion drawing stays in a paper card while the same curly-maned creature comes to life in a sunlit meadow.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/kids-drawing-to-life-ai/v1/original.mp4</video:content_loc>
+      <video:duration>8</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/beat-the-case-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/beat-the-case-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Beat the Case AI courthouse walkout reference preview</video:title>
+      <video:description>A celebrant walks out through glass doors, poses toward the camera and continues a confident courthouse-style celebration along the columned exterior.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/beat-the-case-ai/v1/original.mp4</video:content_loc>
+      <video:duration>10</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/lonyo-summer-of-love-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/lonyo-summer-of-love-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Lonyo Summer of Love AI overhead group dance reference</video:title>
+      <video:description>A center lead dancer guides a sunlit overhead dance queue through relaxed UK garage sway and a final group formation.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/lonyo-summer-of-love-ai/v1/original.mp4</video:content_loc>
+      <video:duration>15</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/i-love-the-smiths-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/i-love-the-smiths-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>I Love the Smiths AI elevator reference scene</video:title>
+      <video:description>Two passengers share an easy music conversation in a warm elevator with the original reference sound.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/i-love-the-smiths-ai/v1/original.mp4</video:content_loc>
+      <video:duration>14</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/big-michael-baby-dance-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/big-michael-baby-dance-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Big Michael baby dance reference clip</video:title>
+      <video:description>A toddler in a blue shirt dances in the rear seat of a car in one fixed, full-body vertical shot, following the Big Michael baby dance routine with the original sound.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/big-michael-baby-dance-ai/v1/original.mp4</video:content_loc>
+      <video:duration>8</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/la-calabaza-dance-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/la-calabaza-dance-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>La Calabaza trio with the original sound</video:title>
+      <video:description>Three cats dance side by side beneath a streetlight, with the left dancer in glasses and the centre dancer in a cowboy hat.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/la-calabaza-dance-ai/v1/original.mp4</video:content_loc>
+      <video:duration>10</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/scuba-dance-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/scuba-dance-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Scuba Dance fox with the original sound</video:title>
+      <video:description>An animated fox performs the full Scuba Dance in one fixed orange studio shot with the original sound.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/scuba-dance-ai/v1/original.mp4</video:content_loc>
+      <video:duration>5</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/thank-you-baby-dance-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/thank-you-baby-dance-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Thank You Baby dance reference clip</video:title>
+      <video:description>A toddler in a fixed vertical shot completes the Thank You Baby routine with side-to-side sways, knee bends, hand raises, pointing gestures and lively expressions, set to the original sound.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/thank-you-baby-dance-ai/v1/original.mp4</video:content_loc>
+      <video:duration>15</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/island-boy-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/island-boy-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Island Boy AI pool reference scene</video:title>
+      <video:description>Two people share a handheld poolside moment, with one on the edge and one waist-deep in the water.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/island-boy-ai/v1/original.mp4</video:content_loc>
+      <video:duration>14</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/stop-sign</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/stop-sign/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Stop Sign AI trend: a puzzled driver at a night traffic stop</video:title>
+      <video:description>A small dog in a grey hoodie sits in the driver seat at a night traffic stop, looks toward the light at the window, and gives a puzzled shrug. 11 seconds with the original sound.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/stop-sign/v1/original.mp4</video:content_loc>
+      <video:duration>11</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/fortnite-pirate-shop-token-meme</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/fortnite-pirate-shop-token-meme/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Fortnite Pirate Shop Token meme video example</video:title>
+      <video:description>An 8-second Fortnite Pirate Shop Token meme reference: one player triggers a spectacular treasure-chest reward burst and celebrates the Pirate Shop Access reveal.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/fortnite-pirate-shop-token-meme/v1/original.mp4</video:content_loc>
+      <video:duration>8</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/mother-monster-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/mother-monster-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Mother Monster AI snowfield baby-dragon scene</video:title>
+      <video:description>An adult kneels in a snowy field, gently lifts a pink baby dragon and holds it close.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/mother-monster-ai/v1/original.mp4</video:content_loc>
+      <video:duration>13</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/cat-riding-surron-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/cat-riding-surron-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Cat Riding Surron AI electric bike wheelie</video:title>
+      <video:description>A cat rides an electric dirt bike through a continuous wheelie on a city road.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/cat-riding-surron-ai/v1/original.mp4</video:content_loc>
+      <video:duration>8</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/christmas-dance-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/christmas-dance-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Christmas Dance AI Santa dance reference</video:title>
+      <video:description>A solo Santa dancer performs a cheerful full-body Christmas dance in a white studio for 15 seconds.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/christmas-dance-ai/v1/original.mp4</video:content_loc>
+      <video:duration>15</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/misanthropy-meme</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/misanthropy-meme/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Misanthropy Meme side-look animation reference</video:title>
+      <video:description>One illustrated character holds a centered pose, looks from side to side, then lands a short expression beat against a changing graphic backdrop.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/misanthropy-meme/v1/original.mp4</video:content_loc>
+      <video:duration>8</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/bicep-heart-trend</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/bicep-heart-trend/v2/cover.webp</video:thumbnail_loc>
+      <video:title>Bicep Heart Trend AI video: a bicep heart that frames your partner</video:title>
+      <video:description>Two people stand side by side; one steps up, flexes a bicep and curls a heart that frames the other person behind.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/bicep-heart-trend/v2/original.mp4</video:content_loc>
+      <video:duration>9</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/squishy-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/squishy-ai/v2/cover.webp</video:thumbnail_loc>
+      <video:title>Squishy AI video example: portrait face pinched and squeezed like soft silicone</video:title>
+      <video:description>Two hands enter the frame, pinch and squeeze a smiling woman’s cheeks like a glossy silicone squishy doll, and release so her face bounces back.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/squishy-ai/v2/original.mp4</video:content_loc>
+      <video:duration>5</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/pick-it-up-dance</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/pick-it-up-dance/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Pick It Up Dance AI example: 14-second Pick It Up Make It Jump routine</video:title>
+      <video:description>A solo dancer in a black tank top and white leggings performs the 14-second Pick It Up, Make It Jump routine—arms out, hands locked overhead, a 180-degree back-turn hip bounce, a wide deep squat and a final arms-up jump—to the original DJZACKKK beat.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/pick-it-up-dance/v1/original.mp4</video:content_loc>
+      <video:duration>14</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/enchantress-filter-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/enchantress-filter-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Enchantress Filter AI video example: dark moon witch hand-flip transformation</video:title>
+      <video:description>A person with closed eyes and extended hand clasps fingers with a dark demonic claw, wipes the frame with black smoke, and reveals an ornate golden crescent moon crown and white eyes with a silent finger-to-lips gesture.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/enchantress-filter-ai/v1/original.mp4</video:content_loc>
+      <video:duration>10</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/turning-my-mom-into-me</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/turning-my-mom-into-me/v2/cover.webp</video:thumbnail_loc>
+      <video:title>Turning My Mom Into Me TikTok hallway doorway makeover example clip</video:title>
+      <video:description>A 10-second hallway doorway transformation clip where a short-haired mom in glasses and a patterned blouse steps back behind the bedroom door and emerges with waist-length dark hair, an off-shoulder top and jeans.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/turning-my-mom-into-me/v2/original.mp4</video:content_loc>
+      <video:duration>10</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/jetski-dance-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/jetski-dance-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Jetski Dance AI 15s Solo Example</video:title>
+      <video:description>15-second vertical dance example demonstrating handlebars steering, 180-degree turn and rhythmic funk hip bounce.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/jetski-dance-ai/v1/original.mp4</video:content_loc>
+      <video:duration>15</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/spin-that-coupe-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/spin-that-coupe-ai/v2/cover.webp</video:thumbnail_loc>
+      <video:title>Spin That Coupe UK Drill locker room freestyle</video:title>
+      <video:description>A group of friends perform the viral 8-second UK drill routine in a locker room: steering wheel mimic on the bench, bouncing to the 808 drop by the door with a speaker, then rushing the camera in celebration. 8 seconds with original sound.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/spin-that-coupe-ai/v2/original.mp4</video:content_loc>
+      <video:duration>8</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/genjutsu-basketball-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/genjutsu-basketball-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Genjutsu Basketball NBA tomahawk slam dunk highlight</video:title>
+      <video:description>A player sprints from mid-court in a packed NBA arena, leaps from the free-throw line in a mid-air tomahawk windup, hammers down a rim-shaking slam dunk, and roars in celebration with the cheering crowd. 12 seconds with original arena sound.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/genjutsu-basketball-ai/v1/original.mp4</video:content_loc>
+      <video:duration>12</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/christmas-tree-illusion-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/christmas-tree-illusion-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Cinderella spiral Christmas tree illusion with magic wand reveal</video:title>
+      <video:description>A magical wand touches an unlit tree, triggering a breathtaking Cinderella-like spiral ribbon of warm golden lights floating in mid-air around the Christmas tree with a puppy resting nearby. 15 seconds with festive orchestral audio.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/christmas-tree-illusion-ai/v1/original.mp4</video:content_loc>
+      <video:duration>15</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/stormzy-shut-up-ai</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/stormzy-shut-up-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Stormzy Shut Up AI, a rap cypher in the park with a red tracksuit</video:title>
+      <video:description>A rapper in a red Adidas tracksuit steps forward in a London park, stares into the camera, and spits bars to the beat drop as hype men nod behind him. 10 seconds with music.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/stormzy-shut-up-ai/v1/original.mp4</video:content_loc>
+      <video:duration>10</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/jude-bellingham-ai</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/jude-bellingham-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Jude Bellingham AI viral goal celebration dance video</video:title>
+      <video:description>A football star in full match kit performs the viral 15-second rhythmic dance routine on a clean studio stage, concluding with the iconic open-arms Jude Bellingham celebration. 15 seconds with original sound.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/jude-bellingham-ai/v1/original.mp4</video:content_loc>
+      <video:duration>15</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/camera-orbit-ai</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/camera-orbit-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Camera Orbit AI, 360 Degree Bullet Time Leap</video:title>
+      <video:description>A performer leaps into the air under a dramatic overhead spotlight as the camera executes a continuous 360-degree orbital rotation with bullet-time slow motion. 5 seconds with music.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/camera-orbit-ai/v1/original.mp4</video:content_loc>
+      <video:duration>5</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/black-and-white-cinematic-ai</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/black-and-white-cinematic-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Black and White Cinematic AI, Classic Suit Stroll in the rain</video:title>
+      <video:description>A gentleman in a tailored black double-breasted trench coat walks past garden hedges, climbs stone steps, and pauses under a black umbrella in the rain to a slowed phonk beat. 15 seconds with music.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/black-and-white-cinematic-ai/v1/original.mp4</video:content_loc>
+      <video:duration>15</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/wildflower-meadow-ai</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/wildflower-meadow-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Wildflower Meadow AI walking reference clip</video:title>
+      <video:description>An eleven-second full-body reference clip of one person walking confidently forward along a sun-drenched dirt path winding through blooming wildflowers.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/wildflower-meadow-ai/v1/original.mp4</video:content_loc>
+      <video:duration>11</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/giant-cat-ai</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/giant-cat-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Giant Cat AI Manhattan Stride reference scene</video:title>
+      <video:description>A 10-second vertical scene showing a colossal cat walking down a New York avenue as tall as the towers, peering into a car window and leaning against a skyscraper.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/giant-cat-ai/v1/original.mp4</video:content_loc>
+      <video:duration>10</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/stuffed-animal-ufc-ai</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/stuffed-animal-ufc-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Stuffed Animal UFC AI viral knockout highlight video</video:title>
+      <video:description>A plush toy fighter knocks out a human opponent in an eight-sided UFC cage, complete with cheering crowds and authentic ringside commentator audio. 14 seconds with original sound.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/stuffed-animal-ufc-ai/v1/original.mp4</video:content_loc>
+      <video:duration>14</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/marlon-street-ai</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/marlon-street-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Marlon Street AI night walking video example</video:title>
+      <video:description>A 14-second front-camera handheld night stroll through glowing city streets featuring the iconic Marlon infinite aura walk.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/marlon-street-ai/v1/original.mp4</video:content_loc>
+      <video:duration>14</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/dan-thy-ai-dance</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/dan-thy-ai-dance/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Dan Thy AI Dance viral video example</video:title>
+      <video:description>A 15-second viral TikTok electronic dance video featuring Đan Thy performing her signature bunny-ear Shake It shoulder drops and hip-sway body waves.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/dan-thy-ai-dance/v1/original.mp4</video:content_loc>
+      <video:duration>15</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/are-you-hungry-i-can-cook</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/are-you-hungry-i-can-cook/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Are You Hungry I Can Cook AI video example</video:title>
+      <video:description>A 15-second square cooking video showing an adorable chef in a toque blanche tossing a frying pan on a kitchen stove to a 120 BPM rhythm.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/are-you-hungry-i-can-cook/v1/original.mp4</video:content_loc>
+      <video:duration>15</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/surveillance-tiger-fight-ai</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/surveillance-tiger-fight-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Surveillance Tiger Fight AI video example</video:title>
+      <video:description>A 12-second vertical CCTV clip showing a resident evading a charging Bengal tiger by diving into a suburban dumpster.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/surveillance-tiger-fight-ai/v1/original.mp4</video:content_loc>
+      <video:duration>12</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/rainy-night-portrait-ai</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/rainy-night-portrait-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Rainy Night Portrait AI video example</video:title>
+      <video:description>A 15-second cinematic rainy night portrait video showcasing a seamless wipe transition from daylight selfie to drenched wet hair and glowing rim light.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/rainy-night-portrait-ai/v1/original.mp4</video:content_loc>
+      <video:duration>15</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/up-up-dance-ai</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/up-up-dance-ai/v2/cover.webp</video:thumbnail_loc>
+      <video:title>Up Up Dance AI viral video example</video:title>
+      <video:description>A 15-second viral TikTok electronic dance video featuring Louis Da Silva VYZEE Up Up bounce choreography in an urban night plaza.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/up-up-dance-ai/v2/original.mp4</video:content_loc>
+      <video:duration>15</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/ai-wedding-video</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/ai-wedding-video/v2/cover.webp</video:thumbnail_loc>
+      <video:title>AI Wedding Video Generator Example: Bridal Aisle Walk</video:title>
+      <video:description>A 10-second cinematic AI wedding video demonstration showing couple transformation into ivory bridal gown, black tuxedo, and falling white rose petals on Kling 4.0.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/ai-wedding-video/v2/original.mp4</video:content_loc>
+      <video:duration>10</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/chunky-chunky-dance-ai</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/chunky-chunky-dance-ai/v2/cover.webp</video:thumbnail_loc>
+      <video:title>Chunky Chunky Dance AI viral video example</video:title>
+      <video:description>A 15-second viral TikTok dance video featuring The Chipettes Big and Chunky x You Spin Me Round choreography performed on an outdoor paved walkway.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/chunky-chunky-dance-ai/v2/original.mp4</video:content_loc>
+      <video:duration>15</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/ai-dog-christmas-video</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/ai-dog-christmas-video/v1/cover.webp</video:thumbnail_loc>
+      <video:title>AI Dog Christmas Video holiday elf transformation</video:title>
+      <video:description>An 8-second festive transformation video showing a pet wearing an elf hat and holiday sweater by an illuminated Christmas tree.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/ai-dog-christmas-video/v1/original.mp4</video:content_loc>
+      <video:duration>8</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/hotline-bling-ai</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/hotline-bling-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Hotline Bling AI video generator example</video:title>
+      <video:description>A 10-second vertical dance in a color-shifting light-box room inspired by Drake’s iconic Hotline Bling music video.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/hotline-bling-ai/v1/original.mp4</video:content_loc>
+      <video:duration>10</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/skull-cap-ai</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/skull-cap-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Skull Cap AI video example</video:title>
+      <video:description>A 10-second vertical transformation video showing a creator putting on a knit skull cap in daylight then snapping on the beat drop into a dark room with an intense hooded stare.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/skull-cap-ai/v1/original.mp4</video:content_loc>
+      <video:duration>10</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/birthday-wife-ai</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/birthday-wife-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Birthday Wife AI Video Generator Example: 24 to 35 Candle Swap Prank</video:title>
+      <video:description>An 11-second vertical Birthday Wife AI doorway surprise where a wife smiles at a honey cake with 24 number candles before reacting in playful shock as a hand swaps the candles to 34 and 35.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/birthday-wife-ai/v1/original.mp4</video:content_loc>
+      <video:duration>11</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/la-la-land-ai-dance</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/la-la-land-ai-dance/v1/cover.webp</video:thumbnail_loc>
+      <video:title>La La Land AI Dance park bench tap duet video example</video:title>
+      <video:description>A 15-second vertical La La Land AI Dance video recreating the &quot;A Lovely Night&quot; park bench duet with synchronized seated leg kicks, a left-to-right seat swap, and a bench-top tap dance finale in 720p.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/la-la-land-ai-dance/v1/original.mp4</video:content_loc>
+      <video:duration>15</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/can-you-make-it-cap-ai</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/can-you-make-it-cap-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Can You Make It Cap AI Video Generator Example: 20vs1 360 Spin &amp; Laugh</video:title>
+      <video:description>A 10-second vertical Can You Make It Cap AI white-studio clip where Role 1 asks for a 360 spin, Role 2 turns 360 degrees in a green dress, Role 1 bites his fist laughing, and Role 2 replies &quot;Oh, he tweaking.&quot;</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/can-you-make-it-cap-ai/v1/original.mp4</video:content_loc>
+      <video:duration>10</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/baby-podcast-ai</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/baby-podcast-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Baby Podcast AI Video Generator Example: Studio Toddler Podcaster</video:title>
+      <video:description>A 10-second 1:1 square Baby Podcast AI video where a toddler in oversized black studio headphones and a dusty-rose smiley sweatshirt speaks and laughs behind a broadcast boom microphone.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/baby-podcast-ai/v1/original.mp4</video:content_loc>
+      <video:duration>10</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/come-slide-with-me-ai</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/come-slide-with-me-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Come Slide With Me AI Video Generator — Hey Boo Slide 15s Ballroom Duet</video:title>
+      <video:description>A 15-second vertical Come Slide With Me AI couples line dance video in a chandelier ballroom featuring hand-in-hand two-step slides, hip sways, and a 360-degree under-arm spin to &quot;Hey Boo, Come Slide With Me&quot; in 720p.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/come-slide-with-me-ai/v1/original.mp4</video:content_loc>
+      <video:duration>15</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/santa-message-ai</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/santa-message-ai/v2/cover.webp</video:thumbnail_loc>
+      <video:title>Santa Message AI Video Generator Example: Christmas Eve Message at the Front Door</video:title>
+      <video:description>A 12-second vertical Santa Message AI video where Santa Claus walks up a Christmas-lit brick path carrying a tan burlap gift sack, turns 180 degrees at the wreath-draped front door, and waves goodnight with a white-gloved hand.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/santa-message-ai/v2/original.mp4</video:content_loc>
+      <video:duration>12</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/iconic-by-mistake-dance-ai</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/iconic-by-mistake-dance-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Iconic By Mistake Dance AI Video Generator — 15s Dark Studio K-Pop Duet</video:title>
+      <video:description>A 15-second vertical Iconic By Mistake Dance AI dark-studio K-pop duet video featuring synchronized hand frames, a clockwise hair flip, mirrored fingertip taps, prayer-hand clasps, and a solo close-up finish to &quot;ICONIC BY MISTAKE&quot; by LE SSERAFIM, ILLIT, and KATSEYE in 720p.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/iconic-by-mistake-dance-ai/v1/original.mp4</video:content_loc>
+      <video:duration>15</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/opa-opa-opa-ai</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/opa-opa-opa-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Opa Opa Opa AI Video Generator Example: 12s Russian Bounce Hair Effect</video:title>
+      <video:description>A 12-second vertical Opa Opa Opa AI video where a subject in a charcoal-grey crew-neck t-shirt sways calmly for 6 seconds before her wavy brown hair and fringe spring straight up into the air on every &quot;opa&quot; beat in 720p.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/opa-opa-opa-ai/v1/original.mp4</video:content_loc>
+      <video:duration>12</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/broken-heart-ai</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/broken-heart-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Broken Heart AI Video Generator Example: 10s Nighttime Heartbreak &amp; Turnaround</video:title>
+      <video:description>A 10-second vertical Broken Heart AI video where a tearful protagonist in a burgundy-maroon ruffled halter dress gazes at a listener in a dark denim jacket before turning 180 degrees at 4.5 seconds and walking away into nighttime streetlamp bokeh in 720p.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/broken-heart-ai/v1/original.mp4</video:content_loc>
+      <video:duration>10</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/belly-dance-ai</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/belly-dance-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Belly Dance AI Video Generator Example: 12s Gold-Coin Hip Isolations &amp; Shimmy</video:title>
+      <video:description>A 12-second vertical Belly Dance AI video featuring a solo dancer in a light-blue bandeau top, navy-blue maxi skirt, and gold-coin white hip scarf performing raised-arm crown frames, figure-eight hip circles, rhythmic hip drops, and a wide hair-fan finish in 720p.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/belly-dance-ai/v1/original.mp4</video:content_loc>
+      <video:duration>12</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/casa-tupka-ai</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/casa-tupka-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Casa Tupka AI Video Generator Example: 12s Shoe-Flip Outfit Switch</video:title>
+      <video:description>A 12-second vertical Casa Tupka AI video where a subject in a sleeveless white tank top tosses and kicks a black leather Chelsea boot for 5.5 seconds before cutting on the beat drop into a glossy navy-blue satin dress shirt and chocolate-brown flared trousers in 720p.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/casa-tupka-ai/v1/original.mp4</video:content_loc>
+      <video:duration>12</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/not-like-us-ai</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/not-like-us-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Not Like Us AI viral video example</video:title>
+      <video:description>A 15-second viral TikTok halftime two-step dance video featuring synchronized choreography in an urban night plaza.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/not-like-us-ai/v1/original.mp4</video:content_loc>
+      <video:duration>15</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/give-it-all-ai</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/give-it-all-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>BigXthaPlug Give It All AI performance video example</video:title>
+      <video:description>A 12-second vertical performance at the hanging vintage microphone featuring BigXthaPlug and a cheering hype crowd.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/give-it-all-ai/v1/original.mp4</video:content_loc>
+      <video:duration>12</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/edmund-fitzgerald-ai</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/edmund-fitzgerald-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>SS Edmund Fitzgerald AI Disaster Movie Trailer</video:title>
+      <video:description>15-second cinematic Great Lakes shipwreck trailer placing the captain at the wheelhouse helm in Lake Superior gales.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/edmund-fitzgerald-ai/v1/original.mp4</video:content_loc>
+      <video:duration>15</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/motu-patlu-ai</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/motu-patlu-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Motu Patlu AI cartoon comedy video example</video:title>
+      <video:description>A 10-second 3D cartoon comedy video featuring the iconic samosa stall chase across the streets of Furfuri Nagar.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/motu-patlu-ai/v1/original.mp4</video:content_loc>
+      <video:duration>10</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/need-girl-ai</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/need-girl-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>I Need A Girl AI Dance viral duo video example</video:title>
+      <video:description>A 15-second viral duo street dance routine side-by-side to I Need a Girl (Pt. 2) in 720p HD.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/need-girl-ai/v1/original.mp4</video:content_loc>
+      <video:duration>15</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/is-this-how-you-cut-it-ai-video</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/is-this-how-you-cut-it-ai-video/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Is This How You Cut It AI Video first time cooking example</video:title>
+      <video:description>A 9-second vertical viral cooking comedy video featuring a giant whole tuna and deadpan butcher cleaver chops on a kitchen island.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/is-this-how-you-cut-it-ai-video/v1/original.mp4</video:content_loc>
+      <video:duration>9</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/pet-rock-ai</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/pet-rock-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Pet Rock AI heavy metal headbanging dance video example</video:title>
+      <video:description>A 10-second vertical video of a pet in a black hoodie standing upright on hind legs, headbanging fiercely to heavy metal rock music, and finishing with an ecstatic wide grin.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/pet-rock-ai/v1/original.mp4</video:content_loc>
+      <video:duration>10</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/car-jump-ai</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/car-jump-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Car Jump AI unbothered desert stunt video example</video:title>
+      <video:description>A 12-second vertical video of an unbothered person sitting in a folding camping chair snapping fingers in the desert as a red luxury SUV leaps over their head.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/car-jump-ai/v1/original.mp4</video:content_loc>
+      <video:duration>12</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/ai-legacy-story</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/ai-legacy-story/v1/cover.webp</video:thumbnail_loc>
+      <video:title>AI Legacy Story 3D Pixar-style founder video example</video:title>
+      <video:description>A 15-second vertical video of a 3D Pixar-styled founder sitting in a warm studio office, delivering an inspiring monologue with synchronized dialogue and uplifting music.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/ai-legacy-story/v1/original.mp4</video:content_loc>
+      <video:duration>15</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/soda-pop-ai-dance</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/soda-pop-ai-dance/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Soda Pop AI dance video example</video:title>
+      <video:description>A dancer performs the viral Soda Pop shoulder-pop choreography in one take, synced to the original track. 12 seconds in 720p.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/soda-pop-ai-dance/v1/original.mp4</video:content_loc>
+      <video:duration>12</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/talking-pet-ai</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/talking-pet-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Talking Pet AI convertible dog micro-microphone interview video example</video:title>
+      <video:description>A 10-second vertical video of a stylish dog in black sunglasses sitting in a red convertible, speaking articulate comedic dialogue into a silver micro-microphone with synchronized lip movements.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/talking-pet-ai/v1/original.mp4</video:content_loc>
+      <video:duration>10</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/three-kittens-you-spin-me-round-dance</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/three-kittens-you-spin-me-round-dance/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Three Kittens You Spin Me Round dance viral example</video:title>
+      <video:description>A 15-second viral video of three kittens in colorful tutus dancing and spinning 360 degrees to You Spin Me Round.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/three-kittens-you-spin-me-round-dance/v1/original.mp4</video:content_loc>
+      <video:duration>15</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/driving-wave-ai</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/driving-wave-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Driving Wave AI Video Generator — 15s Steering Wheel Courtesy Wave</video:title>
+      <video:description>A 15-second vertical Driving Wave AI video example featuring 4 comedic steering wheel wave archetypes behind the driver seat with original in-cabin audio in 720p HD.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/driving-wave-ai/v1/original.mp4</video:content_loc>
+      <video:duration>15</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/dubai-vacation-ai</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/dubai-vacation-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Dubai Vacation AI Video Generator — 10s Luxury Dubai Getaway</video:title>
+      <video:description>A 10-second vertical Dubai Vacation AI video example showing an ultra-luxurious Dubai travel sequence with sunset infinity pools, balcony night toast overlooking Burj Khalifa, and skyline breakfast.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/dubai-vacation-ai/v1/original.mp4</video:content_loc>
+      <video:duration>10</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/boss-entrance-ai</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/boss-entrance-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Boss Entrance AI Video Generator — 11s VIP Helicopter Power Walk</video:title>
+      <video:description>An 11-second vertical Boss Entrance AI video example featuring executive helicopter touchdown, 5-man bodyguard escort, and slow-motion power walk with original heavy-bass soundtrack in 720p HD.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/boss-entrance-ai/v1/original.mp4</video:content_loc>
+      <video:duration>11</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/lush-life-dog-ai</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/lush-life-dog-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Lush Life Dog AI video example</video:title>
+      <video:description>An adorable golden puppy dances upright to the viral Zara Larsson Lush Life chorus in one fluid take. 11 seconds in 720p.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/lush-life-dog-ai/v1/original.mp4</video:content_loc>
+      <video:duration>11</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/disney-pet-ai</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/disney-pet-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Disney Pet AI puppy to 3D animated hero video example</video:title>
+      <video:description>A 9-second vertical video showing a real golden retriever puppy sitting in front of a white tub, smoothly morphing through a sparkling light sweep into an adorable 3D Disney Pixar animated character with big expressive eyes and soft cinematic lighting.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/disney-pet-ai/v1/original.mp4</video:content_loc>
+      <video:duration>9</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/pitch-invader-tackle-ai</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/pitch-invader-tackle-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Pitch Invader Tackle AI Video Generator example</video:title>
+      <video:description>Pitch Invader Tackle AI video example showing an excited pitch runner getting slide-tackled on a professional football pitch.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/pitch-invader-tackle-ai/v1/original.mp4</video:content_loc>
+      <video:duration>15</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/fish-cutting-meme-ai</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/fish-cutting-meme-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Fish Cutting Meme AI Video Generator — 10s Giant Fish Cleaver Chop</video:title>
+      <video:description>A 10-second widescreen 16:9 Fish Cutting Meme AI video example showing an unblinking chef chopping a giant silver fish with mechanical precision chops right beside resting fingers.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/fish-cutting-meme-ai/v1/original.mp4</video:content_loc>
+      <video:duration>10</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/elsa-ai-video</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/elsa-ai-video/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Elsa AI Video Generator — 15s Let It Go Ice Palace Transformation</video:title>
+      <video:description>A 15-second vertical 9:16 Elsa AI video example showing an adult woman singing Let It Go in an ice palace with magical gown transformation.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/elsa-ai-video/v1/original.mp4</video:content_loc>
+      <video:duration>15</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/almost-almost-ai-trend</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/almost-almost-ai-trend/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Almost Almost AI Video Generator Example: Fast Food Burger Rush</video:title>
+      <video:description>A 7-second Almost Almost AI video: a kitchen worker races to wrap burgers at blazing speed and misses the order chute by an inch to the iconic meme groan.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/almost-almost-ai-trend/v1/original.mp4</video:content_loc>
+      <video:duration>7</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/alvin-and-the-chipmunks-ai</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/alvin-and-the-chipmunks-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Alvin and the Chipmunks AI Dance viral example</video:title>
+      <video:description>A 15-second viral video of three dancers performing the synchronized Alvin and the Chipmunks jump-swap dance to You Spin Me Round.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/alvin-and-the-chipmunks-ai/v1/original.mp4</video:content_loc>
+      <video:duration>15</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/old-town-road-ai-video</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/old-town-road-ai-video/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Old Town Road AI Video viral red convertible example</video:title>
+      <video:description>A 15-second viral red convertible and candy shop music video scene set to Old Town Road (Remix) in 720p HD.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/old-town-road-ai-video/v1/original.mp4</video:content_loc>
+      <video:duration>15</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/beans-greens-potatoes-tomatoes-ai-video</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/beans-greens-potatoes-tomatoes-ai-video/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Beans Greens Potatoes Tomatoes AI Video church sermon example</video:title>
+      <video:description>A 15-second viral Thanksgiving church sermon scene set to Shirley Caesar Hold My Mule remix in 720p HD.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/beans-greens-potatoes-tomatoes-ai-video/v1/original.mp4</video:content_loc>
+      <video:duration>15</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/hit-me-baby-one-more-time-ai-video</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/hit-me-baby-one-more-time-ai-video/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Hit Me Baby One More Time AI video hallway dance example</video:title>
+      <video:description>A 15-second viral school hallway dance set to the 1998 Britney Spears pop hit in 720p HD.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/hit-me-baby-one-more-time-ai-video/v1/original.mp4</video:content_loc>
+      <video:duration>15</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/staring-at-me-mad-ai</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/staring-at-me-mad-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>She's Staring At Me Mad AI Video example</video:title>
+      <video:description>A 15-second viral video featuring the Ne-Yo Mad graffiti alley trio skit with the sulking singer, angry death stare, and dancing friend.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/staring-at-me-mad-ai/v1/original.mp4</video:content_loc>
+      <video:duration>15</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/ai-alligator-dance</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/ai-alligator-dance/v1/cover.webp</video:thumbnail_loc>
+      <video:title>AI Alligator Dance on Blue Plaid Bed</video:title>
+      <video:description>Three synchronized reptiles dancing upright on a plaid bedroom bed to viral Brazilian funk choreography.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/ai-alligator-dance/v1/original.mp4</video:content_loc>
+      <video:duration>15</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/distracted-boyfriend-ai-meme</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/distracted-boyfriend-ai-meme/v2/cover.webp</video:thumbnail_loc>
+      <video:title>Distracted Boyfriend AI Meme video example</video:title>
+      <video:description>An 11-second Distracted Boyfriend stock-footage reenactment: the head turn, the girlfriend's glare, and the twist where she walks off hand in hand with the woman in red.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/distracted-boyfriend-ai-meme/v2/original.mp4</video:content_loc>
+      <video:duration>11</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/barbie-girl-dance-ai-trend</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/barbie-girl-dance-ai-trend/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Barbie Girl Dance AI Trend viral duo video example</video:title>
+      <video:description>A 13-second viral duo synchronized dance routine side-by-side to Aqua Barbie Girl sped-up remix in 720p HD.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/barbie-girl-dance-ai-trend/v1/original.mp4</video:content_loc>
+      <video:duration>13</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/starbucks-sandwich-meme-ai</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/starbucks-sandwich-meme-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Starbucks Sandwich Meme AI video example</video:title>
+      <video:description>A 6-second viral Starbucks mystery meat sandwich reaction video in 720p HD.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/starbucks-sandwich-meme-ai/v1/original.mp4</video:content_loc>
+      <video:duration>6</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/davul-zurna-ai-trend</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/davul-zurna-ai-trend/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Davul Zurna AI Video Generator Example: Turkish Warehouse Dance</video:title>
+      <video:description>A 15-second Davul Zurna AI video: dance between the zurna and davul in an artisan workshop and sing Köprünün Altı with authentic live sound.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/davul-zurna-ai-trend/v1/original.mp4</video:content_loc>
+      <video:duration>15</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/yan-diomande-ai</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/yan-diomande-ai/v2/cover.webp</video:thumbnail_loc>
+      <video:title>Yan Diomande AI Video Generator Example: Miss &amp; Celebration Dance</video:title>
+      <video:description>A 10-second Yan Diomande AI video: round the keeper, miss the open goal, and break into the viral celebratory dance with authentic stadium audio.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/yan-diomande-ai/v2/original.mp4</video:content_loc>
+      <video:duration>10</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/jurassic-run-ai</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/jurassic-run-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Jurassic Run AI Video Generator Example: T-Rex Jungle Chase</video:title>
+      <video:description>A 6-second Jurassic Run AI video: sprint frantically down a prehistoric path while escaping a roaring T-Rex with authentic Foley audio.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/jurassic-run-ai/v1/original.mp4</video:content_loc>
+      <video:duration>6</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/ai-snow</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/ai-snow/v1/cover.webp</video:thumbnail_loc>
+      <video:title>AI Snow Video Generator Example: Alpine Sunset to Falling Snow</video:title>
+      <video:description>A 7-second AI Snow video showing a single person standing in alpine snow at golden sunset before twilight snowfall begins and they open their arms upward into the snow.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/ai-snow/v1/original.mp4</video:content_loc>
+      <video:duration>7</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/microsoft-outage-meme</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/microsoft-outage-meme/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Microsoft Outage Meme AI video example</video:title>
+      <video:description>An 8-second IT server closet reaction: a panicked engineer frantically tugs tangled black and blue Ethernet cables in a patch rack before turning to wince in defeat.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/microsoft-outage-meme/v1/original.mp4</video:content_loc>
+      <video:duration>8</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/jensen-huang-ai</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/jensen-huang-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Jensen Huang AI Car Ride Video Generator Example</video:title>
+      <video:description>A 15-second vertical AI parody car ride with Jensen Huang eating snacks in the passenger seat while the uploaded driver takes the wheel.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/jensen-huang-ai/v1/original.mp4</video:content_loc>
+      <video:duration>15</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/cortis-go-ai</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/cortis-go-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>CORTIS GO AI Dance Video Example</video:title>
+      <video:description>A 15-second vertical 9:16 solo dance recreation of the viral CORTIS &quot;GO!&quot; chorus choreography in a bright living room with original audio.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/cortis-go-ai/v1/original.mp4</video:content_loc>
+      <video:duration>15</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/step-brothers-dance-ai</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/step-brothers-dance-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Step Brothers Dance AI duo video example</video:title>
+      <video:description>A 12-second vertical 9:16 Step Brothers dance clip showing two performers in matching argyle vests and blonde curls doing deadpan synchronized fist pumps.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/step-brothers-dance-ai/v1/original.mp4</video:content_loc>
+      <video:duration>12</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/bad-aim-ai</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/bad-aim-ai/v2/cover.webp</video:thumbnail_loc>
+      <video:title>Bad Aim AI Example: Archery Miss</video:title>
+      <video:description>A 5-second 9:16 Bad Aim AI example showing an outdoor recurve-bow miss with the target dropping onto the grass.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/bad-aim-ai/v2/original.mp4</video:content_loc>
+      <video:duration>5</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/catch-the-grinch-ai</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/catch-the-grinch-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Catch the Grinch AI living room cookies and tree prank example</video:title>
+      <video:description>A 10-second vertical Catch the Grinch AI video where the Grinch sneaks into a lit holiday living room, eats a cookie, drinks milk, laughs at the camera, and darts toward the Christmas tree.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/catch-the-grinch-ai/v1/original.mp4</video:content_loc>
+      <video:duration>10</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/vintage-vuitton-earfzilla-ai</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/vintage-vuitton-earfzilla-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Vintage Vuitton Earfzilla AI Music Video Example</video:title>
+      <video:description>A 14-second 4:3 Vintage Vuitton Earfzilla music video clip featuring hazy yellow-green street cuts, floating helium balloons, and the paper-bag masked bystander.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/vintage-vuitton-earfzilla-ai/v1/original.mp4</video:content_loc>
+      <video:duration>14</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/lion-transform-ai</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/lion-transform-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Lion Transform AI Desert Sandstorm Warrior Example</video:title>
+      <video:description>A 10-second vertical 9:16 Lion Transform AI video where one figure stands beside a lion in sunlit desert dunes before a swirling sandstorm transforms them into a towering lion-headed warrior.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/lion-transform-ai/v1/original.mp4</video:content_loc>
+      <video:duration>10</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/karak-king-slowmo-ai</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/karak-king-slowmo-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Karak King Slowmo AI Parking-Lot Walk Example</video:title>
+      <video:description>A 15-second 9:16 Karak King Slowmo AI clip showing an all-black slow-motion walk down an overcast urban parking lane with cool slate-teal grading.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/karak-king-slowmo-ai/v1/original.mp4</video:content_loc>
+      <video:duration>15</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/king-nasir-dance-ai</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/king-nasir-dance-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>King Nasir Dance AI solo video example</video:title>
+      <video:description>An 11-second vertical 9:16 King Nasir dance clip showing a solo dancer against a clean white wall doing the signature side-profile cheek puff, shoulder bounce, and alternating arm pumps.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/king-nasir-dance-ai/v1/original.mp4</video:content_loc>
+      <video:duration>11</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/aint-you-my-gangsta-ai</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/aint-you-my-gangsta-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Ain't You My Gangsta AI Car Duet Video Example</video:title>
+      <video:description>A 10-second 9:16 vertical car selfie duet under an open sunroof where one deadpan asker mouths the Additup question lines and their partner leans in smiling to answer yes.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/aint-you-my-gangsta-ai/v1/original.mp4</video:content_loc>
+      <video:duration>10</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/balmain-couple-yacht-ai</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/balmain-couple-yacht-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Balmain Couple Yacht AI Sun-Deck Selfie Video Example</video:title>
+      <video:description>A 14-second 9:16 vertical yacht sun-deck selfie pan opening on the reclining selfie holder, panning right to a resting partner under a grey towel, sweeping past the boat wake, and returning to a smile with Balmain audio.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/balmain-couple-yacht-ai/v1/original.mp4</video:content_loc>
+      <video:duration>14</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/fitting-room-outfit-change-ai</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/fitting-room-outfit-change-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Fitting Room Outfit Change AI — 15s Five-Curtain Reveal</video:title>
+      <video:description>A 15-second vertical 9:16 Fitting Room Outfit Change AI reference video gliding past five burgundy velvet curtains to reveal five curated outfits in 720p.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/fitting-room-outfit-change-ai/v1/original.mp4</video:content_loc>
+      <video:duration>15</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/baby-on-hand-ai</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/baby-on-hand-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Baby On Hand AI Video Generator — 5s Palm Cheek-Pinch Reference</video:title>
+      <video:description>A 5-second vertical 9:16 Baby On Hand AI macro clip showing a palm-sized baby standing in an open hand, getting a gentle cheek pinch, and tilting into a bright laugh.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/baby-on-hand-ai/v1/original.mp4</video:content_loc>
+      <video:duration>5</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/ishowspeed-brazil-dance-ai</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/ishowspeed-brazil-dance-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>IShowSpeed Brazil Dance AI solo video example</video:title>
+      <video:description>A 15-second vertical 9:16 IShowSpeed Brazil Dance clip showing a solo dancer centered in a gaming bedroom executing rapid passinho footwork, crossed chest arm swings, and a three-quarter profile pivot.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/ishowspeed-brazil-dance-ai/v1/original.mp4</video:content_loc>
+      <video:duration>15</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/cam-skattebo-stare-meme</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/cam-skattebo-stare-meme/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Cam Skattebo Stare Meme Video Generator example</video:title>
+      <video:description>A 6-second vertical 9:16 football sideline clip of #44 in a white jersey and white-facemask helmet locking onto the overhead Skycam with a wide-eyed stare.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/cam-skattebo-stare-meme/v1/original.mp4</video:content_loc>
+      <video:duration>6</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/all-i-want-for-christmas-ai</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/all-i-want-for-christmas-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>All I Want for Christmas AI pajama duo dance example</video:title>
+      <video:description>A 12-second vertical 9:16 All I Want for Christmas AI pajama duo dance in matching pink-and-green plaid sets with a mid-routine hand-linked spin and arms-up finish.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/all-i-want-for-christmas-ai/v1/original.mp4</video:content_loc>
+      <video:duration>12</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/stop-the-wedding-trend</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/stop-the-wedding-trend/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Stop the Wedding Trend — 14s Solo Hand Dance Reference</video:title>
+      <video:description>A 14-second vertical 9:16 Stop the Wedding Trend dance clip showing a seated solo dancer performing sharp upper-body hand choreography and expressive winks against a clean cream wall.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/stop-the-wedding-trend/v1/original.mp4</video:content_loc>
+      <video:duration>14</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/crunch-ai</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/crunch-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Crunch AI Retro Chocolate Commercial Example</video:title>
+      <video:description>An 8-second 4:3 Crunch AI retro commercial parody clip showing a single person squinting playfully, singing wide-eyed, and taking a crisp bite of a chocolate bar.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/crunch-ai/v1/original.mp4</video:content_loc>
+      <video:duration>8</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/christmas-photobooth-ai</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/christmas-photobooth-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Christmas Photobooth AI animated photo strip example</video:title>
+      <video:description>A 15-second vertical 9:16 Christmas Photobooth AI video panning down two tilted vintage sepia photo strips as two friends act out seven playful Wham! Last Christmas poses.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/christmas-photobooth-ai/v1/original.mp4</video:content_loc>
+      <video:duration>15</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/lion-riding-ai</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/lion-riding-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Lion Riding AI Night Road Example</video:title>
+      <video:description>A 5-second vertical 9:16 Lion Riding AI video showing one protagonist walking down a dark asphalt road, calming an approaching roaring male lion with a gentle pat, and riding forward toward the camera.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/lion-riding-ai/v1/original.mp4</video:content_loc>
+      <video:duration>5</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/catch-santa-chimney-ai</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/catch-santa-chimney-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Catch Santa Chimney AI living room fireplace video example</video:title>
+      <video:description>A 10-second vertical Catch Santa Chimney AI video where Santa climbs out of a lit living room fireplace, places wrapped Christmas gifts beside the hearth, smiles toward the camera, and climbs back up the chimney.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/catch-santa-chimney-ai/v1/original.mp4</video:content_loc>
+      <video:duration>10</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/sweater-portrait-ai</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/sweater-portrait-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Sweater Portrait AI selective-color video example</video:title>
+      <video:description>A 10-second Sweater Portrait AI close-up in high-contrast black and white with oversized crimson chunky-knit sleeves raised below the eyes and gentle blinking motion.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/sweater-portrait-ai/v1/original.mp4</video:content_loc>
+      <video:duration>10</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/icky-sticky-bubblegum-ai-dance</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/icky-sticky-bubblegum-ai-dance/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Icky Sticky Bubblegum AI dance video example</video:title>
+      <video:description>A solo toddler performs the viral Icky Sticky Bubblegum dance routine in front of a tufted headboard, hitting the side kicks, arm swings, turns, and hands-on-head ending pose in 15 seconds at 720p.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/icky-sticky-bubblegum-ai-dance/v1/original.mp4</video:content_loc>
+      <video:duration>15</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/its-friday-pet-dance-ai</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/its-friday-pet-dance-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>It's Friday Pet Dance AI video example</video:title>
+      <video:description>A miniature schnauzer stands upright outdoors and performs a full 15-second Friday celebration dance with spins, paw punches, and a victory leap in 720p.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/its-friday-pet-dance-ai/v1/original.mp4</video:content_loc>
+      <video:duration>15</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/reaching-out-cat-ai</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/reaching-out-cat-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Reaching Out Cat AI video example</video:title>
+      <video:description>A first-person hand reaches upward toward a spinning ceiling fan before hard-cutting to a sitting orange cat that gets scooped off-screen in 6 seconds at 720p.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/reaching-out-cat-ai/v1/original.mp4</video:content_loc>
+      <video:duration>6</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/grandma-vs-grandpa-fight-ai</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/grandma-vs-grandpa-fight-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Grandma vs Grandpa Fight AI Living-Room Couch Example</video:title>
+      <video:description>A 10-second 9:16 comedic living-room clip where Grandpa and Grandma argue over the TV remote on the couch until Grandma grabs a white throw pillow and shoves Grandpa onto the floor.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/grandma-vs-grandpa-fight-ai/v1/original.mp4</video:content_loc>
+      <video:duration>10</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/hospital-flying-knee-ai</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/hospital-flying-knee-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Hospital Flying Knee AI 7-Second Slapstick Fight Example</video:title>
+      <video:description>A 7-second 16:9 clip inside a plain hospital room where a barefoot challenger charges from the right, lands a flying knee on a standing suited defender, rides his back, flips him down, and grapples on the tile floor.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/hospital-flying-knee-ai/v1/original.mp4</video:content_loc>
+      <video:duration>7</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/aircraft-carrier-dance-ai</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/aircraft-carrier-dance-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Aircraft Carrier Dance AI 15-second video example</video:title>
+      <video:description>A 15-second 1:1 clip on a sunlit aircraft carrier flight deck showing a solo dancer executing lunges, a close-up handheld groove, and an arms-up V-pose finale before lined-up sailors and a fighter jet.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/aircraft-carrier-dance-ai/v1/original.mp4</video:content_loc>
+      <video:duration>15</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/ronaldo-header-ai</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/ronaldo-header-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Ronaldo Header AI 14-Second 2.56m Aerial Goal Example</video:title>
+      <video:description>A 14-second slow-motion 4:3 stadium clip capturing the iconic 2.56m vertical leap above defender #29, mid-air hang-time, forehead strike on the yellow ball, and goal into the net.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/ronaldo-header-ai/v1/original.mp4</video:content_loc>
+      <video:duration>14</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/rooster-wet-cement-ai</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/rooster-wet-cement-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Rooster Wet Cement AI Plot-Twist Video Example</video:title>
+      <video:description>A 10-second 9:16 vertical comedy clip where a builder smooths fresh grey cement beside a calico cat, a rooster marches across leaving deep claw prints, and the scene cuts to an outdoor wooden table with a whole roasted chicken.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/rooster-wet-cement-ai/v1/original.mp4</video:content_loc>
+      <video:duration>10</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/rich-era-ai</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/rich-era-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Rich Era AI Video Generator — 7s Luxury Hotel Corridor Walk</video:title>
+      <video:description>A 7-second vertical Rich Era AI reference video showing one protagonist walking confidently down a golden-lit luxury hotel corridor toward the camera.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/rich-era-ai/v1/original.mp4</video:content_loc>
+      <video:duration>7</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/photographing-dolphins-ai</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/photographing-dolphins-ai/v1/cover.webp</video:thumbnail_loc>
+      <video:title>Photographing Dolphins AI 5-Second Yacht Telephoto Example</video:title>
+      <video:description>A 5-second vertical 9:16 clip where a solo outdoor portrait leans forward into a sunlit yacht deck, lifting a telephoto DSLR as a pod of dolphins leaps across the sea.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/photographing-dolphins-ai/v1/original.mp4</video:content_loc>
+      <video:duration>5</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://samevid.com/template/ddg-and-dub-ai-dance</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://cdn.samevid.com/templates/ddg-and-dub-ai-dance/v1/cover.webp</video:thumbnail_loc>
+      <video:title>DDG and Dub AI Dance 13s living-room duo video example</video:title>
+      <video:description>A 13-second vertical 9:16 living-room hip-hop dance clip showing two performers doing synchronized hand claps, forehead wipes, and shoulder grooves with original audio.</video:description>
+      <video:content_loc>https://cdn.samevid.com/templates/ddg-and-dub-ai-dance/v1/original.mp4</video:content_loc>
+      <video:duration>13</video:duration>
+    </video:video>
+  </url>
+</urlset>

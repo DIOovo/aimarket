@@ -1,0 +1,377 @@
+{
+  "site": "ClipRemake",
+  "home": "https://clipremake.com/",
+  "checked_at": "2026-11-22T09:34:26+08:00",
+  "sitemap_urls_found": [
+    "https://clipremake.com/sitemap.xml"
+  ],
+  "sitemap_existed": true,
+  "template_count": 70,
+  "new_count": 2,
+  "removed_count": 0,
+  "new_templates": [
+    {
+      "id_or_slug": "gta-6-jet-ski-dog-ai",
+      "title": "Gta 6 Jet Ski Dog AI",
+      "url": "https://clipremake.com/templates/gta-6-jet-ski-dog-ai"
+    },
+    {
+      "id_or_slug": "thanksgiving-dance-ai",
+      "title": "Thanksgiving Dance AI",
+      "url": "https://clipremake.com/templates/thanksgiving-dance-ai"
+    }
+  ],
+  "removed_templates": [],
+  "templates": [
+    {
+      "id_or_slug": "24k-magic-ai",
+      "title": "24k Magic AI",
+      "url": "https://clipremake.com/templates/24k-magic-ai"
+    },
+    {
+      "id_or_slug": "58th-floor-ai",
+      "title": "58th Floor AI",
+      "url": "https://clipremake.com/templates/58th-floor-ai"
+    },
+    {
+      "id_or_slug": "80s-ai-video",
+      "title": "80s AI Video",
+      "url": "https://clipremake.com/templates/80s-ai-video"
+    },
+    {
+      "id_or_slug": "ai-elf-dance",
+      "title": "AI Elf Dance",
+      "url": "https://clipremake.com/templates/ai-elf-dance"
+    },
+    {
+      "id_or_slug": "ai-halloween-costume",
+      "title": "AI Halloween Costume",
+      "url": "https://clipremake.com/templates/ai-halloween-costume"
+    },
+    {
+      "id_or_slug": "ai-hug",
+      "title": "AI Hug",
+      "url": "https://clipremake.com/templates/ai-hug"
+    },
+    {
+      "id_or_slug": "ai-muscle",
+      "title": "AI Muscle",
+      "url": "https://clipremake.com/templates/ai-muscle"
+    },
+    {
+      "id_or_slug": "ai-santa-caught-on-camera",
+      "title": "AI Santa Caught On Camera",
+      "url": "https://clipremake.com/templates/ai-santa-caught-on-camera"
+    },
+    {
+      "id_or_slug": "baby-face-filter-ai",
+      "title": "Baby Face Filter AI",
+      "url": "https://clipremake.com/templates/baby-face-filter-ai"
+    },
+    {
+      "id_or_slug": "bad-times-ai",
+      "title": "Bad Times AI",
+      "url": "https://clipremake.com/templates/bad-times-ai"
+    },
+    {
+      "id_or_slug": "bby-wow-dance-ai",
+      "title": "BbY Wow Dance AI",
+      "url": "https://clipremake.com/templates/bby-wow-dance-ai"
+    },
+    {
+      "id_or_slug": "bicep-heart-ai",
+      "title": "Bicep Heart AI",
+      "url": "https://clipremake.com/templates/bicep-heart-ai"
+    },
+    {
+      "id_or_slug": "birthday-car-ai",
+      "title": "Birthday Car AI",
+      "url": "https://clipremake.com/templates/birthday-car-ai"
+    },
+    {
+      "id_or_slug": "bulin-47-ai-trend",
+      "title": "Bulin 47 AI Trend",
+      "url": "https://clipremake.com/templates/bulin-47-ai-trend"
+    },
+    {
+      "id_or_slug": "burning-bridges-ai",
+      "title": "Burning Bridges AI",
+      "url": "https://clipremake.com/templates/burning-bridges-ai"
+    },
+    {
+      "id_or_slug": "ceiling-fan-trend",
+      "title": "Ceiling Fan Trend",
+      "url": "https://clipremake.com/templates/ceiling-fan-trend"
+    },
+    {
+      "id_or_slug": "chipmunks-dance-ai",
+      "title": "Chipmunks Dance AI",
+      "url": "https://clipremake.com/templates/chipmunks-dance-ai"
+    },
+    {
+      "id_or_slug": "christmas-dance-ai",
+      "title": "Christmas Dance AI",
+      "url": "https://clipremake.com/templates/christmas-dance-ai"
+    },
+    {
+      "id_or_slug": "crazy-frog-ai",
+      "title": "Crazy Frog AI",
+      "url": "https://clipremake.com/templates/crazy-frog-ai"
+    },
+    {
+      "id_or_slug": "end-of-watch-locker-scene-ai",
+      "title": "End Of Watch Locker Scene AI",
+      "url": "https://clipremake.com/templates/end-of-watch-locker-scene-ai"
+    },
+    {
+      "id_or_slug": "first-time-in-a-fancy-cafe-ai",
+      "title": "First Time In A Fancy Cafe AI",
+      "url": "https://clipremake.com/templates/first-time-in-a-fancy-cafe-ai"
+    },
+    {
+      "id_or_slug": "fish-chop-ai",
+      "title": "Fish Chop AI",
+      "url": "https://clipremake.com/templates/fish-chop-ai"
+    },
+    {
+      "id_or_slug": "flamingo-float-ai",
+      "title": "Flamingo Float AI",
+      "url": "https://clipremake.com/templates/flamingo-float-ai"
+    },
+    {
+      "id_or_slug": "flying-car-ai",
+      "title": "Flying Car AI",
+      "url": "https://clipremake.com/templates/flying-car-ai"
+    },
+    {
+      "id_or_slug": "gangnam-style-ai-video",
+      "title": "Gangnam Style AI Video",
+      "url": "https://clipremake.com/templates/gangnam-style-ai-video"
+    },
+    {
+      "id_or_slug": "gas-station-trend",
+      "title": "Gas Station Trend",
+      "url": "https://clipremake.com/templates/gas-station-trend"
+    },
+    {
+      "id_or_slug": "give-it-all-ai",
+      "title": "Give It All AI",
+      "url": "https://clipremake.com/templates/give-it-all-ai"
+    },
+    {
+      "id_or_slug": "goodbye-gta-5-ai",
+      "title": "Goodbye GTA 5 AI",
+      "url": "https://clipremake.com/templates/goodbye-gta-5-ai"
+    },
+    {
+      "id_or_slug": "gta-6-jet-ski-dog-ai",
+      "title": "Gta 6 Jet Ski Dog AI",
+      "url": "https://clipremake.com/templates/gta-6-jet-ski-dog-ai"
+    },
+    {
+      "id_or_slug": "hit-the-road-dude-ai",
+      "title": "Hit The Road Dude AI",
+      "url": "https://clipremake.com/templates/hit-the-road-dude-ai"
+    },
+    {
+      "id_or_slug": "hop-hop-hop-ai",
+      "title": "Hop Hop Hop AI",
+      "url": "https://clipremake.com/templates/hop-hop-hop-ai"
+    },
+    {
+      "id_or_slug": "hotel-lobby-ai-trend",
+      "title": "Hotel Lobby AI Trend",
+      "url": "https://clipremake.com/templates/hotel-lobby-ai-trend"
+    },
+    {
+      "id_or_slug": "hotline-bling-ai",
+      "title": "Hotline Bling AI",
+      "url": "https://clipremake.com/templates/hotline-bling-ai"
+    },
+    {
+      "id_or_slug": "hug-in-heaven-ai",
+      "title": "Hug In Heaven AI",
+      "url": "https://clipremake.com/templates/hug-in-heaven-ai"
+    },
+    {
+      "id_or_slug": "i-love-the-smiths-ai",
+      "title": "I Love The Smiths AI",
+      "url": "https://clipremake.com/templates/i-love-the-smiths-ai"
+    },
+    {
+      "id_or_slug": "i-thought-we-were-having-a-nice-date-ai",
+      "title": "I Thought We Were Having A Nice Date AI",
+      "url": "https://clipremake.com/templates/i-thought-we-were-having-a-nice-date-ai"
+    },
+    {
+      "id_or_slug": "james-bond-reveal-ai",
+      "title": "James Bond Reveal AI",
+      "url": "https://clipremake.com/templates/james-bond-reveal-ai"
+    },
+    {
+      "id_or_slug": "jisoo-addicted-dance-ai",
+      "title": "Jisoo Addicted Dance AI",
+      "url": "https://clipremake.com/templates/jisoo-addicted-dance-ai"
+    },
+    {
+      "id_or_slug": "king-jin-ai",
+      "title": "King Jin AI",
+      "url": "https://clipremake.com/templates/king-jin-ai"
+    },
+    {
+      "id_or_slug": "mini-me-ai",
+      "title": "Mini Me AI",
+      "url": "https://clipremake.com/templates/mini-me-ai"
+    },
+    {
+      "id_or_slug": "missed-train-dance-ai",
+      "title": "Missed Train Dance AI",
+      "url": "https://clipremake.com/templates/missed-train-dance-ai"
+    },
+    {
+      "id_or_slug": "more-like-a-quesadilla-ai",
+      "title": "More Like a Quesadilla AI",
+      "url": "https://clipremake.com/templates/more-like-a-quesadilla-ai"
+    },
+    {
+      "id_or_slug": "need-for-speed-ai",
+      "title": "Need for Speed AI",
+      "url": "https://clipremake.com/templates/need-for-speed-ai"
+    },
+    {
+      "id_or_slug": "nestle-crunch-ai",
+      "title": "Nestle Crunch AI",
+      "url": "https://clipremake.com/templates/nestle-crunch-ai"
+    },
+    {
+      "id_or_slug": "never-let-her-pay-ai",
+      "title": "Never Let Her Pay AI",
+      "url": "https://clipremake.com/templates/never-let-her-pay-ai"
+    },
+    {
+      "id_or_slug": "nicole-kidman-dance-trend",
+      "title": "Nicole Kidman Dance Trend",
+      "url": "https://clipremake.com/templates/nicole-kidman-dance-trend"
+    },
+    {
+      "id_or_slug": "no-scrubs-ai",
+      "title": "No Scrubs AI",
+      "url": "https://clipremake.com/templates/no-scrubs-ai"
+    },
+    {
+      "id_or_slug": "oh-my-carne-asada-ai",
+      "title": "Oh My Carne Asada AI",
+      "url": "https://clipremake.com/templates/oh-my-carne-asada-ai"
+    },
+    {
+      "id_or_slug": "pet-taxi-ai",
+      "title": "Pet Taxi AI",
+      "url": "https://clipremake.com/templates/pet-taxi-ai"
+    },
+    {
+      "id_or_slug": "pimp-walk-entrance-ai",
+      "title": "Pimp Walk Entrance AI",
+      "url": "https://clipremake.com/templates/pimp-walk-entrance-ai"
+    },
+    {
+      "id_or_slug": "pumpkin-head-ai",
+      "title": "Pumpkin Head AI",
+      "url": "https://clipremake.com/templates/pumpkin-head-ai"
+    },
+    {
+      "id_or_slug": "raindance-ai-trend",
+      "title": "Raindance AI Trend",
+      "url": "https://clipremake.com/templates/raindance-ai-trend"
+    },
+    {
+      "id_or_slug": "rumpelstiltskin-ai",
+      "title": "Rumpelstiltskin AI",
+      "url": "https://clipremake.com/templates/rumpelstiltskin-ai"
+    },
+    {
+      "id_or_slug": "sheru-bhai-ai",
+      "title": "Sheru Bhai AI",
+      "url": "https://clipremake.com/templates/sheru-bhai-ai"
+    },
+    {
+      "id_or_slug": "skull-cap-trend-ai",
+      "title": "Skull Cap Trend AI",
+      "url": "https://clipremake.com/templates/skull-cap-trend-ai"
+    },
+    {
+      "id_or_slug": "snow-leopard-paws-at-you-ai",
+      "title": "Snow Leopard Paws At You AI",
+      "url": "https://clipremake.com/templates/snow-leopard-paws-at-you-ai"
+    },
+    {
+      "id_or_slug": "st-tropez-dj-ai",
+      "title": "St Tropez DJ AI",
+      "url": "https://clipremake.com/templates/st-tropez-dj-ai"
+    },
+    {
+      "id_or_slug": "stones-to-castle-ai",
+      "title": "Stones To Castle AI",
+      "url": "https://clipremake.com/templates/stones-to-castle-ai"
+    },
+    {
+      "id_or_slug": "storm-ii-ai-trend",
+      "title": "Storm II AI Trend",
+      "url": "https://clipremake.com/templates/storm-ii-ai-trend"
+    },
+    {
+      "id_or_slug": "te-he-perdido-ai",
+      "title": "Te He Perdido AI",
+      "url": "https://clipremake.com/templates/te-he-perdido-ai"
+    },
+    {
+      "id_or_slug": "thanksgiving-dance-ai",
+      "title": "Thanksgiving Dance AI",
+      "url": "https://clipremake.com/templates/thanksgiving-dance-ai"
+    },
+    {
+      "id_or_slug": "thriller-dance-ai",
+      "title": "Thriller Dance AI",
+      "url": "https://clipremake.com/templates/thriller-dance-ai"
+    },
+    {
+      "id_or_slug": "tidal-wave-ai",
+      "title": "Tidal Wave AI",
+      "url": "https://clipremake.com/templates/tidal-wave-ai"
+    },
+    {
+      "id_or_slug": "tiger-fight-ai",
+      "title": "Tiger Fight AI",
+      "url": "https://clipremake.com/templates/tiger-fight-ai"
+    },
+    {
+      "id_or_slug": "tiny-desk-ai-video",
+      "title": "Tiny Desk AI Video",
+      "url": "https://clipremake.com/templates/tiny-desk-ai-video"
+    },
+    {
+      "id_or_slug": "tough-like-a-gorilla-ai",
+      "title": "Tough Like A Gorilla AI",
+      "url": "https://clipremake.com/templates/tough-like-a-gorilla-ai"
+    },
+    {
+      "id_or_slug": "tus-ojos-me-reflejan-ai",
+      "title": "Tus Ojos Me Reflejan AI",
+      "url": "https://clipremake.com/templates/tus-ojos-me-reflejan-ai"
+    },
+    {
+      "id_or_slug": "wassup-in-a-minute-ai",
+      "title": "Wassup In A Minute AI",
+      "url": "https://clipremake.com/templates/wassup-in-a-minute-ai"
+    },
+    {
+      "id_or_slug": "yamal-dance-ai",
+      "title": "Yamal Dance AI",
+      "url": "https://clipremake.com/templates/yamal-dance-ai"
+    },
+    {
+      "id_or_slug": "zombie-ai-trend",
+      "title": "Zombie AI Trend",
+      "url": "https://clipremake.com/templates/zombie-ai-trend"
+    }
+  ]
+}

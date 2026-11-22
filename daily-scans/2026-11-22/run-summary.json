@@ -1,0 +1,81 @@
+{
+  "checked_at": "2026-11-22T09:34:26+08:00",
+  "total_templates": 3673,
+  "total_new": 34,
+  "total_digest_new": 32,
+  "total_inventory_only_new": 2,
+  "total_removed": 0,
+  "overlap_count": 12,
+  "mutual": [
+    "GTA 6 Jet Ski Dog",
+    "Thanksgiving Dance",
+    "Boom Clap Confetti",
+    "Huss Huss Huss",
+    "Vlogmas Intro"
+  ],
+  "stock": [
+    "Window Peeper",
+    "Give It All",
+    "58th Floor",
+    "GTA 6 Loading Screen",
+    "Frozen Viking Warrior",
+    "Waiting On My Fries",
+    "Wizard Cat Keyboard"
+  ],
+  "per_site": {
+    "makeviral.json": [
+      "bandit-juice-wrld-ai-trend",
+      "eight-legends-ai-trend",
+      "homesick-for-a-person-ai-trend",
+      "keep-going-run-ai-trend",
+      "love-handstand-ai-trend",
+      "low-budget-amanda-ai-trend",
+      "mecha-ride-ai-trend",
+      "vlogmas-intro-ai-cartoon",
+      "waiting-on-my-fries-ai-trend"
+    ],
+    "makememe.json": [
+      "boom-clap-confetti-ai",
+      "huss-huss-huss-ai"
+    ],
+    "trendtemplate.json": [
+      "frozen-viking-warrior-ai",
+      "vlogmas-intro-ai"
+    ],
+    "tryatrend.json": [
+      "gta-6-jet-ski-dog-ai",
+      "gta-6-loading-screen-ai",
+      "huss-huss-huss-ai"
+    ],
+    "clipremake.json": [
+      "gta-6-jet-ski-dog-ai",
+      "thanksgiving-dance-ai"
+    ],
+    "danceremake.json": [
+      "give-it-all-ai",
+      "thanksgiving-dance-ai"
+    ],
+    "putmein.json": [
+      "58th-floor-ai-trend",
+      "window-peeper-ai-trend"
+    ],
+    "aimakevideo.json": [
+      "boom-clap-ai"
+    ],
+    "starrd.json": [
+      "break-a-leg-crab-ai-video",
+      "convertible-drift-ai-video",
+      "how-long-you-been-faithful-meme-ai-video",
+      "stop-humiliating-yourself-rush-hour-ai-video",
+      "truck-jump-ai-video",
+      "what-makes-you-beautiful-ai-video",
+      "who-said-something-about-oil-ai-video"
+    ],
+    "samevid.json": [
+      "the-last-dance-ai"
+    ],
+    "memelry.json": [
+      "wizard-cat-keyboard-ai"
+    ]
+  }
+}

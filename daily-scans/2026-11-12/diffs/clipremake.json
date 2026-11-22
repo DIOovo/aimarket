@@ -1,0 +1,23 @@
+{
+  "site": "ClipRemake",
+  "file": "clipremake.json",
+  "prev": 45,
+  "now": 47,
+  "new": [
+    {
+      "id_or_slug": "ai-santa-caught-on-camera",
+      "title": "AI Santa Caught On Camera",
+      "url": "https://clipremake.com/templates/ai-santa-caught-on-camera"
+    },
+    {
+      "id_or_slug": "no-scrubs-ai",
+      "title": "No Scrubs AI",
+      "url": "https://clipremake.com/templates/no-scrubs-ai"
+    }
+  ],
+  "gone": [],
+  "notes": [],
+  "sitemaps": [
+    "https://clipremake.com/sitemap.xml"
+  ]
+}

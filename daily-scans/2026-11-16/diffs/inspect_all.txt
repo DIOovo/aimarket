@@ -1,0 +1,738 @@
+
+======== TrendTemplate (trendtemplate.json) +12 -0 ========
+  + ai-christmas-video | https://trendtemplate.com/ai-christmas-video  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-dance | https://trendtemplate.com/ai-dance  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-photo-creator | https://trendtemplate.com/ai-photo-creator  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-trend-templates | https://trendtemplate.com/ai-trend-templates  [YEST-FILTER:parser-drift-or-non-template]
+  + apple-touch-icon.png | https://trendtemplate.com/apple-touch-icon.png  [YEST-FILTER:parser-drift-or-non-template]
+  + how-to-make-rooftop-groove-ai-video | https://trendtemplate.com/how-to-make-rooftop-groove-ai-video  [YEST-FILTER:parser-drift-or-non-template]
+  + logo-mark.svg | https://trendtemplate.com/logo-mark.svg  [YEST-FILTER:parser-drift-or-non-template]
+  + need-for-speed-ai | https://trendtemplate.com/need-for-speed-ai
+  + photo-template | https://trendtemplate.com/photo-template  [YEST-FILTER:parser-drift-or-non-template]
+  + refund-policy | https://trendtemplate.com/refund-policy  [YEST-FILTER:parser-drift-or-non-template]
+  + report | https://trendtemplate.com/report  [YEST-FILTER:parser-drift-or-non-template]
+  + video-template-online | https://trendtemplate.com/video-template-online  [YEST-FILTER:parser-drift-or-non-template]
+
+======== MakeViral (makeviral.json) +11 -0 ========
+  + ai-tidal-wave-video | https://www.makeviral.ai/templates/ai-tidal-wave-video
+  + airport-transition-ai-trend | https://www.makeviral.ai/templates/airport-transition-ai-trend
+  + dance-with-santa-ai | https://www.makeviral.ai/templates/dance-with-santa-ai
+  + dog-washing-dishes-ai-trend | https://www.makeviral.ai/templates/dog-washing-dishes-ai-trend
+  + gta-6-loading-screen-ai | https://www.makeviral.ai/templates/gta-6-loading-screen-ai
+  + jingle-bell-brazil-dance-ai | https://www.makeviral.ai/templates/jingle-bell-brazil-dance-ai
+  + nadie-ta-frio-ai-trend | https://www.makeviral.ai/templates/nadie-ta-frio-ai-trend
+  + reaching-out-cat-ai | https://www.makeviral.ai/templates/reaching-out-cat-ai
+  + ronaldo-header-ai-trend | https://www.makeviral.ai/templates/ronaldo-header-ai-trend
+  + tiger-transition-ai-trend | https://www.makeviral.ai/templates/tiger-transition-ai-trend
+  + you-rock-my-world-ai-trend | https://www.makeviral.ai/templates/you-rock-my-world-ai-trend
+
+======== MakeMeme.video (makememe.json) +10 -0 ========
+  + apple-icon.png | https://makememe.video/apple-icon.png  [YEST-FILTER:parser-drift-or-non-template]
+  + bigxthaplug-give-it-all-ai | https://makememe.video/bigxthaplug-give-it-all-ai
+  + christmas-ai-video-trends | https://makememe.video/christmas-ai-video-trends
+  + favicon.ico | https://makememe.video/favicon.ico  [YEST-FILTER:parser-drift-or-non-template]
+  + jingle-bell-rock-ai | https://makememe.video/jingle-bell-rock-ai
+  + manifest.webmanifest | https://makememe.video/manifest.webmanifest  [YEST-FILTER:parser-drift-or-non-template]
+  + never-let-her-pay-ai | https://makememe.video/never-let-her-pay-ai
+  + old-town-road-ai | https://makememe.video/old-town-road-ai
+  + pet-taxi-ai | https://makememe.video/pet-taxi-ai
+  + questions | https://makememe.video/questions
+
+======== ClipRemake (clipremake.json) +2 -0 ========
+  + hotline-bling-ai | https://clipremake.com/templates/hotline-bling-ai
+  + wassup-in-a-minute-ai | https://clipremake.com/templates/wassup-in-a-minute-ai
+
+======== MemeFX AI (memefxai.json) +22 -0 ========
+  + ai-baby-video-generator | https://memefxai.com/ai-baby-video-generator  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-dance-video-generator | https://memefxai.com/ai-dance-video-generator  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-group-video-generator | https://memefxai.com/ai-group-video-generator  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-halloween-video-generator | https://memefxai.com/ai-halloween-video-generator  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-meme-video-generator | https://memefxai.com/ai-meme-video-generator  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-music-video-generator | https://memefxai.com/ai-music-video-generator  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-pet-video-generator | https://memefxai.com/ai-pet-video-generator  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-tiktok-video-generator | https://memefxai.com/ai-tiktok-video-generator  [YEST-FILTER:parser-drift-or-non-template]
+  + alternatives | https://memefxai.com/alternatives  [YEST-FILTER:parser-drift-or-non-template]
+  + apple-touch-icon.png | https://memefxai.com/apple-touch-icon.png  [YEST-FILTER:parser-drift-or-non-template]
+  + favicon-16x16.png | https://memefxai.com/favicon-16x16.png  [YEST-FILTER:parser-drift-or-non-template]
+  + favicon-32x32.png | https://memefxai.com/favicon-32x32.png  [YEST-FILTER:parser-drift-or-non-template]
+  + favicon.ico | https://memefxai.com/favicon.ico  [YEST-FILTER:parser-drift-or-non-template]
+  + llms.txt | https://memefxai.com/llms.txt  [YEST-FILTER:parser-drift-or-non-template]
+  + logo-dark.png | https://memefxai.com/logo-dark.png  [YEST-FILTER:parser-drift-or-non-template]
+  + logo.png | https://memefxai.com/logo.png  [YEST-FILTER:parser-drift-or-non-template]
+  + manifest.json | https://memefxai.com/manifest.json  [YEST-FILTER:parser-drift-or-non-template]
+  + refund-policy | https://memefxai.com/refund-policy  [YEST-FILTER:parser-drift-or-non-template]
+  + report | https://memefxai.com/report  [YEST-FILTER:parser-drift-or-non-template]
+  + templates | https://memefxai.com/templates  [YEST-FILTER:parser-drift-or-non-template]
+  + videos | https://memefxai.com/videos  [YEST-FILTER:parser-drift-or-non-template]
+  + wassup-in-a-minute-ai-trend | https://memefxai.com/wassup-in-a-minute-ai-trend
+
+======== SameVid AI (samevid.json) +25 -0 ========
+  + ai-legacy-story | https://samevid.com/template/ai-legacy-story  [YEST-FILTER:parser-drift-or-non-template]
+  + aircraft-carrier-dance-ai | https://samevid.com/template/aircraft-carrier-dance-ai
+  + baby-kids | https://samevid.com/template/baby-kids  [YEST-FILTER:parser-drift-or-non-template]
+  + couple | https://samevid.com/template/couple  [YEST-FILTER:parser-drift-or-non-template]
+  + dance | https://samevid.com/template/dance  [YEST-FILTER:parser-drift-or-non-template]
+  + ddg-and-dub-ai-dance | https://samevid.com/template/ddg-and-dub-ai-dance
+  + effects | https://samevid.com/template/effects  [YEST-FILTER:parser-drift-or-non-template]
+  + family | https://samevid.com/template/family  [YEST-FILTER:parser-drift-or-non-template]
+  + friends | https://samevid.com/template/friends  [YEST-FILTER:parser-drift-or-non-template]
+  + funny | https://samevid.com/template/funny  [YEST-FILTER:parser-drift-or-non-template]
+  + grandma-vs-grandpa-fight-ai | https://samevid.com/template/grandma-vs-grandpa-fight-ai
+  + halloween | https://samevid.com/template/halloween  [YEST-FILTER:parser-drift-or-non-template]
+  + hospital-flying-knee-ai | https://samevid.com/template/hospital-flying-knee-ai
+  + movie-tv | https://samevid.com/template/movie-tv  [YEST-FILTER:parser-drift-or-non-template]
+  + music | https://samevid.com/template/music  [YEST-FILTER:parser-drift-or-non-template]
+  + new | https://samevid.com/template/new  [YEST-FILTER:parser-drift-or-non-template]
+  + pets | https://samevid.com/template/pets  [YEST-FILTER:parser-drift-or-non-template]
+  + photographing-dolphins-ai | https://samevid.com/template/photographing-dolphins-ai
+  + reaching-out-cat-ai | https://samevid.com/template/reaching-out-cat-ai
+  + rich-era-ai | https://samevid.com/template/rich-era-ai
+  + ronaldo-header-ai | https://samevid.com/template/ronaldo-header-ai
+  + rooster-wet-cement-ai | https://samevid.com/template/rooster-wet-cement-ai
+  + sports | https://samevid.com/template/sports  [YEST-FILTER:parser-drift-or-non-template]
+  + templates | https://samevid.com/template/templates  [YEST-FILTER:parser-drift-or-non-template]
+  + transformation | https://samevid.com/template/transformation  [YEST-FILTER:parser-drift-or-non-template]
+
+======== Put Me In (putmein.json) +133 -0 ========
+  + abra-kadabra-ai-trend | https://putmein.app/templates/abra-kadabra-ai-trend
+  + ai-car-jump-trend | https://putmein.app/templates/ai-car-jump-trend
+  + ai-ceiling-fan-trend | https://putmein.app/templates/ai-ceiling-fan-trend
+  + ai-cupid-trend | https://putmein.app/templates/ai-cupid-trend
+  + ai-dancing-dog-video | https://putmein.app/templates/ai-dancing-dog-video
+  + ai-doodle-dance-partner | https://putmein.app/templates/ai-doodle-dance-partner
+  + ai-explosion-walk-trend | https://putmein.app/templates/ai-explosion-walk-trend
+  + ai-red-riding-hood | https://putmein.app/templates/ai-red-riding-hood
+  + ateez-bad-dance-challenge-ai | https://putmein.app/templates/ateez-bad-dance-challenge-ai
+  + atm-glitch-ai-trend | https://putmein.app/templates/atm-glitch-ai-trend
+  + babydoll-dance-ai-trend | https://putmein.app/templates/babydoll-dance-ai-trend
+  + bad-aim-edit-ai-trend | https://putmein.app/templates/bad-aim-edit-ai-trend
+  + banana-tree-run-ai-trend | https://putmein.app/templates/banana-tree-run-ai-trend
+  + bby-wow-guy-ai-trend | https://putmein.app/templates/bby-wow-guy-ai-trend
+  + becane-ai-trend | https://putmein.app/templates/becane-ai-trend
+  + biker-birthday-cake-ai-trend | https://putmein.app/templates/biker-birthday-cake-ai-trend
+  + billie-jean-dance-ai-trend | https://putmein.app/templates/billie-jean-dance-ai-trend
+  + birthday-car-ai-trend | https://putmein.app/templates/birthday-car-ai-trend
+  + black-and-white-cinematic-ai-video | https://putmein.app/templates/black-and-white-cinematic-ai-video
+  + bottle-kick-challenge-ai | https://putmein.app/templates/bottle-kick-challenge-ai
+  + boyfriend-picks-you-up-every-day-ai-trend | https://putmein.app/templates/boyfriend-picks-you-up-every-day-ai-trend
+  + bulin-47-ai-trend | https://putmein.app/templates/bulin-47-ai-trend
+  + bulin-47-dance-ai-trend | https://putmein.app/templates/bulin-47-dance-ai-trend
+  + bye-bye-outfit-change-ai-trend | https://putmein.app/templates/bye-bye-outfit-change-ai-trend
+  + c-walk-ai-dance | https://putmein.app/templates/c-walk-ai-dance
+  + can-can-dance-ai-trend | https://putmein.app/templates/can-can-dance-ai-trend
+  + can-i-ride-dance-ai-trend | https://putmein.app/templates/can-i-ride-dance-ai-trend
+  + car-alarm-dance-ai-trend | https://putmein.app/templates/car-alarm-dance-ai-trend
+  + car-roof-backflip-ai-trend | https://putmein.app/templates/car-roof-backflip-ai-trend
+  + cat-middle-finger-ai-trend | https://putmein.app/templates/cat-middle-finger-ai-trend
+  + cat-on-ultra-bee-ai-trend | https://putmein.app/templates/cat-on-ultra-bee-ai-trend
+  + cat-shower-ai-trend | https://putmein.app/templates/cat-shower-ai-trend
+  + catel-madatorricelli-ai-dance | https://putmein.app/templates/catel-madatorricelli-ai-dance
+  + champagne-birthday-ai-trend | https://putmein.app/templates/champagne-birthday-ai-trend
+  + champagne-car-window-ai-trend | https://putmein.app/templates/champagne-car-window-ai-trend
+  + chased-by-hyenas-ai-trend | https://putmein.app/templates/chased-by-hyenas-ai-trend
+  + chipmunks-dance-ai-trend | https://putmein.app/templates/chipmunks-dance-ai-trend
+  + christian-dior-dance-ai-trend | https://putmein.app/templates/christian-dior-dance-ai-trend
+  + christmas-lights-car-ai-trend | https://putmein.app/templates/christmas-lights-car-ai-trend
+  + christmas-princess-carriage-ai-trend | https://putmein.app/templates/christmas-princess-carriage-ai-trend
+  + closed-on-sunday-ai-trend | https://putmein.app/templates/closed-on-sunday-ai-trend
+  + closing-door-prank-ai-trend | https://putmein.app/templates/closing-door-prank-ai-trend
+  + coffee-making-ai-video | https://putmein.app/templates/coffee-making-ai-video
+  + come-and-get-it-ai-trend | https://putmein.app/templates/come-and-get-it-ai-trend
+  + cutedog-ai-trend | https://putmein.app/templates/cutedog-ai-trend
+  + damon-salvatore-ai-trend | https://putmein.app/templates/damon-salvatore-ai-trend
+  + devil-wears-prada-ai-trend | https://putmein.app/templates/devil-wears-prada-ai-trend
+  + dog-dance-crew-ai-trend | https://putmein.app/templates/dog-dance-crew-ai-trend
+  + dog-drummer-ai | https://putmein.app/templates/dog-drummer-ai
+  + dog-grooming-time-ai-trend | https://putmein.app/templates/dog-grooming-time-ai-trend
+  + dog-pool-party-ai-dance | https://putmein.app/templates/dog-pool-party-ai-dance
+  + drink-fly-bump-ai-trend | https://putmein.app/templates/drink-fly-bump-ai-trend
+  + elevator-outfit-change-ai-trend | https://putmein.app/templates/elevator-outfit-change-ai-trend
+  + elsa-ai-trend | https://putmein.app/templates/elsa-ai-trend
+  + end-of-watch-locker-scene-ai-trend | https://putmein.app/templates/end-of-watch-locker-scene-ai-trend
+  + escalator-outfit-change-ai-trend | https://putmein.app/templates/escalator-outfit-change-ai-trend
+  + fashion-week-outfit-ai-trend | https://putmein.app/templates/fashion-week-outfit-ai-trend
+  + fergie-baby-ai-trend | https://putmein.app/templates/fergie-baby-ai-trend
+  + fish-cutting-meme | https://putmein.app/templates/fish-cutting-meme
+  + flamingo-float-ai-trend | https://putmein.app/templates/flamingo-float-ai-trend
+  + flower-nose-ai-trend | https://putmein.app/templates/flower-nose-ai-trend
+  + fridge-pov-ai-trend | https://putmein.app/templates/fridge-pov-ai-trend
+  + gas-station-dance-ai-trend | https://putmein.app/templates/gas-station-dance-ai-trend
+  + giant-hands-dress-up-ai-trend | https://putmein.app/templates/giant-hands-dress-up-ai-trend
+  + gimme-purr-gimme-meow-ai-trend | https://putmein.app/templates/gimme-purr-gimme-meow-ai-trend
+  + gomlegi-cekete-donusen-adam-ai | https://putmein.app/templates/gomlegi-cekete-donusen-adam-ai
+  + grandpa-handle-dinner-ai-trend | https://putmein.app/templates/grandpa-handle-dinner-ai-trend
+  + grau-de-moto-ai-trend | https://putmein.app/templates/grau-de-moto-ai-trend
+  + halloween-makeup-filter | https://putmein.app/templates/halloween-makeup-filter
+  + headbop-ai-trend | https://putmein.app/templates/headbop-ai-trend
+  + i-just-beat-the-case-ai-trend | https://putmein.app/templates/i-just-beat-the-case-ai-trend
+  + ice-ice-baby-dance-ai | https://putmein.app/templates/ice-ice-baby-dance-ai
+  + im-with-you-ai-trend | https://putmein.app/templates/im-with-you-ai-trend
+  + just-a-lil-bit-ai-dance | https://putmein.app/templates/just-a-lil-bit-ai-dance
+  + kiat-jud-dai-kitten-parade-ai | https://putmein.app/templates/kiat-jud-dai-kitten-parade-ai
+  + kung-fu-cat-ai-trend | https://putmein.app/templates/kung-fu-cat-ai-trend
+  + la-calabaza-ai-dance | https://putmein.app/templates/la-calabaza-ai-dance
+  + me-sitting-and-doing-nothing-ai-trend | https://putmein.app/templates/me-sitting-and-doing-nothing-ai-trend
+  + mi-chico-dance-ai-trend | https://putmein.app/templates/mi-chico-dance-ai-trend
+  + money-flex-ai-trend | https://putmein.app/templates/money-flex-ai-trend
+  + monkey-eating-apple-ai-trend | https://putmein.app/templates/monkey-eating-apple-ai-trend
+  + mr-and-mrs-stretchy-ai-trend | https://putmein.app/templates/mr-and-mrs-stretchy-ai-trend
+  + my-ride-is-here-broom-trend | https://putmein.app/templates/my-ride-is-here-broom-trend
+  + neon-dance-ai-trend | https://putmein.app/templates/neon-dance-ai-trend
+  + nicole-kidman-dance-ai-trend | https://putmein.app/templates/nicole-kidman-dance-ai-trend
+  + no-guidance-dance-ai-trend | https://putmein.app/templates/no-guidance-dance-ai-trend
+  + nyc-rats-ai-trend | https://putmein.app/templates/nyc-rats-ai-trend
+  + opa-opa-bouncy-hair-ai | https://putmein.app/templates/opa-opa-bouncy-hair-ai
+  + otsukare-summer-dance-ai-trend | https://putmein.app/templates/otsukare-summer-dance-ai-trend
+  + ozil-goal-ai-trend | https://putmein.app/templates/ozil-goal-ai-trend
+  + parrot-dance-ai-trend | https://putmein.app/templates/parrot-dance-ai-trend
+  + party-viral-dance-ai-trend | https://putmein.app/templates/party-viral-dance-ai-trend
+  + passenger-princess-ai-trend | https://putmein.app/templates/passenger-princess-ai-trend
+  + perfume-transition-ai-trend | https://putmein.app/templates/perfume-transition-ai-trend
+  + pet-rock-dance-ai-trend | https://putmein.app/templates/pet-rock-dance-ai-trend
+  + pet-taxi-ai-trend | https://putmein.app/templates/pet-taxi-ai-trend
+  + pimpwalk-entrance-ai-trend | https://putmein.app/templates/pimpwalk-entrance-ai-trend
+  + polska-jumpstyle-ai | https://putmein.app/templates/polska-jumpstyle-ai
+  + pov-outfit-transition-ai-trend | https://putmein.app/templates/pov-outfit-transition-ai-trend
+  + pumpkin-kick-ai-trend | https://putmein.app/templates/pumpkin-kick-ai-trend
+  + quiet-on-the-creek-ai-trend | https://putmein.app/templates/quiet-on-the-creek-ai-trend
+  + ramalama-ai-trend | https://putmein.app/templates/ramalama-ai-trend
+  + santa-sleigh-ai-trend | https://putmein.app/templates/santa-sleigh-ai-trend
+  + sawadika-dance-ai-trend | https://putmein.app/templates/sawadika-dance-ai-trend
+  + shan-shen-bu-ai-dance | https://putmein.app/templates/shan-shen-bu-ai-dance
+  + singing-dog-ai-trend | https://putmein.app/templates/singing-dog-ai-trend
+  + single-ladies-dog-dance-ai | https://putmein.app/templates/single-ladies-dog-dance-ai
+  + skull-cap-ai-trend | https://putmein.app/templates/skull-cap-ai-trend
+  + smooth-criminal-dance-ai-trend | https://putmein.app/templates/smooth-criminal-dance-ai-trend
+  + sniffer-dog-ai-trend | https://putmein.app/templates/sniffer-dog-ai-trend
+  + snow-leopard-paws-at-you-ai | https://putmein.app/templates/snow-leopard-paws-at-you-ai
+  + stateside-dance-ai-trend | https://putmein.app/templates/stateside-dance-ai-trend
+  + stones-to-castle-ai-trend | https://putmein.app/templates/stones-to-castle-ai-trend
+  + street-light-slide-ai-effect | https://putmein.app/templates/street-light-slide-ai-effect
+  + subway-outfit-change-ai-trend | https://putmein.app/templates/subway-outfit-change-ai-trend
+  + teach-me-how-to-dougie-ai-trend | https://putmein.app/templates/teach-me-how-to-dougie-ai-trend
+  + tecktonik-dance-ai-trend | https://putmein.app/templates/tecktonik-dance-ai-trend
+  + thank-you-baby-ai-trend | https://putmein.app/templates/thank-you-baby-ai-trend
+  + the-jawn-ai-dance | https://putmein.app/templates/the-jawn-ai-dance
+  + then-i-walk-in-ai-trend | https://putmein.app/templates/then-i-walk-in-ai-trend
+  + three-bogatyrs-ai-trend | https://putmein.app/templates/three-bogatyrs-ai-trend
+  + thriller-dance-ai-trend | https://putmein.app/templates/thriller-dance-ai-trend
+  + toc-toc-dance-ai-trend | https://putmein.app/templates/toc-toc-dance-ai-trend
+  + topo-gigio-celebration-ai-trend | https://putmein.app/templates/topo-gigio-celebration-ai-trend
+  + toz-pembe-ai-trend | https://putmein.app/templates/toz-pembe-ai-trend
+  + transmission-5-dance-ai-trend | https://putmein.app/templates/transmission-5-dance-ai-trend
+  + truck-driver-ai-trend | https://putmein.app/templates/truck-driver-ai-trend
+  + tying-shoes-money-ai-trend | https://putmein.app/templates/tying-shoes-money-ai-trend
+  + ukwu-ai-trend | https://putmein.app/templates/ukwu-ai-trend
+  + unforgettable-car-trend-ai | https://putmein.app/templates/unforgettable-car-trend-ai
+  + whiny-dog-ai-trend | https://putmein.app/templates/whiny-dog-ai-trend
+  + wizard-cat-keyboard-smash-ai-trend | https://putmein.app/templates/wizard-cat-keyboard-smash-ai-trend
+  + yes-yes-i-love-you-ai-trend | https://putmein.app/templates/yes-yes-i-love-you-ai-trend
+
+======== DanceRemake (danceremake.json) +3 -0 ========
+  + hotline-bling-ai | https://danceremake.com/templates/hotline-bling-ai
+  + pimp-walk-entrance-ai | https://danceremake.com/templates/pimp-walk-entrance-ai
+  + wassup-in-a-minute-ai | https://danceremake.com/templates/wassup-in-a-minute-ai
+
+======== ZapVid (zapvid.json) +8 -0 ========
+  + babydoll-dance-ai-video-generator | https://zapvid.ai/babydoll-dance-ai-video-generator
+  + bicep-heart-ai-video-generator | https://zapvid.ai/bicep-heart-ai-video-generator
+  + clapping-cat-ai-video-generator | https://zapvid.ai/clapping-cat-ai-video-generator
+  + flying-tesla-roadster-ai-video-generator | https://zapvid.ai/flying-tesla-roadster-ai-video-generator
+  + la-tormenta-de-arena-ai-video-generator | https://zapvid.ai/la-tormenta-de-arena-ai-video-generator
+  + shan-shen-bu-ai-video-generator | https://zapvid.ai/shan-shen-bu-ai-video-generator
+  + smalltown-boy-cats-ai-video-generator | https://zapvid.ai/smalltown-boy-cats-ai-video-generator
+  + toy-car-to-real-car-ai-video-generator | https://zapvid.ai/toy-car-to-real-car-ai-video-generator
+
+======== Genjutsu AI (genjutsu.json) +8 -0 ========
+  + apple-touch-icon.png | https://genjutsuai.cc/apple-touch-icon.png  [YEST-FILTER:parser-drift-or-non-template]
+  + favicon-16x16.png | https://genjutsuai.cc/favicon-16x16.png  [YEST-FILTER:parser-drift-or-non-template]
+  + favicon-32x32.png | https://genjutsuai.cc/favicon-32x32.png  [YEST-FILTER:parser-drift-or-non-template]
+  + favicon.ico | https://genjutsuai.cc/favicon.ico  [YEST-FILTER:parser-drift-or-non-template]
+  + history | https://genjutsuai.cc/history  [YEST-FILTER:parser-drift-or-non-template]
+  + logo-dark.png | https://genjutsuai.cc/logo-dark.png  [YEST-FILTER:parser-drift-or-non-template]
+  + logo.png | https://genjutsuai.cc/logo.png  [YEST-FILTER:parser-drift-or-non-template]
+  + manifest.json | https://genjutsuai.cc/manifest.json  [YEST-FILTER:parser-drift-or-non-template]
+
+======== TrendSwap (trendswap.json) +13 -0 ========
+  + apple-touch-icon.png | https://trendswap.app/apple-touch-icon.png  [YEST-FILTER:parser-drift-or-non-template]
+  + content-policy | https://trendswap.app/content-policy  [YEST-FILTER:parser-drift-or-non-template]
+  + dance | https://trendswap.app/dance  [YEST-FILTER:parser-drift-or-non-template]
+  + duo | https://trendswap.app/duo  [YEST-FILTER:parser-drift-or-non-template]
+  + favicon.ico | https://trendswap.app/favicon.ico  [YEST-FILTER:parser-drift-or-non-template]
+  + icon-192.png | https://trendswap.app/icon-192.png  [YEST-FILTER:parser-drift-or-non-template]
+  + meme | https://trendswap.app/meme  [YEST-FILTER:parser-drift-or-non-template]
+  + new | https://trendswap.app/new  [YEST-FILTER:parser-drift-or-non-template]
+  + pet | https://trendswap.app/pet  [YEST-FILTER:parser-drift-or-non-template]
+  + prompts | https://trendswap.app/prompts  [YEST-FILTER:parser-drift-or-non-template]
+  + refund-policy | https://trendswap.app/refund-policy  [YEST-FILTER:parser-drift-or-non-template]
+  + site.webmanifest | https://trendswap.app/site.webmanifest  [YEST-FILTER:parser-drift-or-non-template]
+  + videos | https://trendswap.app/videos  [YEST-FILTER:parser-drift-or-non-template]
+
+======== AI Trend Video (aitrendvideo.json) +3 -0 ========
+  + create | https://aitrendvideo.net/create  [YEST-FILTER:parser-drift-or-non-template]
+  + history | https://aitrendvideo.net/history  [YEST-FILTER:parser-drift-or-non-template]
+  + refund-policy | https://aitrendvideo.net/refund-policy  [YEST-FILTER:parser-drift-or-non-template]
+
+======== PictureToVideo (picturetovideo.json) +43 -0 ========
+  + ai-animation-generator | https://picturetovideo.org/ai-animation-generator  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-dance-generator | https://picturetovideo.org/ai-dance-generator  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-video-prompt-generator | https://picturetovideo.org/ai-video-prompt-generator  [YEST-FILTER:parser-drift-or-non-template]
+  + animate-drawing | https://picturetovideo.org/animate-drawing  [YEST-FILTER:parser-drift-or-non-template]
+  + animate-old-photos | https://picturetovideo.org/animate-old-photos  [YEST-FILTER:parser-drift-or-non-template]
+  + animate-photo | https://picturetovideo.org/animate-photo  [YEST-FILTER:parser-drift-or-non-template]
+  + apple-touch-icon.png | https://picturetovideo.org/apple-touch-icon.png  [YEST-FILTER:parser-drift-or-non-template]
+  + best-ai-video-generator | https://picturetovideo.org/best-ai-video-generator  [YEST-FILTER:parser-drift-or-non-template]
+  + content-policy | https://picturetovideo.org/content-policy  [YEST-FILTER:parser-drift-or-non-template]
+  + favicon.ico | https://picturetovideo.org/favicon.ico  [YEST-FILTER:parser-drift-or-non-template]
+  + grok-imagine | https://picturetovideo.org/grok-imagine  [YEST-FILTER:parser-drift-or-non-template]
+  + higgsfield-alternative | https://picturetovideo.org/higgsfield-alternative  [YEST-FILTER:parser-drift-or-non-template]
+  + keyframes | https://picturetovideo.org/keyframes  [YEST-FILTER:parser-drift-or-non-template]
+  + king-ai | https://picturetovideo.org/king-ai  [YEST-FILTER:parser-drift-or-non-template]
+  + kling-2-1 | https://picturetovideo.org/kling-2-1  [YEST-FILTER:parser-drift-or-non-template]
+  + kling-2-5-turbo | https://picturetovideo.org/kling-2-5-turbo  [YEST-FILTER:parser-drift-or-non-template]
+  + kling-2-6 | https://picturetovideo.org/kling-2-6  [YEST-FILTER:parser-drift-or-non-template]
+  + kling-3-0 | https://picturetovideo.org/kling-3-0  [YEST-FILTER:parser-drift-or-non-template]
+  + kling-4-0 | https://picturetovideo.org/kling-4-0  [YEST-FILTER:parser-drift-or-non-template]
+  + kling-4-vs-kling-3 | https://picturetovideo.org/kling-4-vs-kling-3  [YEST-FILTER:parser-drift-or-non-template]
+  + kling-ai-alternatives | https://picturetovideo.org/kling-ai-alternatives  [YEST-FILTER:parser-drift-or-non-template]
+  + kling-ai-app | https://picturetovideo.org/kling-ai-app  [YEST-FILTER:parser-drift-or-non-template]
+  + kling-ai-free | https://picturetovideo.org/kling-ai-free  [YEST-FILTER:parser-drift-or-non-template]
+  + kling-ai-pricing | https://picturetovideo.org/kling-ai-pricing  [YEST-FILTER:parser-drift-or-non-template]
+  + kling-api | https://picturetovideo.org/kling-api  [YEST-FILTER:parser-drift-or-non-template]
+  + kling-image-to-video | https://picturetovideo.org/kling-image-to-video  [YEST-FILTER:parser-drift-or-non-template]
+  + kling-o1 | https://picturetovideo.org/kling-o1  [YEST-FILTER:parser-drift-or-non-template]
+  + kling-vs-hailuo | https://picturetovideo.org/kling-vs-hailuo  [YEST-FILTER:parser-drift-or-non-template]
+  + kling-vs-runway | https://picturetovideo.org/kling-vs-runway  [YEST-FILTER:parser-drift-or-non-template]
+  + kling-vs-seedance | https://picturetovideo.org/kling-vs-seedance  [YEST-FILTER:parser-drift-or-non-template]
+  + kling-vs-veo-3 | https://picturetovideo.org/kling-vs-veo-3  [YEST-FILTER:parser-drift-or-non-template]
+  + minimax-h3 | https://picturetovideo.org/minimax-h3  [YEST-FILTER:parser-drift-or-non-template]
+  + models | https://picturetovideo.org/models  [YEST-FILTER:parser-drift-or-non-template]
+  + motion-control | https://picturetovideo.org/motion-control  [YEST-FILTER:parser-drift-or-non-template]
+  + photo-to-video | https://picturetovideo.org/photo-to-video  [YEST-FILTER:parser-drift-or-non-template]
+  + refund-policy | https://picturetovideo.org/refund-policy  [YEST-FILTER:parser-drift-or-non-template]
+  + seedance-2-5 | https://picturetovideo.org/seedance-2-5  [YEST-FILTER:parser-drift-or-non-template]
+  + sora-alternative | https://picturetovideo.org/sora-alternative  [YEST-FILTER:parser-drift-or-non-template]
+  + text-to-video | https://picturetovideo.org/text-to-video  [YEST-FILTER:parser-drift-or-non-template]
+  + veo-3 | https://picturetovideo.org/veo-3  [YEST-FILTER:parser-drift-or-non-template]
+  + video-extender | https://picturetovideo.org/video-extender  [YEST-FILTER:parser-drift-or-non-template]
+  + viggle-ai-alternative | https://picturetovideo.org/viggle-ai-alternative  [YEST-FILTER:parser-drift-or-non-template]
+  + wan-2-5 | https://picturetovideo.org/wan-2-5  [YEST-FILTER:parser-drift-or-non-template]
+
+======== Summrs (summrs.json) +21 -1 ========
+  + add-product-to-photo-ai | https://www.summrs.com/add-product-to-photo-ai  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-asmr-video-generator | https://www.summrs.com/ai-asmr-video-generator  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-basketball-meme-generator | https://www.summrs.com/ai-basketball-meme-generator  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-color-grading-tool | https://www.summrs.com/ai-color-grading-tool  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-dance-generator | https://www.summrs.com/ai-dance-generator  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-explainer-video-generator | https://www.summrs.com/ai-explainer-video-generator  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-face-swap-video | https://www.summrs.com/ai-face-swap-video  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-freestyle-video-generator | https://www.summrs.com/ai-freestyle-video-generator  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-kissing-generator | https://www.summrs.com/ai-kissing-generator  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-lip-sync-generator | https://www.summrs.com/ai-lip-sync-generator  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-music-video-generator | https://www.summrs.com/ai-music-video-generator  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-music-visualizer-generator | https://www.summrs.com/ai-music-visualizer-generator  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-object-remover | https://www.summrs.com/ai-object-remover  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-outfit-generator | https://www.summrs.com/ai-outfit-generator  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-person-holding-product-generator | https://www.summrs.com/ai-person-holding-product-generator  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-pet-animator | https://www.summrs.com/ai-pet-animator  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-silhouette-video-generator | https://www.summrs.com/ai-silhouette-video-generator  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-ugc-video-generator | https://www.summrs.com/ai-ugc-video-generator  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-wedding-photo-editing | https://www.summrs.com/ai-wedding-photo-editing  [YEST-FILTER:parser-drift-or-non-template]
+  + colorize-black-and-white-photos-ai | https://www.summrs.com/colorize-black-and-white-photos-ai  [YEST-FILTER:parser-drift-or-non-template]
+  + restore-old-photos-color-ai | https://www.summrs.com/restore-old-photos-color-ai  [YEST-FILTER:parser-drift-or-non-template]
+  - MISSING bigfoot-vlog | https://www.summrs.com/bigfoot-vlog
+
+======== Try a Trend (tryatrend.json) +2 -1 ========
+  + sticky-bubblegum-ai | https://tryatrend.com/sticky-bubblegum-ai
+  + wassup-in-a-minute-ai | https://tryatrend.com/wassup-in-a-minute-ai
+  - MISSING ai-halloween-costume | https://tryatrend.com/ai-halloween-costume
+
+======== Ricebowl AI (ricebowl.json) +265 -0 ========
+  + 2027-new-year-ai-trend | https://ricebowl.ai/app/2027-new-year-ai-trend  [YEST-FILTER:parser-drift-or-non-template]
+  + 50th-birthday-video | https://ricebowl.ai/app/50th-birthday-video  [YEST-FILTER:parser-drift-or-non-template]
+  + 90s-rom-com-ai-trend | https://ricebowl.ai/app/90s-rom-com-ai-trend  [YEST-FILTER:parser-drift-or-non-template]
+  + a2o-lite-neon-dance | https://ricebowl.ai/app/a2o-lite-neon-dance  [YEST-FILTER:parser-drift-or-non-template]
+  + abcdefg-i-need-money | https://ricebowl.ai/app/abcdefg-i-need-money  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-arrest-filter | https://ricebowl.ai/app/ai-arrest-filter  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-baby-generator | https://ricebowl.ai/app/ai-baby-generator  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-baby-podcast-generator | https://ricebowl.ai/app/ai-baby-podcast-generator  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-bald-filter | https://ricebowl.ai/app/ai-bald-filter  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-belly-dance | https://ricebowl.ai/app/ai-belly-dance  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-birthday-video-generator | https://ricebowl.ai/app/ai-birthday-video-generator  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-car-video-from-photo | https://ricebowl.ai/app/ai-car-video-from-photo  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-cat-rap-video | https://ricebowl.ai/app/ai-cat-rap-video  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-christmas-card-generator | https://ricebowl.ai/app/ai-christmas-card-generator  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-christmas-video-generator | https://ricebowl.ai/app/ai-christmas-video-generator  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-couple-cliff-prank | https://ricebowl.ai/app/ai-couple-cliff-prank  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-crying-filter | https://ricebowl.ai/app/ai-crying-filter  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-dance-generator | https://ricebowl.ai/app/ai-dance-generator  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-dog-christmas-video | https://ricebowl.ai/app/ai-dog-christmas-video  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-dog-making-coffee | https://ricebowl.ai/app/ai-dog-making-coffee  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-dunk-video | https://ricebowl.ai/app/ai-dunk-video  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-elf-dance-video | https://ricebowl.ai/app/ai-elf-dance-video  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-family-photo-generator | https://ricebowl.ai/app/ai-family-photo-generator  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-family-video | https://ricebowl.ai/app/ai-family-video  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-fight-video-generator | https://ricebowl.ai/app/ai-fight-video-generator  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-gender-reveal-video | https://ricebowl.ai/app/ai-gender-reveal-video  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-glow-up | https://ricebowl.ai/app/ai-glow-up  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-halloween-costume | https://ricebowl.ai/app/ai-halloween-costume  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-hug-deceased-loved-one | https://ricebowl.ai/app/ai-hug-deceased-loved-one  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-hug-generator | https://ricebowl.ai/app/ai-hug-generator  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-mecha-transformation | https://ricebowl.ai/app/ai-mecha-transformation  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-memorial-video-generator | https://ricebowl.ai/app/ai-memorial-video-generator  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-mentalist-trend | https://ricebowl.ai/app/ai-mentalist-trend  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-new-year-video | https://ricebowl.ai/app/ai-new-year-video  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-pet-dance-generator | https://ricebowl.ai/app/ai-pet-dance-generator  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-pet-podcast-generator | https://ricebowl.ai/app/ai-pet-podcast-generator  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-pet-video-generator | https://ricebowl.ai/app/ai-pet-video-generator  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-pixie-haircut-filter | https://ricebowl.ai/app/ai-pixie-haircut-filter  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-pregnancy-announcement-video | https://ricebowl.ai/app/ai-pregnancy-announcement-video  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-rap-duo | https://ricebowl.ai/app/ai-rap-duo  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-rap-video | https://ricebowl.ai/app/ai-rap-video  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-retirement-video | https://ricebowl.ai/app/ai-retirement-video  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-santa-video | https://ricebowl.ai/app/ai-santa-video  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-talking-photo | https://ricebowl.ai/app/ai-talking-photo  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-tribute-video | https://ricebowl.ai/app/ai-tribute-video  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-twerk-generator | https://ricebowl.ai/app/ai-twerk-generator  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-virtual-try-on | https://ricebowl.ai/app/ai-virtual-try-on  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-wedding-video | https://ricebowl.ai/app/ai-wedding-video  [YEST-FILTER:parser-drift-or-non-template]
+  + airplane-flying-over-head-ai-trend | https://ricebowl.ai/app/airplane-flying-over-head-ai-trend  [YEST-FILTER:parser-drift-or-non-template]
+  + airport-celebrity-ai-video | https://ricebowl.ai/app/airport-celebrity-ai-video  [YEST-FILTER:parser-drift-or-non-template]
+  + ali-g-driving-scene | https://ricebowl.ai/app/ali-g-driving-scene  [YEST-FILTER:parser-drift-or-non-template]
+  + alors-on-danse-ai-meme | https://ricebowl.ai/app/alors-on-danse-ai-meme  [YEST-FILTER:parser-drift-or-non-template]
+  + angel-devil-filter | https://ricebowl.ai/app/angel-devil-filter  [YEST-FILTER:parser-drift-or-non-template]
+  + animate-old-photos | https://ricebowl.ai/app/animate-old-photos  [YEST-FILTER:parser-drift-or-non-template]
+  + animate-photos | https://ricebowl.ai/app/animate-photos  [YEST-FILTER:parser-drift-or-non-template]
+  + animated-christmas-card | https://ricebowl.ai/app/animated-christmas-card  [YEST-FILTER:parser-drift-or-non-template]
+  + animated-thanksgiving-card | https://ricebowl.ai/app/animated-thanksgiving-card  [YEST-FILTER:parser-drift-or-non-template]
+  + anniversary-video-maker | https://ricebowl.ai/app/anniversary-video-maker  [YEST-FILTER:parser-drift-or-non-template]
+  + baby-born-with-mustache | https://ricebowl.ai/app/baby-born-with-mustache  [YEST-FILTER:parser-drift-or-non-template]
+  + baby-dancing-ai | https://ricebowl.ai/app/baby-dancing-ai  [YEST-FILTER:parser-drift-or-non-template]
+  + bad-times-ai-video | https://ricebowl.ai/app/bad-times-ai-video  [YEST-FILTER:parser-drift-or-non-template]
+  + baile-charme-dance | https://ricebowl.ai/app/baile-charme-dance  [YEST-FILTER:parser-drift-or-non-template]
+  + ballon-dor-winner-ai | https://ricebowl.ai/app/ballon-dor-winner-ai  [YEST-FILTER:parser-drift-or-non-template]
+  + barbie-ai-dance | https://ricebowl.ai/app/barbie-ai-dance  [YEST-FILTER:parser-drift-or-non-template]
+  + basketball-middle-finger | https://ricebowl.ai/app/basketball-middle-finger  [YEST-FILTER:parser-drift-or-non-template]
+  + bing-bing-bing-kicking | https://ricebowl.ai/app/bing-bing-bing-kicking  [YEST-FILTER:parser-drift-or-non-template]
+  + birds-of-a-feather-ai-video-generator | https://ricebowl.ai/app/birds-of-a-feather-ai-video-generator  [YEST-FILTER:parser-drift-or-non-template]
+  + birthday-surprise-video | https://ricebowl.ai/app/birthday-surprise-video  [YEST-FILTER:parser-drift-or-non-template]
+  + birthday-video-card | https://ricebowl.ai/app/birthday-video-card  [YEST-FILTER:parser-drift-or-non-template]
+  + black-and-white-cinematic-ai-video | https://ricebowl.ai/app/black-and-white-cinematic-ai-video  [YEST-FILTER:parser-drift-or-non-template]
+  + black-friday-video-maker | https://ricebowl.ai/app/black-friday-video-maker  [YEST-FILTER:parser-drift-or-non-template]
+  + bonito-bonito-ai-baby-dance | https://ricebowl.ai/app/bonito-bonito-ai-baby-dance  [YEST-FILTER:parser-drift-or-non-template]
+  + boyfriend-makeup-prank-filter | https://ricebowl.ai/app/boyfriend-makeup-prank-filter  [YEST-FILTER:parser-drift-or-non-template]
+  + bring-photos-to-life | https://ricebowl.ai/app/bring-photos-to-life  [YEST-FILTER:parser-drift-or-non-template]
+  + broccoli-throw-ai-video | https://ricebowl.ai/app/broccoli-throw-ai-video  [YEST-FILTER:parser-drift-or-non-template]
+  + bts-swim-dance-ai-video | https://ricebowl.ai/app/bts-swim-dance-ai-video  [YEST-FILTER:parser-drift-or-non-template]
+  + bulin-47-freestyle-ai | https://ricebowl.ai/app/bulin-47-freestyle-ai  [YEST-FILTER:parser-drift-or-non-template]
+  + bullet-bike-ai-video-generator | https://ricebowl.ai/app/bullet-bike-ai-video-generator  [YEST-FILTER:parser-drift-or-non-template]
+  + burning-bridges-ai-video | https://ricebowl.ai/app/burning-bridges-ai-video  [YEST-FILTER:parser-drift-or-non-template]
+  + c-walk-ai-dance | https://ricebowl.ai/app/c-walk-ai-dance  [YEST-FILTER:parser-drift-or-non-template]
+  + can-can-dance-ai | https://ricebowl.ai/app/can-can-dance-ai  [YEST-FILTER:parser-drift-or-non-template]
+  + car-alarm-dance | https://ricebowl.ai/app/car-alarm-dance  [YEST-FILTER:parser-drift-or-non-template]
+  + car-jump-ai-video | https://ricebowl.ai/app/car-jump-ai-video  [YEST-FILTER:parser-drift-or-non-template]
+  + car-reveal-video-template | https://ricebowl.ai/app/car-reveal-video-template  [YEST-FILTER:parser-drift-or-non-template]
+  + casa-tupka-ai-video | https://ricebowl.ai/app/casa-tupka-ai-video  [YEST-FILTER:parser-drift-or-non-template]
+  + cats-making-coffee-ai-video-generator | https://ricebowl.ai/app/cats-making-coffee-ai-video-generator  [YEST-FILTER:parser-drift-or-non-template]
+  + ceiling-fan-outfit-change-ai | https://ricebowl.ai/app/ceiling-fan-outfit-change-ai  [YEST-FILTER:parser-drift-or-non-template]
+  + champagne-pop-birthday-ai-video | https://ricebowl.ai/app/champagne-pop-birthday-ai-video  [YEST-FILTER:parser-drift-or-non-template]
+  + chinaza-dynamic-filter-ai-video | https://ricebowl.ai/app/chinaza-dynamic-filter-ai-video  [YEST-FILTER:parser-drift-or-non-template]
+  + chipmunks-dance | https://ricebowl.ai/app/chipmunks-dance  [YEST-FILTER:parser-drift-or-non-template]
+  + choosin-texas-emo | https://ricebowl.ai/app/choosin-texas-emo  [YEST-FILTER:parser-drift-or-non-template]
+  + christmas-eve-message-from-santa | https://ricebowl.ai/app/christmas-eve-message-from-santa  [YEST-FILTER:parser-drift-or-non-template]
+  + christmas-princess-carriage-ai-trend | https://ricebowl.ai/app/christmas-princess-carriage-ai-trend  [YEST-FILTER:parser-drift-or-non-template]
+  + cilvelim-ai-trend | https://ricebowl.ai/app/cilvelim-ai-trend  [YEST-FILTER:parser-drift-or-non-template]
+  + clapping-cat-meme | https://ricebowl.ai/app/clapping-cat-meme  [YEST-FILTER:parser-drift-or-non-template]
+  + coldplay-kiss-cam-generator | https://ricebowl.ai/app/coldplay-kiss-cam-generator  [YEST-FILTER:parser-drift-or-non-template]
+  + convertible-coffee-drive-ai-video | https://ricebowl.ai/app/convertible-coffee-drive-ai-video  [YEST-FILTER:parser-drift-or-non-template]
+  + corpse-bride-ai | https://ricebowl.ai/app/corpse-bride-ai  [YEST-FILTER:parser-drift-or-non-template]
+  + crazy-frog-ai-video | https://ricebowl.ai/app/crazy-frog-ai-video  [YEST-FILTER:parser-drift-or-non-template]
+  + damon-salvatore-ai-video | https://ricebowl.ai/app/damon-salvatore-ai-video  [YEST-FILTER:parser-drift-or-non-template]
+  + day-of-the-dead-ai-video | https://ricebowl.ai/app/day-of-the-dead-ai-video  [YEST-FILTER:parser-drift-or-non-template]
+  + deep-down-in-my-heart-ai | https://ricebowl.ai/app/deep-down-in-my-heart-ai  [YEST-FILTER:parser-drift-or-non-template]
+  + devil-wears-prada-ai | https://ricebowl.ai/app/devil-wears-prada-ai  [YEST-FILTER:parser-drift-or-non-template]
+  + diwali-ai-transformation-video | https://ricebowl.ai/app/diwali-ai-transformation-video  [YEST-FILTER:parser-drift-or-non-template]
+  + dog-pool-party-ai-dance | https://ricebowl.ai/app/dog-pool-party-ai-dance  [YEST-FILTER:parser-drift-or-non-template]
+  + dog-year-recap-video | https://ricebowl.ai/app/dog-year-recap-video  [YEST-FILTER:parser-drift-or-non-template]
+  + dominican-papi-ai-dance-generator | https://ricebowl.ai/app/dominican-papi-ai-dance-generator  [YEST-FILTER:parser-drift-or-non-template]
+  + dugun-oyunu-ai-trend | https://ricebowl.ai/app/dugun-oyunu-ai-trend  [YEST-FILTER:parser-drift-or-non-template]
+  + elf-on-the-shelf-video | https://ricebowl.ai/app/elf-on-the-shelf-video  [YEST-FILTER:parser-drift-or-non-template]
+  + elf-yourself | https://ricebowl.ai/app/elf-yourself  [YEST-FILTER:parser-drift-or-non-template]
+  + enchantress-filter-ai | https://ricebowl.ai/app/enchantress-filter-ai  [YEST-FILTER:parser-drift-or-non-template]
+  + enzo-fernandez-celebration-ai-video | https://ricebowl.ai/app/enzo-fernandez-celebration-ai-video  [YEST-FILTER:parser-drift-or-non-template]
+  + fergie-baby-harlem-walk-ai-video | https://ricebowl.ai/app/fergie-baby-harlem-walk-ai-video  [YEST-FILTER:parser-drift-or-non-template]
+  + flying-car-ai-video | https://ricebowl.ai/app/flying-car-ai-video  [YEST-FILTER:parser-drift-or-non-template]
+  + fnaf-jumpscare-ai | https://ricebowl.ai/app/fnaf-jumpscare-ai  [YEST-FILTER:parser-drift-or-non-template]
+  + funeral-tribute-video | https://ricebowl.ai/app/funeral-tribute-video  [YEST-FILTER:parser-drift-or-non-template]
+  + funny-birthday-video | https://ricebowl.ai/app/funny-birthday-video  [YEST-FILTER:parser-drift-or-non-template]
+  + funny-birthday-video-maker | https://ricebowl.ai/app/funny-birthday-video-maker  [YEST-FILTER:parser-drift-or-non-template]
+  + funny-christmas-video | https://ricebowl.ai/app/funny-christmas-video  [YEST-FILTER:parser-drift-or-non-template]
+  + funny-thanksgiving-video | https://ricebowl.ai/app/funny-thanksgiving-video  [YEST-FILTER:parser-drift-or-non-template]
+  + fuzzy-dream-dance | https://ricebowl.ai/app/fuzzy-dream-dance  [YEST-FILTER:parser-drift-or-non-template]
+  + gangnam-style-ai | https://ricebowl.ai/app/gangnam-style-ai  [YEST-FILTER:parser-drift-or-non-template]
+  + gangnam-style-ai-dance | https://ricebowl.ai/app/gangnam-style-ai-dance  [YEST-FILTER:parser-drift-or-non-template]
+  + gangstas-paradise-ai-trend | https://ricebowl.ai/app/gangstas-paradise-ai-trend  [YEST-FILTER:parser-drift-or-non-template]
+  + gas-station-dance | https://ricebowl.ai/app/gas-station-dance  [YEST-FILTER:parser-drift-or-non-template]
+  + gemini-rain-ai-effect | https://ricebowl.ai/app/gemini-rain-ai-effect  [YEST-FILTER:parser-drift-or-non-template]
+  + ghost-filter-prank-ai | https://ricebowl.ai/app/ghost-filter-prank-ai  [YEST-FILTER:parser-drift-or-non-template]
+  + ghost-photoshoot-trend | https://ricebowl.ai/app/ghost-photoshoot-trend  [YEST-FILTER:parser-drift-or-non-template]
+  + giant-cat-ai-video | https://ricebowl.ai/app/giant-cat-ai-video  [YEST-FILTER:parser-drift-or-non-template]
+  + giant-hands-dress-up-ai-video-generator | https://ricebowl.ai/app/giant-hands-dress-up-ai-video-generator  [YEST-FILTER:parser-drift-or-non-template]
+  + goodbye-2026-welcome-2027 | https://ricebowl.ai/app/goodbye-2026-welcome-2027  [YEST-FILTER:parser-drift-or-non-template]
+  + grease-dance-ai | https://ricebowl.ai/app/grease-dance-ai  [YEST-FILTER:parser-drift-or-non-template]
+  + grinch-pet-ai-trend | https://ricebowl.ai/app/grinch-pet-ai-trend  [YEST-FILTER:parser-drift-or-non-template]
+  + gym-pet-one-more-rep-ai-video | https://ricebowl.ai/app/gym-pet-one-more-rep-ai-video  [YEST-FILTER:parser-drift-or-non-template]
+  + halloween-pumpkin-head | https://ricebowl.ai/app/halloween-pumpkin-head  [YEST-FILTER:parser-drift-or-non-template]
+  + halloween-transformation-video | https://ricebowl.ai/app/halloween-transformation-video  [YEST-FILTER:parser-drift-or-non-template]
+  + happy-birthday-boyfriend-video | https://ricebowl.ai/app/happy-birthday-boyfriend-video  [YEST-FILTER:parser-drift-or-non-template]
+  + happy-birthday-cat-video | https://ricebowl.ai/app/happy-birthday-cat-video  [YEST-FILTER:parser-drift-or-non-template]
+  + happy-birthday-dad-video | https://ricebowl.ai/app/happy-birthday-dad-video  [YEST-FILTER:parser-drift-or-non-template]
+  + happy-birthday-dog-video | https://ricebowl.ai/app/happy-birthday-dog-video  [YEST-FILTER:parser-drift-or-non-template]
+  + happy-birthday-girlfriend-video | https://ricebowl.ai/app/happy-birthday-girlfriend-video  [YEST-FILTER:parser-drift-or-non-template]
+  + happy-birthday-grandma-video | https://ricebowl.ai/app/happy-birthday-grandma-video  [YEST-FILTER:parser-drift-or-non-template]
+  + happy-birthday-husband-video | https://ricebowl.ai/app/happy-birthday-husband-video  [YEST-FILTER:parser-drift-or-non-template]
+  + happy-birthday-mom-video | https://ricebowl.ai/app/happy-birthday-mom-video  [YEST-FILTER:parser-drift-or-non-template]
+  + happy-birthday-sister-video | https://ricebowl.ai/app/happy-birthday-sister-video  [YEST-FILTER:parser-drift-or-non-template]
+  + happy-birthday-wife-video | https://ricebowl.ai/app/happy-birthday-wife-video  [YEST-FILTER:parser-drift-or-non-template]
+  + happy-new-year-video | https://ricebowl.ai/app/happy-new-year-video  [YEST-FILTER:parser-drift-or-non-template]
+  + heavenly-reunion-ai-video | https://ricebowl.ai/app/heavenly-reunion-ai-video  [YEST-FILTER:parser-drift-or-non-template]
+  + hit-the-road-dude-ai-video | https://ricebowl.ai/app/hit-the-road-dude-ai-video  [YEST-FILTER:parser-drift-or-non-template]
+  + hotel-lobby-ai | https://ricebowl.ai/app/hotel-lobby-ai  [YEST-FILTER:parser-drift-or-non-template]
+  + hotline-bling-ai-trend | https://ricebowl.ai/app/hotline-bling-ai-trend  [YEST-FILTER:parser-drift-or-non-template]
+  + hug-your-younger-self | https://ricebowl.ai/app/hug-your-younger-self  [YEST-FILTER:parser-drift-or-non-template]
+  + i-feel-like-nicole-ai-video | https://ricebowl.ai/app/i-feel-like-nicole-ai-video  [YEST-FILTER:parser-drift-or-non-template]
+  + i-wanna-love-you-ai-video | https://ricebowl.ai/app/i-wanna-love-you-ai-video  [YEST-FILTER:parser-drift-or-non-template]
+  + illit-you-re-under-arrest-ai-dance | https://ricebowl.ai/app/illit-you-re-under-arrest-ai-dance  [YEST-FILTER:parser-drift-or-non-template]
+  + im-not-yo-b-no-more-ai-dance | https://ricebowl.ai/app/im-not-yo-b-no-more-ai-dance  [YEST-FILTER:parser-drift-or-non-template]
+  + im-so-in-love-with-you-ai-dance | https://ricebowl.ai/app/im-so-in-love-with-you-ai-dance  [YEST-FILTER:parser-drift-or-non-template]
+  + insallah-masallah-ai-trend | https://ricebowl.ai/app/insallah-masallah-ai-trend  [YEST-FILTER:parser-drift-or-non-template]
+  + its-my-life-dog-ai-video-generator | https://ricebowl.ai/app/its-my-life-dog-ai-video-generator  [YEST-FILTER:parser-drift-or-non-template]
+  + its-time-christmas-ai-trend | https://ricebowl.ai/app/its-time-christmas-ai-trend  [YEST-FILTER:parser-drift-or-non-template]
+  + jawn-dance-ai | https://ricebowl.ai/app/jawn-dance-ai  [YEST-FILTER:parser-drift-or-non-template]
+  + jme-check-one-check-two | https://ricebowl.ai/app/jme-check-one-check-two  [YEST-FILTER:parser-drift-or-non-template]
+  + karwa-chauth-ai-video-generator | https://ricebowl.ai/app/karwa-chauth-ai-video-generator  [YEST-FILTER:parser-drift-or-non-template]
+  + kda-firestarter-dance | https://ricebowl.ai/app/kda-firestarter-dance  [YEST-FILTER:parser-drift-or-non-template]
+  + keep-on-steppin-ai-dance-video | https://ricebowl.ai/app/keep-on-steppin-ai-dance-video  [YEST-FILTER:parser-drift-or-non-template]
+  + kiat-jud-dai-kitten-parade | https://ricebowl.ai/app/kiat-jud-dai-kitten-parade  [YEST-FILTER:parser-drift-or-non-template]
+  + knight-cat-ai | https://ricebowl.ai/app/knight-cat-ai  [YEST-FILTER:parser-drift-or-non-template]
+  + la-calabaza-dance | https://ricebowl.ai/app/la-calabaza-dance  [YEST-FILTER:parser-drift-or-non-template]
+  + la-mujer-del-pelotero-ai-dance | https://ricebowl.ai/app/la-mujer-del-pelotero-ai-dance  [YEST-FILTER:parser-drift-or-non-template]
+  + lamine-yamal-rabona-ai | https://ricebowl.ai/app/lamine-yamal-rabona-ai  [YEST-FILTER:parser-drift-or-non-template]
+  + last-dance-ai-trend | https://ricebowl.ai/app/last-dance-ai-trend  [YEST-FILTER:parser-drift-or-non-template]
+  + layoo-ai-dance | https://ricebowl.ai/app/layoo-ai-dance  [YEST-FILTER:parser-drift-or-non-template]
+  + lego-truck-wash-ai-video | https://ricebowl.ai/app/lego-truck-wash-ai-video  [YEST-FILTER:parser-drift-or-non-template]
+  + like-jennie-ai-trend | https://ricebowl.ai/app/like-jennie-ai-trend  [YEST-FILTER:parser-drift-or-non-template]
+  + lil-durk-king-von-back-again | https://ricebowl.ai/app/lil-durk-king-von-back-again  [YEST-FILTER:parser-drift-or-non-template]
+  + lil-t-jones-dance | https://ricebowl.ai/app/lil-t-jones-dance  [YEST-FILTER:parser-drift-or-non-template]
+  + lisa-tarantino-dance | https://ricebowl.ai/app/lisa-tarantino-dance  [YEST-FILTER:parser-drift-or-non-template]
+  + lonyo-ai-dance | https://ricebowl.ai/app/lonyo-ai-dance  [YEST-FILTER:parser-drift-or-non-template]
+  + mandem-in-disguise | https://ricebowl.ai/app/mandem-in-disguise  [YEST-FILTER:parser-drift-or-non-template]
+  + marigold-bridge-ai-video-generator | https://ricebowl.ai/app/marigold-bridge-ai-video-generator  [YEST-FILTER:parser-drift-or-non-template]
+  + meimei-dance | https://ricebowl.ai/app/meimei-dance  [YEST-FILTER:parser-drift-or-non-template]
+  + mi-chico-dance-ai-trend | https://ricebowl.ai/app/mi-chico-dance-ai-trend  [YEST-FILTER:parser-drift-or-non-template]
+  + michael-jackson-ai-dance | https://ricebowl.ai/app/michael-jackson-ai-dance  [YEST-FILTER:parser-drift-or-non-template]
+  + mickey-mickey-ds-dance | https://ricebowl.ai/app/mickey-mickey-ds-dance  [YEST-FILTER:parser-drift-or-non-template]
+  + migos-ai | https://ricebowl.ai/app/migos-ai  [YEST-FILTER:parser-drift-or-non-template]
+  + missed-train-dance | https://ricebowl.ai/app/missed-train-dance  [YEST-FILTER:parser-drift-or-non-template]
+  + mom-dad-sister-brother-trend | https://ricebowl.ai/app/mom-dad-sister-brother-trend  [YEST-FILTER:parser-drift-or-non-template]
+  + moon-headlight-transition-ai-video | https://ricebowl.ai/app/moon-headlight-transition-ai-video  [YEST-FILTER:parser-drift-or-non-template]
+  + my-ride-is-here-broom-trend | https://ricebowl.ai/app/my-ride-is-here-broom-trend  [YEST-FILTER:parser-drift-or-non-template]
+  + ngifuna-wena-dance | https://ricebowl.ai/app/ngifuna-wena-dance  [YEST-FILTER:parser-drift-or-non-template]
+  + nightwing-ai-trend | https://ricebowl.ai/app/nightwing-ai-trend  [YEST-FILTER:parser-drift-or-non-template]
+  + no-guidance-dance | https://ricebowl.ai/app/no-guidance-dance  [YEST-FILTER:parser-drift-or-non-template]
+  + no-scrubs-ai-dance | https://ricebowl.ai/app/no-scrubs-ai-dance  [YEST-FILTER:parser-drift-or-non-template]
+  + no-te-da-miedo-andar-sola-ai-video | https://ricebowl.ai/app/no-te-da-miedo-andar-sola-ai-video  [YEST-FILTER:parser-drift-or-non-template]
+  + not-like-us-ai-video-generator | https://ricebowl.ai/app/not-like-us-ai-video-generator  [YEST-FILTER:parser-drift-or-non-template]
+  + on-the-radar-ai | https://ricebowl.ai/app/on-the-radar-ai  [YEST-FILTER:parser-drift-or-non-template]
+  + oouuh-ai | https://ricebowl.ai/app/oouuh-ai  [YEST-FILTER:parser-drift-or-non-template]
+  + ozil-goal-ai-video | https://ricebowl.ai/app/ozil-goal-ai-video  [YEST-FILTER:parser-drift-or-non-template]
+  + paparazzi-red-carpet-ai-video | https://ricebowl.ai/app/paparazzi-red-carpet-ai-video  [YEST-FILTER:parser-drift-or-non-template]
+  + parrot-dance-ai-video-generator | https://ricebowl.ai/app/parrot-dance-ai-video-generator  [YEST-FILTER:parser-drift-or-non-template]
+  + passport-photo-maker | https://ricebowl.ai/app/passport-photo-maker  [YEST-FILTER:parser-drift-or-non-template]
+  + pata-chalega-ai-video | https://ricebowl.ai/app/pata-chalega-ai-video  [YEST-FILTER:parser-drift-or-non-template]
+  + patrick-swayze-dance-ai-video | https://ricebowl.ai/app/patrick-swayze-dance-ai-video  [YEST-FILTER:parser-drift-or-non-template]
+  + personalized-santa-video | https://ricebowl.ai/app/personalized-santa-video  [YEST-FILTER:parser-drift-or-non-template]
+  + pet-memorial-ai-video | https://ricebowl.ai/app/pet-memorial-ai-video  [YEST-FILTER:parser-drift-or-non-template]
+  + pick-it-up-make-it-jump-dance | https://ricebowl.ai/app/pick-it-up-make-it-jump-dance  [YEST-FILTER:parser-drift-or-non-template]
+  + plug-walk-ai-filter | https://ricebowl.ai/app/plug-walk-ai-filter  [YEST-FILTER:parser-drift-or-non-template]
+  + polska-jumpstyle-ai | https://ricebowl.ai/app/polska-jumpstyle-ai  [YEST-FILTER:parser-drift-or-non-template]
+  + popstar-ai-video | https://ricebowl.ai/app/popstar-ai-video  [YEST-FILTER:parser-drift-or-non-template]
+  + pray-for-me-slow-mo-dance-ai | https://ricebowl.ai/app/pray-for-me-slow-mo-dance-ai  [YEST-FILTER:parser-drift-or-non-template]
+  + puerto-rican-mami-ai-dance | https://ricebowl.ai/app/puerto-rican-mami-ai-dance  [YEST-FILTER:parser-drift-or-non-template]
+  + put-a-ring-on-it-dog | https://ricebowl.ai/app/put-a-ring-on-it-dog  [YEST-FILTER:parser-drift-or-non-template]
+  + quiet-on-the-creek-dance | https://ricebowl.ai/app/quiet-on-the-creek-dance  [YEST-FILTER:parser-drift-or-non-template]
+  + raindance-ai-trend | https://ricebowl.ai/app/raindance-ai-trend  [YEST-FILTER:parser-drift-or-non-template]
+  + ramalama-bang-bang-trend | https://ricebowl.ai/app/ramalama-bang-bang-trend  [YEST-FILTER:parser-drift-or-non-template]
+  + ramalama-halloween | https://ricebowl.ai/app/ramalama-halloween  [YEST-FILTER:parser-drift-or-non-template]
+  + rasputin-dance-ai-generator | https://ricebowl.ai/app/rasputin-dance-ai-generator  [YEST-FILTER:parser-drift-or-non-template]
+  + restore-old-photos | https://ricebowl.ai/app/restore-old-photos  [YEST-FILTER:parser-drift-or-non-template]
+  + santa-caught-on-camera-ai | https://ricebowl.ai/app/santa-caught-on-camera-ai  [YEST-FILTER:parser-drift-or-non-template]
+  + santa-facetime | https://ricebowl.ai/app/santa-facetime  [YEST-FILTER:parser-drift-or-non-template]
+  + santa-naughty-list-video | https://ricebowl.ai/app/santa-naughty-list-video  [YEST-FILTER:parser-drift-or-non-template]
+  + santa-nice-list-ai-video | https://ricebowl.ai/app/santa-nice-list-ai-video  [YEST-FILTER:parser-drift-or-non-template]
+  + santa-video-message | https://ricebowl.ai/app/santa-video-message  [YEST-FILTER:parser-drift-or-non-template]
+  + singing-pets-ai | https://ricebowl.ai/app/singing-pets-ai  [YEST-FILTER:parser-drift-or-non-template]
+  + skull-cap-ai | https://ricebowl.ai/app/skull-cap-ai  [YEST-FILTER:parser-drift-or-non-template]
+  + smalltown-boy-ai | https://ricebowl.ai/app/smalltown-boy-ai  [YEST-FILTER:parser-drift-or-non-template]
+  + smooth-criminal-dance-challenge | https://ricebowl.ai/app/smooth-criminal-dance-challenge  [YEST-FILTER:parser-drift-or-non-template]
+  + solar-eclipse-drake-ai-video-generator | https://ricebowl.ai/app/solar-eclipse-drake-ai-video-generator  [YEST-FILTER:parser-drift-or-non-template]
+  + spicy-chicken-sandwich-school-dance | https://ricebowl.ai/app/spicy-chicken-sandwich-school-dance  [YEST-FILTER:parser-drift-or-non-template]
+  + spiderman-mom-and-son-trend | https://ricebowl.ai/app/spiderman-mom-and-son-trend  [YEST-FILTER:parser-drift-or-non-template]
+  + spooky-scary-skeleton-dance | https://ricebowl.ai/app/spooky-scary-skeleton-dance  [YEST-FILTER:parser-drift-or-non-template]
+  + stuffed-animal-ufc-ai-video | https://ricebowl.ai/app/stuffed-animal-ufc-ai-video  [YEST-FILTER:parser-drift-or-non-template]
+  + suave-cat-dance | https://ricebowl.ai/app/suave-cat-dance  [YEST-FILTER:parser-drift-or-non-template]
+  + subway-singing-ai-video | https://ricebowl.ai/app/subway-singing-ai-video  [YEST-FILTER:parser-drift-or-non-template]
+  + susan-dell-dance-ai-video | https://ricebowl.ai/app/susan-dell-dance-ai-video  [YEST-FILTER:parser-drift-or-non-template]
+  + take-me-home-dom-perignon-ai-trend | https://ricebowl.ai/app/take-me-home-dom-perignon-ai-trend  [YEST-FILTER:parser-drift-or-non-template]
+  + talk-dirty-dance-ai-trend | https://ricebowl.ai/app/talk-dirty-dance-ai-trend  [YEST-FILTER:parser-drift-or-non-template]
+  + tears-falling-down-filter | https://ricebowl.ai/app/tears-falling-down-filter  [YEST-FILTER:parser-drift-or-non-template]
+  + tecktonik-dance-ai | https://ricebowl.ai/app/tecktonik-dance-ai  [YEST-FILTER:parser-drift-or-non-template]
+  + tesla-flying-car-ai-video | https://ricebowl.ai/app/tesla-flying-car-ai-video  [YEST-FILTER:parser-drift-or-non-template]
+  + thank-you-baby-ai-dance | https://ricebowl.ai/app/thank-you-baby-ai-dance  [YEST-FILTER:parser-drift-or-non-template]
+  + thriller-dance-ai-video | https://ricebowl.ai/app/thriller-dance-ai-video  [YEST-FILTER:parser-drift-or-non-template]
+  + tim-burton-girls-ai | https://ricebowl.ai/app/tim-burton-girls-ai  [YEST-FILTER:parser-drift-or-non-template]
+  + toc-toc-dance | https://ricebowl.ai/app/toc-toc-dance  [YEST-FILTER:parser-drift-or-non-template]
+  + toy-car-to-real-car | https://ricebowl.ai/app/toy-car-to-real-car  [YEST-FILTER:parser-drift-or-non-template]
+  + toz-pembe-ai-dance | https://ricebowl.ai/app/toz-pembe-ai-dance  [YEST-FILTER:parser-drift-or-non-template]
+  + turning-my-mom-into-me-ai-trend | https://ricebowl.ai/app/turning-my-mom-into-me-ai-trend  [YEST-FILTER:parser-drift-or-non-template]
+  + twilight-baseball-scene | https://ricebowl.ai/app/twilight-baseball-scene  [YEST-FILTER:parser-drift-or-non-template]
+  + unforgettable-car-ai-video | https://ricebowl.ai/app/unforgettable-car-ai-video  [YEST-FILTER:parser-drift-or-non-template]
+  + uptown-funk-ai-dance | https://ricebowl.ai/app/uptown-funk-ai-dance  [YEST-FILTER:parser-drift-or-non-template]
+  + vai-matar-papai-dance | https://ricebowl.ai/app/vai-matar-papai-dance  [YEST-FILTER:parser-drift-or-non-template]
+  + valet-shoe-drop-ai-trend | https://ricebowl.ai/app/valet-shoe-drop-ai-trend  [YEST-FILTER:parser-drift-or-non-template]
+  + van-damme-ai-dance | https://ricebowl.ai/app/van-damme-ai-dance  [YEST-FILTER:parser-drift-or-non-template]
+  + venom-car-ai-video | https://ricebowl.ai/app/venom-car-ai-video  [YEST-FILTER:parser-drift-or-non-template]
+  + venom-makeup-video | https://ricebowl.ai/app/venom-makeup-video  [YEST-FILTER:parser-drift-or-non-template]
+  + video-from-santa | https://ricebowl.ai/app/video-from-santa  [YEST-FILTER:parser-drift-or-non-template]
+  + vikas-editing-ai | https://ricebowl.ai/app/vikas-editing-ai  [YEST-FILTER:parser-drift-or-non-template]
+  + vivaldi-dance-ai-video-generator | https://ricebowl.ai/app/vivaldi-dance-ai-video-generator  [YEST-FILTER:parser-drift-or-non-template]
+  + what-hairstyle-suits-me | https://ricebowl.ai/app/what-hairstyle-suits-me  [YEST-FILTER:parser-drift-or-non-template]
+  + whiny-dog-ai-trend | https://ricebowl.ai/app/whiny-dog-ai-trend  [YEST-FILTER:parser-drift-or-non-template]
+  + white-chicks-car-scene-ai | https://ricebowl.ai/app/white-chicks-car-scene-ai  [YEST-FILTER:parser-drift-or-non-template]
+  + wipe-me-down-ai-dance | https://ricebowl.ai/app/wipe-me-down-ai-dance  [YEST-FILTER:parser-drift-or-non-template]
+  + wyw-my-sweetie-dance-ai-video | https://ricebowl.ai/app/wyw-my-sweetie-dance-ai-video  [YEST-FILTER:parser-drift-or-non-template]
+  + yohohoho-meme | https://ricebowl.ai/app/yohohoho-meme  [YEST-FILTER:parser-drift-or-non-template]
+  + zombie-ai-trend | https://ricebowl.ai/app/zombie-ai-trend  [YEST-FILTER:parser-drift-or-non-template]
+
+======== RapVideo.ai (rapvideo.json) +29 -0 ========
+  + ai-clone-video | https://rapvideo.ai/ai-clone-video  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-dance-video | https://rapvideo.ai/ai-dance-video  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-family-video | https://rapvideo.ai/ai-family-video  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-hug-deceased-loved-one | https://rapvideo.ai/ai-hug-deceased-loved-one  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-hug-generator | https://rapvideo.ai/ai-hug-generator  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-music-video-generator | https://rapvideo.ai/ai-music-video-generator  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-promo-video-for-small-business | https://rapvideo.ai/ai-promo-video-for-small-business  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-tribute-video | https://rapvideo.ai/ai-tribute-video  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-video-effects | https://rapvideo.ai/ai-video-effects  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-video-of-yourself | https://rapvideo.ai/ai-video-of-yourself  [YEST-FILTER:parser-drift-or-non-template]
+  + animate-old-photos | https://rapvideo.ai/animate-old-photos  [YEST-FILTER:parser-drift-or-non-template]
+  + apple-touch-icon.png | https://rapvideo.ai/apple-touch-icon.png  [YEST-FILTER:parser-drift-or-non-template]
+  + birthday-rap-song | https://rapvideo.ai/birthday-rap-song  [YEST-FILTER:parser-drift-or-non-template]
+  + can-chatgpt-make-videos | https://rapvideo.ai/can-chatgpt-make-videos  [YEST-FILTER:parser-drift-or-non-template]
+  + diss-track-generator | https://rapvideo.ai/diss-track-generator  [YEST-FILTER:parser-drift-or-non-template]
+  + earth-zoom-out | https://rapvideo.ai/earth-zoom-out  [YEST-FILTER:parser-drift-or-non-template]
+  + favicon.ico | https://rapvideo.ai/favicon.ico  [YEST-FILTER:parser-drift-or-non-template]
+  + funny-birthday-video | https://rapvideo.ai/funny-birthday-video  [YEST-FILTER:parser-drift-or-non-template]
+  + how-to-do-the-ai-trend-on-tiktok | https://rapvideo.ai/how-to-do-the-ai-trend-on-tiktok  [YEST-FILTER:parser-drift-or-non-template]
+  + personalized-anniversary-song | https://rapvideo.ai/personalized-anniversary-song  [YEST-FILTER:parser-drift-or-non-template]
+  + personalized-birthday-song | https://rapvideo.ai/personalized-birthday-song  [YEST-FILTER:parser-drift-or-non-template]
+  + personalized-christmas-song | https://rapvideo.ai/personalized-christmas-song  [YEST-FILTER:parser-drift-or-non-template]
+  + personalized-love-song | https://rapvideo.ai/personalized-love-song  [YEST-FILTER:parser-drift-or-non-template]
+  + photo-to-video-ai | https://rapvideo.ai/photo-to-video-ai  [YEST-FILTER:parser-drift-or-non-template]
+  + rap-duo-name-generator | https://rapvideo.ai/rap-duo-name-generator  [YEST-FILTER:parser-drift-or-non-template]
+  + rap-maker | https://rapvideo.ai/rap-maker  [YEST-FILTER:parser-drift-or-non-template]
+  + refund-policy | https://rapvideo.ai/refund-policy  [YEST-FILTER:parser-drift-or-non-template]
+  + sticky-bubblegum-ai | https://rapvideo.ai/sticky-bubblegum-ai
+  + videos | https://rapvideo.ai/videos  [YEST-FILTER:parser-drift-or-non-template]
+
+======== Memelry (memelry.json) +52 -0 ========
+  + affiliates | https://memelry.com/affiliates  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-dance-video-from-photo | https://memelry.com/ai-dance-video-from-photo  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-mermaid-filter | https://memelry.com/ai-mermaid-filter  [YEST-FILTER:image-only-not-video-template]
+  + ai-tiny-desk-video-look-realistic | https://memelry.com/ai-tiny-desk-video-look-realistic  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-tiny-desk-video-without-editing | https://memelry.com/ai-tiny-desk-video-without-editing  [YEST-FILTER:parser-drift-or-non-template]
+  + ai-tool-tiny-desk-office-concert | https://memelry.com/ai-tool-tiny-desk-office-concert  [YEST-FILTER:parser-drift-or-non-template]
+  + bulin-47-freestyle-meme | https://memelry.com/bulin-47-freestyle-meme  [YEST-FILTER:parser-drift-or-non-template]
+  + coaches-thriller-face-swap-tools | https://memelry.com/coaches-thriller-face-swap-tools  [YEST-FILTER:parser-drift-or-non-template]
+  + cortis-go-ai-from-photo | https://memelry.com/cortis-go-ai-from-photo
+  + custom-meme | https://memelry.com/custom-meme  [YEST-FILTER:parser-drift-or-non-template]
+  + dime-dime-baby-dog-cat | https://memelry.com/dime-dime-baby-dog-cat  [YEST-FILTER:parser-drift-or-non-template]
+  + dime-dime-baby-meme | https://memelry.com/dime-dime-baby-meme  [YEST-FILTER:parser-drift-or-non-template]
+  + gangnam-style-face-swap-tools | https://memelry.com/gangnam-style-face-swap-tools  [YEST-FILTER:parser-drift-or-non-template]
+  + good-chat-on-phone-ai | https://memelry.com/good-chat-on-phone-ai  [YEST-FILTER:parser-drift-or-non-template]
+  + good-chat-one-time-payment-ai | https://memelry.com/good-chat-one-time-payment-ai  [YEST-FILTER:parser-drift-or-non-template]
+  + good-chat-original-audio-ai | https://memelry.com/good-chat-original-audio-ai  [YEST-FILTER:parser-drift-or-non-template]
+  + good-chat-two-people-ai | https://memelry.com/good-chat-two-people-ai  [YEST-FILTER:parser-drift-or-non-template]
+  + group-performance-video-from-selfies | https://memelry.com/group-performance-video-from-selfies  [YEST-FILTER:parser-drift-or-non-template]
+  + how-to-make-no-scrubs-ai-video | https://memelry.com/how-to-make-no-scrubs-ai-video
+  + im-flying-titanic-meme | https://memelry.com/im-flying-titanic-meme  [YEST-FILTER:parser-drift-or-non-template]
+  + its-time-christmas-from-photo | https://memelry.com/its-time-christmas-from-photo  [YEST-FILTER:parser-drift-or-non-template]
+  + la-la-land-couple-ai | https://memelry.com/la-la-land-couple-ai  [YEST-FILTER:parser-drift-or-non-template]
+  + la-la-land-dance-moves-ai | https://memelry.com/la-la-land-dance-moves-ai  [YEST-FILTER:parser-drift-or-non-template]
+  + la-la-land-one-selfie-ai | https://memelry.com/la-la-land-one-selfie-ai  [YEST-FILTER:parser-drift-or-non-template]
+  + la-la-land-with-music-ai | https://memelry.com/la-la-land-with-music-ai  [YEST-FILTER:parser-drift-or-non-template]
+  + no-scrubs-trend-with-friends | https://memelry.com/no-scrubs-trend-with-friends  [YEST-FILTER:parser-drift-or-non-template]
+  + outstanding-tiny-desk-set | https://memelry.com/outstanding-tiny-desk-set  [YEST-FILTER:parser-drift-or-non-template]
+  + photo-video-privacy | https://memelry.com/photo-video-privacy  [YEST-FILTER:parser-drift-or-non-template]
+  + realistic-dog-pool-party-ai | https://memelry.com/realistic-dog-pool-party-ai  [YEST-FILTER:parser-drift-or-non-template]
+  + replace-person-in-video | https://memelry.com/replace-person-in-video  [YEST-FILTER:parser-drift-or-non-template]
+  + rush-hour-fantasy-face-likeness | https://memelry.com/rush-hour-fantasy-face-likeness  [YEST-FILTER:parser-drift-or-non-template]
+  + rush-hour-fantasy-two-photos | https://memelry.com/rush-hour-fantasy-two-photos  [YEST-FILTER:parser-drift-or-non-template]
+  + saree-pose-ai | https://memelry.com/saree-pose-ai  [YEST-FILTER:image-only-not-video-template]
+  + tiktok-video-face-swap | https://memelry.com/tiktok-video-face-swap  [YEST-FILTER:parser-drift-or-non-template]
+  + tiny-desk-ai-birthday | https://memelry.com/tiny-desk-ai-birthday  [YEST-FILTER:parser-drift-or-non-template]
+  + tiny-desk-ai-couples | https://memelry.com/tiny-desk-ai-couples  [YEST-FILTER:parser-drift-or-non-template]
+  + tiny-desk-ai-coworkers | https://memelry.com/tiny-desk-ai-coworkers  [YEST-FILTER:parser-drift-or-non-template]
+  + tiny-desk-ai-face-swap | https://memelry.com/tiny-desk-ai-face-swap  [YEST-FILTER:parser-drift-or-non-template]
+  + tiny-desk-ai-family | https://memelry.com/tiny-desk-ai-family  [YEST-FILTER:parser-drift-or-non-template]
+  + tiny-desk-ai-graduation | https://memelry.com/tiny-desk-ai-graduation  [YEST-FILTER:parser-drift-or-non-template]
+  + tiny-desk-ai-meme-origin | https://memelry.com/tiny-desk-ai-meme-origin  [YEST-FILTER:parser-drift-or-non-template]
+  + tiny-desk-ai-on-phone | https://memelry.com/tiny-desk-ai-on-phone  [YEST-FILTER:parser-drift-or-non-template]
+  + tiny-desk-ai-original-audio | https://memelry.com/tiny-desk-ai-original-audio  [YEST-FILTER:parser-drift-or-non-template]
+  + tiny-desk-ai-wedding | https://memelry.com/tiny-desk-ai-wedding  [YEST-FILTER:parser-drift-or-non-template]
+  + tiny-desk-parody-from-photos | https://memelry.com/tiny-desk-parody-from-photos  [YEST-FILTER:parser-drift-or-non-template]
+  + wassup-dance-face-expression-guide | https://memelry.com/wassup-dance-face-expression-guide
+  + wassup-dance-with-three-friends | https://memelry.com/wassup-dance-with-three-friends
+  + wassup-in-a-minute-cost | https://memelry.com/wassup-in-a-minute-cost  [YEST-FILTER:parser-drift-or-non-template]
+  + window-peeper-dog-cat | https://memelry.com/window-peeper-dog-cat  [YEST-FILTER:parser-drift-or-non-template]
+  + window-peeper-meme | https://memelry.com/window-peeper-meme  [YEST-FILTER:parser-drift-or-non-template]
+  + window-peeper-prank | https://memelry.com/window-peeper-prank  [YEST-FILTER:parser-drift-or-non-template]
+  + wizard-cat-keyboard-ai | https://memelry.com/wizard-cat-keyboard-ai  [YEST-FILTER:parser-drift-or-non-template]
+
+======== Kubflow (kubflow.json) +1 -0 ========
+  + generations | https://kubflow.ai/trends/generations  [YEST-FILTER:parser-drift-or-non-template]
+
+======== Bolly.AI (bolly.json) +7 -0 ========
+  + anime | https://www.bolly.ai/template/anime  [YEST-FILTER:parser-drift-or-non-template]
+  + brainrot | https://www.bolly.ai/template/brainrot  [YEST-FILTER:parser-drift-or-non-template]
+  + edits | https://www.bolly.ai/template/edits  [YEST-FILTER:parser-drift-or-non-template]
+  + football | https://www.bolly.ai/template/football  [YEST-FILTER:parser-drift-or-non-template]
+  + kpop | https://www.bolly.ai/template/kpop  [YEST-FILTER:parser-drift-or-non-template]
+  + meme | https://www.bolly.ai/template/meme  [YEST-FILTER:parser-drift-or-non-template]
+  + multi-person | https://www.bolly.ai/template/multi-person  [YEST-FILTER:parser-drift-or-non-template]
+
+======== Starrd (starrd.json) +17 -1 ========
+  + action | https://www.getstarrd.app/template/action  [YEST-FILTER:parser-drift-or-non-template]
+  + anime | https://www.getstarrd.app/template/anime  [YEST-FILTER:parser-drift-or-non-template]
+  + asmr | https://www.getstarrd.app/template/asmr  [YEST-FILTER:parser-drift-or-non-template]
+  + cars | https://www.getstarrd.app/template/cars  [YEST-FILTER:parser-drift-or-non-template]
+  + crime | https://www.getstarrd.app/template/crime  [YEST-FILTER:parser-drift-or-non-template]
+  + drama | https://www.getstarrd.app/template/drama  [YEST-FILTER:parser-drift-or-non-template]
+  + gaming | https://www.getstarrd.app/template/gaming  [YEST-FILTER:parser-drift-or-non-template]
+  + henshin | https://www.getstarrd.app/template/henshin  [YEST-FILTER:parser-drift-or-non-template]
+  + holidays | https://www.getstarrd.app/template/holidays  [YEST-FILTER:parser-drift-or-non-template]
+  + monkey-eating-apple-ai-video | https://www.getstarrd.app/template/monkey-eating-apple-ai-video
+  + music | https://www.getstarrd.app/template/music  [YEST-FILTER:parser-drift-or-non-template]
+  + nostalgia | https://www.getstarrd.app/template/nostalgia  [YEST-FILTER:parser-drift-or-non-template]
+  + pets | https://www.getstarrd.app/template/pets  [YEST-FILTER:parser-drift-or-non-template]
+  + pranks | https://www.getstarrd.app/template/pranks  [YEST-FILTER:parser-drift-or-non-template]
+  + song | https://www.getstarrd.app/template/song  [YEST-FILTER:parser-drift-or-non-template]
+  + sports | https://www.getstarrd.app/template/sports  [YEST-FILTER:parser-drift-or-non-template]
+  + trailers | https://www.getstarrd.app/template/trailers  [YEST-FILTER:parser-drift-or-non-template]
+  - MISSING bro-took-the-whole-bag-ai-video | https://www.getstarrd.app/template/bro-took-the-whole-bag-ai-video
+
+======== aiMakeVideo (aimakevideo.json) +2 -0 ========
+  + babydoll-dance-ai | https://aimakevideo.com/babydoll-dance-ai
+  + wassup-in-a-minute-ai | https://aimakevideo.com/wassup-in-a-minute-ai
+
+======== UNCHANGED ======== Remake Your Meme, DoTheTrend, Smew AI, ViralRemake, MemeClone.ai, Trendify Video

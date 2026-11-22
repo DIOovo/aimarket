@@ -1,0 +1,732 @@
+[
+  {
+    "site": "TrendTemplate",
+    "file": "trendtemplate.json",
+    "item": {
+      "id_or_slug": "pterodactyl-juarez-ai",
+      "title": "Pterodactyl Juárez AI",
+      "url": "https://trendtemplate.com/pterodactyl-juarez-ai"
+    },
+    "desc": "夜里用链子牵着翼龙，配上「ya lo agarré」"
+  },
+  {
+    "site": "TrendTemplate",
+    "file": "trendtemplate.json",
+    "item": {
+      "id_or_slug": "santa-nice-list-ai",
+      "title": "Santa Nice List AI",
+      "url": "https://trendtemplate.com/santa-nice-list-ai"
+    },
+    "desc": "圣诞老人念名单，金框里露出你的脸，宠物照也行"
+  },
+  {
+    "site": "ClipRemake",
+    "file": "clipremake.json",
+    "item": {
+      "id_or_slug": "christmas-dance-ai",
+      "title": "Christmas Dance AI",
+      "url": "https://clipremake.com/templates/christmas-dance-ai"
+    },
+    "desc": "格子睡衣跟跳 Deck the Halls 圣诞舞，可双人"
+  },
+  {
+    "site": "ClipRemake",
+    "file": "clipremake.json",
+    "item": {
+      "id_or_slug": "james-bond-reveal-ai",
+      "title": "James Bond Reveal AI",
+      "url": "https://clipremake.com/templates/james-bond-reveal-ai"
+    },
+    "desc": "黑暗中枪口抬起，你以黑西装 007 造型现身"
+  },
+  {
+    "site": "ClipRemake",
+    "file": "clipremake.json",
+    "item": {
+      "id_or_slug": "king-jin-ai",
+      "title": "King Jin AI",
+      "url": "https://clipremake.com/templates/king-jin-ai"
+    },
+    "desc": "霓虹街上你一站不动，整条街的人向你鞠躬"
+  },
+  {
+    "site": "ClipRemake",
+    "file": "clipremake.json",
+    "item": {
+      "id_or_slug": "more-like-a-quesadilla-ai",
+      "title": "More Like a Quesadilla AI",
+      "url": "https://clipremake.com/templates/more-like-a-quesadilla-ai"
+    },
+    "desc": "面无表情对口型，再硬切到惊恐瞪眼"
+  },
+  {
+    "site": "ClipRemake",
+    "file": "clipremake.json",
+    "item": {
+      "id_or_slug": "need-for-speed-ai",
+      "title": "Need for Speed AI",
+      "url": "https://clipremake.com/templates/need-for-speed-ai"
+    },
+    "desc": "把自己的车贴进街头飙车电影场景，烧胎甩尾"
+  },
+  {
+    "site": "ClipRemake",
+    "file": "clipremake.json",
+    "item": {
+      "id_or_slug": "pet-taxi-ai",
+      "title": "Pet Taxi AI",
+      "url": "https://clipremake.com/templates/pet-taxi-ai"
+    },
+    "desc": "下班招车，自家猫狗变成巴士那么大载你回家"
+  },
+  {
+    "site": "ClipRemake",
+    "file": "clipremake.json",
+    "item": {
+      "id_or_slug": "st-tropez-dj-ai",
+      "title": "St Tropez DJ AI",
+      "url": "https://clipremake.com/templates/st-tropez-dj-ai"
+    },
+    "desc": "在圣特罗佩海滩俱乐部打碟，举手时全场欢呼"
+  },
+  {
+    "site": "ClipRemake",
+    "file": "clipremake.json",
+    "item": {
+      "id_or_slug": "tidal-wave-ai",
+      "title": "Tidal Wave AI",
+      "url": "https://clipremake.com/templates/tidal-wave-ai"
+    },
+    "desc": "海边栏杆摆拍，巨浪把人拍倒，再笑着涉水出来，最多三人"
+  },
+  {
+    "site": "ClipRemake",
+    "file": "clipremake.json",
+    "item": {
+      "id_or_slug": "yamal-dance-ai",
+      "title": "Yamal Dance AI",
+      "url": "https://clipremake.com/templates/yamal-dance-ai"
+    },
+    "desc": "在宴会厅跟跳 Y Que Fue（亚马尔舞）"
+  },
+  {
+    "site": "MakeViral",
+    "file": "makeviral.json",
+    "item": {
+      "id_or_slug": "ai-wedding-dress-transformation",
+      "title": "AI Wedding Dress Transformation",
+      "url": "https://www.makeviral.ai/templates/ai-wedding-dress-transformation"
+    },
+    "desc": "一张照片变成珠饰婚纱、长珍珠头纱的新娘造型"
+  },
+  {
+    "site": "MakeViral",
+    "file": "makeviral.json",
+    "item": {
+      "id_or_slug": "baby-face-filter-ai",
+      "title": "Baby Face Filter AI",
+      "url": "https://www.makeviral.ai/templates/baby-face-filter-ai"
+    },
+    "desc": "把脸变成大眼睛、圆脸的娃娃婴儿滤镜，可出图或视频"
+  },
+  {
+    "site": "MakeViral",
+    "file": "makeviral.json",
+    "item": {
+      "id_or_slug": "boxing-dog-ai-trend",
+      "title": "Boxing Dog AI Trend",
+      "url": "https://www.makeviral.ai/templates/boxing-dog-ai-trend"
+    },
+    "desc": "宠物坐在副驾，突然对着镜头快速出拳"
+  },
+  {
+    "site": "MakeViral",
+    "file": "makeviral.json",
+    "item": {
+      "id_or_slug": "disney-couple-three-panel-ai-trend",
+      "title": "My Disney Boyfriend / Three-Panel",
+      "url": "https://www.makeviral.ai/templates/disney-couple-three-panel-ai-trend"
+    },
+    "desc": "情侣照做成三格童话卡通：他的眼睛、拥抱、她的眼睛"
+  },
+  {
+    "site": "MakeViral",
+    "file": "makeviral.json",
+    "item": {
+      "id_or_slug": "frozen-feet-couple-ai-trend",
+      "title": "Frozen Feet Couple AI Trend",
+      "url": "https://www.makeviral.ai/templates/frozen-feet-couple-ai-trend"
+    },
+    "desc": "冰脚把另一半冻在床上，连吹风机也救不了"
+  },
+  {
+    "site": "MakeViral",
+    "file": "makeviral.json",
+    "item": {
+      "id_or_slug": "funny-goalkeeper-ai-trend",
+      "title": "Funny Goalkeeper AI Trend",
+      "url": "https://www.makeviral.ai/templates/funny-goalkeeper-ai-trend"
+    },
+    "desc": "倒挂在球门横梁上，把所有射门都挡下来"
+  },
+  {
+    "site": "MakeViral",
+    "file": "makeviral.json",
+    "item": {
+      "id_or_slug": "hot-chick-ice-cream-ai-trend",
+      "title": "Hot Chick Ice Cream AI Trend",
+      "url": "https://www.makeviral.ai/templates/hot-chick-ice-cream-ai-trend"
+    },
+    "desc": "复刻《热辣辣妹》冰淇淋店「It's on the house」对戏"
+  },
+  {
+    "site": "MakeViral",
+    "file": "makeviral.json",
+    "item": {
+      "id_or_slug": "mexico-pterodactyl-ai-trend",
+      "title": "Mexico Pterodactyl AI Trend",
+      "url": "https://www.makeviral.ai/templates/mexico-pterodactyl-ai-trend"
+    },
+    "desc": "用链子牵着墨西哥翼龙，配上「ya lo agarré」"
+  },
+  {
+    "site": "MakeViral",
+    "file": "makeviral.json",
+    "item": {
+      "id_or_slug": "more-like-a-quesadilla-ai-trend",
+      "title": "More Like a Quesadilla AI Trend",
+      "url": "https://www.makeviral.ai/templates/more-like-a-quesadilla-ai-trend"
+    },
+    "desc": "面无表情对口型，再突然瞪眼呆住（Tough Like a Gorilla）"
+  },
+  {
+    "site": "MakeViral",
+    "file": "makeviral.json",
+    "item": {
+      "id_or_slug": "pixar-snow-globe-ai-filter",
+      "title": "Pixar Snow Globe AI Filter",
+      "url": "https://www.makeviral.ai/templates/pixar-snow-globe-ai-filter"
+    },
+    "desc": "把自己做成圣诞水晶球里的 3D 卡通小人"
+  },
+  {
+    "site": "MakeViral",
+    "file": "makeviral.json",
+    "item": {
+      "id_or_slug": "santa-hat-pet-ai-trend",
+      "title": "Santa Hat Pet AI Trend",
+      "url": "https://www.makeviral.ai/templates/santa-hat-pet-ai-trend"
+    },
+    "desc": "宠物戴巨大圣诞帽和发光眼镜，走在雪夜里"
+  },
+  {
+    "site": "MakeViral",
+    "file": "makeviral.json",
+    "item": {
+      "id_or_slug": "she-love-the-way-i-talk-dance-ai",
+      "title": "She Love the Way I Talk Dance AI",
+      "url": "https://www.makeviral.ai/templates/she-love-the-way-i-talk-dance-ai"
+    },
+    "desc": "跟跳这首歌的抖音编舞，可单人、双人或宠物"
+  },
+  {
+    "site": "MakeViral",
+    "file": "makeviral.json",
+    "item": {
+      "id_or_slug": "sheru-bhai-ai-trend",
+      "title": "Sheru Bhai AI Trend",
+      "url": "https://www.makeviral.ai/templates/sheru-bhai-ai-trend"
+    },
+    "desc": "拍卖会上被白西装狮王老板加价抢走"
+  },
+  {
+    "site": "MakeViral",
+    "file": "makeviral.json",
+    "item": {
+      "id_or_slug": "yamal-dance-ai-trend",
+      "title": "Yamal Dance AI Trend",
+      "url": "https://www.makeviral.ai/templates/yamal-dance-ai-trend"
+    },
+    "desc": "在宴会厅跟跳 Y Que Fue（亚马尔舞）"
+  },
+  {
+    "site": "MakeMeme.video",
+    "file": "makememe.json",
+    "item": {
+      "id_or_slug": "james-bond-reveal-ai",
+      "title": "James Bond Reveal AI",
+      "url": "https://makememe.video/james-bond-reveal-ai"
+    },
+    "desc": "黑暗中一束光打出，你以 007 造型现身"
+  },
+  {
+    "site": "MakeMeme.video",
+    "file": "makememe.json",
+    "item": {
+      "id_or_slug": "jingle-bell-brazil-dance-ai",
+      "title": "Jingle Bell Brazil Dance AI",
+      "url": "https://makememe.video/jingle-bell-brazil-dance-ai"
+    },
+    "desc": "戴圣诞帽跟跳巴西 Funk 三人舞，最多三人"
+  },
+  {
+    "site": "MakeMeme.video",
+    "file": "makememe.json",
+    "item": {
+      "id_or_slug": "me-and-my-girlfriend-ai",
+      "title": "Me and My Girlfriend AI",
+      "url": "https://makememe.video/me-and-my-girlfriend-ai"
+    },
+    "desc": "镜子自拍里对方先藏在肩后，再探出头，画面上多出手臂"
+  },
+  {
+    "site": "MakeMeme.video",
+    "file": "makememe.json",
+    "item": {
+      "id_or_slug": "yamal-dance-ai",
+      "title": "Yamal Dance AI",
+      "url": "https://makememe.video/yamal-dance-ai"
+    },
+    "desc": "跟跳 Y Que Fue（亚马尔舞），最多三人"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "bat-smash-bottle-splash-ai",
+      "title": "Bat Smash Bottle Splash AI",
+      "url": "https://samevid.com/template/bat-smash-bottle-splash-ai"
+    },
+    "desc": "球棒砸爆酒瓶，液体慢放飞溅的庆祝镜头"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "marble-hallway-dance-ai",
+      "title": "Marble Hallway Dance AI",
+      "url": "https://samevid.com/template/marble-hallway-dance-ai"
+    },
+    "desc": "在大理石走廊里跟跳，最多三人"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "meimei-cat-dance-ai",
+      "title": "Meimei Cat Dance AI",
+      "url": "https://samevid.com/template/meimei-cat-dance-ai"
+    },
+    "desc": "自家猫先盯镜头，再和一只虎斑猫并排直立摇摆"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "plane-wing-dance-backflip-ai",
+      "title": "Plane Wing Dance Backflip AI",
+      "url": "https://samevid.com/template/plane-wing-dance-backflip-ai"
+    },
+    "desc": "走上机翼跳舞，再后空翻并向后挥手"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "sunset-horse-ride-ai",
+      "title": "Sunset Horse Ride AI",
+      "url": "https://samevid.com/template/sunset-horse-ride-ai"
+    },
+    "desc": "黄昏骑马走来，一人领路一人跟随，可双人"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "up-and-down-ai-dance",
+      "title": "Up and Down AI Dance",
+      "url": "https://samevid.com/template/up-and-down-ai-dance"
+    },
+    "desc": "双人并排上下弹跳，交叉转圈后同步收尾"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "you-rock-my-world-ai",
+      "title": "You Rock My World AI",
+      "url": "https://samevid.com/template/you-rock-my-world-ai"
+    },
+    "desc": "情侣造型切换过渡，配同步音效"
+  },
+  {
+    "site": "ZapVid",
+    "file": "zapvid.json",
+    "item": {
+      "id_or_slug": "a2o-lite-neon-ai-video-generator",
+      "title": "A2O Lite Neon AI Video Generator",
+      "url": "https://zapvid.ai/a2o-lite-neon-ai-video-generator"
+    },
+    "desc": "白色棚里双人跟跳 A2O LITE NEON：甩发、挥臂再旋转"
+  },
+  {
+    "site": "ZapVid",
+    "file": "zapvid.json",
+    "item": {
+      "id_or_slug": "dancing-with-santa-ai-video-generator",
+      "title": "Dancing With Santa AI Video Generator",
+      "url": "https://zapvid.ai/dancing-with-santa-ai-video-generator"
+    },
+    "desc": "在圣诞树旁红毯上和圣诞老人并肩跳舞"
+  },
+  {
+    "site": "ZapVid",
+    "file": "zapvid.json",
+    "item": {
+      "id_or_slug": "king-jin-ai-video-generator",
+      "title": "King Jin AI Video Generator",
+      "url": "https://zapvid.ai/king-jin-ai-video-generator"
+    },
+    "desc": "霓虹街上你一站不动，整条街的人向你鞠躬"
+  },
+  {
+    "site": "ZapVid",
+    "file": "zapvid.json",
+    "item": {
+      "id_or_slug": "shoulder-carry-trend-ai-video-generator",
+      "title": "Shoulder Carry Trend AI Video Generator",
+      "url": "https://zapvid.ai/shoulder-carry-trend-ai-video-generator"
+    },
+    "desc": "肩扛伴侣转身，另一张脸从前面冒出来（I'm the One）"
+  },
+  {
+    "site": "Summrs",
+    "file": "summrs.json",
+    "item": {
+      "id_or_slug": "dip-on-em-dance-ai-video-generator",
+      "title": "Dip On Em Dance AI Video Generator",
+      "url": "https://www.summrs.com/dip-on-em-dance-ai-video-generator"
+    },
+    "desc": "四个人或四只宠物一起跳 Dip On Em"
+  },
+  {
+    "site": "Summrs",
+    "file": "summrs.json",
+    "item": {
+      "id_or_slug": "i-am-doom-ai-video-generator",
+      "title": "I Am Doom AI Video Generator",
+      "url": "https://www.summrs.com/i-am-doom-ai-video-generator"
+    },
+    "desc": "两张照片复刻雷神对上毁灭博士挡斧的场面"
+  },
+  {
+    "site": "DanceRemake",
+    "file": "danceremake.json",
+    "item": {
+      "id_or_slug": "christmas-dance-ai",
+      "title": "Christmas Dance AI",
+      "url": "https://danceremake.com/templates/christmas-dance-ai"
+    },
+    "desc": "格子睡衣跟跳 Deck the Halls 圣诞舞，可双人"
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "birthday-cake-drive-up-ai-video",
+      "title": "Birthday Cake Drive-Up",
+      "url": "https://www.getstarrd.app/template/birthday-cake-drive-up-ai-video"
+    },
+    "desc": "朋友在棕榈树街上捧出蛋糕，你开 G-Wagon 停下来吹蜡烛"
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "birthday-champagne-pop-ai-video",
+      "title": "Birthday Bench Pop",
+      "url": "https://www.getstarrd.app/template/birthday-champagne-pop-ai-video"
+    },
+    "desc": "夜里走到公园长椅坐下，一开香槟画面转成黑白"
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "can-i-help-you-miss-ai-video",
+      "title": "Can I Help You, Miss?",
+      "url": "https://www.getstarrd.app/template/can-i-help-you-miss-ai-video"
+    },
+    "desc": "宠物店够不到狗粮，店员帮忙后又往你手里叠一袋"
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "champagne-birthday-ai-video",
+      "title": "Champagne Birthday",
+      "url": "https://www.getstarrd.app/template/champagne-birthday-ai-video"
+    },
+    "desc": "雾夜路上双手各握一瓶香槟一起打开，画面转成黑白"
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "dog-cake-smash-ai-video",
+      "title": "Dog Cake Smash",
+      "url": "https://www.getstarrd.app/template/dog-cake-smash-ai-video"
+    },
+    "desc": "宠物端出生日蛋糕，喂你几口后再把整块砸到脸上"
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "g-wagon-champagne-birthday-ai-video",
+      "title": "G-Wagon Champagne Birthday",
+      "url": "https://www.getstarrd.app/template/g-wagon-champagne-birthday-ai-video"
+    },
+    "desc": "寿星坐在黑色 G-Wagon 车顶喷香槟、放彩带，朋友开车"
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "gta-6-busted-not-today-ai-video",
+      "title": "GTA 6: Busted? Not Today",
+      "url": "https://www.getstarrd.app/template/gta-6-busted-not-today-ai-video"
+    },
+    "desc": "GTA 6 公路上被拦下，慢放黑白「Busted」后喊 Not today 飙车走"
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "gta-6-cheat-code-ai-video",
+      "title": "GTA 6: Cheat Code",
+      "url": "https://www.getstarrd.app/template/gta-6-cheat-code-ai-video"
+    },
+    "desc": "PS2 画质被警察包围，输入作弊码后画面升级成 GTA 6"
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "gta-6-drake-radio-reaction-ai-video",
+      "title": "GTA 6 Drake Radio Reaction",
+      "url": "https://www.getstarrd.app/template/gta-6-drake-radio-reaction-ai-video"
+    },
+    "desc": "直播玩 GTA 6，电台切到 Drake 时激动得手柄都扔了"
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "gta-6-legends-send-off-ai-video",
+      "title": "GTA 6: Legends Send-Off",
+      "url": "https://www.getstarrd.app/template/gta-6-legends-send-off-ai-video"
+    },
+    "desc": "历代 GTA 传奇排队送你进 GTA 6，霓虹 Vice City 里新团伙来接"
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "gta-6-ps2-heist-crew-interview-ai-video",
+      "title": "GTA 6: Heist Crew Interview (PS2)",
+      "url": "https://www.getstarrd.app/template/gta-6-ps2-heist-crew-interview-ai-video"
+    },
+    "desc": "PS2 画质面试抢劫团伙、抢银行再逃五星通缉，画面突然升级"
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "gta-6-ps2-hot-coffee-run-ai-video",
+      "title": "GTA 6: Coffee Run (PS2)",
+      "url": "https://www.getstarrd.app/template/gta-6-ps2-hot-coffee-run-ai-video"
+    },
+    "desc": "PS2 画质为了一杯冰咖啡抢加油站，逃过五星后再逼侦探喝一口"
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "gta-6-trailer-extended-look-ai-video",
+      "title": "GTA 6 Trailer (Extended Look)",
+      "url": "https://www.getstarrd.app/template/gta-6-trailer-extended-look-ai-video"
+    },
+    "desc": "把自己做成 GTA 6 预告片角色，从电梯走出、在屋顶牵手走"
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "kung-fu-goalkeeper-ai-video",
+      "title": "Kung Fu Goalkeeper",
+      "url": "https://www.getstarrd.app/template/kung-fu-goalkeeper-ai-video"
+    },
+    "desc": "守门员倒挂横梁、喝着饮料，随手挡住所有射门"
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "need-for-speed-car-ai-video",
+      "title": "Need for Speed",
+      "url": "https://www.getstarrd.app/template/need-for-speed-car-ai-video"
+    },
+    "desc": "把自己的车贴进街头飙车电影：烧胎、挡风玻璃追逐和原地甩圈"
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "peaky-blinders-ai-video",
+      "title": "Vintage Gangster Walk",
+      "url": "https://www.getstarrd.app/template/peaky-blinders-ai-video"
+    },
+    "desc": "1920 年代平顶帽长大衣造型，在红砖庄园前点烟再走出来"
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "ronaldo-header-ai-video",
+      "title": "Ronaldo Header",
+      "url": "https://www.getstarrd.app/template/ronaldo-header-ai-video"
+    },
+    "desc": "夜赛灯光下滞空甩头破门，一张是头球的人，一张是门将或防守"
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "waiting-on-my-fries-meme-ai-video",
+      "title": "Waiting On My Fries",
+      "url": "https://www.getstarrd.app/template/waiting-on-my-fries-meme-ai-video"
+    },
+    "desc": "快餐店里顾客还在等薯条，其中一人让另一人去后厨做"
+  },
+  {
+    "site": "AI Trend Video",
+    "file": "aitrendvideo.json",
+    "item": {
+      "id_or_slug": "baby-face-filter-ai",
+      "title": "Baby Face Filter AI",
+      "url": "https://aitrendvideo.net/baby-face-filter-ai"
+    },
+    "desc": "一张成人正脸切到圆脸娃娃婴儿滤镜"
+  },
+  {
+    "site": "AI Trend Video",
+    "file": "aitrendvideo.json",
+    "item": {
+      "id_or_slug": "boxing-dog-ai-trend",
+      "title": "Boxing Dog AI Trend",
+      "url": "https://aitrendvideo.net/boxing-dog-ai-trend"
+    },
+    "desc": "狗坐在副驾，突然开始对着空气挥拳"
+  },
+  {
+    "site": "AI Trend Video",
+    "file": "aitrendvideo.json",
+    "item": {
+      "id_or_slug": "pixar-snow-globe-ai-filter",
+      "title": "Pixar Snow Globe AI Filter",
+      "url": "https://aitrendvideo.net/pixar-snow-globe-ai-filter"
+    },
+    "desc": "把自己做成圣诞水晶球里挥手的 3D 小人"
+  },
+  {
+    "site": "aiMakeVideo",
+    "file": "aimakevideo.json",
+    "item": {
+      "id_or_slug": "james-bond-reveal-ai",
+      "title": "James Bond Reveal AI",
+      "url": "https://aimakevideo.com/james-bond-reveal-ai"
+    },
+    "desc": "黑暗宽银幕里一束暖光，吉他当枪举起，你盯着镜头"
+  },
+  {
+    "site": "aiMakeVideo",
+    "file": "aimakevideo.json",
+    "item": {
+      "id_or_slug": "ride-a-lion-ai",
+      "title": "Ride a Lion AI",
+      "url": "https://aimakevideo.com/ride-a-lion-ai"
+    },
+    "desc": "夜路上狮子在身边吼叫，你爬上去骑着它冲向镜头"
+  },
+  {
+    "site": "Try a Trend",
+    "file": "tryatrend.json",
+    "item": {
+      "id_or_slug": "last-dance-trend-ai",
+      "title": "Last Dance Trend AI",
+      "url": "https://tryatrend.com/last-dance-trend-ai"
+    },
+    "desc": "牵手后甩开另一只手臂，在蓝天下互相旋转"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "atm-christmas-wish-ai",
+      "title": "ATM Christmas Wish AI",
+      "url": "https://memelry.com/atm-christmas-wish-ai"
+    },
+    "desc": "在车里做圣诞祈祷，切到 ATM 喷出现金把你埋住"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "gta-next-chapter-ai",
+      "title": "GTA Next Chapter AI",
+      "url": "https://memelry.com/gta-next-chapter-ai"
+    },
+    "desc": "GTA 5 海滩告别再切到霓虹街和头巾结局，通向 GTA 6"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "singing-pet-ai",
+      "title": "Singing Pet AI",
+      "url": "https://memelry.com/singing-pet-ai"
+    },
+    "desc": "宠物坐在白沙滩上夸张张嘴唱歌、歪头瞪眼"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "the-jawn-ai",
+      "title": "The Jawn AI",
+      "url": "https://memelry.com/the-jawn-ai"
+    },
+    "desc": "把你变成婴儿版，在灰沙发旁跳 The Jawn"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "winter-wonderland-bedroom-dance-ai",
+      "title": "Winter Wonderland Bedroom Dance AI",
+      "url": "https://memelry.com/winter-wonderland-bedroom-dance-ai"
+    },
+    "desc": "卧室双人冬日舞：换位、下腰，再举手收尾"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "winter-wonderland-dance-ai",
+      "title": "Winter Wonderland Dance AI",
+      "url": "https://memelry.com/winter-wonderland-dance-ai"
+    },
+    "desc": "圣诞树旁的室内冬日双人舞，从右侧进场再踢腿"
+  }
+]

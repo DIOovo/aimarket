@@ -1,0 +1,86 @@
+{
+  "site": "Trendify Video",
+  "home": "https://trendify.video/",
+  "checked_at": "2026-11-17T09:39:00+08:00",
+  "sitemap_urls_found": [
+    "https://trendify.video/sitemap.xml"
+  ],
+  "sitemap_existed": true,
+  "template_count": 14,
+  "templates": [
+    {
+      "id_or_slug": "ai-yearbook-photo",
+      "title": "AI Yearbook Photo",
+      "url": "https://trendify.video/trends/ai-yearbook-photo"
+    },
+    {
+      "id_or_slug": "birthday-car-surprise-ai-trend",
+      "title": "Birthday Car Surprise AI Trend",
+      "url": "https://trendify.video/trends/birthday-car-surprise-ai-trend"
+    },
+    {
+      "id_or_slug": "charme-dance-ai-trend",
+      "title": "Charme Dance AI Trend",
+      "url": "https://trendify.video/trends/charme-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "convertible-drive-ai-trend",
+      "title": "Convertible Drive AI Trend",
+      "url": "https://trendify.video/trends/convertible-drive-ai-trend"
+    },
+    {
+      "id_or_slug": "disco-era-film-ai-trend",
+      "title": "Disco Era Film AI Trend",
+      "url": "https://trendify.video/trends/disco-era-film-ai-trend"
+    },
+    {
+      "id_or_slug": "earth-zoom-out-ai-trend",
+      "title": "Earth Zoom Out AI Trend",
+      "url": "https://trendify.video/trends/earth-zoom-out-ai-trend"
+    },
+    {
+      "id_or_slug": "explode-ai-effect",
+      "title": "Explode AI Effect",
+      "url": "https://trendify.video/trends/explode-ai-effect"
+    },
+    {
+      "id_or_slug": "flying-car-ai-trend",
+      "title": "Flying Car AI Trend",
+      "url": "https://trendify.video/trends/flying-car-ai-trend"
+    },
+    {
+      "id_or_slug": "hotel-lobby-rap-duo-ai-trend",
+      "title": "Hotel Lobby Rap Duo AI Trend",
+      "url": "https://trendify.video/trends/hotel-lobby-rap-duo-ai-trend"
+    },
+    {
+      "id_or_slug": "inflate-float-away-ai-trend",
+      "title": "Inflate Float Away AI Trend",
+      "url": "https://trendify.video/trends/inflate-float-away-ai-trend"
+    },
+    {
+      "id_or_slug": "paparazzi-walk-ai-trend",
+      "title": "Paparazzi Walk AI Trend",
+      "url": "https://trendify.video/trends/paparazzi-walk-ai-trend"
+    },
+    {
+      "id_or_slug": "pet-turns-human-ai-trend",
+      "title": "Pet Turns Human AI Trend",
+      "url": "https://trendify.video/trends/pet-turns-human-ai-trend"
+    },
+    {
+      "id_or_slug": "tiptoe-creep-ai-trend",
+      "title": "Tiptoe Creep AI Trend",
+      "url": "https://trendify.video/trends/tiptoe-creep-ai-trend"
+    },
+    {
+      "id_or_slug": "zombie-hug-ai-trend",
+      "title": "Zombie Hug AI Trend",
+      "url": "https://trendify.video/trends/zombie-hug-ai-trend"
+    }
+  ],
+  "new_count": 0,
+  "removed_count": 0,
+  "new_templates": [],
+  "removed_templates": []
+}

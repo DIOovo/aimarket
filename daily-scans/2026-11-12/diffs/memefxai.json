@@ -1,0 +1,113 @@
+{
+  "site": "MemeFX AI",
+  "file": "memefxai.json",
+  "prev": 66,
+  "now": 86,
+  "new": [
+    {
+      "id_or_slug": "ai-baby-video-generator",
+      "title": "AI Baby Video Generator",
+      "url": "https://memefxai.com/ai-baby-video-generator"
+    },
+    {
+      "id_or_slug": "ai-dance-video-generator",
+      "title": "AI Dance Video Generator",
+      "url": "https://memefxai.com/ai-dance-video-generator"
+    },
+    {
+      "id_or_slug": "ai-group-video-generator",
+      "title": "AI Group Video Generator",
+      "url": "https://memefxai.com/ai-group-video-generator"
+    },
+    {
+      "id_or_slug": "ai-halloween-video-generator",
+      "title": "AI Halloween Video Generator",
+      "url": "https://memefxai.com/ai-halloween-video-generator"
+    },
+    {
+      "id_or_slug": "ai-meme-video-generator",
+      "title": "AI Meme Video Generator",
+      "url": "https://memefxai.com/ai-meme-video-generator"
+    },
+    {
+      "id_or_slug": "ai-music-video-generator",
+      "title": "AI Music Video Generator",
+      "url": "https://memefxai.com/ai-music-video-generator"
+    },
+    {
+      "id_or_slug": "ai-pet-video-generator",
+      "title": "AI Pet Video Generator",
+      "url": "https://memefxai.com/ai-pet-video-generator"
+    },
+    {
+      "id_or_slug": "ai-tiktok-video-generator",
+      "title": "AI Tiktok Video Generator",
+      "url": "https://memefxai.com/ai-tiktok-video-generator"
+    },
+    {
+      "id_or_slug": "alternatives",
+      "title": "Alternatives",
+      "url": "https://memefxai.com/alternatives"
+    },
+    {
+      "id_or_slug": "apple-touch-icon.png",
+      "title": "Apple Touch Icon.png",
+      "url": "https://memefxai.com/apple-touch-icon.png"
+    },
+    {
+      "id_or_slug": "favicon-16x16.png",
+      "title": "Favicon 16x16.png",
+      "url": "https://memefxai.com/favicon-16x16.png"
+    },
+    {
+      "id_or_slug": "favicon-32x32.png",
+      "title": "Favicon 32x32.png",
+      "url": "https://memefxai.com/favicon-32x32.png"
+    },
+    {
+      "id_or_slug": "favicon.ico",
+      "title": "Favicon.ico",
+      "url": "https://memefxai.com/favicon.ico"
+    },
+    {
+      "id_or_slug": "llms.txt",
+      "title": "Llms.txt",
+      "url": "https://memefxai.com/llms.txt"
+    },
+    {
+      "id_or_slug": "logo-dark.png",
+      "title": "Logo Dark.png",
+      "url": "https://memefxai.com/logo-dark.png"
+    },
+    {
+      "id_or_slug": "logo.png",
+      "title": "Logo.png",
+      "url": "https://memefxai.com/logo.png"
+    },
+    {
+      "id_or_slug": "manifest.json",
+      "title": "Manifest.json",
+      "url": "https://memefxai.com/manifest.json"
+    },
+    {
+      "id_or_slug": "refund-policy",
+      "title": "Refund Policy",
+      "url": "https://memefxai.com/refund-policy"
+    },
+    {
+      "id_or_slug": "templates",
+      "title": "Templates",
+      "url": "https://memefxai.com/templates"
+    },
+    {
+      "id_or_slug": "videos",
+      "title": "Videos",
+      "url": "https://memefxai.com/videos"
+    }
+  ],
+  "gone": [],
+  "notes": [],
+  "sitemaps": [
+    "https://memefxai.com/sitemap.xml"
+  ]
+}

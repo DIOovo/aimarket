@@ -1,0 +1,68 @@
+{
+  "note": "Non-template URLs that parsers may pick up from sitemaps or list pages; never treat as template inventory or daily-new.",
+  "by_file": {
+    "memefxai.json": [
+      "studio",
+      "whats-new"
+    ],
+    "trendswap.json": [
+      "help-center"
+    ],
+    "summrs.json": [
+      "favicon.svg",
+      "icon.svg"
+    ],
+    "makememe.json": [
+      "halloween-ai-video-trends",
+      "christmas-ai-video-trends",
+      "questions"
+    ],
+    "ricebowl.json": [
+      "ai-asmr-video-generator",
+      "ai-fight-video-generator",
+      "ai-lip-sync",
+      "ai-talking-photo",
+      "angel-devil-filter",
+      "animate-illustrations",
+      "animate-photos",
+      "black-and-white-cinematic-ai-video",
+      "gemini-rain-ai-effect",
+      "minecraft-parkour-video-generator",
+      "sketch-to-video-ai",
+      "video-to-cartoon-converter"
+    ],
+    "memelry.json": [
+      "cortis-go-ai-from-photo",
+      "how-to-make-no-scrubs-ai-video",
+      "wassup-dance-face-expression-guide",
+      "wassup-dance-with-three-friends",
+      "golf-dance-ai-photo-guide",
+      "mourinho-pressure-original-audio",
+      "gta-6-loading-screen-ai",
+      "atm-christmas-wish-meaning",
+      "gta-next-chapter-meaning",
+      "singing-pet-photo-guide",
+      "the-jawn-meaning"
+    ],
+    "trendtemplate.json": [
+      "tiktok-ai-trends",
+      "ai-christmas-video",
+      "ai-dance",
+      "ai-photo-creator",
+      "ai-trend-templates",
+      "how-to-make-rooftop-groove-ai-video",
+      "photo-template",
+      "refund-policy",
+      "report",
+      "video-template-online"
+    ],
+    "starrd.json": [
+      "birthday",
+      "effects",
+      "famous"
+    ],
+    "kubflow.json": [
+      "generations"
+    ]
+  }
+}

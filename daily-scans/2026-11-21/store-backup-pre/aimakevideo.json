@@ -1,0 +1,272 @@
+{
+  "site": "aiMakeVideo",
+  "home": "https://aimakevideo.com/",
+  "checked_at": "2026-11-20T09:39:28+08:00",
+  "sitemap_urls_found": [
+    "https://aimakevideo.com/sitemap.xml"
+  ],
+  "sitemap_existed": true,
+  "template_count": 50,
+  "new_count": 1,
+  "removed_count": 0,
+  "new_templates": [
+    {
+      "id_or_slug": "need-for-speed-ai",
+      "title": "Need for Speed AI",
+      "url": "https://aimakevideo.com/need-for-speed-ai"
+    }
+  ],
+  "removed_templates": [],
+  "templates": [
+    {
+      "id_or_slug": "24k-magic-ai",
+      "title": "24k Magic AI",
+      "url": "https://aimakevideo.com/24k-magic-ai"
+    },
+    {
+      "id_or_slug": "58th-floor-ai",
+      "title": "58th Floor AI",
+      "url": "https://aimakevideo.com/58th-floor-ai"
+    },
+    {
+      "id_or_slug": "baby-wow-ai",
+      "title": "Baby Wow AI",
+      "url": "https://aimakevideo.com/baby-wow-ai"
+    },
+    {
+      "id_or_slug": "babydoll-dance-ai",
+      "title": "Babydoll Dance AI",
+      "url": "https://aimakevideo.com/babydoll-dance-ai"
+    },
+    {
+      "id_or_slug": "bicep-heart-ai",
+      "title": "Bicep Heart AI",
+      "url": "https://aimakevideo.com/bicep-heart-ai"
+    },
+    {
+      "id_or_slug": "bigxthaplug-give-it-all-ai",
+      "title": "BigXthaPlug Give It All AI",
+      "url": "https://aimakevideo.com/bigxthaplug-give-it-all-ai"
+    },
+    {
+      "id_or_slug": "birds-of-a-feather-ai",
+      "title": "Birds Of A Feather AI",
+      "url": "https://aimakevideo.com/birds-of-a-feather-ai"
+    },
+    {
+      "id_or_slug": "bulin-47-ai",
+      "title": "Bulin 47 AI",
+      "url": "https://aimakevideo.com/bulin-47-ai"
+    },
+    {
+      "id_or_slug": "burning-bridges-ai",
+      "title": "Burning Bridges AI",
+      "url": "https://aimakevideo.com/burning-bridges-ai"
+    },
+    {
+      "id_or_slug": "careless-whisper-car-meme-ai",
+      "title": "Careless Whisper Car Meme AI",
+      "url": "https://aimakevideo.com/careless-whisper-car-meme-ai"
+    },
+    {
+      "id_or_slug": "christmas-ai",
+      "title": "Christmas AI",
+      "url": "https://aimakevideo.com/christmas-ai"
+    },
+    {
+      "id_or_slug": "christmas-dance-ai",
+      "title": "Christmas Dance AI",
+      "url": "https://aimakevideo.com/christmas-dance-ai"
+    },
+    {
+      "id_or_slug": "coffee-making-ai",
+      "title": "Coffee Making AI",
+      "url": "https://aimakevideo.com/coffee-making-ai"
+    },
+    {
+      "id_or_slug": "crazy-frog-ai",
+      "title": "Crazy Frog AI",
+      "url": "https://aimakevideo.com/crazy-frog-ai"
+    },
+    {
+      "id_or_slug": "damon-salvatore-ai",
+      "title": "Damon Salvatore AI",
+      "url": "https://aimakevideo.com/damon-salvatore-ai"
+    },
+    {
+      "id_or_slug": "dime-dime-baby-ai",
+      "title": "Dime Dime Baby AI",
+      "url": "https://aimakevideo.com/dime-dime-baby-ai"
+    },
+    {
+      "id_or_slug": "dog-grooming-time-ai",
+      "title": "Dog Grooming Time AI",
+      "url": "https://aimakevideo.com/dog-grooming-time-ai"
+    },
+    {
+      "id_or_slug": "fancy-cafe-ai",
+      "title": "Fancy Cafe AI",
+      "url": "https://aimakevideo.com/fancy-cafe-ai"
+    },
+    {
+      "id_or_slug": "funk-loading-ai",
+      "title": "Funk Loading AI",
+      "url": "https://aimakevideo.com/funk-loading-ai"
+    },
+    {
+      "id_or_slug": "gangnam-style-ai",
+      "title": "Gangnam Style AI",
+      "url": "https://aimakevideo.com/gangnam-style-ai"
+    },
+    {
+      "id_or_slug": "gangstas-paradise-ai",
+      "title": "Gangsta's Paradise AI",
+      "url": "https://aimakevideo.com/gangstas-paradise-ai"
+    },
+    {
+      "id_or_slug": "grease-dance-ai",
+      "title": "Grease Dance AI",
+      "url": "https://aimakevideo.com/grease-dance-ai"
+    },
+    {
+      "id_or_slug": "hit-the-road-dude-ai",
+      "title": "Hit The Road Dude AI",
+      "url": "https://aimakevideo.com/hit-the-road-dude-ai"
+    },
+    {
+      "id_or_slug": "hop-hop-hop-ai",
+      "title": "Hop Hop Hop AI",
+      "url": "https://aimakevideo.com/hop-hop-hop-ai"
+    },
+    {
+      "id_or_slug": "hotel-lobby-ai",
+      "title": "Hotel Lobby AI",
+      "url": "https://aimakevideo.com/hotel-lobby-ai"
+    },
+    {
+      "id_or_slug": "i-love-the-smiths-ai",
+      "title": "I Love The Smiths AI",
+      "url": "https://aimakevideo.com/i-love-the-smiths-ai"
+    },
+    {
+      "id_or_slug": "ice-ice-baby-dance-ai",
+      "title": "Ice Ice Baby Dance AI",
+      "url": "https://aimakevideo.com/ice-ice-baby-dance-ai"
+    },
+    {
+      "id_or_slug": "james-bond-reveal-ai",
+      "title": "James Bond Reveal AI",
+      "url": "https://aimakevideo.com/james-bond-reveal-ai"
+    },
+    {
+      "id_or_slug": "lorenzo-zurzolo-ai",
+      "title": "Lorenzo Zurzolo AI",
+      "url": "https://aimakevideo.com/lorenzo-zurzolo-ai"
+    },
+    {
+      "id_or_slug": "migos-ai",
+      "title": "Migos AI",
+      "url": "https://aimakevideo.com/migos-ai"
+    },
+    {
+      "id_or_slug": "monkey-eating-apple-ai",
+      "title": "Monkey Eating Apple AI",
+      "url": "https://aimakevideo.com/monkey-eating-apple-ai"
+    },
+    {
+      "id_or_slug": "my-moon-my-man-ai",
+      "title": "My Moon My Man AI",
+      "url": "https://aimakevideo.com/my-moon-my-man-ai"
+    },
+    {
+      "id_or_slug": "new-year-ai",
+      "title": "New Year AI",
+      "url": "https://aimakevideo.com/new-year-ai"
+    },
+    {
+      "id_or_slug": "no-scrubs-ai",
+      "title": "No Scrubs AI",
+      "url": "https://aimakevideo.com/no-scrubs-ai"
+    },
+    {
+      "id_or_slug": "ozil-goal-ai",
+      "title": "Ozil Goal AI",
+      "url": "https://aimakevideo.com/ozil-goal-ai"
+    },
+    {
+      "id_or_slug": "raindance-ai",
+      "title": "Raindance AI",
+      "url": "https://aimakevideo.com/raindance-ai"
+    },
+    {
+      "id_or_slug": "ride-a-lion-ai",
+      "title": "Ride a Lion AI",
+      "url": "https://aimakevideo.com/ride-a-lion-ai"
+    },
+    {
+      "id_or_slug": "rumpelstiltskin-ai",
+      "title": "Rumpelstiltskin AI",
+      "url": "https://aimakevideo.com/rumpelstiltskin-ai"
+    },
+    {
+      "id_or_slug": "schooling-seniors-ai",
+      "title": "Schooling Seniors AI",
+      "url": "https://aimakevideo.com/schooling-seniors-ai"
+    },
+    {
+      "id_or_slug": "single-ladies-dog-dance-ai",
+      "title": "Single Ladies Dog Dance AI",
+      "url": "https://aimakevideo.com/single-ladies-dog-dance-ai"
+    },
+    {
+      "id_or_slug": "stereo-love-funk-ai",
+      "title": "Stereo Love Funk AI",
+      "url": "https://aimakevideo.com/stereo-love-funk-ai"
+    },
+    {
+      "id_or_slug": "stormzy-shut-up-ai",
+      "title": "Stormzy Shut Up AI",
+      "url": "https://aimakevideo.com/stormzy-shut-up-ai"
+    },
+    {
+      "id_or_slug": "thriller-dance-ai",
+      "title": "Thriller Dance AI",
+      "url": "https://aimakevideo.com/thriller-dance-ai"
+    },
+    {
+      "id_or_slug": "tiny-desk-ai",
+      "title": "Tiny Desk AI",
+      "url": "https://aimakevideo.com/tiny-desk-ai"
+    },
+    {
+      "id_or_slug": "toc-toc-dance-ai",
+      "title": "Toc Toc Dance AI",
+      "url": "https://aimakevideo.com/toc-toc-dance-ai"
+    },
+    {
+      "id_or_slug": "vossi-bop-ai",
+      "title": "Vossi Bop AI",
+      "url": "https://aimakevideo.com/vossi-bop-ai"
+    },
+    {
+      "id_or_slug": "wassup-in-a-minute-ai",
+      "title": "Wassup In A Minute AI",
+      "url": "https://aimakevideo.com/wassup-in-a-minute-ai"
+    },
+    {
+      "id_or_slug": "wyw-my-sweetie-dance-ai",
+      "title": "Wyw My Sweetie Dance AI",
+      "url": "https://aimakevideo.com/wyw-my-sweetie-dance-ai"
+    },
+    {
+      "id_or_slug": "zombie-ai",
+      "title": "Zombie AI",
+      "url": "https://aimakevideo.com/zombie-ai"
+    },
+    {
+      "id_or_slug": "need-for-speed-ai",
+      "title": "Need for Speed AI",
+      "url": "https://aimakevideo.com/need-for-speed-ai"
+    }
+  ]
+}

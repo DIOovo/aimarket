@@ -1,0 +1,702 @@
+[
+  {
+    "site": "TrendTemplate",
+    "file": "trendtemplate.json",
+    "item": {
+      "id_or_slug": "dancing-with-santa-ai",
+      "title": "Dancing With Santa AI",
+      "url": "https://trendtemplate.com/dancing-with-santa-ai"
+    },
+    "desc": "圣诞红毯上和圣诞老人跳 El Baile De Santa Clos，朋友可扮圣诞老人"
+  },
+  {
+    "site": "TrendTemplate",
+    "file": "trendtemplate.json",
+    "item": {
+      "id_or_slug": "give-it-all-to-me-ai",
+      "title": "Give It All to Me AI",
+      "url": "https://trendtemplate.com/give-it-all-to-me-ai"
+    },
+    "desc": "在 From The Block 场景吊麦前说唱 BigXthaPlug《Give It All》"
+  },
+  {
+    "site": "TrendTemplate",
+    "file": "trendtemplate.json",
+    "item": {
+      "id_or_slug": "never-let-her-pay-ai",
+      "title": "Never Let Her Pay AI",
+      "url": "https://trendtemplate.com/never-let-her-pay-ai"
+    },
+    "desc": "约会买单打开包却掏出一块海绵，被罚去洗碗"
+  },
+  {
+    "site": "ClipRemake",
+    "file": "clipremake.json",
+    "item": {
+      "id_or_slug": "sheru-bhai-ai",
+      "title": "Sheru Bhai AI",
+      "url": "https://clipremake.com/templates/sheru-bhai-ai"
+    },
+    "desc": "13 段狮王老板情景剧：拍卖、私人飞机、喝chai、婚礼或登基"
+  },
+  {
+    "site": "ClipRemake",
+    "file": "clipremake.json",
+    "item": {
+      "id_or_slug": "te-he-perdido-ai",
+      "title": "Te He Perdido AI",
+      "url": "https://clipremake.com/templates/te-he-perdido-ai"
+    },
+    "desc": "一人在俱乐部阳台，灯光打到舞池里的另一个人"
+  },
+  {
+    "site": "MakeViral",
+    "file": "makeviral.json",
+    "item": {
+      "id_or_slug": "dog-cake-smash-ai-trend",
+      "title": "Dog Cake Smash AI",
+      "url": "https://www.makeviral.ai/templates/dog-cake-smash-ai-trend"
+    },
+    "desc": "狗把整块奶油蛋糕砸到主人脸上"
+  },
+  {
+    "site": "MakeViral",
+    "file": "makeviral.json",
+    "item": {
+      "id_or_slug": "joaquin-buckley-knockout-ai-trend",
+      "title": "Joaquin Buckley Kick AI",
+      "url": "https://www.makeviral.ai/templates/joaquin-buckley-knockout-ai-trend"
+    },
+    "desc": "还原 UFC 乔金·巴克利旋转后踢 KO，可打朋友或让宠物上场"
+  },
+  {
+    "site": "MakeViral",
+    "file": "makeviral.json",
+    "item": {
+      "id_or_slug": "king-jin-ai-trend",
+      "title": "King Jin AI Trend",
+      "url": "https://www.makeviral.ai/templates/king-jin-ai-trend"
+    },
+    "desc": "霓虹韩街上一站不动，整条街的人向你鞠躬"
+  },
+  {
+    "site": "MakeViral",
+    "file": "makeviral.json",
+    "item": {
+      "id_or_slug": "my-moon-my-man-ai-trend",
+      "title": "My Moon My Man Trend",
+      "url": "https://www.makeviral.ai/templates/my-moon-my-man-ai-trend"
+    },
+    "desc": "跪在小花旁，画里的耶稣藏着一大束花（My Moon My Man）"
+  },
+  {
+    "site": "MakeViral",
+    "file": "makeviral.json",
+    "item": {
+      "id_or_slug": "olly-olly-dance-ai-trend",
+      "title": "Olly Olly Dance AI",
+      "url": "https://www.makeviral.ai/templates/olly-olly-dance-ai-trend"
+    },
+    "desc": "跟跳 OLLY 节拍：弹跳、挥拳、侧步再冲出画面"
+  },
+  {
+    "site": "MakeViral",
+    "file": "makeviral.json",
+    "item": {
+      "id_or_slug": "rollie-on-my-wrist-ai-trend",
+      "title": "Put The Rollie On My Wrist",
+      "url": "https://www.makeviral.ai/templates/rollie-on-my-wrist-ai-trend"
+    },
+    "desc": "肩扛伴侣转身，另一张脸从前面冒出来（I'm the One）"
+  },
+  {
+    "site": "MakeViral",
+    "file": "makeviral.json",
+    "item": {
+      "id_or_slug": "tom-hardy-legend-edit-ai",
+      "title": "Tom Hardy Legend Edit AI",
+      "url": "https://www.makeviral.ai/templates/tom-hardy-legend-edit-ai"
+    },
+    "desc": "把自己做成 60 年代伦敦黑帮剪辑，配 slowed Criminal"
+  },
+  {
+    "site": "MakeViral",
+    "file": "makeviral.json",
+    "item": {
+      "id_or_slug": "what-if-you-fly-ai-trend",
+      "title": "What If You Fly Meme",
+      "url": "https://www.makeviral.ai/templates/what-if-you-fly-ai-trend"
+    },
+    "desc": "从卧室地板坠落，再喷火飞上云端"
+  },
+  {
+    "site": "MakeViral",
+    "file": "makeviral.json",
+    "item": {
+      "id_or_slug": "whoville-ai-trend",
+      "title": "Whoville Character AI",
+      "url": "https://www.makeviral.ai/templates/whoville-ai-trend"
+    },
+    "desc": "一张自拍变成《圣诞怪杰》Who 村民造型"
+  },
+  {
+    "site": "MakeMeme.video",
+    "file": "makememe.json",
+    "item": {
+      "id_or_slug": "reaching-out-cat-ai",
+      "title": "Reaching Out Cat AI",
+      "url": "https://makememe.video/reaching-out-cat-ai"
+    },
+    "desc": "手伸向天花板，再把自家猫狗一把拽出画面"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "all-i-need-is-a-little-bit-ai-dance",
+      "title": "All I Need Is A Little Bit AI Dance",
+      "url": "https://samevid.com/template/all-i-need-is-a-little-bit-ai-dance"
+    },
+    "desc": "跟跳 All I Need Is A Little Bit 卡点舞，最多三人"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "aproveita-que-eu-to-brigado-ai",
+      "title": "Aproveita Que Eu Tô Brigado AI",
+      "url": "https://samevid.com/template/aproveita-que-eu-to-brigado-ai"
+    },
+    "desc": "在黑色 SUV 旁清唱 Aproveita Que Eu Tô Brigado"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "baby-riding-reindeer-ai",
+      "title": "Baby Riding Reindeer AI",
+      "url": "https://samevid.com/template/baby-riding-reindeer-ai"
+    },
+    "desc": "宝宝骑着驯鹿出现在圣诞雪橇场景"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "digidi-digidi-ai-dance",
+      "title": "Digidi Digidi AI Dance",
+      "url": "https://samevid.com/template/digidi-digidi-ai-dance"
+    },
+    "desc": "跟跳 DJ.ILHAM《Digidi Digidi》热门舞"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "ice-ice-baby-ai-dance",
+      "title": "Ice Ice Baby AI Dance",
+      "url": "https://samevid.com/template/ice-ice-baby-ai-dance"
+    },
+    "desc": "在湿球场上跟跳 Ice Ice Baby，可加一位朋友"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "jensen-huang-worth-it-ai",
+      "title": "Jensen Huang Worth It AI",
+      "url": "https://samevid.com/template/jensen-huang-worth-it-ai"
+    },
+    "desc": "黄仁勋抱着尤克里里唱 Worth It 的迷因"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "lisa-crab-dance-ai",
+      "title": "LISA Crab Dance AI",
+      "url": "https://samevid.com/template/lisa-crab-dance-ai"
+    },
+    "desc": "一张照片跟跳 LISA 螃蟹舞（Poo Neep E-Pi）"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "little-house-on-the-prairie-ai-dance",
+      "title": "Little House on the Prairie AI Dance",
+      "url": "https://samevid.com/template/little-house-on-the-prairie-ai-dance"
+    },
+    "desc": "草原小屋风卡点舞，可双人"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "lush-curls-ai",
+      "title": "Lush Curls AI",
+      "url": "https://samevid.com/template/lush-curls-ai"
+    },
+    "desc": "特写让头发自然弹出卷曲弹性"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "luxury-shopping-walk-ai",
+      "title": "Luxury Shopping Walk AI",
+      "url": "https://samevid.com/template/luxury-shopping-walk-ai"
+    },
+    "desc": "在奢侈品店里气场十足地走过"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "mean-girls-jingle-bell-rock-ai",
+      "title": "Mean Girls Jingle Bell Rock AI",
+      "url": "https://samevid.com/template/mean-girls-jingle-bell-rock-ai"
+    },
+    "desc": "《贱女孩》里 Jingle Bell Rock 圣诞群舞，最多三人"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "neymar-studio-ai",
+      "title": "Neymar Studio AI",
+      "url": "https://samevid.com/template/neymar-studio-ai"
+    },
+    "desc": "录音棚里唱巴西 Funk 的内马尔迷因，最多三人"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "one-more-thing-keynote-ai",
+      "title": "One More Thing Keynote AI",
+      "url": "https://samevid.com/template/one-more-thing-keynote-ai"
+    },
+    "desc": "苹果发布会 One More Thing 登台亮相"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "party-popper-ai",
+      "title": "Party Popper AI",
+      "url": "https://samevid.com/template/party-popper-ai"
+    },
+    "desc": "走廊里拉开礼宾喷彩的 Baby Boom 揭晓"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "peter-griffin-ai",
+      "title": "Peter Griffin AI",
+      "url": "https://samevid.com/template/peter-griffin-ai"
+    },
+    "desc": "一张正脸照变成真人版 Peter Griffin"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "srk-ai-dance",
+      "title": "SRK AI Dance",
+      "url": "https://samevid.com/template/srk-ai-dance"
+    },
+    "desc": "宝莱坞聚光灯下转圈托腰双人舞"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "step-brothers-christmas-ai",
+      "title": "Step Brothers Christmas AI",
+      "url": "https://samevid.com/template/step-brothers-christmas-ai"
+    },
+    "desc": "《继兄弟》菱形背心和格子睡衣的圣诞小品，可双人"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "the-office-ai-parody",
+      "title": "The Office AI Parody",
+      "url": "https://samevid.com/template/the-office-ai-parody"
+    },
+    "desc": "《办公室》模拟纪录片风格对口型小品，最多四人"
+  },
+  {
+    "site": "ZapVid",
+    "file": "zapvid.json",
+    "item": {
+      "id_or_slug": "asereje-ai-video-generator",
+      "title": "Asereje AI",
+      "url": "https://zapvid.ai/asereje-ai-video-generator"
+    },
+    "desc": "戴墨镜在车里对口型，跟跳《Aserejé / Ketchup Song》手势"
+  },
+  {
+    "site": "ZapVid",
+    "file": "zapvid.json",
+    "item": {
+      "id_or_slug": "catch-santa-on-camera-ai-video-generator",
+      "title": "Catch Santa on Camera AI",
+      "url": "https://zapvid.ai/catch-santa-on-camera-ai-video-generator"
+    },
+    "desc": "圣诞树旁抓拍到圣诞老人放礼物，还会叫出孩子的名字"
+  },
+  {
+    "site": "ZapVid",
+    "file": "zapvid.json",
+    "item": {
+      "id_or_slug": "christmas-dance-ai-video-generator",
+      "title": "Christmas Pajama Dance AI",
+      "url": "https://zapvid.ai/christmas-dance-ai-video-generator"
+    },
+    "desc": "和朋友穿着格子圣诞睡衣跳双人舞"
+  },
+  {
+    "site": "ZapVid",
+    "file": "zapvid.json",
+    "item": {
+      "id_or_slug": "christmas-photobooth-ai-video-generator",
+      "title": "Christmas Photobooth AI",
+      "url": "https://zapvid.ai/christmas-photobooth-ai-video-generator"
+    },
+    "desc": "黑白拍贴一条，每一格换姿势，镜头横移扫过"
+  },
+  {
+    "site": "ZapVid",
+    "file": "zapvid.json",
+    "item": {
+      "id_or_slug": "dj-cat-ai-video-generator",
+      "title": "DJ Cat AI",
+      "url": "https://zapvid.ai/dj-cat-ai-video-generator"
+    },
+    "desc": "让自家猫狗当 DJ，爪搭在打碟机上，台下是演唱会观众"
+  },
+  {
+    "site": "ZapVid",
+    "file": "zapvid.json",
+    "item": {
+      "id_or_slug": "elf-dance-ai-video-generator",
+      "title": "Elf Dance AI",
+      "url": "https://zapvid.ai/elf-dance-ai-video-generator"
+    },
+    "desc": "把自己和最多两位朋友变成圣诞精灵，在工作室里跳舞"
+  },
+  {
+    "site": "ZapVid",
+    "file": "zapvid.json",
+    "item": {
+      "id_or_slug": "grau-de-moto-ai-video-generator",
+      "title": "Grau de Moto AI",
+      "url": "https://zapvid.ai/grau-de-moto-ai-video-generator"
+    },
+    "desc": "在空路上骑黄黑超级摩托做前轮离地（巴西 grau de moto）"
+  },
+  {
+    "site": "ZapVid",
+    "file": "zapvid.json",
+    "item": {
+      "id_or_slug": "iconic-by-mistake-dance-ai-video-generator",
+      "title": "Iconic By Mistake Dance AI",
+      "url": "https://zapvid.ai/iconic-by-mistake-dance-ai-video-generator"
+    },
+    "desc": "夜巷里跟跳 Iconic By Mistake 整套表情和动作"
+  },
+  {
+    "site": "ZapVid",
+    "file": "zapvid.json",
+    "item": {
+      "id_or_slug": "jingle-bell-brazil-ai-video-generator",
+      "title": "Jingle Bell Brazil Dance AI",
+      "url": "https://zapvid.ai/jingle-bell-brazil-ai-video-generator"
+    },
+    "desc": "戴圣诞帽排成一排，交叉手臂拍胸跳巴西版 Jingle Bell"
+  },
+  {
+    "site": "ZapVid",
+    "file": "zapvid.json",
+    "item": {
+      "id_or_slug": "monkey-eating-apple-ai-video-generator",
+      "title": "Monkey Eating Apple AI",
+      "url": "https://zapvid.ai/monkey-eating-apple-ai-video-generator"
+    },
+    "desc": "野猕猴扑过来抢苹果咬一口，人呆在原地"
+  },
+  {
+    "site": "ZapVid",
+    "file": "zapvid.json",
+    "item": {
+      "id_or_slug": "november-1st-christmas-meme-ai-video-generator",
+      "title": "November 1st Christmas Meme AI",
+      "url": "https://zapvid.ai/november-1st-christmas-meme-ai-video-generator"
+    },
+    "desc": "11 月 1 日走廊开门、蹲下再回头的圣诞迷因"
+  },
+  {
+    "site": "ZapVid",
+    "file": "zapvid.json",
+    "item": {
+      "id_or_slug": "nyc-rats-ai-video-generator",
+      "title": "NYC Rats AI",
+      "url": "https://zapvid.ai/nyc-rats-ai-video-generator"
+    },
+    "desc": "让自家宠物领着纽约巷子里的老鼠直立对峙镜头"
+  },
+  {
+    "site": "ZapVid",
+    "file": "zapvid.json",
+    "item": {
+      "id_or_slug": "quiet-on-the-creek-dance-ai-video-generator",
+      "title": "Quiet on the Creek Dance AI",
+      "url": "https://zapvid.ai/quiet-on-the-creek-dance-ai-video-generator"
+    },
+    "desc": "夜里城市为背景，跟跳 Quiet on the Creek 双人舞"
+  },
+  {
+    "site": "ZapVid",
+    "file": "zapvid.json",
+    "item": {
+      "id_or_slug": "santa-nice-list-ai-video-generator",
+      "title": "Santa Nice List AI",
+      "url": "https://zapvid.ai/santa-nice-list-ai-video-generator"
+    },
+    "desc": "圣诞老人念乖孩子名单，工作室金框里出现你的脸"
+  },
+  {
+    "site": "ZapVid",
+    "file": "zapvid.json",
+    "item": {
+      "id_or_slug": "steer-wrestling-ai-video-generator",
+      "title": "Steer Wrestling AI",
+      "url": "https://zapvid.ai/steer-wrestling-ai-video-generator"
+    },
+    "desc": "扮演牛仔追牛、跳下马把牛按倒在地"
+  },
+  {
+    "site": "ZapVid",
+    "file": "zapvid.json",
+    "item": {
+      "id_or_slug": "then-i-walk-in-ai-video-generator",
+      "title": "Then I Walk In Meme AI",
+      "url": "https://zapvid.ai/then-i-walk-in-ai-video-generator"
+    },
+    "desc": "特写自拍直视镜头的 then I walk in 迷因"
+  },
+  {
+    "site": "Summrs",
+    "file": "summrs.json",
+    "item": {
+      "id_or_slug": "feel-the-pressure-ai-video-generator",
+      "title": "Mourinho Pressure AI",
+      "url": "https://www.summrs.com/feel-the-pressure-ai-video-generator"
+    },
+    "desc": "穆里尼奥压力采访、边线和嘘声剪辑，配 Feel The Pressure"
+  },
+  {
+    "site": "Summrs",
+    "file": "summrs.json",
+    "item": {
+      "id_or_slug": "james-bond-reveal-ai-video-generator",
+      "title": "James Bond Reveal AI",
+      "url": "https://www.summrs.com/james-bond-reveal-ai-video-generator"
+    },
+    "desc": "把自己放进罗伯特·帕丁森式的 007 宣布亮相"
+  },
+  {
+    "site": "Summrs",
+    "file": "summrs.json",
+    "item": {
+      "id_or_slug": "quiet-on-the-creek-ai-video-generator",
+      "title": "Quiet on the Creek AI",
+      "url": "https://www.summrs.com/quiet-on-the-creek-ai-video-generator"
+    },
+    "desc": "车里四人对口型，配 Saucy Santana 原曲"
+  },
+  {
+    "site": "Summrs",
+    "file": "summrs.json",
+    "item": {
+      "id_or_slug": "rollie-on-my-wrist-ai-video-generator",
+      "title": "Shoulder Carry / I'm the One",
+      "url": "https://www.summrs.com/rollie-on-my-wrist-ai-video-generator"
+    },
+    "desc": "两人肩扛转身，把 I'm the One / Rollie on my Wrist 梗演出来"
+  },
+  {
+    "site": "DanceRemake",
+    "file": "danceremake.json",
+    "item": {
+      "id_or_slug": "te-he-perdido-ai",
+      "title": "Te He Perdido AI",
+      "url": "https://danceremake.com/templates/te-he-perdido-ai"
+    },
+    "desc": "两人版：俱乐部阳台望见舞池聚光灯下的那个人"
+  },
+  {
+    "site": "RapVideo.ai",
+    "file": "rapvideo.json",
+    "item": {
+      "id_or_slug": "bigxthaplug-give-it-all-ai",
+      "title": "BigXthaPlug Give It All AI",
+      "url": "https://rapvideo.ai/bigxthaplug-give-it-all-ai"
+    },
+    "desc": "在挤满人的电影院大厅吊麦前说唱 Give It All"
+  },
+  {
+    "site": "RapVideo.ai",
+    "file": "rapvideo.json",
+    "item": {
+      "id_or_slug": "wassup-in-a-minute-ai",
+      "title": "Wassup in a Minute AI",
+      "url": "https://rapvideo.ai/wassup-in-a-minute-ai"
+    },
+    "desc": "和最多两位朋友在山坡上跳 Wassup in a Minute"
+  },
+  {
+    "site": "aiMakeVideo",
+    "file": "aimakevideo.json",
+    "item": {
+      "id_or_slug": "my-moon-my-man-ai",
+      "title": "My Moon My Man AI",
+      "url": "https://aimakevideo.com/my-moon-my-man-ai"
+    },
+    "desc": "一张照片做成耶稣藏花的绘画，或两人版 10 秒视频"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "airport-transition-ai",
+      "title": "Airport Transition AI",
+      "url": "https://memelry.com/airport-transition-ai"
+    },
+    "desc": "登机口用手在镜头前画圈，再切到另一个场景"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "dance-with-santa-ai",
+      "title": "Dance With Santa AI",
+      "url": "https://memelry.com/dance-with-santa-ai"
+    },
+    "desc": "在圣诞树旁和圣诞老人并肩跳舞"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "dog-washing-dishes-ai",
+      "title": "Dog Washing Dishes AI",
+      "url": "https://memelry.com/dog-washing-dishes-ai"
+    },
+    "desc": "宠物在水槽洗碗，打开盒子却是块海绵"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "jingle-bell-brazil-dance-ai",
+      "title": "Jingle Bell Brazil Dance AI",
+      "url": "https://memelry.com/jingle-bell-brazil-dance-ai"
+    },
+    "desc": "戴圣诞帽排成一排，跳巴西 Funk 版 Jingle Bell 卡点舞"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "nadie-ta-frio-ai",
+      "title": "Nadie Ta Frío AI",
+      "url": "https://memelry.com/nadie-ta-frio-ai"
+    },
+    "desc": "跟跳 Laja《Nadie Ta Frío》手部卡点舞"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "reaching-out-cat-ai",
+      "title": "Reaching Out Cat AI",
+      "url": "https://memelry.com/reaching-out-cat-ai"
+    },
+    "desc": "手伸向天花板，再把猫一把拽出画面"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "ronaldo-header-ai",
+      "title": "Ronaldo Header AI",
+      "url": "https://memelry.com/ronaldo-header-ai"
+    },
+    "desc": "还原 C 罗式头球，最多两人上场"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "samaya-kholodnaya-zima-ai",
+      "title": "Самая холодная зима / Milena Snow",
+      "url": "https://memelry.com/samaya-kholodnaya-zima-ai"
+    },
+    "desc": "Milena《最冷的冬天》雪花彩纸飘落的卡点视频"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "shoulder-carry-im-the-one-ai",
+      "title": "Shoulder Carry / I'm the One AI",
+      "url": "https://memelry.com/shoulder-carry-im-the-one-ai"
+    },
+    "desc": "肩扛伴侣转身，把 I'm the One 翻脸梗演出来"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "tidal-wave-ai",
+      "title": "Tidal Wave / Su Gibi Git Su Gibi Gel",
+      "url": "https://memelry.com/tidal-wave-ai"
+    },
+    "desc": "巨浪打来再退去的 Su Gibi Git Su Gibi Gel 浪潮梗，最多三人"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "tiger-transition-ai",
+      "title": "Tiger Transition AI",
+      "url": "https://memelry.com/tiger-transition-ai"
+    },
+    "desc": "手挡镜头后变身虎纹妆或华丽造型"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "under-arrest-dance-ai",
+      "title": "You're Under Arrest Dance AI",
+      "url": "https://memelry.com/under-arrest-dance-ai"
+    },
+    "desc": "法庭三人跳 You're Under Arrest 舞，两张照片仍保留第三位舞者"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "you-rock-my-world-ai",
+      "title": "You Rock My World AI",
+      "url": "https://memelry.com/you-rock-my-world-ai"
+    },
+    "desc": "手扫过镜头后变盛装，You Rock My World 转场，可双人"
+  }
+]

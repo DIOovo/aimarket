@@ -1,0 +1,748 @@
+{
+  "product": "FaceOnTrend",
+  "home": "https://faceontrend.com/",
+  "repo": "https://github.com/DIOovo/faceontrend",
+  "fetched_at": "2026-11-22T12:31:22+08:00",
+  "timezone": "Asia/Shanghai",
+  "sources": {
+    "robots": "https://faceontrend.com/robots.txt",
+    "sitemap": "https://faceontrend.com/sitemap.xml",
+    "templates_index": "https://faceontrend.com/templates",
+    "gta_hub": "https://faceontrend.com/gta"
+  },
+  "template_count": 70,
+  "templates_itemlist_count": 69,
+  "sitemap_url_count": 84,
+  "templates": [
+    {
+      "id_or_slug": "coffee-making-ai",
+      "title": "Coffee Making AI",
+      "url": "https://faceontrend.com/templates/coffee-making-ai",
+      "lastmod": "2026-11-01T22:31:07+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "ai-arrest-ai",
+      "title": "AI Arrest",
+      "url": "https://faceontrend.com/templates/ai-arrest-ai",
+      "lastmod": "2026-11-02T12:50:00+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "bad-times-ai",
+      "title": "BadTimes AI",
+      "url": "https://faceontrend.com/templates/bad-times-ai",
+      "lastmod": "2026-11-02T12:50:00+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "bulin-47-ai",
+      "title": "Bulin 47",
+      "url": "https://faceontrend.com/templates/bulin-47-ai",
+      "lastmod": "2026-11-02T12:50:00+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "damon-salvatore-ai",
+      "title": "Damon Salvatore AI",
+      "url": "https://faceontrend.com/templates/damon-salvatore-ai",
+      "lastmod": "2026-11-02T12:50:00+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "dime-dime-baby-ai",
+      "title": "Dime Dime Baby",
+      "url": "https://faceontrend.com/templates/dime-dime-baby-ai",
+      "lastmod": "2026-11-02T12:50:00+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "halloween-dance-ai",
+      "title": "Halloween Dance",
+      "url": "https://faceontrend.com/templates/halloween-dance-ai",
+      "lastmod": "2026-11-02T12:50:00+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "millionaire-ai",
+      "title": "Millionaire AI",
+      "url": "https://faceontrend.com/templates/millionaire-ai",
+      "lastmod": "2026-11-02T12:50:00+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "window-peeper-ai",
+      "title": "WindowPeeper",
+      "url": "https://faceontrend.com/templates/window-peeper-ai",
+      "lastmod": "2026-11-02T12:50:00+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "first-time-in-a-fancy-cafe-ai",
+      "title": "Fancy Cafe",
+      "url": "https://faceontrend.com/templates/first-time-in-a-fancy-cafe-ai",
+      "lastmod": "2026-11-03T21:15:00+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "jisoo-addicted-dance-ai",
+      "title": "Jisoo Addicted Dance",
+      "url": "https://faceontrend.com/templates/jisoo-addicted-dance-ai",
+      "lastmod": "2026-11-03T22:00:00+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "end-of-watch-ai",
+      "title": "End of Watch AI",
+      "url": "https://faceontrend.com/templates/end-of-watch-ai",
+      "lastmod": "2026-11-04T17:35:00+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "chipmunks-dance-ai",
+      "title": "Chipmunks Dance AI",
+      "url": "https://faceontrend.com/templates/chipmunks-dance-ai",
+      "lastmod": "2026-11-04T21:03:00+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "flamingo-float-ai",
+      "title": "Flamingo Float AI",
+      "url": "https://faceontrend.com/templates/flamingo-float-ai",
+      "lastmod": "2026-11-04T22:06:00+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "58th-floor-ai",
+      "title": "58th Floor AI",
+      "url": "https://faceontrend.com/templates/58th-floor-ai",
+      "lastmod": "2026-11-05T12:00:00+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "2027-new-year-ai-trend",
+      "title": "2027 New Year AI",
+      "url": "https://faceontrend.com/templates/2027-new-year-ai-trend",
+      "lastmod": "2026-11-05T16:20:15+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "hop-hop-hop-ai",
+      "title": "Hop Hop Hop AI",
+      "url": "https://faceontrend.com/templates/hop-hop-hop-ai",
+      "lastmod": "2026-11-06T12:35:05+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "first-time-at-a-fancy-restaurant-ai",
+      "title": "Fancy Restaurant",
+      "url": "https://faceontrend.com/templates/first-time-at-a-fancy-restaurant-ai",
+      "lastmod": "2026-11-06T15:37:09+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "money-flex-ai",
+      "title": "Money Flex AI",
+      "url": "https://faceontrend.com/templates/money-flex-ai",
+      "lastmod": "2026-11-06T16:12:17+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "bicep-heart-ai",
+      "title": "Bicep Heart AI",
+      "url": "https://faceontrend.com/templates/bicep-heart-ai",
+      "lastmod": "2026-11-07T14:27:51+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "closing-door-prank-ai",
+      "title": "Closing Door Prank AI",
+      "url": "https://faceontrend.com/templates/closing-door-prank-ai",
+      "lastmod": "2026-11-07T14:36:32+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "toc-toc-dance-ai",
+      "title": "Toc Toc Dance AI",
+      "url": "https://faceontrend.com/templates/toc-toc-dance-ai",
+      "lastmod": "2026-11-07T15:03:17+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "wassup-in-a-minute-ai",
+      "title": "Wassup in a Minute AI",
+      "url": "https://faceontrend.com/templates/wassup-in-a-minute-ai",
+      "lastmod": "2026-11-07T15:35:24+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "my-ride-is-here-ai",
+      "title": "My Ride Is Here AI",
+      "url": "https://faceontrend.com/templates/my-ride-is-here-ai",
+      "lastmod": "2026-11-07T17:18:33+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "epic-dunk-ai",
+      "title": "Epic Dunk AI",
+      "url": "https://faceontrend.com/templates/epic-dunk-ai",
+      "lastmod": "2026-11-07T17:26:21+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "burning-bridges-ai",
+      "title": "Burning Bridges AI",
+      "url": "https://faceontrend.com/templates/burning-bridges-ai",
+      "lastmod": "2026-11-07T17:46:26+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "dame-hombro-ai",
+      "title": "Dame Hombro AI",
+      "url": "https://faceontrend.com/templates/dame-hombro-ai",
+      "lastmod": "2026-11-07T19:39:29+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "tiny-desk-ai",
+      "title": "Tiny Desk AI",
+      "url": "https://faceontrend.com/templates/tiny-desk-ai",
+      "lastmod": "2026-11-07T20:05:34+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "fish-cutting-meme-ai",
+      "title": "Fish Cutting Meme AI",
+      "url": "https://faceontrend.com/templates/fish-cutting-meme-ai",
+      "lastmod": "2026-11-08T14:10:33+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "vossi-bop-ai",
+      "title": "Vossi Bop AI",
+      "url": "https://faceontrend.com/templates/vossi-bop-ai",
+      "lastmod": "2026-11-08T15:33:16+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "shoulder-carry-ai",
+      "title": "Shoulder Carry AI",
+      "url": "https://faceontrend.com/templates/shoulder-carry-ai",
+      "lastmod": "2026-11-08T16:41:46+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "jme-ai-video",
+      "title": "JME AI Video",
+      "url": "https://faceontrend.com/templates/jme-ai-video",
+      "lastmod": "2026-11-09T10:11:34+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "i-love-the-smiths-ai",
+      "title": "I Love The Smiths AI",
+      "url": "https://faceontrend.com/templates/i-love-the-smiths-ai",
+      "lastmod": "2026-11-09T11:05:11+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "can-i-ride-dance-ai",
+      "title": "Can I Ride Dance AI",
+      "url": "https://faceontrend.com/templates/can-i-ride-dance-ai",
+      "lastmod": "2026-11-09T12:46:19+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "schooling-seniors-ai",
+      "title": "Schooling Seniors AI",
+      "url": "https://faceontrend.com/templates/schooling-seniors-ai",
+      "lastmod": "2026-11-09T21:06:18+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "shut-up-stormzy-ai",
+      "title": "Shut Up Stormzy AI",
+      "url": "https://faceontrend.com/templates/shut-up-stormzy-ai",
+      "lastmod": "2026-11-10T14:52:42+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "aint-you-my-gangsta-b-ai",
+      "title": "Ain’t You My Gangsta B AI",
+      "url": "https://faceontrend.com/templates/aint-you-my-gangsta-b-ai",
+      "lastmod": "2026-11-11T11:09:22+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "dito-ang-tingin-ai",
+      "title": "Dito Ang Tingin AI",
+      "url": "https://faceontrend.com/templates/dito-ang-tingin-ai",
+      "lastmod": "2026-11-11T11:26:44+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "no-scrubs-ai",
+      "title": "No Scrubs AI",
+      "url": "https://faceontrend.com/templates/no-scrubs-ai",
+      "lastmod": "2026-11-11T12:14:09+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "drake-hotline-bling-ai",
+      "title": "Drake Hotline Bling AI",
+      "url": "https://faceontrend.com/templates/drake-hotline-bling-ai",
+      "lastmod": "2026-11-11T14:54:47+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "dancing-dog-pool-party-ai",
+      "title": "Dancing Dog Pool Party AI",
+      "url": "https://faceontrend.com/templates/dancing-dog-pool-party-ai",
+      "lastmod": "2026-11-11T15:57:32+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "celebrity-red-carpet-ai",
+      "title": "Celebrity Red Carpet AI",
+      "url": "https://faceontrend.com/templates/celebrity-red-carpet-ai",
+      "lastmod": "2026-11-11T19:51:29+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "hey-boo-come-slide-with-me-ai",
+      "title": "Hey Boo Come Slide With Me AI",
+      "url": "https://faceontrend.com/templates/hey-boo-come-slide-with-me-ai",
+      "lastmod": "2026-11-12T11:08:25+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "careless-whisper-car-ai",
+      "title": "Careless Whisper Car AI",
+      "url": "https://faceontrend.com/templates/careless-whisper-car-ai",
+      "lastmod": "2026-11-12T16:52:06+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "husband-emporium-ai",
+      "title": "Husband Emporium AI",
+      "url": "https://faceontrend.com/templates/husband-emporium-ai",
+      "lastmod": "2026-11-12T19:42:54+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "manchester-united-locker-room-ai",
+      "title": "Spin That Coupe Like What AI",
+      "url": "https://faceontrend.com/templates/manchester-united-locker-room-ai",
+      "lastmod": "2026-11-13T09:41:13+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "gangstas-paradise-ai",
+      "title": "Gangsta's Paradise AI",
+      "url": "https://faceontrend.com/templates/gangstas-paradise-ai",
+      "lastmod": "2026-11-13T09:56:50+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "christmas-pajama-dance-ai",
+      "title": "Christmas Pajama Dance AI",
+      "url": "https://faceontrend.com/templates/christmas-pajama-dance-ai",
+      "lastmod": "2026-11-13T10:00:14+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "misanthropy-meme-ai",
+      "title": "Misanthropy Meme AI",
+      "url": "https://faceontrend.com/templates/misanthropy-meme-ai",
+      "lastmod": "2026-11-13T10:33:46+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "dog-grooming-time-ai",
+      "title": "Dog Grooming Time AI",
+      "url": "https://faceontrend.com/templates/dog-grooming-time-ai",
+      "lastmod": "2026-11-13T11:09:44+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "la-mujer-del-pelotero-ai",
+      "title": "La Mujer del Pelotero AI",
+      "url": "https://faceontrend.com/templates/la-mujer-del-pelotero-ai",
+      "lastmod": "2026-11-13T11:09:44+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "bigxthaplug-give-it-all-ai",
+      "title": "BigXthaPlug Give It All AI",
+      "url": "https://faceontrend.com/templates/bigxthaplug-give-it-all-ai",
+      "lastmod": "2026-11-14T14:28:20+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "need-for-speed-ai",
+      "title": "Need for Speed AI",
+      "url": "https://faceontrend.com/templates/need-for-speed-ai",
+      "lastmod": "2026-11-16T11:00:00+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "babydoll-dance-ai",
+      "title": "Babydoll Dance AI",
+      "url": "https://faceontrend.com/templates/babydoll-dance-ai",
+      "lastmod": "2026-11-16T11:10:00+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "pimpwalk-entrance-ai",
+      "title": "Pimpwalk Entrance AI",
+      "url": "https://faceontrend.com/templates/pimpwalk-entrance-ai",
+      "lastmod": "2026-11-16T11:30:00+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "pretend-drive-ai",
+      "title": "Pretend Drive AI",
+      "url": "https://faceontrend.com/templates/pretend-drive-ai",
+      "lastmod": "2026-11-16T11:45:00+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "king-jin-ai",
+      "title": "King Jin AI",
+      "url": "https://faceontrend.com/templates/king-jin-ai",
+      "lastmod": "2026-11-16T12:00:00+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "dancing-with-santa-ai",
+      "title": "Dancing with Santa AI",
+      "url": "https://faceontrend.com/templates/dancing-with-santa-ai",
+      "lastmod": "2026-11-17T12:00:00+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "never-let-her-pay-ai",
+      "title": "Never Let Her Pay AI",
+      "url": "https://faceontrend.com/templates/never-let-her-pay-ai",
+      "lastmod": "2026-11-17T12:10:00+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "te-he-perdido-ai",
+      "title": "Te He Perdido AI",
+      "url": "https://faceontrend.com/templates/te-he-perdido-ai",
+      "lastmod": "2026-11-17T13:00:00+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "jingle-bell-brazil-dance-ai",
+      "title": "Jingle Bell Brazil Dance AI",
+      "url": "https://faceontrend.com/templates/jingle-bell-brazil-dance-ai",
+      "lastmod": "2026-11-17T13:30:00+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "lil-yachty-walkout-ai",
+      "title": "Lil Yachty Walkout AI",
+      "url": "https://faceontrend.com/templates/lil-yachty-walkout-ai",
+      "lastmod": "2026-11-17T14:00:00+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "gta-5-goodbye-ai",
+      "title": "GTA 5 Goodbye AI",
+      "url": "https://faceontrend.com/templates/gta-5-goodbye-ai",
+      "lastmod": "2026-11-18T11:34:10+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "skibidi-babidi-boo-freestyle-ai",
+      "title": "Skibidi Babidi Boo Freestyle AI",
+      "url": "https://faceontrend.com/templates/skibidi-babidi-boo-freestyle-ai",
+      "lastmod": "2026-11-18T11:34:10+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "james-bond-reveal-ai",
+      "title": "James Bond Reveal AI",
+      "url": "https://faceontrend.com/templates/james-bond-reveal-ai",
+      "lastmod": "2026-11-19T10:50:16+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "pet-taxi-ai",
+      "title": "Pet Taxi AI",
+      "url": "https://faceontrend.com/templates/pet-taxi-ai",
+      "lastmod": "2026-11-19T16:50:51+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "oh-my-carne-asada-ai",
+      "title": "Oh My Carne Asada AI",
+      "url": "https://faceontrend.com/templates/oh-my-carne-asada-ai",
+      "lastmod": "2026-11-20T12:35:33+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "riding-lion-ai",
+      "title": "Riding Lion AI",
+      "url": "https://faceontrend.com/templates/riding-lion-ai",
+      "lastmod": "2026-11-20T16:56:52+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    },
+    {
+      "id_or_slug": "gta-6-loading-screen-ai",
+      "title": "GTA 6 Loading Screen",
+      "url": "https://faceontrend.com/templates/gta-6-loading-screen-ai",
+      "lastmod": "2026-11-21T18:47:00+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": false,
+      "title_source": "template_page_h1",
+      "page_status": 200,
+      "also_linked_from": [
+        "https://faceontrend.com/gta"
+      ],
+      "page_title": "GTA 6 Loading Screen AI Filter | FaceOnTrend",
+      "page_h1": "GTA 6 Loading Screen"
+    },
+    {
+      "id_or_slug": "dropped-truck-gta-6-ai",
+      "title": "Dropped Truck GTA 6 AI",
+      "url": "https://faceontrend.com/templates/dropped-truck-gta-6-ai",
+      "lastmod": "2026-11-21T19:55:33+08:00",
+      "in_sitemap": true,
+      "in_templates_itemlist": true,
+      "title_source": "templates_itemlist"
+    }
+  ],
+  "non_template_sitemap_urls": [
+    {
+      "url": "https://faceontrend.com",
+      "lastmod": "2026-11-06T16:12:17+08:00",
+      "path": "/",
+      "kind": "home"
+    },
+    {
+      "url": "https://faceontrend.com/ai-video-guide",
+      "lastmod": "2026-11-06T16:12:17+08:00",
+      "path": "/ai-video-guide",
+      "kind": "guide"
+    },
+    {
+      "url": "https://faceontrend.com/blog",
+      "lastmod": "2026-11-21T21:08:35+08:00",
+      "path": "/blog",
+      "kind": "blog_index"
+    },
+    {
+      "url": "https://faceontrend.com/blog/gta-6-ai-car-loading-screen",
+      "lastmod": "2026-11-21T21:08:35+08:00",
+      "path": "/blog/gta-6-ai-car-loading-screen",
+      "kind": "blog_post"
+    },
+    {
+      "url": "https://faceontrend.com/blog/gta-ai-images-and-videos",
+      "lastmod": "2026-11-21T21:04:53+08:00",
+      "path": "/blog/gta-ai-images-and-videos",
+      "kind": "blog_post"
+    },
+    {
+      "url": "https://faceontrend.com/templates",
+      "lastmod": "2026-11-06T16:12:17+08:00",
+      "path": "/templates",
+      "kind": "templates_index"
+    },
+    {
+      "url": "https://faceontrend.com/gta",
+      "lastmod": "2026-11-21T18:47:00+08:00",
+      "path": "/gta",
+      "kind": "gta_hub"
+    },
+    {
+      "url": "https://faceontrend.com/pricing",
+      "lastmod": "2026-11-06T16:12:17+08:00",
+      "path": "/pricing",
+      "kind": "marketing"
+    },
+    {
+      "url": "https://faceontrend.com/ai-models",
+      "lastmod": "2026-10-27T20:53:55+08:00",
+      "path": "/ai-models",
+      "kind": "marketing"
+    },
+    {
+      "url": "https://faceontrend.com/about",
+      "lastmod": "2026-10-27T20:53:55+08:00",
+      "path": "/about",
+      "kind": "marketing"
+    },
+    {
+      "url": "https://faceontrend.com/privacy",
+      "lastmod": "2026-11-01T21:49:16+08:00",
+      "path": "/privacy",
+      "kind": "legal"
+    },
+    {
+      "url": "https://faceontrend.com/terms",
+      "lastmod": "2026-10-27T20:53:55+08:00",
+      "path": "/terms",
+      "kind": "legal"
+    },
+    {
+      "url": "https://faceontrend.com/acceptable-use-policy",
+      "lastmod": "2026-10-27T20:53:55+08:00",
+      "path": "/acceptable-use-policy",
+      "kind": "legal"
+    },
+    {
+      "url": "https://faceontrend.com/refund",
+      "lastmod": "2026-10-27T20:53:55+08:00",
+      "path": "/refund",
+      "kind": "legal"
+    }
+  ],
+  "notes": [
+    "Inventory is taken from the public sitemap at https://faceontrend.com/sitemap.xml (84 URLs on fetch). Template pages are /templates/{slug}.",
+    "Titles for 69 templates come from the ItemList JSON-LD on https://faceontrend.com/templates (HTTP 200).",
+    "https://faceontrend.com/templates/gta-6-loading-screen-ai is in the sitemap and returns HTTP 200, and is linked from https://faceontrend.com/gta, but was not in the /templates ItemList at fetch time. Title taken from that page's H1 (GTA 6 Loading Screen). Other 69 template URLs were not individually re-requested in this fetch.",
+    "https://www.faceontrend.com/sitemap.xml and /robots.txt failed TLS (unexpected eof) from this box; apex https://faceontrend.com was used.",
+    "The GitHub repo was not cloned. This list is from the live public site only.",
+    "Sitemap also lists non-template pages (home, /templates index, /gta hub, blog, guide, pricing, legal). Those are in non_template_sitemap_urls, not in templates."
+  ]
+}

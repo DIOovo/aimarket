@@ -1,0 +1,22 @@
+User-agent: *
+Allow: /
+Disallow: /*/app
+Disallow: /app
+Disallow: /*/admin
+Disallow: /admin
+Disallow: /api
+Allow: /api/rap/examples/
+Disallow: /login
+Disallow: /*/login
+Disallow: /register
+Disallow: /*/register
+Disallow: /forgot-password
+Disallow: /*/forgot-password
+Disallow: /reset-password
+Disallow: /*/reset-password
+Disallow: /verify-email
+Disallow: /*/verify-email
+Disallow: /*?*
+Sitemap: https://clipremake.com/sitemap.xml
+# llms.txt: https://clipremake.com/llms.txt
+# llms-full.txt: https://clipremake.com/llms-full.txt

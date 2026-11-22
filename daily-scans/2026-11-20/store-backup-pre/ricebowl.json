@@ -1,0 +1,380 @@
+{
+  "site": "Ricebowl AI",
+  "home": "https://ricebowl.ai/",
+  "checked_at": "2026-11-19T09:40:27+08:00",
+  "sitemap_urls_found": [
+    "https://ricebowl.ai/sitemap.xml",
+    "https://ricebowl.ai/sitemap-pages.xml",
+    "https://ricebowl.ai/sitemap-models.xml",
+    "https://ricebowl.ai/sitemap-hub.xml"
+  ],
+  "sitemap_existed": true,
+  "template_count": 72,
+  "templates": [
+    {
+      "id_or_slug": "abra-kadabra-ai",
+      "title": "Abra Kadabra AI Video",
+      "url": "https://ricebowl.ai/app/abra-kadabra-ai"
+    },
+    {
+      "id_or_slug": "ai-baby-gangster",
+      "title": "AI Baby Gangster",
+      "url": "https://ricebowl.ai/app/ai-baby-gangster"
+    },
+    {
+      "id_or_slug": "ai-cakeify-effect",
+      "title": "AI Cakeify Effect",
+      "url": "https://ricebowl.ai/app/ai-cakeify-effect"
+    },
+    {
+      "id_or_slug": "ai-camera-orbit-video-effect",
+      "title": "AI Camera Orbit Video Effect",
+      "url": "https://ricebowl.ai/app/ai-camera-orbit-video-effect"
+    },
+    {
+      "id_or_slug": "ai-clone-video",
+      "title": "AI Clone Video",
+      "url": "https://ricebowl.ai/app/ai-clone-video"
+    },
+    {
+      "id_or_slug": "ai-hair-growth-generator",
+      "title": "AI Hair Growth Video",
+      "url": "https://ricebowl.ai/app/ai-hair-growth-generator"
+    },
+    {
+      "id_or_slug": "ai-laughing-face-effect",
+      "title": "AI Laughing Face Effect",
+      "url": "https://ricebowl.ai/app/ai-laughing-face-effect"
+    },
+    {
+      "id_or_slug": "ai-melt-effect",
+      "title": "AI Melt Effect",
+      "url": "https://ricebowl.ai/app/ai-melt-effect"
+    },
+    {
+      "id_or_slug": "ai-movie-scene-generator",
+      "title": "AI Movie Scene Generator",
+      "url": "https://ricebowl.ai/app/ai-movie-scene-generator"
+    },
+    {
+      "id_or_slug": "ai-scared-face-effect",
+      "title": "AI Scared Face Effect",
+      "url": "https://ricebowl.ai/app/ai-scared-face-effect"
+    },
+    {
+      "id_or_slug": "ai-shocked-face-effect",
+      "title": "AI Shocked Face Effect",
+      "url": "https://ricebowl.ai/app/ai-shocked-face-effect"
+    },
+    {
+      "id_or_slug": "ai-video-effects",
+      "title": "AI Video Effects",
+      "url": "https://ricebowl.ai/app/ai-video-effects"
+    },
+    {
+      "id_or_slug": "ai-video-of-yourself",
+      "title": "AI Video of Yourself",
+      "url": "https://ricebowl.ai/app/ai-video-of-yourself"
+    },
+    {
+      "id_or_slug": "ai-walking-effect",
+      "title": "AI Walking Effect",
+      "url": "https://ricebowl.ai/app/ai-walking-effect"
+    },
+    {
+      "id_or_slug": "angry-ginge-ai",
+      "title": "Angry Ginge AI",
+      "url": "https://ricebowl.ai/app/angry-ginge-ai"
+    },
+    {
+      "id_or_slug": "aura-farming-ai",
+      "title": "Aura Farming AI",
+      "url": "https://ricebowl.ai/app/aura-farming-ai"
+    },
+    {
+      "id_or_slug": "bama-bound-trend",
+      "title": "Bama Bound Trend",
+      "url": "https://ricebowl.ai/app/bama-bound-trend"
+    },
+    {
+      "id_or_slug": "blocus-poursuite-ai-video",
+      "title": "Blocus Poursuite AI Video",
+      "url": "https://ricebowl.ai/app/blocus-poursuite-ai-video"
+    },
+    {
+      "id_or_slug": "bottle-kick-ai-video",
+      "title": "Bottle Kick AI Video",
+      "url": "https://ricebowl.ai/app/bottle-kick-ai-video"
+    },
+    {
+      "id_or_slug": "can-you-make-it-cap",
+      "title": "Can You Make It Cap AI",
+      "url": "https://ricebowl.ai/app/can-you-make-it-cap"
+    },
+    {
+      "id_or_slug": "car-chips-prank-ai-trend",
+      "title": "Car Chips Prank AI Trend",
+      "url": "https://ricebowl.ai/app/car-chips-prank-ai-trend"
+    },
+    {
+      "id_or_slug": "cardo-dinner-ai-video",
+      "title": "Cardo Dinner AI",
+      "url": "https://ricebowl.ai/app/cardo-dinner-ai-video"
+    },
+    {
+      "id_or_slug": "chatgpt-millionaire-30-days-ai-video",
+      "title": "ChatGPT Millionaire 30 Days AI Video",
+      "url": "https://ricebowl.ai/app/chatgpt-millionaire-30-days-ai-video"
+    },
+    {
+      "id_or_slug": "closing-door-prank",
+      "title": "Closing Door Prank",
+      "url": "https://ricebowl.ai/app/closing-door-prank"
+    },
+    {
+      "id_or_slug": "cofi-trend-ai-video-generator",
+      "title": "Cofi Trend AI",
+      "url": "https://ricebowl.ai/app/cofi-trend-ai-video-generator"
+    },
+    {
+      "id_or_slug": "compa-coleto-baby-bottle",
+      "title": "Compa Coleto Baby Bottle",
+      "url": "https://ricebowl.ai/app/compa-coleto-baby-bottle"
+    },
+    {
+      "id_or_slug": "counting-money-meme",
+      "title": "Counting Money Meme",
+      "url": "https://ricebowl.ai/app/counting-money-meme"
+    },
+    {
+      "id_or_slug": "crying-ai-slap-transition",
+      "title": "Crying AI Slap Transition",
+      "url": "https://ricebowl.ai/app/crying-ai-slap-transition"
+    },
+    {
+      "id_or_slug": "dime-dime-baby-ai-dance",
+      "title": "Dime Dime Baby Dance",
+      "url": "https://ricebowl.ai/app/dime-dime-baby-ai-dance"
+    },
+    {
+      "id_or_slug": "earth-zoom-out",
+      "title": "Earth Zoom Out AI",
+      "url": "https://ricebowl.ai/app/earth-zoom-out"
+    },
+    {
+      "id_or_slug": "explosion-walk-ai-video-generator",
+      "title": "Explosion Walk AI",
+      "url": "https://ricebowl.ai/app/explosion-walk-ai-video-generator"
+    },
+    {
+      "id_or_slug": "first-time-in-a-fancy-cafe",
+      "title": "Fancy Cafe Couple Video",
+      "url": "https://ricebowl.ai/app/first-time-in-a-fancy-cafe"
+    },
+    {
+      "id_or_slug": "fish-chop-ai-video",
+      "title": "Fish Chop AI Video",
+      "url": "https://ricebowl.ai/app/fish-chop-ai-video"
+    },
+    {
+      "id_or_slug": "fridge-pov-ai-video-generator",
+      "title": "Fridge POV AI",
+      "url": "https://ricebowl.ai/app/fridge-pov-ai-video-generator"
+    },
+    {
+      "id_or_slug": "happy-friday-im-onnat-ai-video",
+      "title": "Happy Friday Im Onnat AI Video",
+      "url": "https://ricebowl.ai/app/happy-friday-im-onnat-ai-video"
+    },
+    {
+      "id_or_slug": "head-bop-animation",
+      "title": "Head Bop Animation",
+      "url": "https://ricebowl.ai/app/head-bop-animation"
+    },
+    {
+      "id_or_slug": "hop-hop-hop-ai",
+      "title": "Hop Hop Hop AI Dance",
+      "url": "https://ricebowl.ai/app/hop-hop-hop-ai"
+    },
+    {
+      "id_or_slug": "i-love-the-smiths-ai-trend",
+      "title": "I Love the Smiths AI Trend",
+      "url": "https://ricebowl.ai/app/i-love-the-smiths-ai-trend"
+    },
+    {
+      "id_or_slug": "i-need-a-gf-alvin",
+      "title": "I Need a Gf Alvin",
+      "url": "https://ricebowl.ai/app/i-need-a-gf-alvin"
+    },
+    {
+      "id_or_slug": "im-so-sorry-trend",
+      "title": "I'm So Sorry Trend",
+      "url": "https://ricebowl.ai/app/im-so-sorry-trend"
+    },
+    {
+      "id_or_slug": "in-a-minute-wassup",
+      "title": "In a Minute Wassup",
+      "url": "https://ricebowl.ai/app/in-a-minute-wassup"
+    },
+    {
+      "id_or_slug": "instagram-journey-ai-video-generator",
+      "title": "Instagram Journey AI",
+      "url": "https://ricebowl.ai/app/instagram-journey-ai-video-generator"
+    },
+    {
+      "id_or_slug": "iphone-kupi-dance",
+      "title": "iPhone Kupi Dance",
+      "url": "https://ricebowl.ai/app/iphone-kupi-dance"
+    },
+    {
+      "id_or_slug": "jailer-2-building-explosion-ai-video",
+      "title": "Jailer 2 Explosion AI",
+      "url": "https://ricebowl.ai/app/jailer-2-building-explosion-ai-video"
+    },
+    {
+      "id_or_slug": "king-jin-ai-trend",
+      "title": "King Jin AI Trend",
+      "url": "https://ricebowl.ai/app/king-jin-ai-trend"
+    },
+    {
+      "id_or_slug": "mini-tricycle-crash",
+      "title": "Mini Tricycle Crash",
+      "url": "https://ricebowl.ai/app/mini-tricycle-crash"
+    },
+    {
+      "id_or_slug": "money-flex-ai",
+      "title": "Money Flex AI",
+      "url": "https://ricebowl.ai/app/money-flex-ai"
+    },
+    {
+      "id_or_slug": "mr-and-mrs-stretchy",
+      "title": "Stretchy Couple",
+      "url": "https://ricebowl.ai/app/mr-and-mrs-stretchy"
+    },
+    {
+      "id_or_slug": "nestle-crunch-ai-video-generator",
+      "title": "Nestle Crunch AI Video",
+      "url": "https://ricebowl.ai/app/nestle-crunch-ai-video-generator"
+    },
+    {
+      "id_or_slug": "not-bro-getting-arrested-again",
+      "title": "AI Arrest Video",
+      "url": "https://ricebowl.ai/app/not-bro-getting-arrested-again"
+    },
+    {
+      "id_or_slug": "opa-opa-opa-trend",
+      "title": "Opa Opa Opa Trend",
+      "url": "https://ricebowl.ai/app/opa-opa-opa-trend"
+    },
+    {
+      "id_or_slug": "perdon-ai-trend",
+      "title": "Perdon AI Trend",
+      "url": "https://ricebowl.ai/app/perdon-ai-trend"
+    },
+    {
+      "id_or_slug": "permission-to-cry-sir-ai-trend",
+      "title": "Permission to Cry Sir AI Trend",
+      "url": "https://ricebowl.ai/app/permission-to-cry-sir-ai-trend"
+    },
+    {
+      "id_or_slug": "pig-riding-ai-video",
+      "title": "Pig Riding AI Video",
+      "url": "https://ricebowl.ai/app/pig-riding-ai-video"
+    },
+    {
+      "id_or_slug": "pimpwalk-entrance",
+      "title": "Pimpwalk Entrance",
+      "url": "https://ricebowl.ai/app/pimpwalk-entrance"
+    },
+    {
+      "id_or_slug": "retro-chair-rock-ai-video",
+      "title": "Retro Chair Rock AI",
+      "url": "https://ricebowl.ai/app/retro-chair-rock-ai-video"
+    },
+    {
+      "id_or_slug": "rubber-band-prank-ai-trend",
+      "title": "Rubber Band Prank AI Trend",
+      "url": "https://ricebowl.ai/app/rubber-band-prank-ai-trend"
+    },
+    {
+      "id_or_slug": "rumpelstiltskin-meme",
+      "title": "Rumpelstiltskin Meme Generator",
+      "url": "https://ricebowl.ai/app/rumpelstiltskin-meme"
+    },
+    {
+      "id_or_slug": "screaming-girl-hair-funk",
+      "title": "Hair Funk Scream",
+      "url": "https://ricebowl.ai/app/screaming-girl-hair-funk"
+    },
+    {
+      "id_or_slug": "shaking-head-trend",
+      "title": "Shaking Head Trend",
+      "url": "https://ricebowl.ai/app/shaking-head-trend"
+    },
+    {
+      "id_or_slug": "shan-shen-bu",
+      "title": "Shan Shen Bu",
+      "url": "https://ricebowl.ai/app/shan-shen-bu"
+    },
+    {
+      "id_or_slug": "stones-to-castle-ai",
+      "title": "Stones to Castle AI",
+      "url": "https://ricebowl.ai/app/stones-to-castle-ai"
+    },
+    {
+      "id_or_slug": "storm-ii-ai-video",
+      "title": "Storm II AI Video",
+      "url": "https://ricebowl.ai/app/storm-ii-ai-video"
+    },
+    {
+      "id_or_slug": "street-light-slide-ai-generator",
+      "title": "Street Light Slide AI",
+      "url": "https://ricebowl.ai/app/street-light-slide-ai-generator"
+    },
+    {
+      "id_or_slug": "teardrop-sink-ai-video",
+      "title": "Teardrop Sink AI Video",
+      "url": "https://ricebowl.ai/app/teardrop-sink-ai-video"
+    },
+    {
+      "id_or_slug": "tip-toeing-in-my-jordans-ai",
+      "title": "Tip Toeing in My Jordans AI",
+      "url": "https://ricebowl.ai/app/tip-toeing-in-my-jordans-ai"
+    },
+    {
+      "id_or_slug": "tung-tung-tung-sahur-ai-video",
+      "title": "Tung Tung Tung Sahur AI Video",
+      "url": "https://ricebowl.ai/app/tung-tung-tung-sahur-ai-video"
+    },
+    {
+      "id_or_slug": "turkey-dance-video",
+      "title": "Turkey Dance Video",
+      "url": "https://ricebowl.ai/app/turkey-dance-video"
+    },
+    {
+      "id_or_slug": "tus-ojos-me-reflejan",
+      "title": "Tus Ojos Me Reflejan",
+      "url": "https://ricebowl.ai/app/tus-ojos-me-reflejan"
+    },
+    {
+      "id_or_slug": "two-legends-making-coffee",
+      "title": "Two Legends Coffee",
+      "url": "https://ricebowl.ai/app/two-legends-making-coffee"
+    },
+    {
+      "id_or_slug": "window-peeper-ai",
+      "title": "Window Peeper AI",
+      "url": "https://ricebowl.ai/app/window-peeper-ai"
+    },
+    {
+      "id_or_slug": "year-in-review-video",
+      "title": "Year in Review Video",
+      "url": "https://ricebowl.ai/app/year-in-review-video"
+    }
+  ],
+  "new_count": 0,
+  "removed_count": 0,
+  "new_templates": [],
+  "removed_templates": [],
+  "note": "Meme catalog (/trends/meme ItemList) unchanged vs yesterday (84 claimed / 0 genuine new). Generic /app tool pages and parse junk not added."
+}

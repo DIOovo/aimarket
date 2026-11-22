@@ -1,0 +1,177 @@
+{
+  "site": "Starrd",
+  "file": "starrd.json",
+  "prev": 345,
+  "now": 376,
+  "fetch_ok": true,
+  "notes": [],
+  "new": [
+    {
+      "id_or_slug": "action",
+      "title": "Action",
+      "url": "https://www.getstarrd.app/template/action"
+    },
+    {
+      "id_or_slug": "anime",
+      "title": "Anime",
+      "url": "https://www.getstarrd.app/template/anime"
+    },
+    {
+      "id_or_slug": "asmr",
+      "title": "Asmr",
+      "url": "https://www.getstarrd.app/template/asmr"
+    },
+    {
+      "id_or_slug": "atm-christmas-wish-ai-video",
+      "title": "Atm Christmas Wish AI Video",
+      "url": "https://www.getstarrd.app/template/atm-christmas-wish-ai-video"
+    },
+    {
+      "id_or_slug": "barbie-girl-dance",
+      "title": "Barbie Girl Dance",
+      "url": "https://www.getstarrd.app/template/barbie-girl-dance"
+    },
+    {
+      "id_or_slug": "careless-whisper-car-ai-video",
+      "title": "Careless Whisper Car AI Video",
+      "url": "https://www.getstarrd.app/template/careless-whisper-car-ai-video"
+    },
+    {
+      "id_or_slug": "cars",
+      "title": "Cars",
+      "url": "https://www.getstarrd.app/template/cars"
+    },
+    {
+      "id_or_slug": "catch-santa-at-your-tree-ai-video",
+      "title": "Catch Santa At Your Tree AI Video",
+      "url": "https://www.getstarrd.app/template/catch-santa-at-your-tree-ai-video"
+    },
+    {
+      "id_or_slug": "catch-santa-down-the-chimney-ai-video",
+      "title": "Catch Santa Down The Chimney AI Video",
+      "url": "https://www.getstarrd.app/template/catch-santa-down-the-chimney-ai-video"
+    },
+    {
+      "id_or_slug": "catch-santa-eating-the-cookies-ai-video",
+      "title": "Catch Santa Eating The Cookies AI Video",
+      "url": "https://www.getstarrd.app/template/catch-santa-eating-the-cookies-ai-video"
+    },
+    {
+      "id_or_slug": "catch-the-grinch-ai-video",
+      "title": "Catch The Grinch AI Video",
+      "url": "https://www.getstarrd.app/template/catch-the-grinch-ai-video"
+    },
+    {
+      "id_or_slug": "catch-the-sneaky-elf-ai-video",
+      "title": "Catch The Sneaky Elf AI Video",
+      "url": "https://www.getstarrd.app/template/catch-the-sneaky-elf-ai-video"
+    },
+    {
+      "id_or_slug": "christmas-dance-trend",
+      "title": "Christmas Dance Trend",
+      "url": "https://www.getstarrd.app/template/christmas-dance-trend"
+    },
+    {
+      "id_or_slug": "crime",
+      "title": "Crime",
+      "url": "https://www.getstarrd.app/template/crime"
+    },
+    {
+      "id_or_slug": "drama",
+      "title": "Drama",
+      "url": "https://www.getstarrd.app/template/drama"
+    },
+    {
+      "id_or_slug": "elf-dance-ai-video",
+      "title": "Elf Dance AI Video",
+      "url": "https://www.getstarrd.app/template/elf-dance-ai-video"
+    },
+    {
+      "id_or_slug": "gaming",
+      "title": "Gaming",
+      "url": "https://www.getstarrd.app/template/gaming"
+    },
+    {
+      "id_or_slug": "gangstas-paradise-ai-video",
+      "title": "Gangstas Paradise AI Video",
+      "url": "https://www.getstarrd.app/template/gangstas-paradise-ai-video"
+    },
+    {
+      "id_or_slug": "gangstas-paradise-extended-ai-video",
+      "title": "Gangstas Paradise Extended AI Video",
+      "url": "https://www.getstarrd.app/template/gangstas-paradise-extended-ai-video"
+    },
+    {
+      "id_or_slug": "henshin",
+      "title": "Henshin",
+      "url": "https://www.getstarrd.app/template/henshin"
+    },
+    {
+      "id_or_slug": "hit-me-baby-one-more-time-ai-video",
+      "title": "Hit Me Baby One More Time AI Video",
+      "url": "https://www.getstarrd.app/template/hit-me-baby-one-more-time-ai-video"
+    },
+    {
+      "id_or_slug": "holidays",
+      "title": "Holidays",
+      "url": "https://www.getstarrd.app/template/holidays"
+    },
+    {
+      "id_or_slug": "iconic-by-mistake-ai-video",
+      "title": "Iconic By Mistake AI Video",
+      "url": "https://www.getstarrd.app/template/iconic-by-mistake-ai-video"
+    },
+    {
+      "id_or_slug": "island-boy-ai-trend",
+      "title": "Island Boy AI Trend",
+      "url": "https://www.getstarrd.app/template/island-boy-ai-trend"
+    },
+    {
+      "id_or_slug": "music",
+      "title": "Music",
+      "url": "https://www.getstarrd.app/template/music"
+    },
+    {
+      "id_or_slug": "nostalgia",
+      "title": "Nostalgia",
+      "url": "https://www.getstarrd.app/template/nostalgia"
+    },
+    {
+      "id_or_slug": "pets",
+      "title": "Pets",
+      "url": "https://www.getstarrd.app/template/pets"
+    },
+    {
+      "id_or_slug": "pranks",
+      "title": "Pranks",
+      "url": "https://www.getstarrd.app/template/pranks"
+    },
+    {
+      "id_or_slug": "shes-staring-at-me-mad-trend",
+      "title": "Shes Staring At Me Mad Trend",
+      "url": "https://www.getstarrd.app/template/shes-staring-at-me-mad-trend"
+    },
+    {
+      "id_or_slug": "song",
+      "title": "Song",
+      "url": "https://www.getstarrd.app/template/song"
+    },
+    {
+      "id_or_slug": "sports",
+      "title": "Sports",
+      "url": "https://www.getstarrd.app/template/sports"
+    },
+    {
+      "id_or_slug": "trailers",
+      "title": "Trailers",
+      "url": "https://www.getstarrd.app/template/trailers"
+    }
+  ],
+  "removed": [
+    {
+      "id_or_slug": "bro-took-the-whole-bag-ai-video",
+      "title": "Bro Took The Whole Bag AI Video",
+      "url": "https://www.getstarrd.app/template/bro-took-the-whole-bag-ai-video"
+    }
+  ]
+}

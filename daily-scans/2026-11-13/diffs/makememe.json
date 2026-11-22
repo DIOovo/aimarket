@@ -1,0 +1,41 @@
+{
+  "site": "MakeMeme.video",
+  "file": "makememe.json",
+  "prev": 130,
+  "now": 136,
+  "fetch_ok": true,
+  "notes": [],
+  "new": [
+    {
+      "id_or_slug": "apple-icon.png",
+      "title": "Apple Icon.png",
+      "url": "https://makememe.video/apple-icon.png"
+    },
+    {
+      "id_or_slug": "dog-pool-party-ai",
+      "title": "Dog Pool Party AI",
+      "url": "https://makememe.video/dog-pool-party-ai"
+    },
+    {
+      "id_or_slug": "favicon.ico",
+      "title": "Favicon.ico",
+      "url": "https://makememe.video/favicon.ico"
+    },
+    {
+      "id_or_slug": "gangstas-paradise-ai",
+      "title": "Gangstas Paradise AI",
+      "url": "https://makememe.video/gangstas-paradise-ai"
+    },
+    {
+      "id_or_slug": "kiss-cam-ai",
+      "title": "Kiss Cam AI",
+      "url": "https://makememe.video/kiss-cam-ai"
+    },
+    {
+      "id_or_slug": "manifest.webmanifest",
+      "title": "Manifest.webmanifest",
+      "url": "https://makememe.video/manifest.webmanifest"
+    }
+  ],
+  "removed": []
+}

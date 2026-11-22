@@ -1,0 +1,13 @@
+User-Agent: *
+Allow: /
+Disallow: /admin
+Disallow: /settings
+Disallow: /dashboard
+Disallow: /library
+Disallow: /photos
+Disallow: /profile
+Disallow: /saved
+Disallow: /api/
+Disallow: /*?*
+
+Sitemap: https://smew.ai/sitemap.xml

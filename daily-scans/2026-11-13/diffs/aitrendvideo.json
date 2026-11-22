@@ -1,0 +1,26 @@
+{
+  "site": "AI Trend Video",
+  "file": "aitrendvideo.json",
+  "prev": 7,
+  "now": 10,
+  "fetch_ok": true,
+  "notes": [],
+  "new": [
+    {
+      "id_or_slug": "create",
+      "title": "Create",
+      "url": "https://aitrendvideo.net/create"
+    },
+    {
+      "id_or_slug": "history",
+      "title": "History",
+      "url": "https://aitrendvideo.net/history"
+    },
+    {
+      "id_or_slug": "refund-policy",
+      "title": "Refund Policy",
+      "url": "https://aitrendvideo.net/refund-policy"
+    }
+  ],
+  "removed": []
+}

@@ -1,0 +1,279 @@
+{
+  "checked_at": "2026-11-13T09:18:30+08:00",
+  "timezone": "Asia/Shanghai",
+  "previous_checked_at": "2026-11-12T09:22:09+08:00",
+  "ledger": {
+    "sites": 28,
+    "sites_updated": 27,
+    "sites_left_unchanged": [
+      "ricebowl.json"
+    ],
+    "total_templates": 2865,
+    "total_new": 80,
+    "total_removed": 0
+  },
+  "per_site": {
+    "dothetrend.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 70,
+      "raw_now": 70,
+      "curated_new": 0,
+      "filtered": 0
+    },
+    "trendtemplate.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 22,
+      "raw_now": 35,
+      "curated_new": 2,
+      "filtered": 13
+    },
+    "memefxai.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 72,
+      "raw_now": 93,
+      "curated_new": 6,
+      "filtered": 21
+    },
+    "clipremake.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 49,
+      "raw_now": 49,
+      "curated_new": 2,
+      "filtered": 0
+    },
+    "remakeyourmeme.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [
+        "Sitemap via WebFetch; box IP still 403; inventory unchanged (44)."
+      ],
+      "prev_count": 44,
+      "raw_now": 0,
+      "curated_new": 0,
+      "filtered": 0
+    },
+    "makeviral.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 488,
+      "raw_now": 488,
+      "curated_new": 10,
+      "filtered": 0
+    },
+    "smew.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 439,
+      "raw_now": 439,
+      "curated_new": 0,
+      "filtered": 0
+    },
+    "makememe.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 133,
+      "raw_now": 136,
+      "curated_new": 3,
+      "filtered": 3
+    },
+    "viralremake.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 37,
+      "raw_now": 37,
+      "curated_new": 0,
+      "filtered": 0
+    },
+    "memeclone.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 74,
+      "raw_now": 74,
+      "curated_new": 0,
+      "filtered": 0
+    },
+    "trendswap.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 57,
+      "raw_now": 70,
+      "curated_new": 2,
+      "filtered": 13
+    },
+    "putmein.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 10,
+      "raw_now": 10,
+      "curated_new": 0,
+      "filtered": 0
+    },
+    "samevid.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 131,
+      "raw_now": 147,
+      "curated_new": 19,
+      "filtered": 16
+    },
+    "zapvid.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 14,
+      "raw_now": 14,
+      "curated_new": 0,
+      "filtered": 0
+    },
+    "summrs.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [
+        "Kept bigfoot-vlog despite missing from today's sitemap (page still 200)."
+      ],
+      "prev_count": 71,
+      "raw_now": 91,
+      "curated_new": 1,
+      "filtered": 21
+    },
+    "trendify.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 14,
+      "raw_now": 14,
+      "curated_new": 0,
+      "filtered": 0
+    },
+    "genjutsu.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 45,
+      "raw_now": 53,
+      "curated_new": 0,
+      "filtered": 8
+    },
+    "danceremake.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 14,
+      "raw_now": 14,
+      "curated_new": 0,
+      "filtered": 0
+    },
+    "starrd.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [
+        "Kept bro-took-the-whole-bag-ai-video despite missing from today's sitemap (page still 200)."
+      ],
+      "prev_count": 361,
+      "raw_now": 376,
+      "curated_new": 16,
+      "filtered": 16
+    },
+    "aitrendvideo.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 7,
+      "raw_now": 10,
+      "curated_new": 0,
+      "filtered": 3
+    },
+    "ricebowl.json": {
+      "update_store": false,
+      "fetch_ok": false,
+      "notes": [
+        "Fetch failed: sitemap/robots//trends/meme all HTTP 500 (box curl and WebFetch). Snapshot left unchanged; not treated as removals."
+      ],
+      "prev_count": 63,
+      "raw_now": 0,
+      "curated_new": 0,
+      "filtered": 0
+    },
+    "kubflow.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 10,
+      "raw_now": 11,
+      "curated_new": 0,
+      "filtered": 1
+    },
+    "picturetovideo.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 5,
+      "raw_now": 46,
+      "curated_new": 0,
+      "filtered": 41
+    },
+    "bolly.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 218,
+      "raw_now": 225,
+      "curated_new": 1,
+      "filtered": 7
+    },
+    "rapvideo.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 39,
+      "raw_now": 67,
+      "curated_new": 1,
+      "filtered": 28
+    },
+    "aimakevideo.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 39,
+      "raw_now": 39,
+      "curated_new": 0,
+      "filtered": 0
+    },
+    "tryatrend.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [
+        "Kept ai-halloween-costume despite missing from today's sitemap (page still 200)."
+      ],
+      "prev_count": 45,
+      "raw_now": 44,
+      "curated_new": 0,
+      "filtered": 0
+    },
+    "memelry.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 294,
+      "raw_now": 340,
+      "curated_new": 17,
+      "filtered": 46
+    }
+  }
+}

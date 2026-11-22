@@ -1,0 +1,63 @@
+{
+  "site": "MakeMeme.video",
+  "file": "makememe.json",
+  "prev": 123,
+  "now": 133,
+  "new": [
+    {
+      "id_or_slug": "apple-icon.png",
+      "title": "Apple Icon.png",
+      "url": "https://makememe.video/apple-icon.png"
+    },
+    {
+      "id_or_slug": "cat-wheelie-ai",
+      "title": "Cat Wheelie AI",
+      "url": "https://makememe.video/cat-wheelie-ai"
+    },
+    {
+      "id_or_slug": "favicon.ico",
+      "title": "Favicon.ico",
+      "url": "https://makememe.video/favicon.ico"
+    },
+    {
+      "id_or_slug": "favorite-rumors-about-us-ai",
+      "title": "Favorite Rumors About US AI",
+      "url": "https://makememe.video/favorite-rumors-about-us-ai"
+    },
+    {
+      "id_or_slug": "flamingo-float-ai",
+      "title": "Flamingo Float AI",
+      "url": "https://makememe.video/flamingo-float-ai"
+    },
+    {
+      "id_or_slug": "hotline-bling-ai",
+      "title": "Hotline Bling AI",
+      "url": "https://makememe.video/hotline-bling-ai"
+    },
+    {
+      "id_or_slug": "i-love-the-smiths-ai",
+      "title": "I Love The Smiths AI",
+      "url": "https://makememe.video/i-love-the-smiths-ai"
+    },
+    {
+      "id_or_slug": "manifest.webmanifest",
+      "title": "Manifest.webmanifest",
+      "url": "https://makememe.video/manifest.webmanifest"
+    },
+    {
+      "id_or_slug": "three-kittens-dance-ai",
+      "title": "Three Kittens Dance AI",
+      "url": "https://makememe.video/three-kittens-dance-ai"
+    },
+    {
+      "id_or_slug": "training-season-ai",
+      "title": "Training Season AI",
+      "url": "https://makememe.video/training-season-ai"
+    }
+  ],
+  "gone": [],
+  "notes": [],
+  "sitemaps": [
+    "https://makememe.video/sitemap.xml"
+  ]
+}

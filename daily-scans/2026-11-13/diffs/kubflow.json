@@ -1,0 +1,16 @@
+{
+  "site": "Kubflow",
+  "file": "kubflow.json",
+  "prev": 10,
+  "now": 11,
+  "fetch_ok": true,
+  "notes": [],
+  "new": [
+    {
+      "id_or_slug": "generations",
+      "title": "Generations",
+      "url": "https://kubflow.ai/trends/generations"
+    }
+  ],
+  "removed": []
+}

@@ -1,0 +1,33 @@
+{
+  "site": "AI Trend Video",
+  "file": "aitrendvideo.json",
+  "prev": 6,
+  "now": 10,
+  "new": [
+    {
+      "id_or_slug": "ai-rap-video",
+      "title": "AI Rap Video",
+      "url": "https://aitrendvideo.net/ai-rap-video"
+    },
+    {
+      "id_or_slug": "create",
+      "title": "Create",
+      "url": "https://aitrendvideo.net/create"
+    },
+    {
+      "id_or_slug": "history",
+      "title": "History",
+      "url": "https://aitrendvideo.net/history"
+    },
+    {
+      "id_or_slug": "refund-policy",
+      "title": "Refund Policy",
+      "url": "https://aitrendvideo.net/refund-policy"
+    }
+  ],
+  "gone": [],
+  "notes": [],
+  "sitemaps": [
+    "https://aitrendvideo.net/sitemap.xml"
+  ]
+}

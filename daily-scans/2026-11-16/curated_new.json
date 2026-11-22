@@ -1,0 +1,462 @@
+[
+  {
+    "site": "TrendTemplate",
+    "file": "trendtemplate.json",
+    "item": {
+      "id_or_slug": "need-for-speed-ai",
+      "title": "Need for Speed AI",
+      "url": "https://trendtemplate.com/need-for-speed-ai"
+    },
+    "desc": "把自己的车放进《极品飞车》小镇烧胎漂移追逐"
+  },
+  {
+    "site": "MemeFX AI",
+    "file": "memefxai.json",
+    "item": {
+      "id_or_slug": "wassup-in-a-minute-ai-trend",
+      "title": "Wassup in a Minute AI",
+      "url": "https://memefxai.com/wassup-in-a-minute-ai-trend"
+    },
+    "desc": "和两个朋友在雾气山坡上跳 Wassup in a Minute 田野舞"
+  },
+  {
+    "site": "ClipRemake",
+    "file": "clipremake.json",
+    "item": {
+      "id_or_slug": "hotline-bling-ai",
+      "title": "Hotline Bling AI",
+      "url": "https://clipremake.com/templates/hotline-bling-ai"
+    },
+    "desc": "和搭档在粉/蓝/紫/绿霓虹房间里轮流出镜跳 Hotline Bling"
+  },
+  {
+    "site": "ClipRemake",
+    "file": "clipremake.json",
+    "item": {
+      "id_or_slug": "wassup-in-a-minute-ai",
+      "title": "Wassup in a Minute AI",
+      "url": "https://clipremake.com/templates/wassup-in-a-minute-ai"
+    },
+    "desc": "和朋友走上一座雾气山坡，抱头、搞怪再耸肩"
+  },
+  {
+    "site": "MakeViral",
+    "file": "makeviral.json",
+    "item": {
+      "id_or_slug": "ai-tidal-wave-video",
+      "title": "AI Tidal Wave Video",
+      "url": "https://www.makeviral.ai/templates/ai-tidal-wave-video"
+    },
+    "desc": "巨浪拍上栏杆，把你和朋友冲倒"
+  },
+  {
+    "site": "MakeViral",
+    "file": "makeviral.json",
+    "item": {
+      "id_or_slug": "airport-transition-ai-trend",
+      "title": "Airport Transition AI",
+      "url": "https://www.makeviral.ai/templates/airport-transition-ai-trend"
+    },
+    "desc": "登机口用手指在镜头前画圈，一刀切到霓虹夜城"
+  },
+  {
+    "site": "MakeViral",
+    "file": "makeviral.json",
+    "item": {
+      "id_or_slug": "dance-with-santa-ai",
+      "title": "Dancing With Santa AI",
+      "url": "https://www.makeviral.ai/templates/dance-with-santa-ai"
+    },
+    "desc": "在圣诞树旁和圣诞老人并肩跳舞"
+  },
+  {
+    "site": "MakeViral",
+    "file": "makeviral.json",
+    "item": {
+      "id_or_slug": "dog-washing-dishes-ai-trend",
+      "title": "Dog Washing Dishes AI",
+      "url": "https://www.makeviral.ai/templates/dog-washing-dishes-ai-trend"
+    },
+    "desc": "宠物在水槽洗碗，打开手机盒却是块海绵"
+  },
+  {
+    "site": "MakeViral",
+    "file": "makeviral.json",
+    "item": {
+      "id_or_slug": "gta-6-loading-screen-ai",
+      "title": "GTA 6 Loading Screen AI",
+      "url": "https://www.makeviral.ai/templates/gta-6-loading-screen-ai"
+    },
+    "desc": "把自拍做成带棕榈树和跑车的 GTA 6 加载海报"
+  },
+  {
+    "site": "MakeViral",
+    "file": "makeviral.json",
+    "item": {
+      "id_or_slug": "jingle-bell-brazil-dance-ai",
+      "title": "Jingle Bell Brazil Dance AI",
+      "url": "https://www.makeviral.ai/templates/jingle-bell-brazil-dance-ai"
+    },
+    "desc": "戴圣诞帽排成一排，跳巴西 Funk 版 Jingle Bell 卡点舞"
+  },
+  {
+    "site": "MakeViral",
+    "file": "makeviral.json",
+    "item": {
+      "id_or_slug": "nadie-ta-frio-ai-trend",
+      "title": "Nadie Ta Frío Trend AI",
+      "url": "https://www.makeviral.ai/templates/nadie-ta-frio-ai-trend"
+    },
+    "desc": "跟跳 Laja《Nadie Ta Frío》手部卡点舞"
+  },
+  {
+    "site": "MakeViral",
+    "file": "makeviral.json",
+    "item": {
+      "id_or_slug": "reaching-out-cat-ai",
+      "title": "Reaching Out Cat Trend",
+      "url": "https://www.makeviral.ai/templates/reaching-out-cat-ai"
+    },
+    "desc": "手伸上去，把猫/狗/人一把拽出画面"
+  },
+  {
+    "site": "MakeViral",
+    "file": "makeviral.json",
+    "item": {
+      "id_or_slug": "ronaldo-header-ai-trend",
+      "title": "Ronaldo Header AI",
+      "url": "https://www.makeviral.ai/templates/ronaldo-header-ai-trend"
+    },
+    "desc": "踩着穿晚礼服的朋友做 C 罗式头球破门"
+  },
+  {
+    "site": "MakeViral",
+    "file": "makeviral.json",
+    "item": {
+      "id_or_slug": "tiger-transition-ai-trend",
+      "title": "Tiger Transition AI",
+      "url": "https://www.makeviral.ai/templates/tiger-transition-ai-trend"
+    },
+    "desc": "手挡镜头后变身虎纹妆/华丽造型，配 You Cannot Reason With a Tiger"
+  },
+  {
+    "site": "MakeViral",
+    "file": "makeviral.json",
+    "item": {
+      "id_or_slug": "you-rock-my-world-ai-trend",
+      "title": "You Rock My World Trend",
+      "url": "https://www.makeviral.ai/templates/you-rock-my-world-ai-trend"
+    },
+    "desc": "情侣在家被手扫过镜头，再变身盛装（甚至到巴黎）"
+  },
+  {
+    "site": "MakeMeme.video",
+    "file": "makememe.json",
+    "item": {
+      "id_or_slug": "bigxthaplug-give-it-all-ai",
+      "title": "BigXthaPlug Give It All AI",
+      "url": "https://makememe.video/bigxthaplug-give-it-all-ai"
+    },
+    "desc": "在电影院大厅吊麦前说唱 Give It All"
+  },
+  {
+    "site": "MakeMeme.video",
+    "file": "makememe.json",
+    "item": {
+      "id_or_slug": "jingle-bell-rock-ai",
+      "title": "Jingle Bell Rock AI",
+      "url": "https://makememe.video/jingle-bell-rock-ai"
+    },
+    "desc": "《贱女孩》里 Jingle Bell Rock 圣诞群舞"
+  },
+  {
+    "site": "MakeMeme.video",
+    "file": "makememe.json",
+    "item": {
+      "id_or_slug": "never-let-her-pay-ai",
+      "title": "Never Let Her Pay AI",
+      "url": "https://makememe.video/never-let-her-pay-ai"
+    },
+    "desc": "约会抢着买单，打开包却掏出一块海绵被罚去洗碗"
+  },
+  {
+    "site": "MakeMeme.video",
+    "file": "makememe.json",
+    "item": {
+      "id_or_slug": "old-town-road-ai",
+      "title": "Old Town Road AI",
+      "url": "https://makememe.video/old-town-road-ai"
+    },
+    "desc": "糖果店里唱歌，再坐上红色敞篷车甩钱袋"
+  },
+  {
+    "site": "MakeMeme.video",
+    "file": "makememe.json",
+    "item": {
+      "id_or_slug": "pet-taxi-ai",
+      "title": "Pet Taxi AI",
+      "url": "https://makememe.video/pet-taxi-ai"
+    },
+    "desc": "把自己的猫狗变成巴士那么大，骑在它背上回家"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "aircraft-carrier-dance-ai",
+      "title": "Aircraft Carrier Dance AI",
+      "url": "https://samevid.com/template/aircraft-carrier-dance-ai"
+    },
+    "desc": "在阳光航母甲板上跳三段卡点舞"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "ddg-and-dub-ai-dance",
+      "title": "DDG and Dub AI Dance",
+      "url": "https://samevid.com/template/ddg-and-dub-ai-dance"
+    },
+    "desc": "客厅双人跟跳 DDG and Dub 热门编舞"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "grandma-vs-grandpa-fight-ai",
+      "title": "Grandma vs Grandpa Fight AI",
+      "url": "https://samevid.com/template/grandma-vs-grandpa-fight-ai"
+    },
+    "desc": "爷爷奶奶抢遥控器的沙发打架喜剧"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "hospital-flying-knee-ai",
+      "title": "Hospital Flying Knee AI",
+      "url": "https://samevid.com/template/hospital-flying-knee-ai"
+    },
+    "desc": "医院里飞膝踢人的短打斗小品"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "photographing-dolphins-ai",
+      "title": "Photographing Dolphins AI",
+      "url": "https://samevid.com/template/photographing-dolphins-ai"
+    },
+    "desc": "用长焦拍跃出水面的海豚"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "reaching-out-cat-ai",
+      "title": "Reaching Out Cat AI",
+      "url": "https://samevid.com/template/reaching-out-cat-ai"
+    },
+    "desc": "手伸向天花板，再一把把猫拽出画面（Human Nature）"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "rich-era-ai",
+      "title": "Rich Era AI",
+      "url": "https://samevid.com/template/rich-era-ai"
+    },
+    "desc": "在金色豪华酒店走廊里气场十足地走过"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "ronaldo-header-ai",
+      "title": "Ronaldo Header AI",
+      "url": "https://samevid.com/template/ronaldo-header-ai"
+    },
+    "desc": "扮演头球手或防守人，还原 C 罗 2.56 米头球"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "rooster-wet-cement-ai",
+      "title": "Rooster Wet Cement AI",
+      "url": "https://samevid.com/template/rooster-wet-cement-ai"
+    },
+    "desc": "公鸡走进未干水泥地的剧情反转"
+  },
+  {
+    "site": "ZapVid",
+    "file": "zapvid.json",
+    "item": {
+      "id_or_slug": "babydoll-dance-ai-video-generator",
+      "title": "Babydoll Dance AI",
+      "url": "https://zapvid.ai/babydoll-dance-ai-video-generator"
+    },
+    "desc": "跟跳 Jamie Miller《Babydoll》弹跳两步舞，可带上两个朋友"
+  },
+  {
+    "site": "ZapVid",
+    "file": "zapvid.json",
+    "item": {
+      "id_or_slug": "bicep-heart-ai-video-generator",
+      "title": "Bicep Heart AI",
+      "url": "https://zapvid.ai/bicep-heart-ai-video-generator"
+    },
+    "desc": "秀二头肌再用另一只手比心，还原 7 秒卡点"
+  },
+  {
+    "site": "ZapVid",
+    "file": "zapvid.json",
+    "item": {
+      "id_or_slug": "clapping-cat-ai-video-generator",
+      "title": "Clapping Cat AI",
+      "url": "https://zapvid.ai/clapping-cat-ai-video-generator"
+    },
+    "desc": "让自己的猫狗直立起来，慢慢对你鼓掌"
+  },
+  {
+    "site": "ZapVid",
+    "file": "zapvid.json",
+    "item": {
+      "id_or_slug": "flying-tesla-roadster-ai-video-generator",
+      "title": "Flying Tesla Roadster AI",
+      "url": "https://zapvid.ai/flying-tesla-roadster-ai-video-generator"
+    },
+    "desc": "堵车时按下按钮，Roadster 喷火飞过楼宇"
+  },
+  {
+    "site": "ZapVid",
+    "file": "zapvid.json",
+    "item": {
+      "id_or_slug": "la-tormenta-de-arena-ai-video-generator",
+      "title": "La Tormenta de Arena AI",
+      "url": "https://zapvid.ai/la-tormenta-de-arena-ai-video-generator"
+    },
+    "desc": "在俱乐部阳台微笑，灯光打到舞池里的那个人"
+  },
+  {
+    "site": "ZapVid",
+    "file": "zapvid.json",
+    "item": {
+      "id_or_slug": "shan-shen-bu-ai-video-generator",
+      "title": "Shan Shen Bu AI（闪身步）",
+      "url": "https://zapvid.ai/shan-shen-bu-ai-video-generator"
+    },
+    "desc": "外卖骑手侧身闪过，保安走过来"
+  },
+  {
+    "site": "ZapVid",
+    "file": "zapvid.json",
+    "item": {
+      "id_or_slug": "smalltown-boy-cats-ai-video-generator",
+      "title": "Smalltown Boy Cats AI",
+      "url": "https://zapvid.ai/smalltown-boy-cats-ai-video-generator"
+    },
+    "desc": "宠物先对着镜头大叫，再并排站起来跳舞"
+  },
+  {
+    "site": "ZapVid",
+    "file": "zapvid.json",
+    "item": {
+      "id_or_slug": "toy-car-to-real-car-ai-video-generator",
+      "title": "Toy Car to Real Car AI",
+      "url": "https://zapvid.ai/toy-car-to-real-car-ai-video-generator"
+    },
+    "desc": "火车窗边的迷你车模过隧道后变成真车开出来"
+  },
+  {
+    "site": "DanceRemake",
+    "file": "danceremake.json",
+    "item": {
+      "id_or_slug": "hotline-bling-ai",
+      "title": "Hotline Bling AI",
+      "url": "https://danceremake.com/templates/hotline-bling-ai"
+    },
+    "desc": "和搭档在霓虹房间里轮流出镜跳 Hotline Bling"
+  },
+  {
+    "site": "DanceRemake",
+    "file": "danceremake.json",
+    "item": {
+      "id_or_slug": "pimp-walk-entrance-ai",
+      "title": "Pimp Walk Entrance AI",
+      "url": "https://danceremake.com/templates/pimp-walk-entrance-ai"
+    },
+    "desc": "朋友帮你开门，你大摇大摆走进汉堡店并扇红卡"
+  },
+  {
+    "site": "DanceRemake",
+    "file": "danceremake.json",
+    "item": {
+      "id_or_slug": "wassup-in-a-minute-ai",
+      "title": "Wassup in a Minute AI",
+      "url": "https://danceremake.com/templates/wassup-in-a-minute-ai"
+    },
+    "desc": "最多三人走上雾气山坡，抱头耸肩再蹦下去"
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "monkey-eating-apple-ai-video",
+      "title": "Monkey Eating Apple",
+      "url": "https://www.getstarrd.app/template/monkey-eating-apple-ai-video"
+    },
+    "desc": "森林步道上吃苹果，猴子扑过来抢一大口"
+  },
+  {
+    "site": "RapVideo.ai",
+    "file": "rapvideo.json",
+    "item": {
+      "id_or_slug": "sticky-bubblegum-ai",
+      "title": "Sticky Bubblegum AI",
+      "url": "https://rapvideo.ai/sticky-bubblegum-ai"
+    },
+    "desc": "宝宝在大白床上拍手、黏手、小踢腿的泡泡糖舞"
+  },
+  {
+    "site": "aiMakeVideo",
+    "file": "aimakevideo.json",
+    "item": {
+      "id_or_slug": "babydoll-dance-ai",
+      "title": "Babydoll Dance AI",
+      "url": "https://aimakevideo.com/babydoll-dance-ai"
+    },
+    "desc": "跟跳 Jamie Miller《Babydoll》弹跳两步，手一甩再踢腿"
+  },
+  {
+    "site": "aiMakeVideo",
+    "file": "aimakevideo.json",
+    "item": {
+      "id_or_slug": "wassup-in-a-minute-ai",
+      "title": "Wassup in a Minute AI",
+      "url": "https://aimakevideo.com/wassup-in-a-minute-ai"
+    },
+    "desc": "一到三张照片，变成湖边山坡上三人跳 Wassup in a Minute"
+  },
+  {
+    "site": "Try a Trend",
+    "file": "tryatrend.json",
+    "item": {
+      "id_or_slug": "sticky-bubblegum-ai",
+      "title": "Sticky Bubblegum AI",
+      "url": "https://tryatrend.com/sticky-bubblegum-ai"
+    },
+    "desc": "宝宝跟着拍拍手、黏肚皮、再踢一脚的泡泡糖舞"
+  },
+  {
+    "site": "Try a Trend",
+    "file": "tryatrend.json",
+    "item": {
+      "id_or_slug": "wassup-in-a-minute-ai",
+      "title": "Wassup in a Minute AI",
+      "url": "https://tryatrend.com/wassup-in-a-minute-ai"
+    },
+    "desc": "在雾气湖边山坡上跳 Wassup in a Minute，可加上朋友"
+  }
+]

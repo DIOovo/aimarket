@@ -1,0 +1,16 @@
+{
+  "site": "Try a Trend",
+  "file": "tryatrend.json",
+  "prev": 45,
+  "now": 44,
+  "fetch_ok": true,
+  "notes": [],
+  "new": [],
+  "removed": [
+    {
+      "id_or_slug": "ai-halloween-costume",
+      "title": "AI Halloween Costume",
+      "url": "https://tryatrend.com/ai-halloween-costume"
+    }
+  ]
+}

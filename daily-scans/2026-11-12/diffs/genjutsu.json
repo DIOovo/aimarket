@@ -1,0 +1,58 @@
+{
+  "site": "Genjutsu AI",
+  "file": "genjutsu.json",
+  "prev": 44,
+  "now": 53,
+  "new": [
+    {
+      "id_or_slug": "apple-touch-icon.png",
+      "title": "Apple Touch Icon.png",
+      "url": "https://genjutsuai.cc/apple-touch-icon.png"
+    },
+    {
+      "id_or_slug": "favicon-16x16.png",
+      "title": "Favicon 16x16.png",
+      "url": "https://genjutsuai.cc/favicon-16x16.png"
+    },
+    {
+      "id_or_slug": "favicon-32x32.png",
+      "title": "Favicon 32x32.png",
+      "url": "https://genjutsuai.cc/favicon-32x32.png"
+    },
+    {
+      "id_or_slug": "favicon.ico",
+      "title": "Favicon.ico",
+      "url": "https://genjutsuai.cc/favicon.ico"
+    },
+    {
+      "id_or_slug": "history",
+      "title": "History",
+      "url": "https://genjutsuai.cc/history"
+    },
+    {
+      "id_or_slug": "logo-dark.png",
+      "title": "Logo Dark.png",
+      "url": "https://genjutsuai.cc/logo-dark.png"
+    },
+    {
+      "id_or_slug": "logo.png",
+      "title": "Logo.png",
+      "url": "https://genjutsuai.cc/logo.png"
+    },
+    {
+      "id_or_slug": "manifest.json",
+      "title": "Manifest.json",
+      "url": "https://genjutsuai.cc/manifest.json"
+    },
+    {
+      "id_or_slug": "vikas-editor",
+      "title": "Vikas Editor",
+      "url": "https://genjutsuai.cc/vikas-editor"
+    }
+  ],
+  "gone": [],
+  "notes": [],
+  "sitemaps": [
+    "https://genjutsuai.cc/sitemap.xml"
+  ]
+}

@@ -1,0 +1,9 @@
+Genjutsu AI new=8 gone=0 prev=45 now=53
+apple-touch-icon.png	https://genjutsuai.cc/apple-touch-icon.png
+favicon-16x16.png	https://genjutsuai.cc/favicon-16x16.png
+favicon-32x32.png	https://genjutsuai.cc/favicon-32x32.png
+favicon.ico	https://genjutsuai.cc/favicon.ico
+history	https://genjutsuai.cc/history
+logo-dark.png	https://genjutsuai.cc/logo-dark.png
+logo.png	https://genjutsuai.cc/logo.png
+manifest.json	https://genjutsuai.cc/manifest.json

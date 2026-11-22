@@ -1,0 +1,18 @@
+{
+  "site": "Kubflow",
+  "file": "kubflow.json",
+  "prev": 10,
+  "now": 11,
+  "new": [
+    {
+      "id_or_slug": "generations",
+      "title": "Generations",
+      "url": "https://kubflow.ai/trends/generations"
+    }
+  ],
+  "gone": [],
+  "notes": [],
+  "sitemaps": [
+    "https://kubflow.ai/sitemap.xml"
+  ]
+}

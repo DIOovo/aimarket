@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin
+Disallow: /checkout/
+Disallow: /zh/checkout/
+Disallow: /es/checkout/
+
+Sitemap: https://trendtemplate.com/sitemap.xml

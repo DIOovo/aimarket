@@ -1,0 +1,124 @@
+{
+  "site": "Summrs",
+  "file": "summrs.json",
+  "prev": 70,
+  "now": 90,
+  "new": [
+    {
+      "id_or_slug": "add-product-to-photo-ai",
+      "title": "Add Product To Photo AI",
+      "url": "https://www.summrs.com/add-product-to-photo-ai"
+    },
+    {
+      "id_or_slug": "ai-asmr-video-generator",
+      "title": "AI Asmr Video Generator",
+      "url": "https://www.summrs.com/ai-asmr-video-generator"
+    },
+    {
+      "id_or_slug": "ai-basketball-meme-generator",
+      "title": "AI Basketball Meme Generator",
+      "url": "https://www.summrs.com/ai-basketball-meme-generator"
+    },
+    {
+      "id_or_slug": "ai-color-grading-tool",
+      "title": "AI Color Grading Tool",
+      "url": "https://www.summrs.com/ai-color-grading-tool"
+    },
+    {
+      "id_or_slug": "ai-dance-generator",
+      "title": "AI Dance Generator",
+      "url": "https://www.summrs.com/ai-dance-generator"
+    },
+    {
+      "id_or_slug": "ai-explainer-video-generator",
+      "title": "AI Explainer Video Generator",
+      "url": "https://www.summrs.com/ai-explainer-video-generator"
+    },
+    {
+      "id_or_slug": "ai-face-swap-video",
+      "title": "AI Face Swap Video",
+      "url": "https://www.summrs.com/ai-face-swap-video"
+    },
+    {
+      "id_or_slug": "ai-freestyle-video-generator",
+      "title": "AI Freestyle Video Generator",
+      "url": "https://www.summrs.com/ai-freestyle-video-generator"
+    },
+    {
+      "id_or_slug": "ai-kissing-generator",
+      "title": "AI Kissing Generator",
+      "url": "https://www.summrs.com/ai-kissing-generator"
+    },
+    {
+      "id_or_slug": "ai-lip-sync-generator",
+      "title": "AI Lip Sync Generator",
+      "url": "https://www.summrs.com/ai-lip-sync-generator"
+    },
+    {
+      "id_or_slug": "ai-music-video-generator",
+      "title": "AI Music Video Generator",
+      "url": "https://www.summrs.com/ai-music-video-generator"
+    },
+    {
+      "id_or_slug": "ai-music-visualizer-generator",
+      "title": "AI Music Visualizer Generator",
+      "url": "https://www.summrs.com/ai-music-visualizer-generator"
+    },
+    {
+      "id_or_slug": "ai-object-remover",
+      "title": "AI Object Remover",
+      "url": "https://www.summrs.com/ai-object-remover"
+    },
+    {
+      "id_or_slug": "ai-outfit-generator",
+      "title": "AI Outfit Generator",
+      "url": "https://www.summrs.com/ai-outfit-generator"
+    },
+    {
+      "id_or_slug": "ai-person-holding-product-generator",
+      "title": "AI Person Holding Product Generator",
+      "url": "https://www.summrs.com/ai-person-holding-product-generator"
+    },
+    {
+      "id_or_slug": "ai-pet-animator",
+      "title": "AI Pet Animator",
+      "url": "https://www.summrs.com/ai-pet-animator"
+    },
+    {
+      "id_or_slug": "ai-silhouette-video-generator",
+      "title": "AI Silhouette Video Generator",
+      "url": "https://www.summrs.com/ai-silhouette-video-generator"
+    },
+    {
+      "id_or_slug": "ai-ugc-video-generator",
+      "title": "AI Ugc Video Generator",
+      "url": "https://www.summrs.com/ai-ugc-video-generator"
+    },
+    {
+      "id_or_slug": "ai-wedding-photo-editing",
+      "title": "AI Wedding Photo Editing",
+      "url": "https://www.summrs.com/ai-wedding-photo-editing"
+    },
+    {
+      "id_or_slug": "colorize-black-and-white-photos-ai",
+      "title": "Colorize Black And White Photos AI",
+      "url": "https://www.summrs.com/colorize-black-and-white-photos-ai"
+    },
+    {
+      "id_or_slug": "restore-old-photos-color-ai",
+      "title": "Restore Old Photos Color AI",
+      "url": "https://www.summrs.com/restore-old-photos-color-ai"
+    }
+  ],
+  "gone": [
+    {
+      "id_or_slug": "bigfoot-vlog",
+      "title": "Bigfoot Vlog",
+      "url": "https://www.summrs.com/bigfoot-vlog"
+    }
+  ],
+  "notes": [],
+  "sitemaps": [
+    "https://www.summrs.com/sitemap.xml"
+  ]
+}

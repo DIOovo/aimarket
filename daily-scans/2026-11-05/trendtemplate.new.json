@@ -1,0 +1,76 @@
+{
+  "site": "TrendTemplate",
+  "home": "https://trendtemplate.com/",
+  "checked_at": "2026-11-05T09:14:43+08:00",
+  "sitemap_urls_found": [
+    "https://trendtemplate.com/sitemap.xml"
+  ],
+  "sitemap_existed": true,
+  "template_count": 12,
+  "templates": [
+    {
+      "id_or_slug": "alors-on-danse-ai",
+      "title": "Alors On Danse",
+      "url": "https://trendtemplate.com/alors-on-danse-ai"
+    },
+    {
+      "id_or_slug": "beach-wave-ai",
+      "title": "Beach Wave",
+      "url": "https://trendtemplate.com/beach-wave-ai"
+    },
+    {
+      "id_or_slug": "bulin-47-ai",
+      "title": "Bulin 47",
+      "url": "https://trendtemplate.com/bulin-47-ai"
+    },
+    {
+      "id_or_slug": "dime-dime-baby-ai",
+      "title": "Dime Dime Baby",
+      "url": "https://trendtemplate.com/dime-dime-baby-ai"
+    },
+    {
+      "id_or_slug": "end-of-watch-ai",
+      "title": "End Of Watch",
+      "url": "https://trendtemplate.com/end-of-watch-ai"
+    },
+    {
+      "id_or_slug": "hotel-lobby-ai",
+      "title": "Hotel Lobby",
+      "url": "https://trendtemplate.com/hotel-lobby-ai"
+    },
+    {
+      "id_or_slug": "make-it-cap-ai",
+      "title": "Make It Cap",
+      "url": "https://trendtemplate.com/make-it-cap-ai"
+    },
+    {
+      "id_or_slug": "neon-shuffle-ai",
+      "title": "Neon Shuffle",
+      "url": "https://trendtemplate.com/neon-shuffle-ai"
+    },
+    {
+      "id_or_slug": "office-moonwalk-ai",
+      "title": "Office Moonwalk",
+      "url": "https://trendtemplate.com/office-moonwalk-ai"
+    },
+    {
+      "id_or_slug": "ozil-goal-ai",
+      "title": "Ozil Goal AI",
+      "url": "https://trendtemplate.com/ozil-goal-ai"
+    },
+    {
+      "id_or_slug": "smalltown-boy-ai",
+      "title": "Smalltown Boy AI",
+      "url": "https://trendtemplate.com/smalltown-boy-ai"
+    },
+    {
+      "id_or_slug": "tiny-desk-concert-ai",
+      "title": "Tiny Desk",
+      "url": "https://trendtemplate.com/tiny-desk-concert-ai"
+    }
+  ],
+  "new_count": 0,
+  "removed_count": 0,
+  "new_templates": [],
+  "removed_templates": []
+}

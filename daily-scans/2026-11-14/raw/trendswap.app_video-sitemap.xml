@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://trendswap.app/watch/prilili-ai</loc>
+    <video:video>
+      <video:thumbnail_loc>https://trendswap.app/template/prilili-ai/poster.webp</video:thumbnail_loc>
+      <video:title>Watch the Prilili Laughing Fairy Video</video:title>
+      <video:description>Watch the Prilili reference clip: a tiny fairy on a mossy branch whispers and laughs, with the original scene audio.</video:description>
+      <video:content_loc>https://trendswap.app/template/prilili-ai/motion.mp4</video:content_loc>
+      <video:duration>9</video:duration>
+      <video:publication_date>2026-10-27T00:00:00+08:00</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:requires_subscription>no</video:requires_subscription>
+      <video:live>no</video:live>
+    </video:video>
+  </url>
+</urlset>

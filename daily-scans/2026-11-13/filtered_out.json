@@ -1,0 +1,2372 @@
+[
+  {
+    "site": "TrendTemplate",
+    "file": "trendtemplate.json",
+    "item": {
+      "id_or_slug": "ai-christmas-video",
+      "title": "AI Christmas Video",
+      "url": "https://trendtemplate.com/ai-christmas-video"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "TrendTemplate",
+    "file": "trendtemplate.json",
+    "item": {
+      "id_or_slug": "ai-dance",
+      "title": "AI Dance",
+      "url": "https://trendtemplate.com/ai-dance"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "TrendTemplate",
+    "file": "trendtemplate.json",
+    "item": {
+      "id_or_slug": "ai-photo-creator",
+      "title": "AI Photo Creator",
+      "url": "https://trendtemplate.com/ai-photo-creator"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "TrendTemplate",
+    "file": "trendtemplate.json",
+    "item": {
+      "id_or_slug": "ai-trend-templates",
+      "title": "AI Trend Templates",
+      "url": "https://trendtemplate.com/ai-trend-templates"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "TrendTemplate",
+    "file": "trendtemplate.json",
+    "item": {
+      "id_or_slug": "apple-touch-icon.png",
+      "title": "Apple Touch Icon.png",
+      "url": "https://trendtemplate.com/apple-touch-icon.png"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "TrendTemplate",
+    "file": "trendtemplate.json",
+    "item": {
+      "id_or_slug": "elf-yourself-alternative",
+      "title": "Elf Yourself Alternative",
+      "url": "https://trendtemplate.com/elf-yourself-alternative"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "TrendTemplate",
+    "file": "trendtemplate.json",
+    "item": {
+      "id_or_slug": "how-to-make-rooftop-groove-ai-video",
+      "title": "How To Make Rooftop Groove AI Video",
+      "url": "https://trendtemplate.com/how-to-make-rooftop-groove-ai-video"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "TrendTemplate",
+    "file": "trendtemplate.json",
+    "item": {
+      "id_or_slug": "logo-mark.svg",
+      "title": "Logo Mark.svg",
+      "url": "https://trendtemplate.com/logo-mark.svg"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "TrendTemplate",
+    "file": "trendtemplate.json",
+    "item": {
+      "id_or_slug": "photo-template",
+      "title": "Photo Template",
+      "url": "https://trendtemplate.com/photo-template"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "TrendTemplate",
+    "file": "trendtemplate.json",
+    "item": {
+      "id_or_slug": "refund-policy",
+      "title": "Refund Policy",
+      "url": "https://trendtemplate.com/refund-policy"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "TrendTemplate",
+    "file": "trendtemplate.json",
+    "item": {
+      "id_or_slug": "report",
+      "title": "Report",
+      "url": "https://trendtemplate.com/report"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "TrendTemplate",
+    "file": "trendtemplate.json",
+    "item": {
+      "id_or_slug": "video-template-online",
+      "title": "Video Template Online",
+      "url": "https://trendtemplate.com/video-template-online"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "TrendTemplate",
+    "file": "trendtemplate.json",
+    "item": {
+      "id_or_slug": "viggle-alternative",
+      "title": "Viggle Alternative",
+      "url": "https://trendtemplate.com/viggle-alternative"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "MemeFX AI",
+    "file": "memefxai.json",
+    "item": {
+      "id_or_slug": "ai-baby-video-generator",
+      "title": "AI Baby Video Generator",
+      "url": "https://memefxai.com/ai-baby-video-generator"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "MemeFX AI",
+    "file": "memefxai.json",
+    "item": {
+      "id_or_slug": "ai-dance-video-generator",
+      "title": "AI Dance Video Generator",
+      "url": "https://memefxai.com/ai-dance-video-generator"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "MemeFX AI",
+    "file": "memefxai.json",
+    "item": {
+      "id_or_slug": "ai-group-video-generator",
+      "title": "AI Group Video Generator",
+      "url": "https://memefxai.com/ai-group-video-generator"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "MemeFX AI",
+    "file": "memefxai.json",
+    "item": {
+      "id_or_slug": "ai-halloween-video-generator",
+      "title": "AI Halloween Video Generator",
+      "url": "https://memefxai.com/ai-halloween-video-generator"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "MemeFX AI",
+    "file": "memefxai.json",
+    "item": {
+      "id_or_slug": "ai-meme-video-generator",
+      "title": "AI Meme Video Generator",
+      "url": "https://memefxai.com/ai-meme-video-generator"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "MemeFX AI",
+    "file": "memefxai.json",
+    "item": {
+      "id_or_slug": "ai-music-video-generator",
+      "title": "AI Music Video Generator",
+      "url": "https://memefxai.com/ai-music-video-generator"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "MemeFX AI",
+    "file": "memefxai.json",
+    "item": {
+      "id_or_slug": "ai-pet-video-generator",
+      "title": "AI Pet Video Generator",
+      "url": "https://memefxai.com/ai-pet-video-generator"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "MemeFX AI",
+    "file": "memefxai.json",
+    "item": {
+      "id_or_slug": "ai-tiktok-video-generator",
+      "title": "AI Tiktok Video Generator",
+      "url": "https://memefxai.com/ai-tiktok-video-generator"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "MemeFX AI",
+    "file": "memefxai.json",
+    "item": {
+      "id_or_slug": "alternatives",
+      "title": "Alternatives",
+      "url": "https://memefxai.com/alternatives"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "MemeFX AI",
+    "file": "memefxai.json",
+    "item": {
+      "id_or_slug": "apple-touch-icon.png",
+      "title": "Apple Touch Icon.png",
+      "url": "https://memefxai.com/apple-touch-icon.png"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "MemeFX AI",
+    "file": "memefxai.json",
+    "item": {
+      "id_or_slug": "favicon-16x16.png",
+      "title": "Favicon 16x16.png",
+      "url": "https://memefxai.com/favicon-16x16.png"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "MemeFX AI",
+    "file": "memefxai.json",
+    "item": {
+      "id_or_slug": "favicon-32x32.png",
+      "title": "Favicon 32x32.png",
+      "url": "https://memefxai.com/favicon-32x32.png"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "MemeFX AI",
+    "file": "memefxai.json",
+    "item": {
+      "id_or_slug": "favicon.ico",
+      "title": "Favicon.ico",
+      "url": "https://memefxai.com/favicon.ico"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "MemeFX AI",
+    "file": "memefxai.json",
+    "item": {
+      "id_or_slug": "llms.txt",
+      "title": "Llms.txt",
+      "url": "https://memefxai.com/llms.txt"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "MemeFX AI",
+    "file": "memefxai.json",
+    "item": {
+      "id_or_slug": "logo-dark.png",
+      "title": "Logo Dark.png",
+      "url": "https://memefxai.com/logo-dark.png"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "MemeFX AI",
+    "file": "memefxai.json",
+    "item": {
+      "id_or_slug": "logo.png",
+      "title": "Logo.png",
+      "url": "https://memefxai.com/logo.png"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "MemeFX AI",
+    "file": "memefxai.json",
+    "item": {
+      "id_or_slug": "manifest.json",
+      "title": "Manifest.json",
+      "url": "https://memefxai.com/manifest.json"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "MemeFX AI",
+    "file": "memefxai.json",
+    "item": {
+      "id_or_slug": "refund-policy",
+      "title": "Refund Policy",
+      "url": "https://memefxai.com/refund-policy"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "MemeFX AI",
+    "file": "memefxai.json",
+    "item": {
+      "id_or_slug": "report",
+      "title": "Report",
+      "url": "https://memefxai.com/report"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "MemeFX AI",
+    "file": "memefxai.json",
+    "item": {
+      "id_or_slug": "templates",
+      "title": "Templates",
+      "url": "https://memefxai.com/templates"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "MemeFX AI",
+    "file": "memefxai.json",
+    "item": {
+      "id_or_slug": "videos",
+      "title": "Videos",
+      "url": "https://memefxai.com/videos"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "MakeMeme.video",
+    "file": "makememe.json",
+    "item": {
+      "id_or_slug": "apple-icon.png",
+      "title": "Apple Icon.png",
+      "url": "https://makememe.video/apple-icon.png"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "MakeMeme.video",
+    "file": "makememe.json",
+    "item": {
+      "id_or_slug": "favicon.ico",
+      "title": "Favicon.ico",
+      "url": "https://makememe.video/favicon.ico"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "MakeMeme.video",
+    "file": "makememe.json",
+    "item": {
+      "id_or_slug": "manifest.webmanifest",
+      "title": "Manifest.webmanifest",
+      "url": "https://makememe.video/manifest.webmanifest"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "TrendSwap",
+    "file": "trendswap.json",
+    "item": {
+      "id_or_slug": "apple-touch-icon.png",
+      "title": "Apple Touch Icon.png",
+      "url": "https://trendswap.app/apple-touch-icon.png"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "TrendSwap",
+    "file": "trendswap.json",
+    "item": {
+      "id_or_slug": "content-policy",
+      "title": "Content Policy",
+      "url": "https://trendswap.app/content-policy"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "TrendSwap",
+    "file": "trendswap.json",
+    "item": {
+      "id_or_slug": "dance",
+      "title": "Dance",
+      "url": "https://trendswap.app/dance"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "TrendSwap",
+    "file": "trendswap.json",
+    "item": {
+      "id_or_slug": "duo",
+      "title": "Duo",
+      "url": "https://trendswap.app/duo"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "TrendSwap",
+    "file": "trendswap.json",
+    "item": {
+      "id_or_slug": "favicon.ico",
+      "title": "Favicon.ico",
+      "url": "https://trendswap.app/favicon.ico"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "TrendSwap",
+    "file": "trendswap.json",
+    "item": {
+      "id_or_slug": "icon-192.png",
+      "title": "Icon 192.png",
+      "url": "https://trendswap.app/icon-192.png"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "TrendSwap",
+    "file": "trendswap.json",
+    "item": {
+      "id_or_slug": "meme",
+      "title": "Meme",
+      "url": "https://trendswap.app/meme"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "TrendSwap",
+    "file": "trendswap.json",
+    "item": {
+      "id_or_slug": "new",
+      "title": "New",
+      "url": "https://trendswap.app/new"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "TrendSwap",
+    "file": "trendswap.json",
+    "item": {
+      "id_or_slug": "pet",
+      "title": "Pet",
+      "url": "https://trendswap.app/pet"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "TrendSwap",
+    "file": "trendswap.json",
+    "item": {
+      "id_or_slug": "prompts",
+      "title": "Prompts",
+      "url": "https://trendswap.app/prompts"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "TrendSwap",
+    "file": "trendswap.json",
+    "item": {
+      "id_or_slug": "refund-policy",
+      "title": "Refund Policy",
+      "url": "https://trendswap.app/refund-policy"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "TrendSwap",
+    "file": "trendswap.json",
+    "item": {
+      "id_or_slug": "site.webmanifest",
+      "title": "Site.webmanifest",
+      "url": "https://trendswap.app/site.webmanifest"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "TrendSwap",
+    "file": "trendswap.json",
+    "item": {
+      "id_or_slug": "videos",
+      "title": "Videos",
+      "url": "https://trendswap.app/videos"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "ai-legacy-story",
+      "title": "AI Legacy Story",
+      "url": "https://samevid.com/template/ai-legacy-story"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "baby-kids",
+      "title": "Baby Kids",
+      "url": "https://samevid.com/template/baby-kids"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "couple",
+      "title": "Couple",
+      "url": "https://samevid.com/template/couple"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "dance",
+      "title": "Dance",
+      "url": "https://samevid.com/template/dance"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "effects",
+      "title": "Effects",
+      "url": "https://samevid.com/template/effects"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "family",
+      "title": "Family",
+      "url": "https://samevid.com/template/family"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "friends",
+      "title": "Friends",
+      "url": "https://samevid.com/template/friends"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "funny",
+      "title": "Funny",
+      "url": "https://samevid.com/template/funny"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "halloween",
+      "title": "Halloween",
+      "url": "https://samevid.com/template/halloween"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "movie-tv",
+      "title": "Movie TV",
+      "url": "https://samevid.com/template/movie-tv"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "music",
+      "title": "Music",
+      "url": "https://samevid.com/template/music"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "new",
+      "title": "New",
+      "url": "https://samevid.com/template/new"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "pets",
+      "title": "Pets",
+      "url": "https://samevid.com/template/pets"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "sports",
+      "title": "Sports",
+      "url": "https://samevid.com/template/sports"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "templates",
+      "title": "Templates",
+      "url": "https://samevid.com/template/templates"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "transformation",
+      "title": "Transformation",
+      "url": "https://samevid.com/template/transformation"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Summrs",
+    "file": "summrs.json",
+    "item": {
+      "id_or_slug": "add-product-to-photo-ai",
+      "title": "Add Product To Photo AI",
+      "url": "https://www.summrs.com/add-product-to-photo-ai"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Summrs",
+    "file": "summrs.json",
+    "item": {
+      "id_or_slug": "ai-asmr-video-generator",
+      "title": "AI Asmr Video Generator",
+      "url": "https://www.summrs.com/ai-asmr-video-generator"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Summrs",
+    "file": "summrs.json",
+    "item": {
+      "id_or_slug": "ai-basketball-meme-generator",
+      "title": "AI Basketball Meme Generator",
+      "url": "https://www.summrs.com/ai-basketball-meme-generator"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Summrs",
+    "file": "summrs.json",
+    "item": {
+      "id_or_slug": "ai-color-grading-tool",
+      "title": "AI Color Grading Tool",
+      "url": "https://www.summrs.com/ai-color-grading-tool"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Summrs",
+    "file": "summrs.json",
+    "item": {
+      "id_or_slug": "ai-dance-generator",
+      "title": "AI Dance Generator",
+      "url": "https://www.summrs.com/ai-dance-generator"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Summrs",
+    "file": "summrs.json",
+    "item": {
+      "id_or_slug": "ai-explainer-video-generator",
+      "title": "AI Explainer Video Generator",
+      "url": "https://www.summrs.com/ai-explainer-video-generator"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Summrs",
+    "file": "summrs.json",
+    "item": {
+      "id_or_slug": "ai-face-swap-video",
+      "title": "AI Face Swap Video",
+      "url": "https://www.summrs.com/ai-face-swap-video"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Summrs",
+    "file": "summrs.json",
+    "item": {
+      "id_or_slug": "ai-freestyle-video-generator",
+      "title": "AI Freestyle Video Generator",
+      "url": "https://www.summrs.com/ai-freestyle-video-generator"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Summrs",
+    "file": "summrs.json",
+    "item": {
+      "id_or_slug": "ai-kissing-generator",
+      "title": "AI Kissing Generator",
+      "url": "https://www.summrs.com/ai-kissing-generator"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Summrs",
+    "file": "summrs.json",
+    "item": {
+      "id_or_slug": "ai-lip-sync-generator",
+      "title": "AI Lip Sync Generator",
+      "url": "https://www.summrs.com/ai-lip-sync-generator"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Summrs",
+    "file": "summrs.json",
+    "item": {
+      "id_or_slug": "ai-music-video-generator",
+      "title": "AI Music Video Generator",
+      "url": "https://www.summrs.com/ai-music-video-generator"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Summrs",
+    "file": "summrs.json",
+    "item": {
+      "id_or_slug": "ai-music-visualizer-generator",
+      "title": "AI Music Visualizer Generator",
+      "url": "https://www.summrs.com/ai-music-visualizer-generator"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Summrs",
+    "file": "summrs.json",
+    "item": {
+      "id_or_slug": "ai-object-remover",
+      "title": "AI Object Remover",
+      "url": "https://www.summrs.com/ai-object-remover"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Summrs",
+    "file": "summrs.json",
+    "item": {
+      "id_or_slug": "ai-outfit-generator",
+      "title": "AI Outfit Generator",
+      "url": "https://www.summrs.com/ai-outfit-generator"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Summrs",
+    "file": "summrs.json",
+    "item": {
+      "id_or_slug": "ai-person-holding-product-generator",
+      "title": "AI Person Holding Product Generator",
+      "url": "https://www.summrs.com/ai-person-holding-product-generator"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Summrs",
+    "file": "summrs.json",
+    "item": {
+      "id_or_slug": "ai-pet-animator",
+      "title": "AI Pet Animator",
+      "url": "https://www.summrs.com/ai-pet-animator"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Summrs",
+    "file": "summrs.json",
+    "item": {
+      "id_or_slug": "ai-silhouette-video-generator",
+      "title": "AI Silhouette Video Generator",
+      "url": "https://www.summrs.com/ai-silhouette-video-generator"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Summrs",
+    "file": "summrs.json",
+    "item": {
+      "id_or_slug": "ai-ugc-video-generator",
+      "title": "AI Ugc Video Generator",
+      "url": "https://www.summrs.com/ai-ugc-video-generator"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Summrs",
+    "file": "summrs.json",
+    "item": {
+      "id_or_slug": "ai-wedding-photo-editing",
+      "title": "AI Wedding Photo Editing",
+      "url": "https://www.summrs.com/ai-wedding-photo-editing"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Summrs",
+    "file": "summrs.json",
+    "item": {
+      "id_or_slug": "colorize-black-and-white-photos-ai",
+      "title": "Colorize Black And White Photos AI",
+      "url": "https://www.summrs.com/colorize-black-and-white-photos-ai"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Summrs",
+    "file": "summrs.json",
+    "item": {
+      "id_or_slug": "restore-old-photos-color-ai",
+      "title": "Restore Old Photos Color AI",
+      "url": "https://www.summrs.com/restore-old-photos-color-ai"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Genjutsu AI",
+    "file": "genjutsu.json",
+    "item": {
+      "id_or_slug": "apple-touch-icon.png",
+      "title": "Apple Touch Icon.png",
+      "url": "https://genjutsuai.cc/apple-touch-icon.png"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Genjutsu AI",
+    "file": "genjutsu.json",
+    "item": {
+      "id_or_slug": "favicon-16x16.png",
+      "title": "Favicon 16x16.png",
+      "url": "https://genjutsuai.cc/favicon-16x16.png"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Genjutsu AI",
+    "file": "genjutsu.json",
+    "item": {
+      "id_or_slug": "favicon-32x32.png",
+      "title": "Favicon 32x32.png",
+      "url": "https://genjutsuai.cc/favicon-32x32.png"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Genjutsu AI",
+    "file": "genjutsu.json",
+    "item": {
+      "id_or_slug": "favicon.ico",
+      "title": "Favicon.ico",
+      "url": "https://genjutsuai.cc/favicon.ico"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Genjutsu AI",
+    "file": "genjutsu.json",
+    "item": {
+      "id_or_slug": "history",
+      "title": "History",
+      "url": "https://genjutsuai.cc/history"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Genjutsu AI",
+    "file": "genjutsu.json",
+    "item": {
+      "id_or_slug": "logo-dark.png",
+      "title": "Logo Dark.png",
+      "url": "https://genjutsuai.cc/logo-dark.png"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Genjutsu AI",
+    "file": "genjutsu.json",
+    "item": {
+      "id_or_slug": "logo.png",
+      "title": "Logo.png",
+      "url": "https://genjutsuai.cc/logo.png"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Genjutsu AI",
+    "file": "genjutsu.json",
+    "item": {
+      "id_or_slug": "manifest.json",
+      "title": "Manifest.json",
+      "url": "https://genjutsuai.cc/manifest.json"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "action",
+      "title": "Action",
+      "url": "https://www.getstarrd.app/template/action"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "anime",
+      "title": "Anime",
+      "url": "https://www.getstarrd.app/template/anime"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "asmr",
+      "title": "Asmr",
+      "url": "https://www.getstarrd.app/template/asmr"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "cars",
+      "title": "Cars",
+      "url": "https://www.getstarrd.app/template/cars"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "crime",
+      "title": "Crime",
+      "url": "https://www.getstarrd.app/template/crime"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "drama",
+      "title": "Drama",
+      "url": "https://www.getstarrd.app/template/drama"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "gaming",
+      "title": "Gaming",
+      "url": "https://www.getstarrd.app/template/gaming"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "henshin",
+      "title": "Henshin",
+      "url": "https://www.getstarrd.app/template/henshin"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "holidays",
+      "title": "Holidays",
+      "url": "https://www.getstarrd.app/template/holidays"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "music",
+      "title": "Music",
+      "url": "https://www.getstarrd.app/template/music"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "nostalgia",
+      "title": "Nostalgia",
+      "url": "https://www.getstarrd.app/template/nostalgia"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "pets",
+      "title": "Pets",
+      "url": "https://www.getstarrd.app/template/pets"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "pranks",
+      "title": "Pranks",
+      "url": "https://www.getstarrd.app/template/pranks"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "song",
+      "title": "Song",
+      "url": "https://www.getstarrd.app/template/song"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "sports",
+      "title": "Sports",
+      "url": "https://www.getstarrd.app/template/sports"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "trailers",
+      "title": "Trailers",
+      "url": "https://www.getstarrd.app/template/trailers"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "AI Trend Video",
+    "file": "aitrendvideo.json",
+    "item": {
+      "id_or_slug": "create",
+      "title": "Create",
+      "url": "https://aitrendvideo.net/create"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "AI Trend Video",
+    "file": "aitrendvideo.json",
+    "item": {
+      "id_or_slug": "history",
+      "title": "History",
+      "url": "https://aitrendvideo.net/history"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "AI Trend Video",
+    "file": "aitrendvideo.json",
+    "item": {
+      "id_or_slug": "refund-policy",
+      "title": "Refund Policy",
+      "url": "https://aitrendvideo.net/refund-policy"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Kubflow",
+    "file": "kubflow.json",
+    "item": {
+      "id_or_slug": "generations",
+      "title": "Generations",
+      "url": "https://kubflow.ai/trends/generations"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "PictureToVideo",
+    "file": "picturetovideo.json",
+    "item": {
+      "id_or_slug": "ai-animation-generator",
+      "title": "AI Animation Generator",
+      "url": "https://picturetovideo.org/ai-animation-generator"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "PictureToVideo",
+    "file": "picturetovideo.json",
+    "item": {
+      "id_or_slug": "ai-dance-generator",
+      "title": "AI Dance Generator",
+      "url": "https://picturetovideo.org/ai-dance-generator"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "PictureToVideo",
+    "file": "picturetovideo.json",
+    "item": {
+      "id_or_slug": "ai-video-prompt-generator",
+      "title": "AI Video Prompt Generator",
+      "url": "https://picturetovideo.org/ai-video-prompt-generator"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "PictureToVideo",
+    "file": "picturetovideo.json",
+    "item": {
+      "id_or_slug": "animate-old-photos",
+      "title": "Animate Old Photos",
+      "url": "https://picturetovideo.org/animate-old-photos"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "PictureToVideo",
+    "file": "picturetovideo.json",
+    "item": {
+      "id_or_slug": "apple-touch-icon.png",
+      "title": "Apple Touch Icon.png",
+      "url": "https://picturetovideo.org/apple-touch-icon.png"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "PictureToVideo",
+    "file": "picturetovideo.json",
+    "item": {
+      "id_or_slug": "best-ai-video-generator",
+      "title": "Best AI Video Generator",
+      "url": "https://picturetovideo.org/best-ai-video-generator"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "PictureToVideo",
+    "file": "picturetovideo.json",
+    "item": {
+      "id_or_slug": "content-policy",
+      "title": "Content Policy",
+      "url": "https://picturetovideo.org/content-policy"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "PictureToVideo",
+    "file": "picturetovideo.json",
+    "item": {
+      "id_or_slug": "favicon.ico",
+      "title": "Favicon.ico",
+      "url": "https://picturetovideo.org/favicon.ico"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "PictureToVideo",
+    "file": "picturetovideo.json",
+    "item": {
+      "id_or_slug": "grok-imagine",
+      "title": "Grok Imagine",
+      "url": "https://picturetovideo.org/grok-imagine"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "PictureToVideo",
+    "file": "picturetovideo.json",
+    "item": {
+      "id_or_slug": "higgsfield-alternative",
+      "title": "Higgsfield Alternative",
+      "url": "https://picturetovideo.org/higgsfield-alternative"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "PictureToVideo",
+    "file": "picturetovideo.json",
+    "item": {
+      "id_or_slug": "keyframes",
+      "title": "Keyframes",
+      "url": "https://picturetovideo.org/keyframes"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "PictureToVideo",
+    "file": "picturetovideo.json",
+    "item": {
+      "id_or_slug": "king-ai",
+      "title": "King AI",
+      "url": "https://picturetovideo.org/king-ai"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "PictureToVideo",
+    "file": "picturetovideo.json",
+    "item": {
+      "id_or_slug": "kling-2-1",
+      "title": "Kling 2 1",
+      "url": "https://picturetovideo.org/kling-2-1"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "PictureToVideo",
+    "file": "picturetovideo.json",
+    "item": {
+      "id_or_slug": "kling-2-5-turbo",
+      "title": "Kling 2 5 Turbo",
+      "url": "https://picturetovideo.org/kling-2-5-turbo"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "PictureToVideo",
+    "file": "picturetovideo.json",
+    "item": {
+      "id_or_slug": "kling-2-6",
+      "title": "Kling 2 6",
+      "url": "https://picturetovideo.org/kling-2-6"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "PictureToVideo",
+    "file": "picturetovideo.json",
+    "item": {
+      "id_or_slug": "kling-3-0",
+      "title": "Kling 3 0",
+      "url": "https://picturetovideo.org/kling-3-0"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "PictureToVideo",
+    "file": "picturetovideo.json",
+    "item": {
+      "id_or_slug": "kling-4-0",
+      "title": "Kling 4 0",
+      "url": "https://picturetovideo.org/kling-4-0"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "PictureToVideo",
+    "file": "picturetovideo.json",
+    "item": {
+      "id_or_slug": "kling-4-vs-kling-3",
+      "title": "Kling 4 Vs Kling 3",
+      "url": "https://picturetovideo.org/kling-4-vs-kling-3"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "PictureToVideo",
+    "file": "picturetovideo.json",
+    "item": {
+      "id_or_slug": "kling-ai-alternatives",
+      "title": "Kling AI Alternatives",
+      "url": "https://picturetovideo.org/kling-ai-alternatives"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "PictureToVideo",
+    "file": "picturetovideo.json",
+    "item": {
+      "id_or_slug": "kling-ai-app",
+      "title": "Kling AI App",
+      "url": "https://picturetovideo.org/kling-ai-app"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "PictureToVideo",
+    "file": "picturetovideo.json",
+    "item": {
+      "id_or_slug": "kling-ai-free",
+      "title": "Kling AI Free",
+      "url": "https://picturetovideo.org/kling-ai-free"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "PictureToVideo",
+    "file": "picturetovideo.json",
+    "item": {
+      "id_or_slug": "kling-ai-pricing",
+      "title": "Kling AI Pricing",
+      "url": "https://picturetovideo.org/kling-ai-pricing"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "PictureToVideo",
+    "file": "picturetovideo.json",
+    "item": {
+      "id_or_slug": "kling-api",
+      "title": "Kling Api",
+      "url": "https://picturetovideo.org/kling-api"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "PictureToVideo",
+    "file": "picturetovideo.json",
+    "item": {
+      "id_or_slug": "kling-image-to-video",
+      "title": "Kling Image To Video",
+      "url": "https://picturetovideo.org/kling-image-to-video"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "PictureToVideo",
+    "file": "picturetovideo.json",
+    "item": {
+      "id_or_slug": "kling-o1",
+      "title": "Kling O1",
+      "url": "https://picturetovideo.org/kling-o1"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "PictureToVideo",
+    "file": "picturetovideo.json",
+    "item": {
+      "id_or_slug": "kling-vs-hailuo",
+      "title": "Kling Vs Hailuo",
+      "url": "https://picturetovideo.org/kling-vs-hailuo"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "PictureToVideo",
+    "file": "picturetovideo.json",
+    "item": {
+      "id_or_slug": "kling-vs-runway",
+      "title": "Kling Vs Runway",
+      "url": "https://picturetovideo.org/kling-vs-runway"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "PictureToVideo",
+    "file": "picturetovideo.json",
+    "item": {
+      "id_or_slug": "kling-vs-seedance",
+      "title": "Kling Vs Seedance",
+      "url": "https://picturetovideo.org/kling-vs-seedance"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "PictureToVideo",
+    "file": "picturetovideo.json",
+    "item": {
+      "id_or_slug": "kling-vs-veo-3",
+      "title": "Kling Vs Veo 3",
+      "url": "https://picturetovideo.org/kling-vs-veo-3"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "PictureToVideo",
+    "file": "picturetovideo.json",
+    "item": {
+      "id_or_slug": "minimax-h3",
+      "title": "Minimax H3",
+      "url": "https://picturetovideo.org/minimax-h3"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "PictureToVideo",
+    "file": "picturetovideo.json",
+    "item": {
+      "id_or_slug": "models",
+      "title": "Models",
+      "url": "https://picturetovideo.org/models"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "PictureToVideo",
+    "file": "picturetovideo.json",
+    "item": {
+      "id_or_slug": "motion-control",
+      "title": "Motion Control",
+      "url": "https://picturetovideo.org/motion-control"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "PictureToVideo",
+    "file": "picturetovideo.json",
+    "item": {
+      "id_or_slug": "photo-to-video",
+      "title": "Photo To Video",
+      "url": "https://picturetovideo.org/photo-to-video"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "PictureToVideo",
+    "file": "picturetovideo.json",
+    "item": {
+      "id_or_slug": "refund-policy",
+      "title": "Refund Policy",
+      "url": "https://picturetovideo.org/refund-policy"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "PictureToVideo",
+    "file": "picturetovideo.json",
+    "item": {
+      "id_or_slug": "seedance-2-5",
+      "title": "Seedance 2 5",
+      "url": "https://picturetovideo.org/seedance-2-5"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "PictureToVideo",
+    "file": "picturetovideo.json",
+    "item": {
+      "id_or_slug": "sora-alternative",
+      "title": "Sora Alternative",
+      "url": "https://picturetovideo.org/sora-alternative"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "PictureToVideo",
+    "file": "picturetovideo.json",
+    "item": {
+      "id_or_slug": "text-to-video",
+      "title": "Text To Video",
+      "url": "https://picturetovideo.org/text-to-video"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "PictureToVideo",
+    "file": "picturetovideo.json",
+    "item": {
+      "id_or_slug": "veo-3",
+      "title": "Veo 3",
+      "url": "https://picturetovideo.org/veo-3"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "PictureToVideo",
+    "file": "picturetovideo.json",
+    "item": {
+      "id_or_slug": "video-extender",
+      "title": "Video Extender",
+      "url": "https://picturetovideo.org/video-extender"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "PictureToVideo",
+    "file": "picturetovideo.json",
+    "item": {
+      "id_or_slug": "viggle-ai-alternative",
+      "title": "Viggle AI Alternative",
+      "url": "https://picturetovideo.org/viggle-ai-alternative"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "PictureToVideo",
+    "file": "picturetovideo.json",
+    "item": {
+      "id_or_slug": "wan-2-5",
+      "title": "Wan 2 5",
+      "url": "https://picturetovideo.org/wan-2-5"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Bolly.AI",
+    "file": "bolly.json",
+    "item": {
+      "id_or_slug": "anime",
+      "title": "Anime",
+      "url": "https://www.bolly.ai/template/anime"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Bolly.AI",
+    "file": "bolly.json",
+    "item": {
+      "id_or_slug": "brainrot",
+      "title": "Brainrot",
+      "url": "https://www.bolly.ai/template/brainrot"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Bolly.AI",
+    "file": "bolly.json",
+    "item": {
+      "id_or_slug": "edits",
+      "title": "Edits",
+      "url": "https://www.bolly.ai/template/edits"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Bolly.AI",
+    "file": "bolly.json",
+    "item": {
+      "id_or_slug": "football",
+      "title": "Football",
+      "url": "https://www.bolly.ai/template/football"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Bolly.AI",
+    "file": "bolly.json",
+    "item": {
+      "id_or_slug": "kpop",
+      "title": "Kpop",
+      "url": "https://www.bolly.ai/template/kpop"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Bolly.AI",
+    "file": "bolly.json",
+    "item": {
+      "id_or_slug": "meme",
+      "title": "Meme",
+      "url": "https://www.bolly.ai/template/meme"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Bolly.AI",
+    "file": "bolly.json",
+    "item": {
+      "id_or_slug": "multi-person",
+      "title": "Multi Person",
+      "url": "https://www.bolly.ai/template/multi-person"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "RapVideo.ai",
+    "file": "rapvideo.json",
+    "item": {
+      "id_or_slug": "ai-clone-video",
+      "title": "AI Clone Video",
+      "url": "https://rapvideo.ai/ai-clone-video"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "RapVideo.ai",
+    "file": "rapvideo.json",
+    "item": {
+      "id_or_slug": "ai-dance-video",
+      "title": "AI Dance Video",
+      "url": "https://rapvideo.ai/ai-dance-video"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "RapVideo.ai",
+    "file": "rapvideo.json",
+    "item": {
+      "id_or_slug": "ai-family-video",
+      "title": "AI Family Video",
+      "url": "https://rapvideo.ai/ai-family-video"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "RapVideo.ai",
+    "file": "rapvideo.json",
+    "item": {
+      "id_or_slug": "ai-hug-deceased-loved-one",
+      "title": "AI Hug Deceased Loved One",
+      "url": "https://rapvideo.ai/ai-hug-deceased-loved-one"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "RapVideo.ai",
+    "file": "rapvideo.json",
+    "item": {
+      "id_or_slug": "ai-hug-generator",
+      "title": "AI Hug Generator",
+      "url": "https://rapvideo.ai/ai-hug-generator"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "RapVideo.ai",
+    "file": "rapvideo.json",
+    "item": {
+      "id_or_slug": "ai-music-video-generator",
+      "title": "AI Music Video Generator",
+      "url": "https://rapvideo.ai/ai-music-video-generator"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "RapVideo.ai",
+    "file": "rapvideo.json",
+    "item": {
+      "id_or_slug": "ai-promo-video-for-small-business",
+      "title": "AI Promo Video For Small Business",
+      "url": "https://rapvideo.ai/ai-promo-video-for-small-business"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "RapVideo.ai",
+    "file": "rapvideo.json",
+    "item": {
+      "id_or_slug": "ai-tribute-video",
+      "title": "AI Tribute Video",
+      "url": "https://rapvideo.ai/ai-tribute-video"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "RapVideo.ai",
+    "file": "rapvideo.json",
+    "item": {
+      "id_or_slug": "ai-video-effects",
+      "title": "AI Video Effects",
+      "url": "https://rapvideo.ai/ai-video-effects"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "RapVideo.ai",
+    "file": "rapvideo.json",
+    "item": {
+      "id_or_slug": "ai-video-of-yourself",
+      "title": "AI Video Of Yourself",
+      "url": "https://rapvideo.ai/ai-video-of-yourself"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "RapVideo.ai",
+    "file": "rapvideo.json",
+    "item": {
+      "id_or_slug": "animate-old-photos",
+      "title": "Animate Old Photos",
+      "url": "https://rapvideo.ai/animate-old-photos"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "RapVideo.ai",
+    "file": "rapvideo.json",
+    "item": {
+      "id_or_slug": "apple-touch-icon.png",
+      "title": "Apple Touch Icon.png",
+      "url": "https://rapvideo.ai/apple-touch-icon.png"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "RapVideo.ai",
+    "file": "rapvideo.json",
+    "item": {
+      "id_or_slug": "birthday-rap-song",
+      "title": "Birthday Rap Song",
+      "url": "https://rapvideo.ai/birthday-rap-song"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "RapVideo.ai",
+    "file": "rapvideo.json",
+    "item": {
+      "id_or_slug": "can-chatgpt-make-videos",
+      "title": "Can Chatgpt Make Videos",
+      "url": "https://rapvideo.ai/can-chatgpt-make-videos"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "RapVideo.ai",
+    "file": "rapvideo.json",
+    "item": {
+      "id_or_slug": "diss-track-generator",
+      "title": "Diss Track Generator",
+      "url": "https://rapvideo.ai/diss-track-generator"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "RapVideo.ai",
+    "file": "rapvideo.json",
+    "item": {
+      "id_or_slug": "earth-zoom-out",
+      "title": "Earth Zoom Out",
+      "url": "https://rapvideo.ai/earth-zoom-out"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "RapVideo.ai",
+    "file": "rapvideo.json",
+    "item": {
+      "id_or_slug": "favicon.ico",
+      "title": "Favicon.ico",
+      "url": "https://rapvideo.ai/favicon.ico"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "RapVideo.ai",
+    "file": "rapvideo.json",
+    "item": {
+      "id_or_slug": "funny-birthday-video",
+      "title": "Funny Birthday Video",
+      "url": "https://rapvideo.ai/funny-birthday-video"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "RapVideo.ai",
+    "file": "rapvideo.json",
+    "item": {
+      "id_or_slug": "how-to-do-the-ai-trend-on-tiktok",
+      "title": "How To Do The AI Trend On Tiktok",
+      "url": "https://rapvideo.ai/how-to-do-the-ai-trend-on-tiktok"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "RapVideo.ai",
+    "file": "rapvideo.json",
+    "item": {
+      "id_or_slug": "personalized-anniversary-song",
+      "title": "Personalized Anniversary Song",
+      "url": "https://rapvideo.ai/personalized-anniversary-song"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "RapVideo.ai",
+    "file": "rapvideo.json",
+    "item": {
+      "id_or_slug": "personalized-birthday-song",
+      "title": "Personalized Birthday Song",
+      "url": "https://rapvideo.ai/personalized-birthday-song"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "RapVideo.ai",
+    "file": "rapvideo.json",
+    "item": {
+      "id_or_slug": "personalized-christmas-song",
+      "title": "Personalized Christmas Song",
+      "url": "https://rapvideo.ai/personalized-christmas-song"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "RapVideo.ai",
+    "file": "rapvideo.json",
+    "item": {
+      "id_or_slug": "personalized-love-song",
+      "title": "Personalized Love Song",
+      "url": "https://rapvideo.ai/personalized-love-song"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "RapVideo.ai",
+    "file": "rapvideo.json",
+    "item": {
+      "id_or_slug": "photo-to-video-ai",
+      "title": "Photo To Video AI",
+      "url": "https://rapvideo.ai/photo-to-video-ai"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "RapVideo.ai",
+    "file": "rapvideo.json",
+    "item": {
+      "id_or_slug": "rap-duo-name-generator",
+      "title": "Rap Duo Name Generator",
+      "url": "https://rapvideo.ai/rap-duo-name-generator"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "RapVideo.ai",
+    "file": "rapvideo.json",
+    "item": {
+      "id_or_slug": "rap-maker",
+      "title": "Rap Maker",
+      "url": "https://rapvideo.ai/rap-maker"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "RapVideo.ai",
+    "file": "rapvideo.json",
+    "item": {
+      "id_or_slug": "refund-policy",
+      "title": "Refund Policy",
+      "url": "https://rapvideo.ai/refund-policy"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "RapVideo.ai",
+    "file": "rapvideo.json",
+    "item": {
+      "id_or_slug": "videos",
+      "title": "Videos",
+      "url": "https://rapvideo.ai/videos"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "affiliates",
+      "title": "Affiliates",
+      "url": "https://memelry.com/affiliates"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "ai-dance-video-from-photo",
+      "title": "AI Dance Video From Photo",
+      "url": "https://memelry.com/ai-dance-video-from-photo"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "ai-tiny-desk-video-look-realistic",
+      "title": "AI Tiny Desk Video Look Realistic",
+      "url": "https://memelry.com/ai-tiny-desk-video-look-realistic"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "ai-tiny-desk-video-without-editing",
+      "title": "AI Tiny Desk Video Without Editing",
+      "url": "https://memelry.com/ai-tiny-desk-video-without-editing"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "ai-tool-tiny-desk-office-concert",
+      "title": "AI Tool Tiny Desk Office Concert",
+      "url": "https://memelry.com/ai-tool-tiny-desk-office-concert"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "bulin-47-freestyle-meme",
+      "title": "Bulin 47 Freestyle Meme",
+      "url": "https://memelry.com/bulin-47-freestyle-meme"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "coaches-thriller-face-swap-tools",
+      "title": "Coaches Thriller Face Swap Tools",
+      "url": "https://memelry.com/coaches-thriller-face-swap-tools"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "custom-meme",
+      "title": "Custom Meme",
+      "url": "https://memelry.com/custom-meme"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "dime-dime-baby-dog-cat",
+      "title": "Dime Dime Baby Dog Cat",
+      "url": "https://memelry.com/dime-dime-baby-dog-cat"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "dime-dime-baby-meme",
+      "title": "Dime Dime Baby Meme",
+      "url": "https://memelry.com/dime-dime-baby-meme"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "gangnam-style-face-swap-tools",
+      "title": "Gangnam Style Face Swap Tools",
+      "url": "https://memelry.com/gangnam-style-face-swap-tools"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "good-chat-on-phone-ai",
+      "title": "Good Chat On Phone AI",
+      "url": "https://memelry.com/good-chat-on-phone-ai"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "good-chat-one-time-payment-ai",
+      "title": "Good Chat One Time Payment AI",
+      "url": "https://memelry.com/good-chat-one-time-payment-ai"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "good-chat-original-audio-ai",
+      "title": "Good Chat Original Audio AI",
+      "url": "https://memelry.com/good-chat-original-audio-ai"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "good-chat-two-people-ai",
+      "title": "Good Chat Two People AI",
+      "url": "https://memelry.com/good-chat-two-people-ai"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "group-performance-video-from-selfies",
+      "title": "Group Performance Video From Selfies",
+      "url": "https://memelry.com/group-performance-video-from-selfies"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "im-flying-titanic-meme",
+      "title": "Im Flying Titanic Meme",
+      "url": "https://memelry.com/im-flying-titanic-meme"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "its-time-christmas-from-photo",
+      "title": "Its Time Christmas From Photo",
+      "url": "https://memelry.com/its-time-christmas-from-photo"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "la-la-land-couple-ai",
+      "title": "La La Land Couple AI",
+      "url": "https://memelry.com/la-la-land-couple-ai"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "la-la-land-dance-moves-ai",
+      "title": "La La Land Dance Moves AI",
+      "url": "https://memelry.com/la-la-land-dance-moves-ai"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "la-la-land-one-selfie-ai",
+      "title": "La La Land One Selfie AI",
+      "url": "https://memelry.com/la-la-land-one-selfie-ai"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "la-la-land-with-music-ai",
+      "title": "La La Land With Music AI",
+      "url": "https://memelry.com/la-la-land-with-music-ai"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "no-scrubs-trend-with-friends",
+      "title": "No Scrubs Trend With Friends",
+      "url": "https://memelry.com/no-scrubs-trend-with-friends"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "outstanding-tiny-desk-set",
+      "title": "Outstanding Tiny Desk Set",
+      "url": "https://memelry.com/outstanding-tiny-desk-set"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "photo-video-privacy",
+      "title": "Photo Video Privacy",
+      "url": "https://memelry.com/photo-video-privacy"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "realistic-dog-pool-party-ai",
+      "title": "Realistic Dog Pool Party AI",
+      "url": "https://memelry.com/realistic-dog-pool-party-ai"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "replace-person-in-video",
+      "title": "Replace Person In Video",
+      "url": "https://memelry.com/replace-person-in-video"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "rush-hour-fantasy-face-likeness",
+      "title": "Rush Hour Fantasy Face Likeness",
+      "url": "https://memelry.com/rush-hour-fantasy-face-likeness"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "rush-hour-fantasy-two-photos",
+      "title": "Rush Hour Fantasy Two Photos",
+      "url": "https://memelry.com/rush-hour-fantasy-two-photos"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "tiktok-video-face-swap",
+      "title": "Tiktok Video Face Swap",
+      "url": "https://memelry.com/tiktok-video-face-swap"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "tiny-desk-ai-birthday",
+      "title": "Tiny Desk AI Birthday",
+      "url": "https://memelry.com/tiny-desk-ai-birthday"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "tiny-desk-ai-couples",
+      "title": "Tiny Desk AI Couples",
+      "url": "https://memelry.com/tiny-desk-ai-couples"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "tiny-desk-ai-coworkers",
+      "title": "Tiny Desk AI Coworkers",
+      "url": "https://memelry.com/tiny-desk-ai-coworkers"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "tiny-desk-ai-face-swap",
+      "title": "Tiny Desk AI Face Swap",
+      "url": "https://memelry.com/tiny-desk-ai-face-swap"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "tiny-desk-ai-family",
+      "title": "Tiny Desk AI Family",
+      "url": "https://memelry.com/tiny-desk-ai-family"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "tiny-desk-ai-graduation",
+      "title": "Tiny Desk AI Graduation",
+      "url": "https://memelry.com/tiny-desk-ai-graduation"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "tiny-desk-ai-meme-origin",
+      "title": "Tiny Desk AI Meme Origin",
+      "url": "https://memelry.com/tiny-desk-ai-meme-origin"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "tiny-desk-ai-on-phone",
+      "title": "Tiny Desk AI On Phone",
+      "url": "https://memelry.com/tiny-desk-ai-on-phone"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "tiny-desk-ai-original-audio",
+      "title": "Tiny Desk AI Original Audio",
+      "url": "https://memelry.com/tiny-desk-ai-original-audio"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "tiny-desk-ai-wedding",
+      "title": "Tiny Desk AI Wedding",
+      "url": "https://memelry.com/tiny-desk-ai-wedding"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "tiny-desk-parody-from-photos",
+      "title": "Tiny Desk Parody From Photos",
+      "url": "https://memelry.com/tiny-desk-parody-from-photos"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "wassup-in-a-minute-cost",
+      "title": "Wassup In A Minute Cost",
+      "url": "https://memelry.com/wassup-in-a-minute-cost"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "window-peeper-dog-cat",
+      "title": "Window Peeper Dog Cat",
+      "url": "https://memelry.com/window-peeper-dog-cat"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "window-peeper-meme",
+      "title": "Window Peeper Meme",
+      "url": "https://memelry.com/window-peeper-meme"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "window-peeper-prank",
+      "title": "Window Peeper Prank",
+      "url": "https://memelry.com/window-peeper-prank"
+    },
+    "reason": "parser-drift-or-non-template"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "wizard-cat-keyboard-ai",
+      "title": "Wizard Cat Keyboard AI",
+      "url": "https://memelry.com/wizard-cat-keyboard-ai"
+    },
+    "reason": "parser-drift-or-non-template"
+  }
+]

@@ -1,0 +1,86 @@
+{
+  "site": "TrendTemplate",
+  "file": "trendtemplate.json",
+  "prev": 20,
+  "now": 35,
+  "fetch_ok": true,
+  "notes": [],
+  "new": [
+    {
+      "id_or_slug": "ai-christmas-video",
+      "title": "AI Christmas Video",
+      "url": "https://trendtemplate.com/ai-christmas-video"
+    },
+    {
+      "id_or_slug": "ai-dance",
+      "title": "AI Dance",
+      "url": "https://trendtemplate.com/ai-dance"
+    },
+    {
+      "id_or_slug": "ai-photo-creator",
+      "title": "AI Photo Creator",
+      "url": "https://trendtemplate.com/ai-photo-creator"
+    },
+    {
+      "id_or_slug": "ai-trend-templates",
+      "title": "AI Trend Templates",
+      "url": "https://trendtemplate.com/ai-trend-templates"
+    },
+    {
+      "id_or_slug": "apple-touch-icon.png",
+      "title": "Apple Touch Icon.png",
+      "url": "https://trendtemplate.com/apple-touch-icon.png"
+    },
+    {
+      "id_or_slug": "christmas-pajama-dance-ai",
+      "title": "Christmas Pajama Dance AI",
+      "url": "https://trendtemplate.com/christmas-pajama-dance-ai"
+    },
+    {
+      "id_or_slug": "drake-hotline-bling-dance-ai",
+      "title": "Drake Hotline Bling Dance AI",
+      "url": "https://trendtemplate.com/drake-hotline-bling-dance-ai"
+    },
+    {
+      "id_or_slug": "elf-yourself-alternative",
+      "title": "Elf Yourself Alternative",
+      "url": "https://trendtemplate.com/elf-yourself-alternative"
+    },
+    {
+      "id_or_slug": "how-to-make-rooftop-groove-ai-video",
+      "title": "How To Make Rooftop Groove AI Video",
+      "url": "https://trendtemplate.com/how-to-make-rooftop-groove-ai-video"
+    },
+    {
+      "id_or_slug": "logo-mark.svg",
+      "title": "Logo Mark.svg",
+      "url": "https://trendtemplate.com/logo-mark.svg"
+    },
+    {
+      "id_or_slug": "photo-template",
+      "title": "Photo Template",
+      "url": "https://trendtemplate.com/photo-template"
+    },
+    {
+      "id_or_slug": "refund-policy",
+      "title": "Refund Policy",
+      "url": "https://trendtemplate.com/refund-policy"
+    },
+    {
+      "id_or_slug": "report",
+      "title": "Report",
+      "url": "https://trendtemplate.com/report"
+    },
+    {
+      "id_or_slug": "video-template-online",
+      "title": "Video Template Online",
+      "url": "https://trendtemplate.com/video-template-online"
+    },
+    {
+      "id_or_slug": "viggle-alternative",
+      "title": "Viggle Alternative",
+      "url": "https://trendtemplate.com/viggle-alternative"
+    }
+  ],
+  "removed": []
+}

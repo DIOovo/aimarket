@@ -1,0 +1,214 @@
+{
+  "checked_at": "2026-11-20T09:39:28+08:00",
+  "timezone": "Asia/Shanghai",
+  "previous_checked_at": "2026-11-19T09:40:27+08:00",
+  "ledger": {
+    "sites": 28,
+    "sites_updated": 28,
+    "total_templates": 3563,
+    "total_new": 109,
+    "total_digest_new": 27,
+    "samevid_inventory_new": 82,
+    "putmein_bulk_new": 0,
+    "total_removed": 0,
+    "filtered": 524
+  },
+  "per_site": {
+    "dothetrend.json": {
+      "template_count": 70,
+      "new_count": 0,
+      "digest_new": 0,
+      "inventory_new": 0,
+      "note": null
+    },
+    "trendtemplate.json": {
+      "template_count": 38,
+      "new_count": 2,
+      "digest_new": 2,
+      "inventory_new": 0,
+      "note": null
+    },
+    "memefxai.json": {
+      "template_count": 74,
+      "new_count": 0,
+      "digest_new": 0,
+      "inventory_new": 0,
+      "note": null
+    },
+    "clipremake.json": {
+      "template_count": 67,
+      "new_count": 3,
+      "digest_new": 3,
+      "inventory_new": 0,
+      "note": null
+    },
+    "remakeyourmeme.json": {
+      "template_count": 44,
+      "new_count": 0,
+      "digest_new": 0,
+      "inventory_new": 0,
+      "note": "Sitemap via WebFetch; box IP still 403; inventory unchanged (44)."
+    },
+    "makeviral.json": {
+      "template_count": 578,
+      "new_count": 12,
+      "digest_new": 12,
+      "inventory_new": 0,
+      "note": null
+    },
+    "smew.json": {
+      "template_count": 439,
+      "new_count": 0,
+      "digest_new": 0,
+      "inventory_new": 0,
+      "note": null
+    },
+    "makememe.json": {
+      "template_count": 160,
+      "new_count": 2,
+      "digest_new": 2,
+      "inventory_new": 0,
+      "note": null
+    },
+    "viralremake.json": {
+      "template_count": 37,
+      "new_count": 0,
+      "digest_new": 0,
+      "inventory_new": 0,
+      "note": null
+    },
+    "memeclone.json": {
+      "template_count": 76,
+      "new_count": 1,
+      "digest_new": 1,
+      "inventory_new": 0,
+      "note": null
+    },
+    "trendswap.json": {
+      "template_count": 57,
+      "new_count": 0,
+      "digest_new": 0,
+      "inventory_new": 0,
+      "note": null
+    },
+    "putmein.json": {
+      "template_count": 226,
+      "new_count": 0,
+      "digest_new": 0,
+      "inventory_new": 0,
+      "note": null
+    },
+    "samevid.json": {
+      "template_count": 299,
+      "new_count": 82,
+      "digest_new": 0,
+      "inventory_new": 82,
+      "note": "82 genuine templates added to inventory as a catalog backfill; not itemized in the digest."
+    },
+    "zapvid.json": {
+      "template_count": 43,
+      "new_count": 1,
+      "digest_new": 1,
+      "inventory_new": 0,
+      "note": null
+    },
+    "summrs.json": {
+      "template_count": 80,
+      "new_count": 0,
+      "digest_new": 0,
+      "inventory_new": 0,
+      "note": "Kept bigfoot-vlog despite missing from today's sitemap (page still 200)."
+    },
+    "trendify.json": {
+      "template_count": 14,
+      "new_count": 0,
+      "digest_new": 0,
+      "inventory_new": 0,
+      "note": null
+    },
+    "genjutsu.json": {
+      "template_count": 45,
+      "new_count": 0,
+      "digest_new": 0,
+      "inventory_new": 0,
+      "note": null
+    },
+    "danceremake.json": {
+      "template_count": 19,
+      "new_count": 0,
+      "digest_new": 0,
+      "inventory_new": 0,
+      "note": null
+    },
+    "starrd.json": {
+      "template_count": 382,
+      "new_count": 4,
+      "digest_new": 4,
+      "inventory_new": 0,
+      "note": null
+    },
+    "aitrendvideo.json": {
+      "template_count": 10,
+      "new_count": 0,
+      "digest_new": 0,
+      "inventory_new": 0,
+      "note": null
+    },
+    "ricebowl.json": {
+      "template_count": 72,
+      "new_count": 0,
+      "digest_new": 0,
+      "inventory_new": 0,
+      "note": "Meme catalog (/trends/meme ItemList) unchanged vs yesterday (84 claimed / 0 genuine new). Generic /app tool pages and parse junk not added."
+    },
+    "kubflow.json": {
+      "template_count": 10,
+      "new_count": 0,
+      "digest_new": 0,
+      "inventory_new": 0,
+      "note": null
+    },
+    "picturetovideo.json": {
+      "template_count": 5,
+      "new_count": 0,
+      "digest_new": 0,
+      "inventory_new": 0,
+      "note": null
+    },
+    "bolly.json": {
+      "template_count": 219,
+      "new_count": 0,
+      "digest_new": 0,
+      "inventory_new": 0,
+      "note": null
+    },
+    "rapvideo.json": {
+      "template_count": 42,
+      "new_count": 0,
+      "digest_new": 0,
+      "inventory_new": 0,
+      "note": null
+    },
+    "aimakevideo.json": {
+      "template_count": 50,
+      "new_count": 1,
+      "digest_new": 1,
+      "inventory_new": 0,
+      "note": null
+    },
+    "tryatrend.json": {
+      "template_count": 52,
+      "new_count": 1,
+      "digest_new": 1,
+      "inventory_new": 0,
+      "note": "Kept ai-halloween-costume despite missing from today's sitemap (page still 200)."
+    },
+    "memelry.json": {
+      "template_count": 355,
+      "new_count": 0,
+      "digest_new": 0,
+      "inventory_new": 0,
+      "note": null
+    }
+  }
+}

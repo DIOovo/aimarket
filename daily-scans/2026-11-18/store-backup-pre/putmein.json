@@ -1,0 +1,1599 @@
+{
+  "site": "Put Me In",
+  "home": "https://putmein.app/",
+  "checked_at": "2026-11-17T09:39:00+08:00",
+  "sitemap_urls_found": [
+    "https://putmein.app/sitemap.xml",
+    "https://putmein.app/sitemap-media.xml",
+    "https://putmein.app/blog/rss.xml",
+    "https://putmein.app/es/blog/rss.xml",
+    "https://putmein.app/ja/blog/rss.xml",
+    "https://putmein.app/pt/blog/rss.xml"
+  ],
+  "sitemap_existed": true,
+  "template_count": 226,
+  "templates": [
+    {
+      "id_or_slug": "abcdefg-i-need-money",
+      "title": "Abcdefg I Need Money",
+      "url": "https://putmein.app/templates/abcdefg-i-need-money"
+    },
+    {
+      "id_or_slug": "abra-kadabra-ai-trend",
+      "title": "Abra Kadabra AI",
+      "url": "https://putmein.app/templates/abra-kadabra-ai-trend"
+    },
+    {
+      "id_or_slug": "ai-car-jump-trend",
+      "title": "Car Jump AI",
+      "url": "https://putmein.app/templates/ai-car-jump-trend"
+    },
+    {
+      "id_or_slug": "ai-ceiling-fan-trend",
+      "title": "Ceiling Fan AI",
+      "url": "https://putmein.app/templates/ai-ceiling-fan-trend"
+    },
+    {
+      "id_or_slug": "ai-cupid-trend",
+      "title": "AI Cupid Trend",
+      "url": "https://putmein.app/templates/ai-cupid-trend"
+    },
+    {
+      "id_or_slug": "ai-dancing-dog-video",
+      "title": "AI Dancing Dog",
+      "url": "https://putmein.app/templates/ai-dancing-dog-video"
+    },
+    {
+      "id_or_slug": "ai-doodle-dance-partner",
+      "title": "Doodle Dance Partner AI",
+      "url": "https://putmein.app/templates/ai-doodle-dance-partner"
+    },
+    {
+      "id_or_slug": "ai-explosion-walk-trend",
+      "title": "Explosion Walk AI",
+      "url": "https://putmein.app/templates/ai-explosion-walk-trend"
+    },
+    {
+      "id_or_slug": "ai-red-riding-hood",
+      "title": "AI Red Riding Hood",
+      "url": "https://putmein.app/templates/ai-red-riding-hood"
+    },
+    {
+      "id_or_slug": "ai-rumpelstiltskin-dance",
+      "title": "AI Rumpelstiltskin Dance",
+      "url": "https://putmein.app/templates/ai-rumpelstiltskin-dance"
+    },
+    {
+      "id_or_slug": "atm-glitch-ai-trend",
+      "title": "ATM Glitch AI",
+      "url": "https://putmein.app/templates/atm-glitch-ai-trend"
+    },
+    {
+      "id_or_slug": "babydoll-dance-ai-trend",
+      "title": "Babydoll Dance AI",
+      "url": "https://putmein.app/templates/babydoll-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "bad-aim-edit-ai-trend",
+      "title": "Bad Aim Edit AI",
+      "url": "https://putmein.app/templates/bad-aim-edit-ai-trend"
+    },
+    {
+      "id_or_slug": "bad-dance-challenge-ai-trend",
+      "title": "Bad Dance Challenge AI Trend",
+      "url": "https://putmein.app/templates/bad-dance-challenge-ai-trend"
+    },
+    {
+      "id_or_slug": "bad-times",
+      "title": "Bad Times",
+      "url": "https://putmein.app/templates/bad-times"
+    },
+    {
+      "id_or_slug": "bad-times-pet",
+      "title": "Bad Times Pet",
+      "url": "https://putmein.app/templates/bad-times-pet"
+    },
+    {
+      "id_or_slug": "banana-tree-run-ai-trend",
+      "title": "Banana Tree Run AI",
+      "url": "https://putmein.app/templates/banana-tree-run-ai-trend"
+    },
+    {
+      "id_or_slug": "banquet-hall-staff-shirt-dance-ai-trend",
+      "title": "Banquet Hall Staff Shirt Dance AI Trend",
+      "url": "https://putmein.app/templates/banquet-hall-staff-shirt-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "bar-smile-club-stage-duo-ai-trend",
+      "title": "Bar Smile Club Stage Duo AI Trend",
+      "url": "https://putmein.app/templates/bar-smile-club-stage-duo-ai-trend"
+    },
+    {
+      "id_or_slug": "bat-smash-bottle-splash-ai-trend",
+      "title": "Bat Smash Bottle Splash AI Trend",
+      "url": "https://putmein.app/templates/bat-smash-bottle-splash-ai-trend"
+    },
+    {
+      "id_or_slug": "bby-wow-dance",
+      "title": "Bby Wow Dance",
+      "url": "https://putmein.app/templates/bby-wow-dance"
+    },
+    {
+      "id_or_slug": "bby-wow-guy-ai-trend",
+      "title": "Bby Wow Guy AI",
+      "url": "https://putmein.app/templates/bby-wow-guy-ai-trend"
+    },
+    {
+      "id_or_slug": "becane-ai-trend",
+      "title": "Bécane AI",
+      "url": "https://putmein.app/templates/becane-ai-trend"
+    },
+    {
+      "id_or_slug": "bedroom-arm-dance-ai-trend",
+      "title": "Bedroom Arm Dance AI Trend",
+      "url": "https://putmein.app/templates/bedroom-arm-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "bedroom-cash-fan-ai-trend",
+      "title": "Bedroom Cash Fan AI Trend",
+      "url": "https://putmein.app/templates/bedroom-cash-fan-ai-trend"
+    },
+    {
+      "id_or_slug": "bedroom-talk-to-camera-gestures-ai-trend",
+      "title": "Bedroom Talk To Camera Gestures AI Trend",
+      "url": "https://putmein.app/templates/bedroom-talk-to-camera-gestures-ai-trend"
+    },
+    {
+      "id_or_slug": "biker-birthday-cake-ai-trend",
+      "title": "Biker Birthday Cake AI",
+      "url": "https://putmein.app/templates/biker-birthday-cake-ai-trend"
+    },
+    {
+      "id_or_slug": "billie-jean-dance-ai-trend",
+      "title": "Billie Jean Dance AI",
+      "url": "https://putmein.app/templates/billie-jean-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "birthday-car-ai-trend",
+      "title": "Birthday Car AI",
+      "url": "https://putmein.app/templates/birthday-car-ai-trend"
+    },
+    {
+      "id_or_slug": "black-and-white-cinematic-ai-video",
+      "title": "Black and White Cinematic AI",
+      "url": "https://putmein.app/templates/black-and-white-cinematic-ai-video"
+    },
+    {
+      "id_or_slug": "bottle-kick-challenge-ai",
+      "title": "Bottle Kick Challenge AI",
+      "url": "https://putmein.app/templates/bottle-kick-challenge-ai"
+    },
+    {
+      "id_or_slug": "bowl-wig-dance-ai-trend",
+      "title": "Bowl Wig Dance AI Trend",
+      "url": "https://putmein.app/templates/bowl-wig-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "boyfriend-picks-you-up-every-day-ai-trend",
+      "title": "Boyfriend Picks You Up Every Day AI",
+      "url": "https://putmein.app/templates/boyfriend-picks-you-up-every-day-ai-trend"
+    },
+    {
+      "id_or_slug": "buggin-dance-ai-trend",
+      "title": "Buggin Dance AI Trend",
+      "url": "https://putmein.app/templates/buggin-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "bulin-47-ai-trend",
+      "title": "Bulin 47 AI",
+      "url": "https://putmein.app/templates/bulin-47-ai-trend"
+    },
+    {
+      "id_or_slug": "bull-ride-backflip-ai-trend",
+      "title": "Bull Ride Backflip AI Trend",
+      "url": "https://putmein.app/templates/bull-ride-backflip-ai-trend"
+    },
+    {
+      "id_or_slug": "burning-bridges-ai-trend",
+      "title": "Burning Bridges AI Trend",
+      "url": "https://putmein.app/templates/burning-bridges-ai-trend"
+    },
+    {
+      "id_or_slug": "bye-bye-outfit-change-ai-trend",
+      "title": "Bye Bye Outfit Change AI",
+      "url": "https://putmein.app/templates/bye-bye-outfit-change-ai-trend"
+    },
+    {
+      "id_or_slug": "c-walk-ai-dance",
+      "title": "C-Walk AI Dance",
+      "url": "https://putmein.app/templates/c-walk-ai-dance"
+    },
+    {
+      "id_or_slug": "can-can-dance-ai-trend",
+      "title": "Can-Can Dance AI",
+      "url": "https://putmein.app/templates/can-can-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "can-i-ride-dance-ai-trend",
+      "title": "Can I Ride Dance AI",
+      "url": "https://putmein.app/templates/can-i-ride-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "car-alarm-dance-ai-trend",
+      "title": "Car Alarm Dance AI",
+      "url": "https://putmein.app/templates/car-alarm-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "car-roof-backflip-ai-trend",
+      "title": "Car Roof Backflip AI",
+      "url": "https://putmein.app/templates/car-roof-backflip-ai-trend"
+    },
+    {
+      "id_or_slug": "cash-burn-flames-ai-trend",
+      "title": "Cash Burn Flames AI Trend",
+      "url": "https://putmein.app/templates/cash-burn-flames-ai-trend"
+    },
+    {
+      "id_or_slug": "cash-flip-flex-ai-trend",
+      "title": "Cash Flip Flex AI Trend",
+      "url": "https://putmein.app/templates/cash-flip-flex-ai-trend"
+    },
+    {
+      "id_or_slug": "cash-on-head-phone-call-ai-trend",
+      "title": "Cash On Head Phone Call AI Trend",
+      "url": "https://putmein.app/templates/cash-on-head-phone-call-ai-trend"
+    },
+    {
+      "id_or_slug": "cat-middle-finger-ai-trend",
+      "title": "Cat Middle Finger AI",
+      "url": "https://putmein.app/templates/cat-middle-finger-ai-trend"
+    },
+    {
+      "id_or_slug": "cat-on-ultra-bee-ai-trend",
+      "title": "Cat on Ultra Bee AI",
+      "url": "https://putmein.app/templates/cat-on-ultra-bee-ai-trend"
+    },
+    {
+      "id_or_slug": "cat-shower-ai-trend",
+      "title": "Cat Shower AI",
+      "url": "https://putmein.app/templates/cat-shower-ai-trend"
+    },
+    {
+      "id_or_slug": "catel-courtyard-dance-ai-trend",
+      "title": "Catel Courtyard Dance AI Trend",
+      "url": "https://putmein.app/templates/catel-courtyard-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "champagne-birthday-ai-trend",
+      "title": "Champagne Birthday AI",
+      "url": "https://putmein.app/templates/champagne-birthday-ai-trend"
+    },
+    {
+      "id_or_slug": "champagne-car-window-ai-trend",
+      "title": "Champagne Car Window AI",
+      "url": "https://putmein.app/templates/champagne-car-window-ai-trend"
+    },
+    {
+      "id_or_slug": "chased-by-hyenas-ai-trend",
+      "title": "Chased by Hyenas AI",
+      "url": "https://putmein.app/templates/chased-by-hyenas-ai-trend"
+    },
+    {
+      "id_or_slug": "chipmunks-dance-ai-trend",
+      "title": "Chipmunks Dance AI",
+      "url": "https://putmein.app/templates/chipmunks-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "christian-dior-dance-ai-trend",
+      "title": "Christian Dior Dance AI",
+      "url": "https://putmein.app/templates/christian-dior-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "christmas-lights-car-ai-trend",
+      "title": "Christmas Lights Car AI",
+      "url": "https://putmein.app/templates/christmas-lights-car-ai-trend"
+    },
+    {
+      "id_or_slug": "christmas-princess-carriage-ai-trend",
+      "title": "Christmas Princess Carriage AI",
+      "url": "https://putmein.app/templates/christmas-princess-carriage-ai-trend"
+    },
+    {
+      "id_or_slug": "city-blazer-film-ai-trend",
+      "title": "City Blazer Film AI Trend",
+      "url": "https://putmein.app/templates/city-blazer-film-ai-trend"
+    },
+    {
+      "id_or_slug": "cliff-kung-fu-kick-ai-trend",
+      "title": "Cliff Kung Fu Kick AI Trend",
+      "url": "https://putmein.app/templates/cliff-kung-fu-kick-ai-trend"
+    },
+    {
+      "id_or_slug": "closed-on-sunday-ai-trend",
+      "title": "Closed on Sunday AI",
+      "url": "https://putmein.app/templates/closed-on-sunday-ai-trend"
+    },
+    {
+      "id_or_slug": "closed-shop-vest-dance-trio-ai-trend",
+      "title": "Closed Shop Vest Dance Trio AI Trend",
+      "url": "https://putmein.app/templates/closed-shop-vest-dance-trio-ai-trend"
+    },
+    {
+      "id_or_slug": "closer-dance-ai-trend",
+      "title": "Closer Dance AI Trend",
+      "url": "https://putmein.app/templates/closer-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "closing-door-prank-ai-trend",
+      "title": "Closing Door Prank AI",
+      "url": "https://putmein.app/templates/closing-door-prank-ai-trend"
+    },
+    {
+      "id_or_slug": "coffee-making-ai-video",
+      "title": "Coffee Making AI",
+      "url": "https://putmein.app/templates/coffee-making-ai-video"
+    },
+    {
+      "id_or_slug": "come-and-get-it-ai-trend",
+      "title": "Come and Get It AI",
+      "url": "https://putmein.app/templates/come-and-get-it-ai-trend"
+    },
+    {
+      "id_or_slug": "coraline-ai-trend",
+      "title": "Coraline AI Trend",
+      "url": "https://putmein.app/templates/coraline-ai-trend"
+    },
+    {
+      "id_or_slug": "couple-camera-dance-mug-ai-trend",
+      "title": "Couple Camera Dance Mug AI Trend",
+      "url": "https://putmein.app/templates/couple-camera-dance-mug-ai-trend"
+    },
+    {
+      "id_or_slug": "couple-cash-fan-ai-trend",
+      "title": "Couple Cash Fan AI Trend",
+      "url": "https://putmein.app/templates/couple-cash-fan-ai-trend"
+    },
+    {
+      "id_or_slug": "courtyard-coat-twirl-ai-trend",
+      "title": "Courtyard Coat Twirl AI Trend",
+      "url": "https://putmein.app/templates/courtyard-coat-twirl-ai-trend"
+    },
+    {
+      "id_or_slug": "crazy-frog-ai-trend",
+      "title": "Crazy Frog AI Trend",
+      "url": "https://putmein.app/templates/crazy-frog-ai-trend"
+    },
+    {
+      "id_or_slug": "crowded-stage-white-robe-strut-ai-trend",
+      "title": "Crowded Stage White Robe Strut AI Trend",
+      "url": "https://putmein.app/templates/crowded-stage-white-robe-strut-ai-trend"
+    },
+    {
+      "id_or_slug": "cutedog-ai-trend",
+      "title": "Cute Dog AI",
+      "url": "https://putmein.app/templates/cutedog-ai-trend"
+    },
+    {
+      "id_or_slug": "dame-hombro-dance-ai-trend",
+      "title": "Dame Hombro Dance AI Trend",
+      "url": "https://putmein.app/templates/dame-hombro-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "damon-salvatore-ai-trend",
+      "title": "Damon Salvatore AI",
+      "url": "https://putmein.app/templates/damon-salvatore-ai-trend"
+    },
+    {
+      "id_or_slug": "dark-jumpsuit-city-walk-ai-trend",
+      "title": "Dark Jumpsuit City Walk AI Trend",
+      "url": "https://putmein.app/templates/dark-jumpsuit-city-walk-ai-trend"
+    },
+    {
+      "id_or_slug": "dealership-signing-ai-trend",
+      "title": "Dealership Signing AI Trend",
+      "url": "https://putmein.app/templates/dealership-signing-ai-trend"
+    },
+    {
+      "id_or_slug": "devil-wears-prada-ai-trend",
+      "title": "Devil Wears Prada AI",
+      "url": "https://putmein.app/templates/devil-wears-prada-ai-trend"
+    },
+    {
+      "id_or_slug": "diner-table-dance-behind-ai-trend",
+      "title": "Diner Table Dance Behind AI Trend",
+      "url": "https://putmein.app/templates/diner-table-dance-behind-ai-trend"
+    },
+    {
+      "id_or_slug": "dog-dance-crew-ai-trend",
+      "title": "Dog Dance Crew AI",
+      "url": "https://putmein.app/templates/dog-dance-crew-ai-trend"
+    },
+    {
+      "id_or_slug": "dog-drummer-ai",
+      "title": "Dog Drummer AI",
+      "url": "https://putmein.app/templates/dog-drummer-ai"
+    },
+    {
+      "id_or_slug": "dog-grooming-time-ai-trend",
+      "title": "Dog Grooming Time AI",
+      "url": "https://putmein.app/templates/dog-grooming-time-ai-trend"
+    },
+    {
+      "id_or_slug": "dog-pool-party-ai-dance",
+      "title": "Dog Pool Party AI",
+      "url": "https://putmein.app/templates/dog-pool-party-ai-dance"
+    },
+    {
+      "id_or_slug": "drink-fly-bump-ai-trend",
+      "title": "Drink Fly Bump AI",
+      "url": "https://putmein.app/templates/drink-fly-bump-ai-trend"
+    },
+    {
+      "id_or_slug": "dusk-car-cash-fan-ai-trend",
+      "title": "Dusk Car Cash Fan AI Trend",
+      "url": "https://putmein.app/templates/dusk-car-cash-fan-ai-trend"
+    },
+    {
+      "id_or_slug": "elevator-outfit-change-ai-trend",
+      "title": "Elevator Outfit Change AI",
+      "url": "https://putmein.app/templates/elevator-outfit-change-ai-trend"
+    },
+    {
+      "id_or_slug": "elsa-ai-trend",
+      "title": "Elsa AI",
+      "url": "https://putmein.app/templates/elsa-ai-trend"
+    },
+    {
+      "id_or_slug": "end-of-watch-locker-scene-ai-trend",
+      "title": "End of Watch Locker Scene AI",
+      "url": "https://putmein.app/templates/end-of-watch-locker-scene-ai-trend"
+    },
+    {
+      "id_or_slug": "escalator-outfit-change-ai-trend",
+      "title": "Escalator Outfit Change AI",
+      "url": "https://putmein.app/templates/escalator-outfit-change-ai-trend"
+    },
+    {
+      "id_or_slug": "fashion-week-outfit-ai-trend",
+      "title": "Fashion Week Outfit AI",
+      "url": "https://putmein.app/templates/fashion-week-outfit-ai-trend"
+    },
+    {
+      "id_or_slug": "fergie-baby-ai-trend",
+      "title": "Fergie Baby AI",
+      "url": "https://putmein.app/templates/fergie-baby-ai-trend"
+    },
+    {
+      "id_or_slug": "firestarter-dance-ai-trend",
+      "title": "Firestarter Dance AI Trend",
+      "url": "https://putmein.app/templates/firestarter-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "fish-cutting-meme",
+      "title": "Fish Cutting Meme",
+      "url": "https://putmein.app/templates/fish-cutting-meme"
+    },
+    {
+      "id_or_slug": "flame-stage-dance-trio-ai-trend",
+      "title": "Flame Stage Dance Trio AI Trend",
+      "url": "https://putmein.app/templates/flame-stage-dance-trio-ai-trend"
+    },
+    {
+      "id_or_slug": "flamingo-float-ai-trend",
+      "title": "Flamingo Float AI",
+      "url": "https://putmein.app/templates/flamingo-float-ai-trend"
+    },
+    {
+      "id_or_slug": "flower-nose-ai-trend",
+      "title": "Flower Nose AI",
+      "url": "https://putmein.app/templates/flower-nose-ai-trend"
+    },
+    {
+      "id_or_slug": "fridge-pov-ai-trend",
+      "title": "Fridge POV AI",
+      "url": "https://putmein.app/templates/fridge-pov-ai-trend"
+    },
+    {
+      "id_or_slug": "gangnam-style-dance",
+      "title": "Gangnam Style Dance",
+      "url": "https://putmein.app/templates/gangnam-style-dance"
+    },
+    {
+      "id_or_slug": "gas-station-dance-ai-trend",
+      "title": "Gas Station Dance AI",
+      "url": "https://putmein.app/templates/gas-station-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "giant-city-stroll-skyscraper-ai-trend",
+      "title": "Giant City Stroll Skyscraper AI Trend",
+      "url": "https://putmein.app/templates/giant-city-stroll-skyscraper-ai-trend"
+    },
+    {
+      "id_or_slug": "giant-hands-dress-up-ai-trend",
+      "title": "Giant Hands Dress Up AI",
+      "url": "https://putmein.app/templates/giant-hands-dress-up-ai-trend"
+    },
+    {
+      "id_or_slug": "gimme-purr-gimme-meow-ai-trend",
+      "title": "Gimme Purr Gimme Meow AI",
+      "url": "https://putmein.app/templates/gimme-purr-gimme-meow-ai-trend"
+    },
+    {
+      "id_or_slug": "glitch-makeup-ai-transition",
+      "title": "Glitch Makeup AI Transition",
+      "url": "https://putmein.app/templates/glitch-makeup-ai-transition"
+    },
+    {
+      "id_or_slug": "gold-glove-vest-dance-ai-trend",
+      "title": "Gold Glove Vest Dance AI Trend",
+      "url": "https://putmein.app/templates/gold-glove-vest-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "gomlegi-cekete-donusen-adam-ai",
+      "title": "Gömleği Cekete Dönüşen Adam AI",
+      "url": "https://putmein.app/templates/gomlegi-cekete-donusen-adam-ai"
+    },
+    {
+      "id_or_slug": "grandpa-handle-dinner-ai-trend",
+      "title": "Grandpa Handles Dinner AI",
+      "url": "https://putmein.app/templates/grandpa-handle-dinner-ai-trend"
+    },
+    {
+      "id_or_slug": "grau-de-moto-ai-trend",
+      "title": "Grau de Moto AI",
+      "url": "https://putmein.app/templates/grau-de-moto-ai-trend"
+    },
+    {
+      "id_or_slug": "gray-coat-walk-ai-trend",
+      "title": "Gray Coat Walk AI Trend",
+      "url": "https://putmein.app/templates/gray-coat-walk-ai-trend"
+    },
+    {
+      "id_or_slug": "gym-archery-ai-trend",
+      "title": "Gym Archery AI Trend",
+      "url": "https://putmein.app/templates/gym-archery-ai-trend"
+    },
+    {
+      "id_or_slug": "hall-duo-dance-ai-trend",
+      "title": "Hall Duo Dance AI Trend",
+      "url": "https://putmein.app/templates/hall-duo-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "halloween-makeup-filter",
+      "title": "Halloween Makeup Filter",
+      "url": "https://putmein.app/templates/halloween-makeup-filter"
+    },
+    {
+      "id_or_slug": "hand-pinch-filter-ai",
+      "title": "Hand Pinch Filter AI",
+      "url": "https://putmein.app/templates/hand-pinch-filter-ai"
+    },
+    {
+      "id_or_slug": "hands-in-pockets-hallway-sway-ai-trend",
+      "title": "Hands In Pockets Hallway Sway AI Trend",
+      "url": "https://putmein.app/templates/hands-in-pockets-hallway-sway-ai-trend"
+    },
+    {
+      "id_or_slug": "headbop-ai-trend",
+      "title": "Headbop AI",
+      "url": "https://putmein.app/templates/headbop-ai-trend"
+    },
+    {
+      "id_or_slug": "hotel-lobby",
+      "title": "Hotel Lobby",
+      "url": "https://putmein.app/templates/hotel-lobby"
+    },
+    {
+      "id_or_slug": "i-just-beat-the-case-ai-trend",
+      "title": "I Just Beat the Case AI",
+      "url": "https://putmein.app/templates/i-just-beat-the-case-ai-trend"
+    },
+    {
+      "id_or_slug": "ice-ice-baby-dance-ai",
+      "title": "Ice Ice Baby Dance AI",
+      "url": "https://putmein.app/templates/ice-ice-baby-dance-ai"
+    },
+    {
+      "id_or_slug": "iced-coffee-toast-splash-ai-trend",
+      "title": "Iced Coffee Toast Splash AI Trend",
+      "url": "https://putmein.app/templates/iced-coffee-toast-splash-ai-trend"
+    },
+    {
+      "id_or_slug": "im-with-you-ai-trend",
+      "title": "I'm With You AI",
+      "url": "https://putmein.app/templates/im-with-you-ai-trend"
+    },
+    {
+      "id_or_slug": "iphone-kupi-dance",
+      "title": "Iphone Kupi Dance",
+      "url": "https://putmein.app/templates/iphone-kupi-dance"
+    },
+    {
+      "id_or_slug": "jeans-hallway-pose-turn-ai-trend",
+      "title": "Jeans Hallway Pose Turn AI Trend",
+      "url": "https://putmein.app/templates/jeans-hallway-pose-turn-ai-trend"
+    },
+    {
+      "id_or_slug": "just-a-lil-bit-ai-dance",
+      "title": "Just a Lil Bit AI",
+      "url": "https://putmein.app/templates/just-a-lil-bit-ai-dance"
+    },
+    {
+      "id_or_slug": "kiat-jud-dai-kitten-parade-ai",
+      "title": "Kiat Jud Dai Kitten Parade AI",
+      "url": "https://putmein.app/templates/kiat-jud-dai-kitten-parade-ai"
+    },
+    {
+      "id_or_slug": "kitchen-shuffle-solo-dance-ai-trend",
+      "title": "Kitchen Shuffle Solo Dance AI Trend",
+      "url": "https://putmein.app/templates/kitchen-shuffle-solo-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "kitchen-ukulele-duo-ai-trend",
+      "title": "Kitchen Ukulele Duo AI Trend",
+      "url": "https://putmein.app/templates/kitchen-ukulele-duo-ai-trend"
+    },
+    {
+      "id_or_slug": "kitten-knight-ai-trend",
+      "title": "Kitten Knight AI Trend",
+      "url": "https://putmein.app/templates/kitten-knight-ai-trend"
+    },
+    {
+      "id_or_slug": "kung-fu-cat-ai-trend",
+      "title": "Kung Fu Cat AI",
+      "url": "https://putmein.app/templates/kung-fu-cat-ai-trend"
+    },
+    {
+      "id_or_slug": "la-calabaza-ai-dance",
+      "title": "La Calabaza AI",
+      "url": "https://putmein.app/templates/la-calabaza-ai-dance"
+    },
+    {
+      "id_or_slug": "looks-can-kill-ai-dance",
+      "title": "Looks Can Kill AI Dance",
+      "url": "https://putmein.app/templates/looks-can-kill-ai-dance"
+    },
+    {
+      "id_or_slug": "malfoid-ai-trend",
+      "title": "Malfoid AI Trend",
+      "url": "https://putmein.app/templates/malfoid-ai-trend"
+    },
+    {
+      "id_or_slug": "marble-hallway-dance-ai-trend",
+      "title": "Marble Hallway Dance AI Trend",
+      "url": "https://putmein.app/templates/marble-hallway-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "me-sitting-and-doing-nothing-ai-trend",
+      "title": "Me Sitting and Doing Nothing AI",
+      "url": "https://putmein.app/templates/me-sitting-and-doing-nothing-ai-trend"
+    },
+    {
+      "id_or_slug": "medieval-subway-dance-ai-trend",
+      "title": "Medieval Subway Dance AI Trend",
+      "url": "https://putmein.app/templates/medieval-subway-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "mi-chico-dance-ai-trend",
+      "title": "Mi Chico Dance AI",
+      "url": "https://putmein.app/templates/mi-chico-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "missed-train-dance-ai-trend",
+      "title": "Missed Train Dance AI Trend",
+      "url": "https://putmein.app/templates/missed-train-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "mom-dad-sister-brother-ai-trend",
+      "title": "Mom Dad Sister Brother AI Trend",
+      "url": "https://putmein.app/templates/mom-dad-sister-brother-ai-trend"
+    },
+    {
+      "id_or_slug": "money-flex-ai-trend",
+      "title": "Money Flex AI",
+      "url": "https://putmein.app/templates/money-flex-ai-trend"
+    },
+    {
+      "id_or_slug": "money-tantrum-drive-ai-trend",
+      "title": "Money Tantrum Drive AI Trend",
+      "url": "https://putmein.app/templates/money-tantrum-drive-ai-trend"
+    },
+    {
+      "id_or_slug": "monkey-eating-apple-ai-trend",
+      "title": "Monkey Eating Apple AI",
+      "url": "https://putmein.app/templates/monkey-eating-apple-ai-trend"
+    },
+    {
+      "id_or_slug": "mountain-skydive-ai-trend",
+      "title": "Mountain Skydive AI Trend",
+      "url": "https://putmein.app/templates/mountain-skydive-ai-trend"
+    },
+    {
+      "id_or_slug": "mr-and-mrs-stretchy-ai-trend",
+      "title": "Mr and Mrs Stretchy AI",
+      "url": "https://putmein.app/templates/mr-and-mrs-stretchy-ai-trend"
+    },
+    {
+      "id_or_slug": "my-ride-is-here-broom-trend",
+      "title": "My Ride Is Here Broom AI",
+      "url": "https://putmein.app/templates/my-ride-is-here-broom-trend"
+    },
+    {
+      "id_or_slug": "neon-dance-ai-trend",
+      "title": "Neon Dance AI",
+      "url": "https://putmein.app/templates/neon-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "nicole-kidman-dance-ai-trend",
+      "title": "Nicole Kidman Dance AI",
+      "url": "https://putmein.app/templates/nicole-kidman-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "night-tower-sports-car-drive-ai-trend",
+      "title": "Night Tower Sports Car Drive AI Trend",
+      "url": "https://putmein.app/templates/night-tower-sports-car-drive-ai-trend"
+    },
+    {
+      "id_or_slug": "night-waterfront-white-robe-dance-ai-trend",
+      "title": "Night Waterfront White Robe Dance AI Trend",
+      "url": "https://putmein.app/templates/night-waterfront-white-robe-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "night-wheelie-duo-ai-trend",
+      "title": "Night Wheelie Duo AI Trend",
+      "url": "https://putmein.app/templates/night-wheelie-duo-ai-trend"
+    },
+    {
+      "id_or_slug": "no-guidance-dance-ai-trend",
+      "title": "No Guidance Dance AI",
+      "url": "https://putmein.app/templates/no-guidance-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "no-scrubs",
+      "title": "No Scrubs",
+      "url": "https://putmein.app/templates/no-scrubs"
+    },
+    {
+      "id_or_slug": "nyc-rats-ai-trend",
+      "title": "NYC Rats AI",
+      "url": "https://putmein.app/templates/nyc-rats-ai-trend"
+    },
+    {
+      "id_or_slug": "opa-opa-bouncy-hair-ai",
+      "title": "Opa Opa Bouncy Hair AI",
+      "url": "https://putmein.app/templates/opa-opa-bouncy-hair-ai"
+    },
+    {
+      "id_or_slug": "otsukare-summer-dance-ai-trend",
+      "title": "Otsukare Summer Dance AI",
+      "url": "https://putmein.app/templates/otsukare-summer-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "ozil-goal-ai-trend",
+      "title": "Özil Goal AI",
+      "url": "https://putmein.app/templates/ozil-goal-ai-trend"
+    },
+    {
+      "id_or_slug": "park-workout-fail-ai-trend",
+      "title": "Park Workout Fail AI Trend",
+      "url": "https://putmein.app/templates/park-workout-fail-ai-trend"
+    },
+    {
+      "id_or_slug": "parrot-dance-ai-trend",
+      "title": "Parrot Dance AI",
+      "url": "https://putmein.app/templates/parrot-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "party-viral-dance-ai-trend",
+      "title": "Party Viral Dance AI",
+      "url": "https://putmein.app/templates/party-viral-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "passenger-princess-ai-trend",
+      "title": "Passenger Princess AI",
+      "url": "https://putmein.app/templates/passenger-princess-ai-trend"
+    },
+    {
+      "id_or_slug": "perfume-transition-ai-trend",
+      "title": "Perfume Transition AI",
+      "url": "https://putmein.app/templates/perfume-transition-ai-trend"
+    },
+    {
+      "id_or_slug": "pet-rock-dance-ai-trend",
+      "title": "Pet Rock Dance AI",
+      "url": "https://putmein.app/templates/pet-rock-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "pet-seal-filter-ai",
+      "title": "Pet Seal Filter AI",
+      "url": "https://putmein.app/templates/pet-seal-filter-ai"
+    },
+    {
+      "id_or_slug": "pet-taxi-ai-trend",
+      "title": "Pet Taxi AI",
+      "url": "https://putmein.app/templates/pet-taxi-ai-trend"
+    },
+    {
+      "id_or_slug": "pimpwalk-entrance-ai-trend",
+      "title": "Pimp Walk Entrance AI",
+      "url": "https://putmein.app/templates/pimpwalk-entrance-ai-trend"
+    },
+    {
+      "id_or_slug": "pink-dress-living-room-dance-ai-trend",
+      "title": "Pink Dress Living Room Dance AI Trend",
+      "url": "https://putmein.app/templates/pink-dress-living-room-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "plane-wing-dance-backflip-ai-trend",
+      "title": "Plane Wing Dance Backflip AI Trend",
+      "url": "https://putmein.app/templates/plane-wing-dance-backflip-ai-trend"
+    },
+    {
+      "id_or_slug": "polka-dot-bandana-car-lip-sync-ai-trend",
+      "title": "Polka Dot Bandana Car Lip Sync AI Trend",
+      "url": "https://putmein.app/templates/polka-dot-bandana-car-lip-sync-ai-trend"
+    },
+    {
+      "id_or_slug": "polska-jumpstyle-ai",
+      "title": "Polska Jumpstyle AI",
+      "url": "https://putmein.app/templates/polska-jumpstyle-ai"
+    },
+    {
+      "id_or_slug": "pov-outfit-transition-ai-trend",
+      "title": "POV Outfit Transition AI",
+      "url": "https://putmein.app/templates/pov-outfit-transition-ai-trend"
+    },
+    {
+      "id_or_slug": "psy-concert-entrance",
+      "title": "Psy Concert Entrance",
+      "url": "https://putmein.app/templates/psy-concert-entrance"
+    },
+    {
+      "id_or_slug": "pumpkin-kick-ai-trend",
+      "title": "Pumpkin Kick AI",
+      "url": "https://putmein.app/templates/pumpkin-kick-ai-trend"
+    },
+    {
+      "id_or_slug": "punching-bag-combo-ai-trend",
+      "title": "Punching Bag Combo AI Trend",
+      "url": "https://putmein.app/templates/punching-bag-combo-ai-trend"
+    },
+    {
+      "id_or_slug": "quiet-on-the-creek-ai-trend",
+      "title": "Quiet on the Creek AI",
+      "url": "https://putmein.app/templates/quiet-on-the-creek-ai-trend"
+    },
+    {
+      "id_or_slug": "ramalama-ai-trend",
+      "title": "Ramalama AI",
+      "url": "https://putmein.app/templates/ramalama-ai-trend"
+    },
+    {
+      "id_or_slug": "rasputin-dance-ai-trend",
+      "title": "Rasputin Dance AI Trend",
+      "url": "https://putmein.app/templates/rasputin-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "red-car-exit-salute-ai-trend",
+      "title": "Red Car Exit Salute AI Trend",
+      "url": "https://putmein.app/templates/red-car-exit-salute-ai-trend"
+    },
+    {
+      "id_or_slug": "red-car-exit-wave-ai-trend",
+      "title": "Red Car Exit Wave AI Trend",
+      "url": "https://putmein.app/templates/red-car-exit-wave-ai-trend"
+    },
+    {
+      "id_or_slug": "red-dress-cash-fan-shuffle-ai-trend",
+      "title": "Red Dress Cash Fan Shuffle AI Trend",
+      "url": "https://putmein.app/templates/red-dress-cash-fan-shuffle-ai-trend"
+    },
+    {
+      "id_or_slug": "red-stairs-brawl-ai-trend",
+      "title": "Red Stairs Brawl AI Trend",
+      "url": "https://putmein.app/templates/red-stairs-brawl-ai-trend"
+    },
+    {
+      "id_or_slug": "red-tie-room-dance-ai-trend",
+      "title": "Red Tie Room Dance AI Trend",
+      "url": "https://putmein.app/templates/red-tie-room-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "santa-sleigh-ai-trend",
+      "title": "Santa Sleigh AI",
+      "url": "https://putmein.app/templates/santa-sleigh-ai-trend"
+    },
+    {
+      "id_or_slug": "sawadika-dance-ai-trend",
+      "title": "Sawadika Dance AI",
+      "url": "https://putmein.app/templates/sawadika-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "selfie-talk-pose-ai-trend",
+      "title": "Selfie Talk Pose AI Trend",
+      "url": "https://putmein.app/templates/selfie-talk-pose-ai-trend"
+    },
+    {
+      "id_or_slug": "shan-shen-bu-ai-dance",
+      "title": "Shan Shen Bu AI",
+      "url": "https://putmein.app/templates/shan-shen-bu-ai-dance"
+    },
+    {
+      "id_or_slug": "shop-doorway-arms-up-dance-ai-trend",
+      "title": "Shop Doorway Arms Up Dance AI Trend",
+      "url": "https://putmein.app/templates/shop-doorway-arms-up-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "singing-dog-ai-trend",
+      "title": "Singing Dog AI",
+      "url": "https://putmein.app/templates/singing-dog-ai-trend"
+    },
+    {
+      "id_or_slug": "single-ladies-dog-dance-ai",
+      "title": "Single Ladies Dog Dance AI",
+      "url": "https://putmein.app/templates/single-ladies-dog-dance-ai"
+    },
+    {
+      "id_or_slug": "skull-cap-ai-trend",
+      "title": "Skull Cap AI",
+      "url": "https://putmein.app/templates/skull-cap-ai-trend"
+    },
+    {
+      "id_or_slug": "smalltown-boy-ai-dance",
+      "title": "Smalltown Boy AI Dance",
+      "url": "https://putmein.app/templates/smalltown-boy-ai-dance"
+    },
+    {
+      "id_or_slug": "smooth-criminal-dance-ai-trend",
+      "title": "Smooth Criminal Dance AI",
+      "url": "https://putmein.app/templates/smooth-criminal-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "sniffer-dog-ai-trend",
+      "title": "Sniffer Dog AI",
+      "url": "https://putmein.app/templates/sniffer-dog-ai-trend"
+    },
+    {
+      "id_or_slug": "snow-leopard-paws-at-you-ai",
+      "title": "Snow Leopard Paws at You AI",
+      "url": "https://putmein.app/templates/snow-leopard-paws-at-you-ai"
+    },
+    {
+      "id_or_slug": "space-dive-zoom-ai-trend",
+      "title": "Space Dive Zoom AI Trend",
+      "url": "https://putmein.app/templates/space-dive-zoom-ai-trend"
+    },
+    {
+      "id_or_slug": "stateside-dance-ai-trend",
+      "title": "Stateside Dance AI",
+      "url": "https://putmein.app/templates/stateside-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "stones-to-castle-ai-trend",
+      "title": "Stones to Castle AI",
+      "url": "https://putmein.app/templates/stones-to-castle-ai-trend"
+    },
+    {
+      "id_or_slug": "street-light-slide-ai-effect",
+      "title": "Street Light Slide AI",
+      "url": "https://putmein.app/templates/street-light-slide-ai-effect"
+    },
+    {
+      "id_or_slug": "street-selfie-pose-ai-trend",
+      "title": "Street Selfie Pose AI Trend",
+      "url": "https://putmein.app/templates/street-selfie-pose-ai-trend"
+    },
+    {
+      "id_or_slug": "street-style-stroll-ai-trend",
+      "title": "Street Style Stroll AI Trend",
+      "url": "https://putmein.app/templates/street-style-stroll-ai-trend"
+    },
+    {
+      "id_or_slug": "subway-outfit-change-ai-trend",
+      "title": "Subway Outfit Change AI",
+      "url": "https://putmein.app/templates/subway-outfit-change-ai-trend"
+    },
+    {
+      "id_or_slug": "suit-living-room-dance-ai-trend",
+      "title": "Suit Living Room Dance AI Trend",
+      "url": "https://putmein.app/templates/suit-living-room-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "suitcase-skate-kickflip-ai-trend",
+      "title": "Suitcase Skate Kickflip AI Trend",
+      "url": "https://putmein.app/templates/suitcase-skate-kickflip-ai-trend"
+    },
+    {
+      "id_or_slug": "sunset-horse-ride-ai-trend",
+      "title": "Sunset Horse Ride AI Trend",
+      "url": "https://putmein.app/templates/sunset-horse-ride-ai-trend"
+    },
+    {
+      "id_or_slug": "teach-me-how-to-dougie-ai-trend",
+      "title": "Teach Me How to Dougie AI",
+      "url": "https://putmein.app/templates/teach-me-how-to-dougie-ai-trend"
+    },
+    {
+      "id_or_slug": "tecktonik-dance-ai-trend",
+      "title": "Tecktonik Dance AI",
+      "url": "https://putmein.app/templates/tecktonik-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "thank-you-baby-ai-trend",
+      "title": "Thank You Baby AI",
+      "url": "https://putmein.app/templates/thank-you-baby-ai-trend"
+    },
+    {
+      "id_or_slug": "the-jawn-ai-dance",
+      "title": "The Jawn AI Dance",
+      "url": "https://putmein.app/templates/the-jawn-ai-dance"
+    },
+    {
+      "id_or_slug": "then-i-walk-in-ai-trend",
+      "title": "Then I Walk In AI",
+      "url": "https://putmein.app/templates/then-i-walk-in-ai-trend"
+    },
+    {
+      "id_or_slug": "three-bogatyrs-ai-trend",
+      "title": "Three Bogatyrs AI",
+      "url": "https://putmein.app/templates/three-bogatyrs-ai-trend"
+    },
+    {
+      "id_or_slug": "thriller-dance-ai-trend",
+      "title": "Thriller Dance AI",
+      "url": "https://putmein.app/templates/thriller-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "tiny-desk",
+      "title": "Tiny Desk",
+      "url": "https://putmein.app/templates/tiny-desk"
+    },
+    {
+      "id_or_slug": "toc-toc-dance-ai-trend",
+      "title": "Toc Toc Dance AI",
+      "url": "https://putmein.app/templates/toc-toc-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "toll-road-car-launch-ai-trend",
+      "title": "Toll Road Car Launch AI Trend",
+      "url": "https://putmein.app/templates/toll-road-car-launch-ai-trend"
+    },
+    {
+      "id_or_slug": "toosie-slide-ai-trend",
+      "title": "Toosie Slide AI Trend",
+      "url": "https://putmein.app/templates/toosie-slide-ai-trend"
+    },
+    {
+      "id_or_slug": "topo-gigio-celebration-ai-trend",
+      "title": "Topo Gigio Celebration AI",
+      "url": "https://putmein.app/templates/topo-gigio-celebration-ai-trend"
+    },
+    {
+      "id_or_slug": "toz-pembe-ai-trend",
+      "title": "Toz Pembe AI",
+      "url": "https://putmein.app/templates/toz-pembe-ai-trend"
+    },
+    {
+      "id_or_slug": "traffic-jam-rocket-car-ai-trend",
+      "title": "Traffic Jam Rocket Car AI Trend",
+      "url": "https://putmein.app/templates/traffic-jam-rocket-car-ai-trend"
+    },
+    {
+      "id_or_slug": "transmission-5-dance-ai-trend",
+      "title": "Transmission 5 Dance AI",
+      "url": "https://putmein.app/templates/transmission-5-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "truck-driver-ai-trend",
+      "title": "Truck Driver AI",
+      "url": "https://putmein.app/templates/truck-driver-ai-trend"
+    },
+    {
+      "id_or_slug": "turning-my-mom-into-me-ai-trend",
+      "title": "Turning My Mom Into Me AI Trend",
+      "url": "https://putmein.app/templates/turning-my-mom-into-me-ai-trend"
+    },
+    {
+      "id_or_slug": "tying-shoes-money-ai-trend",
+      "title": "Tying My Shoes Money AI",
+      "url": "https://putmein.app/templates/tying-shoes-money-ai-trend"
+    },
+    {
+      "id_or_slug": "ukwu-ai-trend",
+      "title": "Ukwu AI",
+      "url": "https://putmein.app/templates/ukwu-ai-trend"
+    },
+    {
+      "id_or_slug": "unforgettable-car-trend-ai",
+      "title": "24 Unforgettable Car AI",
+      "url": "https://putmein.app/templates/unforgettable-car-trend-ai"
+    },
+    {
+      "id_or_slug": "vanity-makeup-ai-trend",
+      "title": "Vanity Makeup AI Trend",
+      "url": "https://putmein.app/templates/vanity-makeup-ai-trend"
+    },
+    {
+      "id_or_slug": "wet-street-boxing-cat-ai-trend",
+      "title": "Wet Street Boxing Cat AI Trend",
+      "url": "https://putmein.app/templates/wet-street-boxing-cat-ai-trend"
+    },
+    {
+      "id_or_slug": "whiny-dog-ai-trend",
+      "title": "Whiny Dog AI",
+      "url": "https://putmein.app/templates/whiny-dog-ai-trend"
+    },
+    {
+      "id_or_slug": "window-dog-burger-ai-trend",
+      "title": "Window Dog Burger AI Trend",
+      "url": "https://putmein.app/templates/window-dog-burger-ai-trend"
+    },
+    {
+      "id_or_slug": "wizard-cat-keyboard-smash-ai-trend",
+      "title": "Wizard Cat Keyboard AI",
+      "url": "https://putmein.app/templates/wizard-cat-keyboard-smash-ai-trend"
+    },
+    {
+      "id_or_slug": "yes-yes-i-love-you-ai-trend",
+      "title": "Yes Yes I Love You AI",
+      "url": "https://putmein.app/templates/yes-yes-i-love-you-ai-trend"
+    },
+    {
+      "id_or_slug": "youre-under-arrest-ai-dance",
+      "title": "Youre Under Arrest AI Dance",
+      "url": "https://putmein.app/templates/youre-under-arrest-ai-dance"
+    }
+  ],
+  "new_count": 86,
+  "removed_count": 3,
+  "new_templates": [
+    {
+      "id_or_slug": "ai-rumpelstiltskin-dance",
+      "title": "AI Rumpelstiltskin Dance",
+      "url": "https://putmein.app/templates/ai-rumpelstiltskin-dance"
+    },
+    {
+      "id_or_slug": "bad-dance-challenge-ai-trend",
+      "title": "Bad Dance Challenge AI Trend",
+      "url": "https://putmein.app/templates/bad-dance-challenge-ai-trend"
+    },
+    {
+      "id_or_slug": "banquet-hall-staff-shirt-dance-ai-trend",
+      "title": "Banquet Hall Staff Shirt Dance AI Trend",
+      "url": "https://putmein.app/templates/banquet-hall-staff-shirt-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "bar-smile-club-stage-duo-ai-trend",
+      "title": "Bar Smile Club Stage Duo AI Trend",
+      "url": "https://putmein.app/templates/bar-smile-club-stage-duo-ai-trend"
+    },
+    {
+      "id_or_slug": "bat-smash-bottle-splash-ai-trend",
+      "title": "Bat Smash Bottle Splash AI Trend",
+      "url": "https://putmein.app/templates/bat-smash-bottle-splash-ai-trend"
+    },
+    {
+      "id_or_slug": "bedroom-arm-dance-ai-trend",
+      "title": "Bedroom Arm Dance AI Trend",
+      "url": "https://putmein.app/templates/bedroom-arm-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "bedroom-cash-fan-ai-trend",
+      "title": "Bedroom Cash Fan AI Trend",
+      "url": "https://putmein.app/templates/bedroom-cash-fan-ai-trend"
+    },
+    {
+      "id_or_slug": "bedroom-talk-to-camera-gestures-ai-trend",
+      "title": "Bedroom Talk To Camera Gestures AI Trend",
+      "url": "https://putmein.app/templates/bedroom-talk-to-camera-gestures-ai-trend"
+    },
+    {
+      "id_or_slug": "bowl-wig-dance-ai-trend",
+      "title": "Bowl Wig Dance AI Trend",
+      "url": "https://putmein.app/templates/bowl-wig-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "buggin-dance-ai-trend",
+      "title": "Buggin Dance AI Trend",
+      "url": "https://putmein.app/templates/buggin-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "bull-ride-backflip-ai-trend",
+      "title": "Bull Ride Backflip AI Trend",
+      "url": "https://putmein.app/templates/bull-ride-backflip-ai-trend"
+    },
+    {
+      "id_or_slug": "burning-bridges-ai-trend",
+      "title": "Burning Bridges AI Trend",
+      "url": "https://putmein.app/templates/burning-bridges-ai-trend"
+    },
+    {
+      "id_or_slug": "cash-burn-flames-ai-trend",
+      "title": "Cash Burn Flames AI Trend",
+      "url": "https://putmein.app/templates/cash-burn-flames-ai-trend"
+    },
+    {
+      "id_or_slug": "cash-flip-flex-ai-trend",
+      "title": "Cash Flip Flex AI Trend",
+      "url": "https://putmein.app/templates/cash-flip-flex-ai-trend"
+    },
+    {
+      "id_or_slug": "cash-on-head-phone-call-ai-trend",
+      "title": "Cash On Head Phone Call AI Trend",
+      "url": "https://putmein.app/templates/cash-on-head-phone-call-ai-trend"
+    },
+    {
+      "id_or_slug": "catel-courtyard-dance-ai-trend",
+      "title": "Catel Courtyard Dance AI Trend",
+      "url": "https://putmein.app/templates/catel-courtyard-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "city-blazer-film-ai-trend",
+      "title": "City Blazer Film AI Trend",
+      "url": "https://putmein.app/templates/city-blazer-film-ai-trend"
+    },
+    {
+      "id_or_slug": "cliff-kung-fu-kick-ai-trend",
+      "title": "Cliff Kung Fu Kick AI Trend",
+      "url": "https://putmein.app/templates/cliff-kung-fu-kick-ai-trend"
+    },
+    {
+      "id_or_slug": "closed-shop-vest-dance-trio-ai-trend",
+      "title": "Closed Shop Vest Dance Trio AI Trend",
+      "url": "https://putmein.app/templates/closed-shop-vest-dance-trio-ai-trend"
+    },
+    {
+      "id_or_slug": "closer-dance-ai-trend",
+      "title": "Closer Dance AI Trend",
+      "url": "https://putmein.app/templates/closer-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "coraline-ai-trend",
+      "title": "Coraline AI Trend",
+      "url": "https://putmein.app/templates/coraline-ai-trend"
+    },
+    {
+      "id_or_slug": "couple-camera-dance-mug-ai-trend",
+      "title": "Couple Camera Dance Mug AI Trend",
+      "url": "https://putmein.app/templates/couple-camera-dance-mug-ai-trend"
+    },
+    {
+      "id_or_slug": "couple-cash-fan-ai-trend",
+      "title": "Couple Cash Fan AI Trend",
+      "url": "https://putmein.app/templates/couple-cash-fan-ai-trend"
+    },
+    {
+      "id_or_slug": "courtyard-coat-twirl-ai-trend",
+      "title": "Courtyard Coat Twirl AI Trend",
+      "url": "https://putmein.app/templates/courtyard-coat-twirl-ai-trend"
+    },
+    {
+      "id_or_slug": "crazy-frog-ai-trend",
+      "title": "Crazy Frog AI Trend",
+      "url": "https://putmein.app/templates/crazy-frog-ai-trend"
+    },
+    {
+      "id_or_slug": "crowded-stage-white-robe-strut-ai-trend",
+      "title": "Crowded Stage White Robe Strut AI Trend",
+      "url": "https://putmein.app/templates/crowded-stage-white-robe-strut-ai-trend"
+    },
+    {
+      "id_or_slug": "dame-hombro-dance-ai-trend",
+      "title": "Dame Hombro Dance AI Trend",
+      "url": "https://putmein.app/templates/dame-hombro-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "dark-jumpsuit-city-walk-ai-trend",
+      "title": "Dark Jumpsuit City Walk AI Trend",
+      "url": "https://putmein.app/templates/dark-jumpsuit-city-walk-ai-trend"
+    },
+    {
+      "id_or_slug": "dealership-signing-ai-trend",
+      "title": "Dealership Signing AI Trend",
+      "url": "https://putmein.app/templates/dealership-signing-ai-trend"
+    },
+    {
+      "id_or_slug": "diner-table-dance-behind-ai-trend",
+      "title": "Diner Table Dance Behind AI Trend",
+      "url": "https://putmein.app/templates/diner-table-dance-behind-ai-trend"
+    },
+    {
+      "id_or_slug": "dusk-car-cash-fan-ai-trend",
+      "title": "Dusk Car Cash Fan AI Trend",
+      "url": "https://putmein.app/templates/dusk-car-cash-fan-ai-trend"
+    },
+    {
+      "id_or_slug": "firestarter-dance-ai-trend",
+      "title": "Firestarter Dance AI Trend",
+      "url": "https://putmein.app/templates/firestarter-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "flame-stage-dance-trio-ai-trend",
+      "title": "Flame Stage Dance Trio AI Trend",
+      "url": "https://putmein.app/templates/flame-stage-dance-trio-ai-trend"
+    },
+    {
+      "id_or_slug": "giant-city-stroll-skyscraper-ai-trend",
+      "title": "Giant City Stroll Skyscraper AI Trend",
+      "url": "https://putmein.app/templates/giant-city-stroll-skyscraper-ai-trend"
+    },
+    {
+      "id_or_slug": "glitch-makeup-ai-transition",
+      "title": "Glitch Makeup AI Transition",
+      "url": "https://putmein.app/templates/glitch-makeup-ai-transition"
+    },
+    {
+      "id_or_slug": "gold-glove-vest-dance-ai-trend",
+      "title": "Gold Glove Vest Dance AI Trend",
+      "url": "https://putmein.app/templates/gold-glove-vest-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "gray-coat-walk-ai-trend",
+      "title": "Gray Coat Walk AI Trend",
+      "url": "https://putmein.app/templates/gray-coat-walk-ai-trend"
+    },
+    {
+      "id_or_slug": "gym-archery-ai-trend",
+      "title": "Gym Archery AI Trend",
+      "url": "https://putmein.app/templates/gym-archery-ai-trend"
+    },
+    {
+      "id_or_slug": "hall-duo-dance-ai-trend",
+      "title": "Hall Duo Dance AI Trend",
+      "url": "https://putmein.app/templates/hall-duo-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "hand-pinch-filter-ai",
+      "title": "Hand Pinch Filter AI",
+      "url": "https://putmein.app/templates/hand-pinch-filter-ai"
+    },
+    {
+      "id_or_slug": "hands-in-pockets-hallway-sway-ai-trend",
+      "title": "Hands In Pockets Hallway Sway AI Trend",
+      "url": "https://putmein.app/templates/hands-in-pockets-hallway-sway-ai-trend"
+    },
+    {
+      "id_or_slug": "iced-coffee-toast-splash-ai-trend",
+      "title": "Iced Coffee Toast Splash AI Trend",
+      "url": "https://putmein.app/templates/iced-coffee-toast-splash-ai-trend"
+    },
+    {
+      "id_or_slug": "jeans-hallway-pose-turn-ai-trend",
+      "title": "Jeans Hallway Pose Turn AI Trend",
+      "url": "https://putmein.app/templates/jeans-hallway-pose-turn-ai-trend"
+    },
+    {
+      "id_or_slug": "kitchen-shuffle-solo-dance-ai-trend",
+      "title": "Kitchen Shuffle Solo Dance AI Trend",
+      "url": "https://putmein.app/templates/kitchen-shuffle-solo-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "kitchen-ukulele-duo-ai-trend",
+      "title": "Kitchen Ukulele Duo AI Trend",
+      "url": "https://putmein.app/templates/kitchen-ukulele-duo-ai-trend"
+    },
+    {
+      "id_or_slug": "kitten-knight-ai-trend",
+      "title": "Kitten Knight AI Trend",
+      "url": "https://putmein.app/templates/kitten-knight-ai-trend"
+    },
+    {
+      "id_or_slug": "looks-can-kill-ai-dance",
+      "title": "Looks Can Kill AI Dance",
+      "url": "https://putmein.app/templates/looks-can-kill-ai-dance"
+    },
+    {
+      "id_or_slug": "malfoid-ai-trend",
+      "title": "Malfoid AI Trend",
+      "url": "https://putmein.app/templates/malfoid-ai-trend"
+    },
+    {
+      "id_or_slug": "marble-hallway-dance-ai-trend",
+      "title": "Marble Hallway Dance AI Trend",
+      "url": "https://putmein.app/templates/marble-hallway-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "medieval-subway-dance-ai-trend",
+      "title": "Medieval Subway Dance AI Trend",
+      "url": "https://putmein.app/templates/medieval-subway-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "missed-train-dance-ai-trend",
+      "title": "Missed Train Dance AI Trend",
+      "url": "https://putmein.app/templates/missed-train-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "mom-dad-sister-brother-ai-trend",
+      "title": "Mom Dad Sister Brother AI Trend",
+      "url": "https://putmein.app/templates/mom-dad-sister-brother-ai-trend"
+    },
+    {
+      "id_or_slug": "money-tantrum-drive-ai-trend",
+      "title": "Money Tantrum Drive AI Trend",
+      "url": "https://putmein.app/templates/money-tantrum-drive-ai-trend"
+    },
+    {
+      "id_or_slug": "mountain-skydive-ai-trend",
+      "title": "Mountain Skydive AI Trend",
+      "url": "https://putmein.app/templates/mountain-skydive-ai-trend"
+    },
+    {
+      "id_or_slug": "night-tower-sports-car-drive-ai-trend",
+      "title": "Night Tower Sports Car Drive AI Trend",
+      "url": "https://putmein.app/templates/night-tower-sports-car-drive-ai-trend"
+    },
+    {
+      "id_or_slug": "night-waterfront-white-robe-dance-ai-trend",
+      "title": "Night Waterfront White Robe Dance AI Trend",
+      "url": "https://putmein.app/templates/night-waterfront-white-robe-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "night-wheelie-duo-ai-trend",
+      "title": "Night Wheelie Duo AI Trend",
+      "url": "https://putmein.app/templates/night-wheelie-duo-ai-trend"
+    },
+    {
+      "id_or_slug": "park-workout-fail-ai-trend",
+      "title": "Park Workout Fail AI Trend",
+      "url": "https://putmein.app/templates/park-workout-fail-ai-trend"
+    },
+    {
+      "id_or_slug": "pet-seal-filter-ai",
+      "title": "Pet Seal Filter AI",
+      "url": "https://putmein.app/templates/pet-seal-filter-ai"
+    },
+    {
+      "id_or_slug": "pink-dress-living-room-dance-ai-trend",
+      "title": "Pink Dress Living Room Dance AI Trend",
+      "url": "https://putmein.app/templates/pink-dress-living-room-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "plane-wing-dance-backflip-ai-trend",
+      "title": "Plane Wing Dance Backflip AI Trend",
+      "url": "https://putmein.app/templates/plane-wing-dance-backflip-ai-trend"
+    },
+    {
+      "id_or_slug": "polka-dot-bandana-car-lip-sync-ai-trend",
+      "title": "Polka Dot Bandana Car Lip Sync AI Trend",
+      "url": "https://putmein.app/templates/polka-dot-bandana-car-lip-sync-ai-trend"
+    },
+    {
+      "id_or_slug": "punching-bag-combo-ai-trend",
+      "title": "Punching Bag Combo AI Trend",
+      "url": "https://putmein.app/templates/punching-bag-combo-ai-trend"
+    },
+    {
+      "id_or_slug": "rasputin-dance-ai-trend",
+      "title": "Rasputin Dance AI Trend",
+      "url": "https://putmein.app/templates/rasputin-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "red-car-exit-salute-ai-trend",
+      "title": "Red Car Exit Salute AI Trend",
+      "url": "https://putmein.app/templates/red-car-exit-salute-ai-trend"
+    },
+    {
+      "id_or_slug": "red-car-exit-wave-ai-trend",
+      "title": "Red Car Exit Wave AI Trend",
+      "url": "https://putmein.app/templates/red-car-exit-wave-ai-trend"
+    },
+    {
+      "id_or_slug": "red-dress-cash-fan-shuffle-ai-trend",
+      "title": "Red Dress Cash Fan Shuffle AI Trend",
+      "url": "https://putmein.app/templates/red-dress-cash-fan-shuffle-ai-trend"
+    },
+    {
+      "id_or_slug": "red-stairs-brawl-ai-trend",
+      "title": "Red Stairs Brawl AI Trend",
+      "url": "https://putmein.app/templates/red-stairs-brawl-ai-trend"
+    },
+    {
+      "id_or_slug": "red-tie-room-dance-ai-trend",
+      "title": "Red Tie Room Dance AI Trend",
+      "url": "https://putmein.app/templates/red-tie-room-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "selfie-talk-pose-ai-trend",
+      "title": "Selfie Talk Pose AI Trend",
+      "url": "https://putmein.app/templates/selfie-talk-pose-ai-trend"
+    },
+    {
+      "id_or_slug": "shop-doorway-arms-up-dance-ai-trend",
+      "title": "Shop Doorway Arms Up Dance AI Trend",
+      "url": "https://putmein.app/templates/shop-doorway-arms-up-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "smalltown-boy-ai-dance",
+      "title": "Smalltown Boy AI Dance",
+      "url": "https://putmein.app/templates/smalltown-boy-ai-dance"
+    },
+    {
+      "id_or_slug": "space-dive-zoom-ai-trend",
+      "title": "Space Dive Zoom AI Trend",
+      "url": "https://putmein.app/templates/space-dive-zoom-ai-trend"
+    },
+    {
+      "id_or_slug": "street-selfie-pose-ai-trend",
+      "title": "Street Selfie Pose AI Trend",
+      "url": "https://putmein.app/templates/street-selfie-pose-ai-trend"
+    },
+    {
+      "id_or_slug": "street-style-stroll-ai-trend",
+      "title": "Street Style Stroll AI Trend",
+      "url": "https://putmein.app/templates/street-style-stroll-ai-trend"
+    },
+    {
+      "id_or_slug": "suit-living-room-dance-ai-trend",
+      "title": "Suit Living Room Dance AI Trend",
+      "url": "https://putmein.app/templates/suit-living-room-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "suitcase-skate-kickflip-ai-trend",
+      "title": "Suitcase Skate Kickflip AI Trend",
+      "url": "https://putmein.app/templates/suitcase-skate-kickflip-ai-trend"
+    },
+    {
+      "id_or_slug": "sunset-horse-ride-ai-trend",
+      "title": "Sunset Horse Ride AI Trend",
+      "url": "https://putmein.app/templates/sunset-horse-ride-ai-trend"
+    },
+    {
+      "id_or_slug": "toll-road-car-launch-ai-trend",
+      "title": "Toll Road Car Launch AI Trend",
+      "url": "https://putmein.app/templates/toll-road-car-launch-ai-trend"
+    },
+    {
+      "id_or_slug": "toosie-slide-ai-trend",
+      "title": "Toosie Slide AI Trend",
+      "url": "https://putmein.app/templates/toosie-slide-ai-trend"
+    },
+    {
+      "id_or_slug": "traffic-jam-rocket-car-ai-trend",
+      "title": "Traffic Jam Rocket Car AI Trend",
+      "url": "https://putmein.app/templates/traffic-jam-rocket-car-ai-trend"
+    },
+    {
+      "id_or_slug": "turning-my-mom-into-me-ai-trend",
+      "title": "Turning My Mom Into Me AI Trend",
+      "url": "https://putmein.app/templates/turning-my-mom-into-me-ai-trend"
+    },
+    {
+      "id_or_slug": "vanity-makeup-ai-trend",
+      "title": "Vanity Makeup AI Trend",
+      "url": "https://putmein.app/templates/vanity-makeup-ai-trend"
+    },
+    {
+      "id_or_slug": "wet-street-boxing-cat-ai-trend",
+      "title": "Wet Street Boxing Cat AI Trend",
+      "url": "https://putmein.app/templates/wet-street-boxing-cat-ai-trend"
+    },
+    {
+      "id_or_slug": "window-dog-burger-ai-trend",
+      "title": "Window Dog Burger AI Trend",
+      "url": "https://putmein.app/templates/window-dog-burger-ai-trend"
+    },
+    {
+      "id_or_slug": "youre-under-arrest-ai-dance",
+      "title": "Youre Under Arrest AI Dance",
+      "url": "https://putmein.app/templates/youre-under-arrest-ai-dance"
+    }
+  ],
+  "removed_templates": [
+    {
+      "id_or_slug": "ateez-bad-dance-challenge-ai",
+      "title": "ATEEZ BAD Challenge AI",
+      "url": "https://putmein.app/templates/ateez-bad-dance-challenge-ai"
+    },
+    {
+      "id_or_slug": "bulin-47-dance-ai-trend",
+      "title": "Bulin 47 Dance AI",
+      "url": "https://putmein.app/templates/bulin-47-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "catel-madatorricelli-ai-dance",
+      "title": "Catel Madatorricelli AI",
+      "url": "https://putmein.app/templates/catel-madatorricelli-ai-dance"
+    }
+  ],
+  "note": "Continued 2026-11-15 sitemap backfill (all lastmod 2026-11-15): added 86 templates; 3 renamed slugs dropped; not listed one-by-one in the daily digest. Dropped ateez-bad-dance-challenge-ai: renamed to bad-dance-challenge-ai-trend. Dropped bulin-47-dance-ai-trend: renamed to dame-hombro-dance-ai-trend (redirect). Dropped catel-madatorricelli-ai-dance: renamed to catel-courtyard-dance-ai-trend (redirect)."
+}

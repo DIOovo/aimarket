@@ -1,0 +1,311 @@
+{
+  "checked_at": "2026-11-17T09:39:00+08:00",
+  "timezone": "Asia/Shanghai",
+  "previous_checked_at": "2026-11-16T09:51:46+08:00",
+  "ledger": {
+    "sites": 28,
+    "sites_updated": 28,
+    "total_templates": 3343,
+    "total_new": 156,
+    "total_digest_new": 70,
+    "putmein_bulk_new": 86,
+    "total_removed": 0
+  },
+  "per_site": {
+    "dothetrend.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 70,
+      "raw_now": 70,
+      "curated_new": 0,
+      "store_new": 0,
+      "filtered": 0
+    },
+    "trendtemplate.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 25,
+      "raw_now": 40,
+      "curated_new": 3,
+      "store_new": 3,
+      "filtered": 12
+    },
+    "memefxai.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 73,
+      "raw_now": 94,
+      "curated_new": 0,
+      "store_new": 0,
+      "filtered": 21
+    },
+    "clipremake.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 52,
+      "raw_now": 54,
+      "curated_new": 2,
+      "store_new": 2,
+      "filtered": 0
+    },
+    "remakeyourmeme.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [
+        "Sitemap via WebFetch; box IP still 403; inventory unchanged (44)."
+      ],
+      "prev_count": 44,
+      "raw_now": 44,
+      "curated_new": 0,
+      "store_new": 0,
+      "filtered": 0
+    },
+    "makeviral.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 533,
+      "raw_now": 542,
+      "curated_new": 9,
+      "store_new": 9,
+      "filtered": 0
+    },
+    "smew.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 439,
+      "raw_now": 439,
+      "curated_new": 0,
+      "store_new": 0,
+      "filtered": 0
+    },
+    "makememe.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 149,
+      "raw_now": 155,
+      "curated_new": 1,
+      "store_new": 1,
+      "filtered": 5
+    },
+    "viralremake.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 37,
+      "raw_now": 37,
+      "curated_new": 0,
+      "store_new": 0,
+      "filtered": 0
+    },
+    "memeclone.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 75,
+      "raw_now": 75,
+      "curated_new": 0,
+      "store_new": 0,
+      "filtered": 0
+    },
+    "trendswap.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 57,
+      "raw_now": 70,
+      "curated_new": 0,
+      "store_new": 0,
+      "filtered": 13
+    },
+    "putmein.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [
+        "Continued 2026-11-15 sitemap backfill (all lastmod 2026-11-15): added 86 templates; 3 renamed slugs dropped; not listed one-by-one in the daily digest.",
+        "Dropped ateez-bad-dance-challenge-ai: renamed to bad-dance-challenge-ai-trend.",
+        "Dropped bulin-47-dance-ai-trend: renamed to dame-hombro-dance-ai-trend (redirect).",
+        "Dropped catel-madatorricelli-ai-dance: renamed to catel-courtyard-dance-ai-trend (redirect)."
+      ],
+      "prev_count": 143,
+      "raw_now": 226,
+      "curated_new": 0,
+      "store_new": 86,
+      "filtered": 0
+    },
+    "samevid.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 180,
+      "raw_now": 214,
+      "curated_new": 18,
+      "store_new": 18,
+      "filtered": 16
+    },
+    "zapvid.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 22,
+      "raw_now": 38,
+      "curated_new": 16,
+      "store_new": 16,
+      "filtered": 0
+    },
+    "summrs.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [
+        "Kept bigfoot-vlog despite missing from today's sitemap (page still 200)."
+      ],
+      "prev_count": 73,
+      "raw_now": 97,
+      "curated_new": 4,
+      "store_new": 4,
+      "filtered": 21
+    },
+    "trendify.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 14,
+      "raw_now": 14,
+      "curated_new": 0,
+      "store_new": 0,
+      "filtered": 0
+    },
+    "genjutsu.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 45,
+      "raw_now": 53,
+      "curated_new": 0,
+      "store_new": 0,
+      "filtered": 8
+    },
+    "danceremake.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 17,
+      "raw_now": 18,
+      "curated_new": 1,
+      "store_new": 1,
+      "filtered": 0
+    },
+    "starrd.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [
+        "Dropped bro-took-the-whole-bag-ai-video: old URL now redirects to existing careless-whisper-car-ai-video."
+      ],
+      "prev_count": 367,
+      "raw_now": 382,
+      "curated_new": 0,
+      "store_new": 0,
+      "filtered": 16
+    },
+    "aitrendvideo.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 7,
+      "raw_now": 10,
+      "curated_new": 0,
+      "store_new": 0,
+      "filtered": 3
+    },
+    "ricebowl.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [
+        "Meme catalog (/trends/meme ItemList) still 82 items; no new genuine meme trends. Generic /app tool pages not added."
+      ],
+      "prev_count": 68,
+      "raw_now": 333,
+      "curated_new": 0,
+      "store_new": 0,
+      "filtered": 265
+    },
+    "kubflow.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 10,
+      "raw_now": 11,
+      "curated_new": 0,
+      "store_new": 0,
+      "filtered": 1
+    },
+    "picturetovideo.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 5,
+      "raw_now": 48,
+      "curated_new": 0,
+      "store_new": 0,
+      "filtered": 43
+    },
+    "bolly.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 219,
+      "raw_now": 226,
+      "curated_new": 0,
+      "store_new": 0,
+      "filtered": 7
+    },
+    "rapvideo.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 40,
+      "raw_now": 70,
+      "curated_new": 2,
+      "store_new": 2,
+      "filtered": 28
+    },
+    "aimakevideo.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 45,
+      "raw_now": 46,
+      "curated_new": 1,
+      "store_new": 1,
+      "filtered": 0
+    },
+    "tryatrend.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [
+        "Kept ai-halloween-costume despite missing from today's sitemap (page still 200)."
+      ],
+      "prev_count": 50,
+      "raw_now": 49,
+      "curated_new": 0,
+      "store_new": 0,
+      "filtered": 0
+    },
+    "memelry.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 332,
+      "raw_now": 400,
+      "curated_new": 13,
+      "store_new": 13,
+      "filtered": 55
+    }
+  }
+}

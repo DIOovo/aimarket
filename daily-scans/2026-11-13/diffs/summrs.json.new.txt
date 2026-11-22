@@ -1,0 +1,25 @@
+Summrs new=22 gone=1 prev=70 now=91
+add-product-to-photo-ai	https://www.summrs.com/add-product-to-photo-ai
+ai-asmr-video-generator	https://www.summrs.com/ai-asmr-video-generator
+ai-basketball-meme-generator	https://www.summrs.com/ai-basketball-meme-generator
+ai-color-grading-tool	https://www.summrs.com/ai-color-grading-tool
+ai-dance-generator	https://www.summrs.com/ai-dance-generator
+ai-explainer-video-generator	https://www.summrs.com/ai-explainer-video-generator
+ai-face-swap-video	https://www.summrs.com/ai-face-swap-video
+ai-freestyle-video-generator	https://www.summrs.com/ai-freestyle-video-generator
+ai-kissing-generator	https://www.summrs.com/ai-kissing-generator
+ai-lip-sync-generator	https://www.summrs.com/ai-lip-sync-generator
+ai-music-video-generator	https://www.summrs.com/ai-music-video-generator
+ai-music-visualizer-generator	https://www.summrs.com/ai-music-visualizer-generator
+ai-object-remover	https://www.summrs.com/ai-object-remover
+ai-outfit-generator	https://www.summrs.com/ai-outfit-generator
+ai-person-holding-product-generator	https://www.summrs.com/ai-person-holding-product-generator
+ai-pet-animator	https://www.summrs.com/ai-pet-animator
+ai-silhouette-video-generator	https://www.summrs.com/ai-silhouette-video-generator
+ai-ugc-video-generator	https://www.summrs.com/ai-ugc-video-generator
+ai-wedding-photo-editing	https://www.summrs.com/ai-wedding-photo-editing
+colorize-black-and-white-photos-ai	https://www.summrs.com/colorize-black-and-white-photos-ai
+restore-old-photos-color-ai	https://www.summrs.com/restore-old-photos-color-ai
+vintage-vuitton-earfzilla-ai-video-generator	https://www.summrs.com/vintage-vuitton-earfzilla-ai-video-generator
+-- gone --
+bigfoot-vlog	https://www.summrs.com/bigfoot-vlog

@@ -1,0 +1,16 @@
+TrendTemplate new=15 gone=0 prev=20 now=35
+ai-christmas-video	https://trendtemplate.com/ai-christmas-video
+ai-dance	https://trendtemplate.com/ai-dance
+ai-photo-creator	https://trendtemplate.com/ai-photo-creator
+ai-trend-templates	https://trendtemplate.com/ai-trend-templates
+apple-touch-icon.png	https://trendtemplate.com/apple-touch-icon.png
+christmas-pajama-dance-ai	https://trendtemplate.com/christmas-pajama-dance-ai
+drake-hotline-bling-dance-ai	https://trendtemplate.com/drake-hotline-bling-dance-ai
+elf-yourself-alternative	https://trendtemplate.com/elf-yourself-alternative
+how-to-make-rooftop-groove-ai-video	https://trendtemplate.com/how-to-make-rooftop-groove-ai-video
+logo-mark.svg	https://trendtemplate.com/logo-mark.svg
+photo-template	https://trendtemplate.com/photo-template
+refund-policy	https://trendtemplate.com/refund-policy
+report	https://trendtemplate.com/report
+video-template-online	https://trendtemplate.com/video-template-online
+viggle-alternative	https://trendtemplate.com/viggle-alternative

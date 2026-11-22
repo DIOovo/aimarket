@@ -1,0 +1,3396 @@
+{
+  "remakeyourmeme.json": {
+    "site": "Remake Your Meme",
+    "prev": 44,
+    "raw_now": 44,
+    "new": [],
+    "missing": []
+  },
+  "makeviral.json": {
+    "site": "MakeViral",
+    "prev": 566,
+    "raw_now": 578,
+    "new": [
+      {
+        "id_or_slug": "ai-fashion-video-edit",
+        "title": "AI Fashion Video Edit",
+        "url": "https://www.makeviral.ai/templates/ai-fashion-video-edit"
+      },
+      {
+        "id_or_slug": "cat-from-every-angle-ai-trend",
+        "title": "Cat From Every Angle AI Trend",
+        "url": "https://www.makeviral.ai/templates/cat-from-every-angle-ai-trend"
+      },
+      {
+        "id_or_slug": "dip-on-em-dance-ai-trend",
+        "title": "Dip On Em Dance AI Trend",
+        "url": "https://www.makeviral.ai/templates/dip-on-em-dance-ai-trend"
+      },
+      {
+        "id_or_slug": "gta-6-jet-ski-dog-ai",
+        "title": "Gta 6 Jet Ski Dog AI",
+        "url": "https://www.makeviral.ai/templates/gta-6-jet-ski-dog-ai"
+      },
+      {
+        "id_or_slug": "gta-wasted-meme-ai",
+        "title": "Gta Wasted Meme AI",
+        "url": "https://www.makeviral.ai/templates/gta-wasted-meme-ai"
+      },
+      {
+        "id_or_slug": "jatayu-ai-video",
+        "title": "Jatayu AI Video",
+        "url": "https://www.makeviral.ai/templates/jatayu-ai-video"
+      },
+      {
+        "id_or_slug": "kiss-your-phone-ai-trend",
+        "title": "Kiss Your Phone AI Trend",
+        "url": "https://www.makeviral.ai/templates/kiss-your-phone-ai-trend"
+      },
+      {
+        "id_or_slug": "oh-my-carne-asada-singing-dog",
+        "title": "Oh My Carne Asada Singing Dog",
+        "url": "https://www.makeviral.ai/templates/oh-my-carne-asada-singing-dog"
+      },
+      {
+        "id_or_slug": "pop-pop-animation-ai-trend",
+        "title": "Pop Pop Animation AI Trend",
+        "url": "https://www.makeviral.ai/templates/pop-pop-animation-ai-trend"
+      },
+      {
+        "id_or_slug": "supercar-night-drive-ai-trend",
+        "title": "Supercar Night Drive AI Trend",
+        "url": "https://www.makeviral.ai/templates/supercar-night-drive-ai-trend"
+      },
+      {
+        "id_or_slug": "winter-wonderland-dance-ai-trend",
+        "title": "Winter Wonderland Dance AI Trend",
+        "url": "https://www.makeviral.ai/templates/winter-wonderland-dance-ai-trend"
+      },
+      {
+        "id_or_slug": "you-are-nice-you-are-pretty-ai-trend",
+        "title": "You Are Nice You Are Pretty AI Trend",
+        "url": "https://www.makeviral.ai/templates/you-are-nice-you-are-pretty-ai-trend"
+      }
+    ],
+    "missing": []
+  },
+  "trendtemplate.json": {
+    "site": "TrendTemplate",
+    "prev": 36,
+    "raw_now": 50,
+    "new": [
+      {
+        "id_or_slug": "ai-christmas-video",
+        "title": "AI Christmas Video",
+        "url": "https://trendtemplate.com/ai-christmas-video"
+      },
+      {
+        "id_or_slug": "ai-dance",
+        "title": "AI Dance",
+        "url": "https://trendtemplate.com/ai-dance"
+      },
+      {
+        "id_or_slug": "ai-photo-creator",
+        "title": "AI Photo Creator",
+        "url": "https://trendtemplate.com/ai-photo-creator"
+      },
+      {
+        "id_or_slug": "ai-trend-templates",
+        "title": "AI Trend Templates",
+        "url": "https://trendtemplate.com/ai-trend-templates"
+      },
+      {
+        "id_or_slug": "apple-touch-icon.png",
+        "title": "Apple Touch Icon.png",
+        "url": "https://trendtemplate.com/apple-touch-icon.png"
+      },
+      {
+        "id_or_slug": "christmas-photobooth-ai",
+        "title": "Christmas Photobooth AI",
+        "url": "https://trendtemplate.com/christmas-photobooth-ai"
+      },
+      {
+        "id_or_slug": "gta-5-goodbye-ai",
+        "title": "Gta 5 Goodbye AI",
+        "url": "https://trendtemplate.com/gta-5-goodbye-ai"
+      },
+      {
+        "id_or_slug": "how-to-make-rooftop-groove-ai-video",
+        "title": "How To Make Rooftop Groove AI Video",
+        "url": "https://trendtemplate.com/how-to-make-rooftop-groove-ai-video"
+      },
+      {
+        "id_or_slug": "logo-mark.svg",
+        "title": "Logo Mark.svg",
+        "url": "https://trendtemplate.com/logo-mark.svg"
+      },
+      {
+        "id_or_slug": "photo-template",
+        "title": "Photo Template",
+        "url": "https://trendtemplate.com/photo-template"
+      },
+      {
+        "id_or_slug": "refund-policy",
+        "title": "Refund Policy",
+        "url": "https://trendtemplate.com/refund-policy"
+      },
+      {
+        "id_or_slug": "report",
+        "title": "Report",
+        "url": "https://trendtemplate.com/report"
+      },
+      {
+        "id_or_slug": "tiktok-ai-trends",
+        "title": "Tiktok AI Trends",
+        "url": "https://trendtemplate.com/tiktok-ai-trends"
+      },
+      {
+        "id_or_slug": "video-template-online",
+        "title": "Video Template Online",
+        "url": "https://trendtemplate.com/video-template-online"
+      }
+    ],
+    "missing": []
+  },
+  "dothetrend.json": {
+    "site": "DoTheTrend",
+    "prev": 70,
+    "raw_now": 70,
+    "new": [],
+    "missing": []
+  },
+  "makememe.json": {
+    "site": "MakeMeme.video",
+    "prev": 158,
+    "raw_now": 165,
+    "new": [
+      {
+        "id_or_slug": "apple-icon.png",
+        "title": "Apple Icon.png",
+        "url": "https://makememe.video/apple-icon.png"
+      },
+      {
+        "id_or_slug": "christmas-ai-video-trends",
+        "title": "Christmas AI Video Trends",
+        "url": "https://makememe.video/christmas-ai-video-trends"
+      },
+      {
+        "id_or_slug": "favicon.ico",
+        "title": "Favicon.ico",
+        "url": "https://makememe.video/favicon.ico"
+      },
+      {
+        "id_or_slug": "manifest.webmanifest",
+        "title": "Manifest.webmanifest",
+        "url": "https://makememe.video/manifest.webmanifest"
+      },
+      {
+        "id_or_slug": "mexico-pterodactyl-ai",
+        "title": "Mexico Pterodactyl AI",
+        "url": "https://makememe.video/mexico-pterodactyl-ai"
+      },
+      {
+        "id_or_slug": "oh-my-carne-asada-ai",
+        "title": "Oh My Carne Asada AI",
+        "url": "https://makememe.video/oh-my-carne-asada-ai"
+      },
+      {
+        "id_or_slug": "questions",
+        "title": "Questions",
+        "url": "https://makememe.video/questions"
+      }
+    ],
+    "missing": []
+  },
+  "clipremake.json": {
+    "site": "ClipRemake",
+    "prev": 64,
+    "raw_now": 67,
+    "new": [
+      {
+        "id_or_slug": "baby-face-filter-ai",
+        "title": "Baby Face Filter AI",
+        "url": "https://clipremake.com/templates/baby-face-filter-ai"
+      },
+      {
+        "id_or_slug": "give-it-all-ai",
+        "title": "Give It All AI",
+        "url": "https://clipremake.com/templates/give-it-all-ai"
+      },
+      {
+        "id_or_slug": "oh-my-carne-asada-ai",
+        "title": "Oh My Carne Asada AI",
+        "url": "https://clipremake.com/templates/oh-my-carne-asada-ai"
+      }
+    ],
+    "missing": []
+  },
+  "viralremake.json": {
+    "site": "ViralRemake",
+    "prev": 37,
+    "raw_now": 37,
+    "new": [],
+    "missing": []
+  },
+  "memefxai.json": {
+    "site": "MemeFX AI",
+    "prev": 74,
+    "raw_now": 95,
+    "new": [
+      {
+        "id_or_slug": "ai-baby-video-generator",
+        "title": "AI Baby Video Generator",
+        "url": "https://memefxai.com/ai-baby-video-generator"
+      },
+      {
+        "id_or_slug": "ai-dance-video-generator",
+        "title": "AI Dance Video Generator",
+        "url": "https://memefxai.com/ai-dance-video-generator"
+      },
+      {
+        "id_or_slug": "ai-group-video-generator",
+        "title": "AI Group Video Generator",
+        "url": "https://memefxai.com/ai-group-video-generator"
+      },
+      {
+        "id_or_slug": "ai-halloween-video-generator",
+        "title": "AI Halloween Video Generator",
+        "url": "https://memefxai.com/ai-halloween-video-generator"
+      },
+      {
+        "id_or_slug": "ai-meme-video-generator",
+        "title": "AI Meme Video Generator",
+        "url": "https://memefxai.com/ai-meme-video-generator"
+      },
+      {
+        "id_or_slug": "ai-music-video-generator",
+        "title": "AI Music Video Generator",
+        "url": "https://memefxai.com/ai-music-video-generator"
+      },
+      {
+        "id_or_slug": "ai-pet-video-generator",
+        "title": "AI Pet Video Generator",
+        "url": "https://memefxai.com/ai-pet-video-generator"
+      },
+      {
+        "id_or_slug": "ai-tiktok-video-generator",
+        "title": "AI Tiktok Video Generator",
+        "url": "https://memefxai.com/ai-tiktok-video-generator"
+      },
+      {
+        "id_or_slug": "alternatives",
+        "title": "Alternatives",
+        "url": "https://memefxai.com/alternatives"
+      },
+      {
+        "id_or_slug": "apple-touch-icon.png",
+        "title": "Apple Touch Icon.png",
+        "url": "https://memefxai.com/apple-touch-icon.png"
+      },
+      {
+        "id_or_slug": "favicon-16x16.png",
+        "title": "Favicon 16x16.png",
+        "url": "https://memefxai.com/favicon-16x16.png"
+      },
+      {
+        "id_or_slug": "favicon-32x32.png",
+        "title": "Favicon 32x32.png",
+        "url": "https://memefxai.com/favicon-32x32.png"
+      },
+      {
+        "id_or_slug": "favicon.ico",
+        "title": "Favicon.ico",
+        "url": "https://memefxai.com/favicon.ico"
+      },
+      {
+        "id_or_slug": "llms.txt",
+        "title": "Llms.txt",
+        "url": "https://memefxai.com/llms.txt"
+      },
+      {
+        "id_or_slug": "logo-dark.png",
+        "title": "Logo Dark.png",
+        "url": "https://memefxai.com/logo-dark.png"
+      },
+      {
+        "id_or_slug": "logo.png",
+        "title": "Logo.png",
+        "url": "https://memefxai.com/logo.png"
+      },
+      {
+        "id_or_slug": "manifest.json",
+        "title": "Manifest.json",
+        "url": "https://memefxai.com/manifest.json"
+      },
+      {
+        "id_or_slug": "refund-policy",
+        "title": "Refund Policy",
+        "url": "https://memefxai.com/refund-policy"
+      },
+      {
+        "id_or_slug": "report",
+        "title": "Report",
+        "url": "https://memefxai.com/report"
+      },
+      {
+        "id_or_slug": "templates",
+        "title": "Templates",
+        "url": "https://memefxai.com/templates"
+      },
+      {
+        "id_or_slug": "videos",
+        "title": "Videos",
+        "url": "https://memefxai.com/videos"
+      }
+    ],
+    "missing": []
+  },
+  "memeclone.json": {
+    "site": "MemeClone.ai",
+    "prev": 75,
+    "raw_now": 76,
+    "new": [
+      {
+        "id_or_slug": "need-for-speed",
+        "title": "Need For Speed",
+        "url": "https://memeclone.ai/templates/need-for-speed"
+      }
+    ],
+    "missing": []
+  },
+  "samevid.json": {
+    "site": "SameVid AI",
+    "prev": 217,
+    "raw_now": 315,
+    "new": [
+      {
+        "id_or_slug": "80s-portrait-ai",
+        "title": "80s Portrait AI",
+        "url": "https://samevid.com/template/80s-portrait-ai"
+      },
+      {
+        "id_or_slug": "ai-fluffy",
+        "title": "AI Fluffy",
+        "url": "https://samevid.com/template/ai-fluffy"
+      },
+      {
+        "id_or_slug": "ai-glasses-filter",
+        "title": "AI Glasses Filter",
+        "url": "https://samevid.com/template/ai-glasses-filter"
+      },
+      {
+        "id_or_slug": "ai-legacy-story",
+        "title": "AI Legacy Story",
+        "url": "https://samevid.com/template/ai-legacy-story"
+      },
+      {
+        "id_or_slug": "ai-pinch-cheek",
+        "title": "AI Pinch Cheek",
+        "url": "https://samevid.com/template/ai-pinch-cheek"
+      },
+      {
+        "id_or_slug": "ai-rugby-header",
+        "title": "AI Rugby Header",
+        "url": "https://samevid.com/template/ai-rugby-header"
+      },
+      {
+        "id_or_slug": "ai-skeleton-filter",
+        "title": "AI Skeleton Filter",
+        "url": "https://samevid.com/template/ai-skeleton-filter"
+      },
+      {
+        "id_or_slug": "ai-smile-cartoon",
+        "title": "AI Smile Cartoon",
+        "url": "https://samevid.com/template/ai-smile-cartoon"
+      },
+      {
+        "id_or_slug": "an-g-la-krik-dance",
+        "title": "An G La Krik Dance",
+        "url": "https://samevid.com/template/an-g-la-krik-dance"
+      },
+      {
+        "id_or_slug": "baby-dolls-dance-ai",
+        "title": "Baby Dolls Dance AI",
+        "url": "https://samevid.com/template/baby-dolls-dance-ai"
+      },
+      {
+        "id_or_slug": "baby-ice-cream-cone-ai",
+        "title": "Baby Ice Cream Cone AI",
+        "url": "https://samevid.com/template/baby-ice-cream-cone-ai"
+      },
+      {
+        "id_or_slug": "baby-kids",
+        "title": "Baby Kids",
+        "url": "https://samevid.com/template/baby-kids"
+      },
+      {
+        "id_or_slug": "bad-dance-ai",
+        "title": "Bad Dance AI",
+        "url": "https://samevid.com/template/bad-dance-ai"
+      },
+      {
+        "id_or_slug": "birthday-cake-drive-up-ai",
+        "title": "Birthday Cake Drive Up AI",
+        "url": "https://samevid.com/template/birthday-cake-drive-up-ai"
+      },
+      {
+        "id_or_slug": "cabbage-patch-kid-baby-face-filter",
+        "title": "Cabbage Patch Kid Baby Face Filter",
+        "url": "https://samevid.com/template/cabbage-patch-kid-baby-face-filter"
+      },
+      {
+        "id_or_slug": "calm-down-ai-dance",
+        "title": "Calm Down AI Dance",
+        "url": "https://samevid.com/template/calm-down-ai-dance"
+      },
+      {
+        "id_or_slug": "cash-fan-ai",
+        "title": "Cash Fan AI",
+        "url": "https://samevid.com/template/cash-fan-ai"
+      },
+      {
+        "id_or_slug": "cooking-animation-pop-ai",
+        "title": "Cooking Animation Pop AI",
+        "url": "https://samevid.com/template/cooking-animation-pop-ai"
+      },
+      {
+        "id_or_slug": "couple",
+        "title": "Couple",
+        "url": "https://samevid.com/template/couple"
+      },
+      {
+        "id_or_slug": "dance",
+        "title": "Dance",
+        "url": "https://samevid.com/template/dance"
+      },
+      {
+        "id_or_slug": "disney-couple-three-panel-ai",
+        "title": "Disney Couple Three Panel AI",
+        "url": "https://samevid.com/template/disney-couple-three-panel-ai"
+      },
+      {
+        "id_or_slug": "dont-worry-bout-a-thing-ai-dance",
+        "title": "Dont Worry Bout A Thing AI Dance",
+        "url": "https://samevid.com/template/dont-worry-bout-a-thing-ai-dance"
+      },
+      {
+        "id_or_slug": "effects",
+        "title": "Effects",
+        "url": "https://samevid.com/template/effects"
+      },
+      {
+        "id_or_slug": "electric-fan-dance-ai",
+        "title": "Electric Fan Dance AI",
+        "url": "https://samevid.com/template/electric-fan-dance-ai"
+      },
+      {
+        "id_or_slug": "elegant-hijab-ai",
+        "title": "Elegant Hijab AI",
+        "url": "https://samevid.com/template/elegant-hijab-ai"
+      },
+      {
+        "id_or_slug": "family",
+        "title": "Family",
+        "url": "https://samevid.com/template/family"
+      },
+      {
+        "id_or_slug": "feliz-navidad-ai-dance",
+        "title": "Feliz Navidad AI Dance",
+        "url": "https://samevid.com/template/feliz-navidad-ai-dance"
+      },
+      {
+        "id_or_slug": "flyboard-ai",
+        "title": "Flyboard AI",
+        "url": "https://samevid.com/template/flyboard-ai"
+      },
+      {
+        "id_or_slug": "friends",
+        "title": "Friends",
+        "url": "https://samevid.com/template/friends"
+      },
+      {
+        "id_or_slug": "frozen-feet-couple-ai",
+        "title": "Frozen Feet Couple AI",
+        "url": "https://samevid.com/template/frozen-feet-couple-ai"
+      },
+      {
+        "id_or_slug": "fruit-baby-ai",
+        "title": "Fruit Baby AI",
+        "url": "https://samevid.com/template/fruit-baby-ai"
+      },
+      {
+        "id_or_slug": "funny",
+        "title": "Funny",
+        "url": "https://samevid.com/template/funny"
+      },
+      {
+        "id_or_slug": "funny-goalkeeper-ai",
+        "title": "Funny Goalkeeper AI",
+        "url": "https://samevid.com/template/funny-goalkeeper-ai"
+      },
+      {
+        "id_or_slug": "future-family-ai",
+        "title": "Future Family AI",
+        "url": "https://samevid.com/template/future-family-ai"
+      },
+      {
+        "id_or_slug": "goalkeeper-save-ai",
+        "title": "Goalkeeper Save AI",
+        "url": "https://samevid.com/template/goalkeeper-save-ai"
+      },
+      {
+        "id_or_slug": "grandma-parkour-ai",
+        "title": "Grandma Parkour AI",
+        "url": "https://samevid.com/template/grandma-parkour-ai"
+      },
+      {
+        "id_or_slug": "gta-5-goodbye-ai",
+        "title": "Gta 5 Goodbye AI",
+        "url": "https://samevid.com/template/gta-5-goodbye-ai"
+      },
+      {
+        "id_or_slug": "gta-6-cheat-code-ai",
+        "title": "Gta 6 Cheat Code AI",
+        "url": "https://samevid.com/template/gta-6-cheat-code-ai"
+      },
+      {
+        "id_or_slug": "gta-6-couple-ai",
+        "title": "Gta 6 Couple AI",
+        "url": "https://samevid.com/template/gta-6-couple-ai"
+      },
+      {
+        "id_or_slug": "gta-6-loading-screen-ai",
+        "title": "Gta 6 Loading Screen AI",
+        "url": "https://samevid.com/template/gta-6-loading-screen-ai"
+      },
+      {
+        "id_or_slug": "gta-wasted-ai",
+        "title": "Gta Wasted AI",
+        "url": "https://samevid.com/template/gta-wasted-ai"
+      },
+      {
+        "id_or_slug": "halloween",
+        "title": "Halloween",
+        "url": "https://samevid.com/template/halloween"
+      },
+      {
+        "id_or_slug": "hot-coffee-run-ai",
+        "title": "Hot Coffee Run AI",
+        "url": "https://samevid.com/template/hot-coffee-run-ai"
+      },
+      {
+        "id_or_slug": "i-am-doom-ai-video",
+        "title": "I Am Doom AI Video",
+        "url": "https://samevid.com/template/i-am-doom-ai-video"
+      },
+      {
+        "id_or_slug": "i-love-you-more-ai",
+        "title": "I Love You More AI",
+        "url": "https://samevid.com/template/i-love-you-more-ai"
+      },
+      {
+        "id_or_slug": "james-bond-reveal-ai",
+        "title": "James Bond Reveal AI",
+        "url": "https://samevid.com/template/james-bond-reveal-ai"
+      },
+      {
+        "id_or_slug": "jatayu-indian-mythology-ai-video",
+        "title": "Jatayu Indian Mythology AI Video",
+        "url": "https://samevid.com/template/jatayu-indian-mythology-ai-video"
+      },
+      {
+        "id_or_slug": "lego-couple-ai",
+        "title": "Lego Couple AI",
+        "url": "https://samevid.com/template/lego-couple-ai"
+      },
+      {
+        "id_or_slug": "lions-human-centipede-celebration-ai",
+        "title": "Lions Human Centipede Celebration AI",
+        "url": "https://samevid.com/template/lions-human-centipede-celebration-ai"
+      },
+      {
+        "id_or_slug": "looks-can-kill-ai-dance",
+        "title": "Looks Can Kill AI Dance",
+        "url": "https://samevid.com/template/looks-can-kill-ai-dance"
+      },
+      {
+        "id_or_slug": "malfoid-ai",
+        "title": "Malfoid AI",
+        "url": "https://samevid.com/template/malfoid-ai"
+      },
+      {
+        "id_or_slug": "medieval-subway-dance-ai",
+        "title": "Medieval Subway Dance AI",
+        "url": "https://samevid.com/template/medieval-subway-dance-ai"
+      },
+      {
+        "id_or_slug": "mf-pimp-ai",
+        "title": "Mf Pimp AI",
+        "url": "https://samevid.com/template/mf-pimp-ai"
+      },
+      {
+        "id_or_slug": "more-like-a-quesadilla-ai",
+        "title": "More Like A Quesadilla AI",
+        "url": "https://samevid.com/template/more-like-a-quesadilla-ai"
+      },
+      {
+        "id_or_slug": "mountain-skydive-ai",
+        "title": "Mountain Skydive AI",
+        "url": "https://samevid.com/template/mountain-skydive-ai"
+      },
+      {
+        "id_or_slug": "movie-tv",
+        "title": "Movie TV",
+        "url": "https://samevid.com/template/movie-tv"
+      },
+      {
+        "id_or_slug": "music",
+        "title": "Music",
+        "url": "https://samevid.com/template/music"
+      },
+      {
+        "id_or_slug": "my-moon-my-man-ai",
+        "title": "My Moon My Man AI",
+        "url": "https://samevid.com/template/my-moon-my-man-ai"
+      },
+      {
+        "id_or_slug": "nao-percebi-dance-ai",
+        "title": "Nao Percebi Dance AI",
+        "url": "https://samevid.com/template/nao-percebi-dance-ai"
+      },
+      {
+        "id_or_slug": "naruto-genjutsu-ai",
+        "title": "Naruto Genjutsu AI",
+        "url": "https://samevid.com/template/naruto-genjutsu-ai"
+      },
+      {
+        "id_or_slug": "new",
+        "title": "New",
+        "url": "https://samevid.com/template/new"
+      },
+      {
+        "id_or_slug": "no-i-aint-crazy-yb-ai",
+        "title": "No I Aint Crazy Yb AI",
+        "url": "https://samevid.com/template/no-i-aint-crazy-yb-ai"
+      },
+      {
+        "id_or_slug": "olly-olly-dance-ai",
+        "title": "Olly Olly Dance AI",
+        "url": "https://samevid.com/template/olly-olly-dance-ai"
+      },
+      {
+        "id_or_slug": "paloma-blanca-ai",
+        "title": "Paloma Blanca AI",
+        "url": "https://samevid.com/template/paloma-blanca-ai"
+      },
+      {
+        "id_or_slug": "pets",
+        "title": "Pets",
+        "url": "https://samevid.com/template/pets"
+      },
+      {
+        "id_or_slug": "private-jet-arrival-ai",
+        "title": "Private Jet Arrival AI",
+        "url": "https://samevid.com/template/private-jet-arrival-ai"
+      },
+      {
+        "id_or_slug": "ps2-heist-interview-ai",
+        "title": "Ps2 Heist Interview AI",
+        "url": "https://samevid.com/template/ps2-heist-interview-ai"
+      },
+      {
+        "id_or_slug": "punching-bag-combo-ai",
+        "title": "Punching Bag Combo AI",
+        "url": "https://samevid.com/template/punching-bag-combo-ai"
+      },
+      {
+        "id_or_slug": "red-car-exit-salute-ai",
+        "title": "Red Car Exit Salute AI",
+        "url": "https://samevid.com/template/red-car-exit-salute-ai"
+      },
+      {
+        "id_or_slug": "red-car-exit-wave-ai",
+        "title": "Red Car Exit Wave AI",
+        "url": "https://samevid.com/template/red-car-exit-wave-ai"
+      },
+      {
+        "id_or_slug": "red-tie-dance-ai",
+        "title": "Red Tie Dance AI",
+        "url": "https://samevid.com/template/red-tie-dance-ai"
+      },
+      {
+        "id_or_slug": "rollie-on-my-wrist-ai",
+        "title": "Rollie On My Wrist AI",
+        "url": "https://samevid.com/template/rollie-on-my-wrist-ai"
+      },
+      {
+        "id_or_slug": "santa-tell-me-ai",
+        "title": "Santa Tell Me AI",
+        "url": "https://samevid.com/template/santa-tell-me-ai"
+      },
+      {
+        "id_or_slug": "selfie-talk-pose-ai",
+        "title": "Selfie Talk Pose AI",
+        "url": "https://samevid.com/template/selfie-talk-pose-ai"
+      },
+      {
+        "id_or_slug": "shop-doorway-arms-up-dance-ai",
+        "title": "Shop Doorway Arms Up Dance AI",
+        "url": "https://samevid.com/template/shop-doorway-arms-up-dance-ai"
+      },
+      {
+        "id_or_slug": "singing-pet-ai",
+        "title": "Singing Pet AI",
+        "url": "https://samevid.com/template/singing-pet-ai"
+      },
+      {
+        "id_or_slug": "somebody-that-i-used-to-know-ai",
+        "title": "Somebody That I Used To Know AI",
+        "url": "https://samevid.com/template/somebody-that-i-used-to-know-ai"
+      },
+      {
+        "id_or_slug": "space-dive-zoom-ai",
+        "title": "Space Dive Zoom AI",
+        "url": "https://samevid.com/template/space-dive-zoom-ai"
+      },
+      {
+        "id_or_slug": "spirit-tunnel-ai",
+        "title": "Spirit Tunnel AI",
+        "url": "https://samevid.com/template/spirit-tunnel-ai"
+      },
+      {
+        "id_or_slug": "sports",
+        "title": "Sports",
+        "url": "https://samevid.com/template/sports"
+      },
+      {
+        "id_or_slug": "suit-living-room-dance-ai",
+        "title": "Suit Living Room Dance AI",
+        "url": "https://samevid.com/template/suit-living-room-dance-ai"
+      },
+      {
+        "id_or_slug": "suitcase-skate-kickflip-ai",
+        "title": "Suitcase Skate Kickflip AI",
+        "url": "https://samevid.com/template/suitcase-skate-kickflip-ai"
+      },
+      {
+        "id_or_slug": "templates",
+        "title": "Templates",
+        "url": "https://samevid.com/template/templates"
+      },
+      {
+        "id_or_slug": "toll-road-car-launch-ai",
+        "title": "Toll Road Car Launch AI",
+        "url": "https://samevid.com/template/toll-road-car-launch-ai"
+      },
+      {
+        "id_or_slug": "tom-hardy-legend-edit-ai",
+        "title": "Tom Hardy Legend Edit AI",
+        "url": "https://samevid.com/template/tom-hardy-legend-edit-ai"
+      },
+      {
+        "id_or_slug": "traffic-jam-rocket-car-ai",
+        "title": "Traffic Jam Rocket Car AI",
+        "url": "https://samevid.com/template/traffic-jam-rocket-car-ai"
+      },
+      {
+        "id_or_slug": "transformation",
+        "title": "Transformation",
+        "url": "https://samevid.com/template/transformation"
+      },
+      {
+        "id_or_slug": "twins-carousel-ai",
+        "title": "Twins Carousel AI",
+        "url": "https://samevid.com/template/twins-carousel-ai"
+      },
+      {
+        "id_or_slug": "two-girls-kicking-ai",
+        "title": "Two Girls Kicking AI",
+        "url": "https://samevid.com/template/two-girls-kicking-ai"
+      },
+      {
+        "id_or_slug": "vice-city-arrival-ai",
+        "title": "Vice City Arrival AI",
+        "url": "https://samevid.com/template/vice-city-arrival-ai"
+      },
+      {
+        "id_or_slug": "wembanyama-goalkeeper-ai",
+        "title": "Wembanyama Goalkeeper AI",
+        "url": "https://samevid.com/template/wembanyama-goalkeeper-ai"
+      },
+      {
+        "id_or_slug": "wet-black-and-white-ai-portrait",
+        "title": "Wet Black And White AI Portrait",
+        "url": "https://samevid.com/template/wet-black-and-white-ai-portrait"
+      },
+      {
+        "id_or_slug": "what-is-love-dance-ai",
+        "title": "What Is Love Dance AI",
+        "url": "https://samevid.com/template/what-is-love-dance-ai"
+      },
+      {
+        "id_or_slug": "whoville-ai",
+        "title": "Whoville AI",
+        "url": "https://samevid.com/template/whoville-ai"
+      },
+      {
+        "id_or_slug": "window-dog-burger-ai",
+        "title": "Window Dog Burger AI",
+        "url": "https://samevid.com/template/window-dog-burger-ai"
+      },
+      {
+        "id_or_slug": "winter-bus-ai",
+        "title": "Winter Bus AI",
+        "url": "https://samevid.com/template/winter-bus-ai"
+      },
+      {
+        "id_or_slug": "winter-wonderland-dance",
+        "title": "Winter Wonderland Dance",
+        "url": "https://samevid.com/template/winter-wonderland-dance"
+      },
+      {
+        "id_or_slug": "young-sheldon-ai-dance",
+        "title": "Young Sheldon AI Dance",
+        "url": "https://samevid.com/template/young-sheldon-ai-dance"
+      }
+    ],
+    "missing": []
+  },
+  "zapvid.json": {
+    "site": "ZapVid",
+    "prev": 42,
+    "raw_now": 43,
+    "new": [
+      {
+        "id_or_slug": "wassup-in-a-minute-dance-ai-video-generator",
+        "title": "Wassup In A Minute Dance AI Video Generator",
+        "url": "https://zapvid.ai/wassup-in-a-minute-dance-ai-video-generator"
+      }
+    ],
+    "missing": []
+  },
+  "smew.json": {
+    "site": "Smew AI",
+    "prev": 439,
+    "raw_now": 439,
+    "new": [],
+    "missing": []
+  },
+  "putmein.json": {
+    "site": "Put Me In",
+    "prev": 226,
+    "raw_now": 226,
+    "new": [],
+    "missing": []
+  },
+  "aitrendvideo.json": {
+    "site": "AI Trend Video",
+    "prev": 10,
+    "raw_now": 13,
+    "new": [
+      {
+        "id_or_slug": "create",
+        "title": "Create",
+        "url": "https://aitrendvideo.net/create"
+      },
+      {
+        "id_or_slug": "history",
+        "title": "History",
+        "url": "https://aitrendvideo.net/history"
+      },
+      {
+        "id_or_slug": "refund-policy",
+        "title": "Refund Policy",
+        "url": "https://aitrendvideo.net/refund-policy"
+      }
+    ],
+    "missing": []
+  },
+  "danceremake.json": {
+    "site": "DanceRemake",
+    "prev": 19,
+    "raw_now": 19,
+    "new": [],
+    "missing": []
+  },
+  "genjutsu.json": {
+    "site": "Genjutsu AI",
+    "prev": 45,
+    "raw_now": 53,
+    "new": [
+      {
+        "id_or_slug": "apple-touch-icon.png",
+        "title": "Apple Touch Icon.png",
+        "url": "https://genjutsuai.cc/apple-touch-icon.png"
+      },
+      {
+        "id_or_slug": "favicon-16x16.png",
+        "title": "Favicon 16x16.png",
+        "url": "https://genjutsuai.cc/favicon-16x16.png"
+      },
+      {
+        "id_or_slug": "favicon-32x32.png",
+        "title": "Favicon 32x32.png",
+        "url": "https://genjutsuai.cc/favicon-32x32.png"
+      },
+      {
+        "id_or_slug": "favicon.ico",
+        "title": "Favicon.ico",
+        "url": "https://genjutsuai.cc/favicon.ico"
+      },
+      {
+        "id_or_slug": "history",
+        "title": "History",
+        "url": "https://genjutsuai.cc/history"
+      },
+      {
+        "id_or_slug": "logo-dark.png",
+        "title": "Logo Dark.png",
+        "url": "https://genjutsuai.cc/logo-dark.png"
+      },
+      {
+        "id_or_slug": "logo.png",
+        "title": "Logo.png",
+        "url": "https://genjutsuai.cc/logo.png"
+      },
+      {
+        "id_or_slug": "manifest.json",
+        "title": "Manifest.json",
+        "url": "https://genjutsuai.cc/manifest.json"
+      }
+    ],
+    "missing": []
+  },
+  "trendswap.json": {
+    "site": "TrendSwap",
+    "prev": 57,
+    "raw_now": 70,
+    "new": [
+      {
+        "id_or_slug": "apple-touch-icon.png",
+        "title": "Apple Touch Icon.png",
+        "url": "https://trendswap.app/apple-touch-icon.png"
+      },
+      {
+        "id_or_slug": "content-policy",
+        "title": "Content Policy",
+        "url": "https://trendswap.app/content-policy"
+      },
+      {
+        "id_or_slug": "dance",
+        "title": "Dance",
+        "url": "https://trendswap.app/dance"
+      },
+      {
+        "id_or_slug": "duo",
+        "title": "Duo",
+        "url": "https://trendswap.app/duo"
+      },
+      {
+        "id_or_slug": "favicon.ico",
+        "title": "Favicon.ico",
+        "url": "https://trendswap.app/favicon.ico"
+      },
+      {
+        "id_or_slug": "icon-192.png",
+        "title": "Icon 192.png",
+        "url": "https://trendswap.app/icon-192.png"
+      },
+      {
+        "id_or_slug": "meme",
+        "title": "Meme",
+        "url": "https://trendswap.app/meme"
+      },
+      {
+        "id_or_slug": "new",
+        "title": "New",
+        "url": "https://trendswap.app/new"
+      },
+      {
+        "id_or_slug": "pet",
+        "title": "Pet",
+        "url": "https://trendswap.app/pet"
+      },
+      {
+        "id_or_slug": "prompts",
+        "title": "Prompts",
+        "url": "https://trendswap.app/prompts"
+      },
+      {
+        "id_or_slug": "refund-policy",
+        "title": "Refund Policy",
+        "url": "https://trendswap.app/refund-policy"
+      },
+      {
+        "id_or_slug": "site.webmanifest",
+        "title": "Site.webmanifest",
+        "url": "https://trendswap.app/site.webmanifest"
+      },
+      {
+        "id_or_slug": "videos",
+        "title": "Videos",
+        "url": "https://trendswap.app/videos"
+      }
+    ],
+    "missing": []
+  },
+  "picturetovideo.json": {
+    "site": "PictureToVideo",
+    "prev": 5,
+    "raw_now": 48,
+    "new": [
+      {
+        "id_or_slug": "ai-animation-generator",
+        "title": "AI Animation Generator",
+        "url": "https://picturetovideo.org/ai-animation-generator"
+      },
+      {
+        "id_or_slug": "ai-dance-generator",
+        "title": "AI Dance Generator",
+        "url": "https://picturetovideo.org/ai-dance-generator"
+      },
+      {
+        "id_or_slug": "ai-video-prompt-generator",
+        "title": "AI Video Prompt Generator",
+        "url": "https://picturetovideo.org/ai-video-prompt-generator"
+      },
+      {
+        "id_or_slug": "animate-drawing",
+        "title": "Animate Drawing",
+        "url": "https://picturetovideo.org/animate-drawing"
+      },
+      {
+        "id_or_slug": "animate-old-photos",
+        "title": "Animate Old Photos",
+        "url": "https://picturetovideo.org/animate-old-photos"
+      },
+      {
+        "id_or_slug": "animate-photo",
+        "title": "Animate Photo",
+        "url": "https://picturetovideo.org/animate-photo"
+      },
+      {
+        "id_or_slug": "apple-touch-icon.png",
+        "title": "Apple Touch Icon.png",
+        "url": "https://picturetovideo.org/apple-touch-icon.png"
+      },
+      {
+        "id_or_slug": "best-ai-video-generator",
+        "title": "Best AI Video Generator",
+        "url": "https://picturetovideo.org/best-ai-video-generator"
+      },
+      {
+        "id_or_slug": "content-policy",
+        "title": "Content Policy",
+        "url": "https://picturetovideo.org/content-policy"
+      },
+      {
+        "id_or_slug": "favicon.ico",
+        "title": "Favicon.ico",
+        "url": "https://picturetovideo.org/favicon.ico"
+      },
+      {
+        "id_or_slug": "grok-imagine",
+        "title": "Grok Imagine",
+        "url": "https://picturetovideo.org/grok-imagine"
+      },
+      {
+        "id_or_slug": "higgsfield-alternative",
+        "title": "Higgsfield Alternative",
+        "url": "https://picturetovideo.org/higgsfield-alternative"
+      },
+      {
+        "id_or_slug": "keyframes",
+        "title": "Keyframes",
+        "url": "https://picturetovideo.org/keyframes"
+      },
+      {
+        "id_or_slug": "king-ai",
+        "title": "King AI",
+        "url": "https://picturetovideo.org/king-ai"
+      },
+      {
+        "id_or_slug": "kling-2-1",
+        "title": "Kling 2 1",
+        "url": "https://picturetovideo.org/kling-2-1"
+      },
+      {
+        "id_or_slug": "kling-2-5-turbo",
+        "title": "Kling 2 5 Turbo",
+        "url": "https://picturetovideo.org/kling-2-5-turbo"
+      },
+      {
+        "id_or_slug": "kling-2-6",
+        "title": "Kling 2 6",
+        "url": "https://picturetovideo.org/kling-2-6"
+      },
+      {
+        "id_or_slug": "kling-3-0",
+        "title": "Kling 3 0",
+        "url": "https://picturetovideo.org/kling-3-0"
+      },
+      {
+        "id_or_slug": "kling-4-0",
+        "title": "Kling 4 0",
+        "url": "https://picturetovideo.org/kling-4-0"
+      },
+      {
+        "id_or_slug": "kling-4-vs-kling-3",
+        "title": "Kling 4 Vs Kling 3",
+        "url": "https://picturetovideo.org/kling-4-vs-kling-3"
+      },
+      {
+        "id_or_slug": "kling-ai-alternatives",
+        "title": "Kling AI Alternatives",
+        "url": "https://picturetovideo.org/kling-ai-alternatives"
+      },
+      {
+        "id_or_slug": "kling-ai-app",
+        "title": "Kling AI App",
+        "url": "https://picturetovideo.org/kling-ai-app"
+      },
+      {
+        "id_or_slug": "kling-ai-free",
+        "title": "Kling AI Free",
+        "url": "https://picturetovideo.org/kling-ai-free"
+      },
+      {
+        "id_or_slug": "kling-ai-pricing",
+        "title": "Kling AI Pricing",
+        "url": "https://picturetovideo.org/kling-ai-pricing"
+      },
+      {
+        "id_or_slug": "kling-api",
+        "title": "Kling Api",
+        "url": "https://picturetovideo.org/kling-api"
+      },
+      {
+        "id_or_slug": "kling-image-to-video",
+        "title": "Kling Image To Video",
+        "url": "https://picturetovideo.org/kling-image-to-video"
+      },
+      {
+        "id_or_slug": "kling-o1",
+        "title": "Kling O1",
+        "url": "https://picturetovideo.org/kling-o1"
+      },
+      {
+        "id_or_slug": "kling-vs-hailuo",
+        "title": "Kling Vs Hailuo",
+        "url": "https://picturetovideo.org/kling-vs-hailuo"
+      },
+      {
+        "id_or_slug": "kling-vs-runway",
+        "title": "Kling Vs Runway",
+        "url": "https://picturetovideo.org/kling-vs-runway"
+      },
+      {
+        "id_or_slug": "kling-vs-seedance",
+        "title": "Kling Vs Seedance",
+        "url": "https://picturetovideo.org/kling-vs-seedance"
+      },
+      {
+        "id_or_slug": "kling-vs-veo-3",
+        "title": "Kling Vs Veo 3",
+        "url": "https://picturetovideo.org/kling-vs-veo-3"
+      },
+      {
+        "id_or_slug": "minimax-h3",
+        "title": "Minimax H3",
+        "url": "https://picturetovideo.org/minimax-h3"
+      },
+      {
+        "id_or_slug": "models",
+        "title": "Models",
+        "url": "https://picturetovideo.org/models"
+      },
+      {
+        "id_or_slug": "motion-control",
+        "title": "Motion Control",
+        "url": "https://picturetovideo.org/motion-control"
+      },
+      {
+        "id_or_slug": "photo-to-video",
+        "title": "Photo To Video",
+        "url": "https://picturetovideo.org/photo-to-video"
+      },
+      {
+        "id_or_slug": "refund-policy",
+        "title": "Refund Policy",
+        "url": "https://picturetovideo.org/refund-policy"
+      },
+      {
+        "id_or_slug": "seedance-2-5",
+        "title": "Seedance 2 5",
+        "url": "https://picturetovideo.org/seedance-2-5"
+      },
+      {
+        "id_or_slug": "sora-alternative",
+        "title": "Sora Alternative",
+        "url": "https://picturetovideo.org/sora-alternative"
+      },
+      {
+        "id_or_slug": "text-to-video",
+        "title": "Text To Video",
+        "url": "https://picturetovideo.org/text-to-video"
+      },
+      {
+        "id_or_slug": "veo-3",
+        "title": "Veo 3",
+        "url": "https://picturetovideo.org/veo-3"
+      },
+      {
+        "id_or_slug": "video-extender",
+        "title": "Video Extender",
+        "url": "https://picturetovideo.org/video-extender"
+      },
+      {
+        "id_or_slug": "viggle-ai-alternative",
+        "title": "Viggle AI Alternative",
+        "url": "https://picturetovideo.org/viggle-ai-alternative"
+      },
+      {
+        "id_or_slug": "wan-2-5",
+        "title": "Wan 2 5",
+        "url": "https://picturetovideo.org/wan-2-5"
+      }
+    ],
+    "missing": []
+  },
+  "summrs.json": {
+    "site": "Summrs",
+    "prev": 80,
+    "raw_now": 100,
+    "new": [
+      {
+        "id_or_slug": "add-product-to-photo-ai",
+        "title": "Add Product To Photo AI",
+        "url": "https://www.summrs.com/add-product-to-photo-ai"
+      },
+      {
+        "id_or_slug": "ai-asmr-video-generator",
+        "title": "AI Asmr Video Generator",
+        "url": "https://www.summrs.com/ai-asmr-video-generator"
+      },
+      {
+        "id_or_slug": "ai-basketball-meme-generator",
+        "title": "AI Basketball Meme Generator",
+        "url": "https://www.summrs.com/ai-basketball-meme-generator"
+      },
+      {
+        "id_or_slug": "ai-color-grading-tool",
+        "title": "AI Color Grading Tool",
+        "url": "https://www.summrs.com/ai-color-grading-tool"
+      },
+      {
+        "id_or_slug": "ai-dance-generator",
+        "title": "AI Dance Generator",
+        "url": "https://www.summrs.com/ai-dance-generator"
+      },
+      {
+        "id_or_slug": "ai-explainer-video-generator",
+        "title": "AI Explainer Video Generator",
+        "url": "https://www.summrs.com/ai-explainer-video-generator"
+      },
+      {
+        "id_or_slug": "ai-face-swap-video",
+        "title": "AI Face Swap Video",
+        "url": "https://www.summrs.com/ai-face-swap-video"
+      },
+      {
+        "id_or_slug": "ai-freestyle-video-generator",
+        "title": "AI Freestyle Video Generator",
+        "url": "https://www.summrs.com/ai-freestyle-video-generator"
+      },
+      {
+        "id_or_slug": "ai-kissing-generator",
+        "title": "AI Kissing Generator",
+        "url": "https://www.summrs.com/ai-kissing-generator"
+      },
+      {
+        "id_or_slug": "ai-lip-sync-generator",
+        "title": "AI Lip Sync Generator",
+        "url": "https://www.summrs.com/ai-lip-sync-generator"
+      },
+      {
+        "id_or_slug": "ai-music-video-generator",
+        "title": "AI Music Video Generator",
+        "url": "https://www.summrs.com/ai-music-video-generator"
+      },
+      {
+        "id_or_slug": "ai-music-visualizer-generator",
+        "title": "AI Music Visualizer Generator",
+        "url": "https://www.summrs.com/ai-music-visualizer-generator"
+      },
+      {
+        "id_or_slug": "ai-object-remover",
+        "title": "AI Object Remover",
+        "url": "https://www.summrs.com/ai-object-remover"
+      },
+      {
+        "id_or_slug": "ai-outfit-generator",
+        "title": "AI Outfit Generator",
+        "url": "https://www.summrs.com/ai-outfit-generator"
+      },
+      {
+        "id_or_slug": "ai-person-holding-product-generator",
+        "title": "AI Person Holding Product Generator",
+        "url": "https://www.summrs.com/ai-person-holding-product-generator"
+      },
+      {
+        "id_or_slug": "ai-pet-animator",
+        "title": "AI Pet Animator",
+        "url": "https://www.summrs.com/ai-pet-animator"
+      },
+      {
+        "id_or_slug": "ai-silhouette-video-generator",
+        "title": "AI Silhouette Video Generator",
+        "url": "https://www.summrs.com/ai-silhouette-video-generator"
+      },
+      {
+        "id_or_slug": "ai-ugc-video-generator",
+        "title": "AI Ugc Video Generator",
+        "url": "https://www.summrs.com/ai-ugc-video-generator"
+      },
+      {
+        "id_or_slug": "ai-wedding-photo-editing",
+        "title": "AI Wedding Photo Editing",
+        "url": "https://www.summrs.com/ai-wedding-photo-editing"
+      },
+      {
+        "id_or_slug": "colorize-black-and-white-photos-ai",
+        "title": "Colorize Black And White Photos AI",
+        "url": "https://www.summrs.com/colorize-black-and-white-photos-ai"
+      },
+      {
+        "id_or_slug": "restore-old-photos-color-ai",
+        "title": "Restore Old Photos Color AI",
+        "url": "https://www.summrs.com/restore-old-photos-color-ai"
+      }
+    ],
+    "missing": [
+      {
+        "id_or_slug": "bigfoot-vlog",
+        "title": "Bigfoot Vlog",
+        "url": "https://www.summrs.com/bigfoot-vlog"
+      }
+    ]
+  },
+  "trendify.json": {
+    "site": "Trendify Video",
+    "prev": 14,
+    "raw_now": 14,
+    "new": [],
+    "missing": []
+  },
+  "rapvideo.json": {
+    "site": "RapVideo.ai",
+    "prev": 42,
+    "raw_now": 70,
+    "new": [
+      {
+        "id_or_slug": "ai-clone-video",
+        "title": "AI Clone Video",
+        "url": "https://rapvideo.ai/ai-clone-video"
+      },
+      {
+        "id_or_slug": "ai-dance-video",
+        "title": "AI Dance Video",
+        "url": "https://rapvideo.ai/ai-dance-video"
+      },
+      {
+        "id_or_slug": "ai-family-video",
+        "title": "AI Family Video",
+        "url": "https://rapvideo.ai/ai-family-video"
+      },
+      {
+        "id_or_slug": "ai-hug-deceased-loved-one",
+        "title": "AI Hug Deceased Loved One",
+        "url": "https://rapvideo.ai/ai-hug-deceased-loved-one"
+      },
+      {
+        "id_or_slug": "ai-hug-generator",
+        "title": "AI Hug Generator",
+        "url": "https://rapvideo.ai/ai-hug-generator"
+      },
+      {
+        "id_or_slug": "ai-music-video-generator",
+        "title": "AI Music Video Generator",
+        "url": "https://rapvideo.ai/ai-music-video-generator"
+      },
+      {
+        "id_or_slug": "ai-promo-video-for-small-business",
+        "title": "AI Promo Video For Small Business",
+        "url": "https://rapvideo.ai/ai-promo-video-for-small-business"
+      },
+      {
+        "id_or_slug": "ai-tribute-video",
+        "title": "AI Tribute Video",
+        "url": "https://rapvideo.ai/ai-tribute-video"
+      },
+      {
+        "id_or_slug": "ai-video-effects",
+        "title": "AI Video Effects",
+        "url": "https://rapvideo.ai/ai-video-effects"
+      },
+      {
+        "id_or_slug": "ai-video-of-yourself",
+        "title": "AI Video Of Yourself",
+        "url": "https://rapvideo.ai/ai-video-of-yourself"
+      },
+      {
+        "id_or_slug": "animate-old-photos",
+        "title": "Animate Old Photos",
+        "url": "https://rapvideo.ai/animate-old-photos"
+      },
+      {
+        "id_or_slug": "apple-touch-icon.png",
+        "title": "Apple Touch Icon.png",
+        "url": "https://rapvideo.ai/apple-touch-icon.png"
+      },
+      {
+        "id_or_slug": "birthday-rap-song",
+        "title": "Birthday Rap Song",
+        "url": "https://rapvideo.ai/birthday-rap-song"
+      },
+      {
+        "id_or_slug": "can-chatgpt-make-videos",
+        "title": "Can Chatgpt Make Videos",
+        "url": "https://rapvideo.ai/can-chatgpt-make-videos"
+      },
+      {
+        "id_or_slug": "diss-track-generator",
+        "title": "Diss Track Generator",
+        "url": "https://rapvideo.ai/diss-track-generator"
+      },
+      {
+        "id_or_slug": "earth-zoom-out",
+        "title": "Earth Zoom Out",
+        "url": "https://rapvideo.ai/earth-zoom-out"
+      },
+      {
+        "id_or_slug": "favicon.ico",
+        "title": "Favicon.ico",
+        "url": "https://rapvideo.ai/favicon.ico"
+      },
+      {
+        "id_or_slug": "funny-birthday-video",
+        "title": "Funny Birthday Video",
+        "url": "https://rapvideo.ai/funny-birthday-video"
+      },
+      {
+        "id_or_slug": "how-to-do-the-ai-trend-on-tiktok",
+        "title": "How To Do The AI Trend On Tiktok",
+        "url": "https://rapvideo.ai/how-to-do-the-ai-trend-on-tiktok"
+      },
+      {
+        "id_or_slug": "personalized-anniversary-song",
+        "title": "Personalized Anniversary Song",
+        "url": "https://rapvideo.ai/personalized-anniversary-song"
+      },
+      {
+        "id_or_slug": "personalized-birthday-song",
+        "title": "Personalized Birthday Song",
+        "url": "https://rapvideo.ai/personalized-birthday-song"
+      },
+      {
+        "id_or_slug": "personalized-christmas-song",
+        "title": "Personalized Christmas Song",
+        "url": "https://rapvideo.ai/personalized-christmas-song"
+      },
+      {
+        "id_or_slug": "personalized-love-song",
+        "title": "Personalized Love Song",
+        "url": "https://rapvideo.ai/personalized-love-song"
+      },
+      {
+        "id_or_slug": "photo-to-video-ai",
+        "title": "Photo To Video AI",
+        "url": "https://rapvideo.ai/photo-to-video-ai"
+      },
+      {
+        "id_or_slug": "rap-duo-name-generator",
+        "title": "Rap Duo Name Generator",
+        "url": "https://rapvideo.ai/rap-duo-name-generator"
+      },
+      {
+        "id_or_slug": "rap-maker",
+        "title": "Rap Maker",
+        "url": "https://rapvideo.ai/rap-maker"
+      },
+      {
+        "id_or_slug": "refund-policy",
+        "title": "Refund Policy",
+        "url": "https://rapvideo.ai/refund-policy"
+      },
+      {
+        "id_or_slug": "videos",
+        "title": "Videos",
+        "url": "https://rapvideo.ai/videos"
+      }
+    ],
+    "missing": []
+  },
+  "ricebowl.json": {
+    "site": "Ricebowl AI",
+    "prev": 72,
+    "raw_now": 344,
+    "new": [
+      {
+        "id_or_slug": "2027-new-year-ai-trend",
+        "title": "2027 New Year AI Trend",
+        "url": "https://ricebowl.ai/app/2027-new-year-ai-trend"
+      },
+      {
+        "id_or_slug": "50th-birthday-video",
+        "title": "50th Birthday Video",
+        "url": "https://ricebowl.ai/app/50th-birthday-video"
+      },
+      {
+        "id_or_slug": "90s-rom-com-ai-trend",
+        "title": "90s Rom Com AI Trend",
+        "url": "https://ricebowl.ai/app/90s-rom-com-ai-trend"
+      },
+      {
+        "id_or_slug": "a2o-lite-neon-dance",
+        "title": "A2o Lite Neon Dance",
+        "url": "https://ricebowl.ai/app/a2o-lite-neon-dance"
+      },
+      {
+        "id_or_slug": "abcdefg-i-need-money",
+        "title": "Abcdefg I Need Money",
+        "url": "https://ricebowl.ai/app/abcdefg-i-need-money"
+      },
+      {
+        "id_or_slug": "ai-arrest-filter",
+        "title": "AI Arrest Filter",
+        "url": "https://ricebowl.ai/app/ai-arrest-filter"
+      },
+      {
+        "id_or_slug": "ai-baby-generator",
+        "title": "AI Baby Generator",
+        "url": "https://ricebowl.ai/app/ai-baby-generator"
+      },
+      {
+        "id_or_slug": "ai-baby-podcast-generator",
+        "title": "AI Baby Podcast Generator",
+        "url": "https://ricebowl.ai/app/ai-baby-podcast-generator"
+      },
+      {
+        "id_or_slug": "ai-bald-filter",
+        "title": "AI Bald Filter",
+        "url": "https://ricebowl.ai/app/ai-bald-filter"
+      },
+      {
+        "id_or_slug": "ai-belly-dance",
+        "title": "AI Belly Dance",
+        "url": "https://ricebowl.ai/app/ai-belly-dance"
+      },
+      {
+        "id_or_slug": "ai-birthday-video-generator",
+        "title": "AI Birthday Video Generator",
+        "url": "https://ricebowl.ai/app/ai-birthday-video-generator"
+      },
+      {
+        "id_or_slug": "ai-car-video-from-photo",
+        "title": "AI Car Video From Photo",
+        "url": "https://ricebowl.ai/app/ai-car-video-from-photo"
+      },
+      {
+        "id_or_slug": "ai-cat-rap-video",
+        "title": "AI Cat Rap Video",
+        "url": "https://ricebowl.ai/app/ai-cat-rap-video"
+      },
+      {
+        "id_or_slug": "ai-christmas-card-generator",
+        "title": "AI Christmas Card Generator",
+        "url": "https://ricebowl.ai/app/ai-christmas-card-generator"
+      },
+      {
+        "id_or_slug": "ai-christmas-video-generator",
+        "title": "AI Christmas Video Generator",
+        "url": "https://ricebowl.ai/app/ai-christmas-video-generator"
+      },
+      {
+        "id_or_slug": "ai-couple-cliff-prank",
+        "title": "AI Couple Cliff Prank",
+        "url": "https://ricebowl.ai/app/ai-couple-cliff-prank"
+      },
+      {
+        "id_or_slug": "ai-crying-filter",
+        "title": "AI Crying Filter",
+        "url": "https://ricebowl.ai/app/ai-crying-filter"
+      },
+      {
+        "id_or_slug": "ai-dance-generator",
+        "title": "AI Dance Generator",
+        "url": "https://ricebowl.ai/app/ai-dance-generator"
+      },
+      {
+        "id_or_slug": "ai-dog-christmas-video",
+        "title": "AI Dog Christmas Video",
+        "url": "https://ricebowl.ai/app/ai-dog-christmas-video"
+      },
+      {
+        "id_or_slug": "ai-dog-making-coffee",
+        "title": "AI Dog Making Coffee",
+        "url": "https://ricebowl.ai/app/ai-dog-making-coffee"
+      },
+      {
+        "id_or_slug": "ai-dunk-video",
+        "title": "AI Dunk Video",
+        "url": "https://ricebowl.ai/app/ai-dunk-video"
+      },
+      {
+        "id_or_slug": "ai-elf-dance-video",
+        "title": "AI Elf Dance Video",
+        "url": "https://ricebowl.ai/app/ai-elf-dance-video"
+      },
+      {
+        "id_or_slug": "ai-family-photo-generator",
+        "title": "AI Family Photo Generator",
+        "url": "https://ricebowl.ai/app/ai-family-photo-generator"
+      },
+      {
+        "id_or_slug": "ai-family-video",
+        "title": "AI Family Video",
+        "url": "https://ricebowl.ai/app/ai-family-video"
+      },
+      {
+        "id_or_slug": "ai-fight-video-generator",
+        "title": "AI Fight Video Generator",
+        "url": "https://ricebowl.ai/app/ai-fight-video-generator"
+      },
+      {
+        "id_or_slug": "ai-gender-reveal-video",
+        "title": "AI Gender Reveal Video",
+        "url": "https://ricebowl.ai/app/ai-gender-reveal-video"
+      },
+      {
+        "id_or_slug": "ai-glow-up",
+        "title": "AI Glow Up",
+        "url": "https://ricebowl.ai/app/ai-glow-up"
+      },
+      {
+        "id_or_slug": "ai-halloween-costume",
+        "title": "AI Halloween Costume",
+        "url": "https://ricebowl.ai/app/ai-halloween-costume"
+      },
+      {
+        "id_or_slug": "ai-hug-deceased-loved-one",
+        "title": "AI Hug Deceased Loved One",
+        "url": "https://ricebowl.ai/app/ai-hug-deceased-loved-one"
+      },
+      {
+        "id_or_slug": "ai-hug-generator",
+        "title": "AI Hug Generator",
+        "url": "https://ricebowl.ai/app/ai-hug-generator"
+      },
+      {
+        "id_or_slug": "ai-mecha-transformation",
+        "title": "AI Mecha Transformation",
+        "url": "https://ricebowl.ai/app/ai-mecha-transformation"
+      },
+      {
+        "id_or_slug": "ai-memorial-video-generator",
+        "title": "AI Memorial Video Generator",
+        "url": "https://ricebowl.ai/app/ai-memorial-video-generator"
+      },
+      {
+        "id_or_slug": "ai-mentalist-trend",
+        "title": "AI Mentalist Trend",
+        "url": "https://ricebowl.ai/app/ai-mentalist-trend"
+      },
+      {
+        "id_or_slug": "ai-new-year-video",
+        "title": "AI New Year Video",
+        "url": "https://ricebowl.ai/app/ai-new-year-video"
+      },
+      {
+        "id_or_slug": "ai-pet-dance-generator",
+        "title": "AI Pet Dance Generator",
+        "url": "https://ricebowl.ai/app/ai-pet-dance-generator"
+      },
+      {
+        "id_or_slug": "ai-pet-podcast-generator",
+        "title": "AI Pet Podcast Generator",
+        "url": "https://ricebowl.ai/app/ai-pet-podcast-generator"
+      },
+      {
+        "id_or_slug": "ai-pet-video-generator",
+        "title": "AI Pet Video Generator",
+        "url": "https://ricebowl.ai/app/ai-pet-video-generator"
+      },
+      {
+        "id_or_slug": "ai-pixie-haircut-filter",
+        "title": "AI Pixie Haircut Filter",
+        "url": "https://ricebowl.ai/app/ai-pixie-haircut-filter"
+      },
+      {
+        "id_or_slug": "ai-pregnancy-announcement-video",
+        "title": "AI Pregnancy Announcement Video",
+        "url": "https://ricebowl.ai/app/ai-pregnancy-announcement-video"
+      },
+      {
+        "id_or_slug": "ai-rap-duo",
+        "title": "AI Rap Duo",
+        "url": "https://ricebowl.ai/app/ai-rap-duo"
+      },
+      {
+        "id_or_slug": "ai-rap-video",
+        "title": "AI Rap Video",
+        "url": "https://ricebowl.ai/app/ai-rap-video"
+      },
+      {
+        "id_or_slug": "ai-retirement-video",
+        "title": "AI Retirement Video",
+        "url": "https://ricebowl.ai/app/ai-retirement-video"
+      },
+      {
+        "id_or_slug": "ai-santa-video",
+        "title": "AI Santa Video",
+        "url": "https://ricebowl.ai/app/ai-santa-video"
+      },
+      {
+        "id_or_slug": "ai-singing-video",
+        "title": "AI Singing Video",
+        "url": "https://ricebowl.ai/app/ai-singing-video"
+      },
+      {
+        "id_or_slug": "ai-talking-photo",
+        "title": "AI Talking Photo",
+        "url": "https://ricebowl.ai/app/ai-talking-photo"
+      },
+      {
+        "id_or_slug": "ai-tribute-video",
+        "title": "AI Tribute Video",
+        "url": "https://ricebowl.ai/app/ai-tribute-video"
+      },
+      {
+        "id_or_slug": "ai-twerk-generator",
+        "title": "AI Twerk Generator",
+        "url": "https://ricebowl.ai/app/ai-twerk-generator"
+      },
+      {
+        "id_or_slug": "ai-virtual-try-on",
+        "title": "AI Virtual Try On",
+        "url": "https://ricebowl.ai/app/ai-virtual-try-on"
+      },
+      {
+        "id_or_slug": "ai-wedding-video",
+        "title": "AI Wedding Video",
+        "url": "https://ricebowl.ai/app/ai-wedding-video"
+      },
+      {
+        "id_or_slug": "airplane-flying-over-head-ai-trend",
+        "title": "Airplane Flying Over Head AI Trend",
+        "url": "https://ricebowl.ai/app/airplane-flying-over-head-ai-trend"
+      },
+      {
+        "id_or_slug": "airport-celebrity-ai-video",
+        "title": "Airport Celebrity AI Video",
+        "url": "https://ricebowl.ai/app/airport-celebrity-ai-video"
+      },
+      {
+        "id_or_slug": "ali-g-driving-scene",
+        "title": "Ali G Driving Scene",
+        "url": "https://ricebowl.ai/app/ali-g-driving-scene"
+      },
+      {
+        "id_or_slug": "alors-on-danse-ai-meme",
+        "title": "Alors On Danse AI Meme",
+        "url": "https://ricebowl.ai/app/alors-on-danse-ai-meme"
+      },
+      {
+        "id_or_slug": "angel-devil-filter",
+        "title": "Angel Devil Filter",
+        "url": "https://ricebowl.ai/app/angel-devil-filter"
+      },
+      {
+        "id_or_slug": "animate-old-photos",
+        "title": "Animate Old Photos",
+        "url": "https://ricebowl.ai/app/animate-old-photos"
+      },
+      {
+        "id_or_slug": "animate-photos",
+        "title": "Animate Photos",
+        "url": "https://ricebowl.ai/app/animate-photos"
+      },
+      {
+        "id_or_slug": "animated-christmas-card",
+        "title": "Animated Christmas Card",
+        "url": "https://ricebowl.ai/app/animated-christmas-card"
+      },
+      {
+        "id_or_slug": "animated-thanksgiving-card",
+        "title": "Animated Thanksgiving Card",
+        "url": "https://ricebowl.ai/app/animated-thanksgiving-card"
+      },
+      {
+        "id_or_slug": "anniversary-video-maker",
+        "title": "Anniversary Video Maker",
+        "url": "https://ricebowl.ai/app/anniversary-video-maker"
+      },
+      {
+        "id_or_slug": "baby-born-with-mustache",
+        "title": "Baby Born With Mustache",
+        "url": "https://ricebowl.ai/app/baby-born-with-mustache"
+      },
+      {
+        "id_or_slug": "baby-dancing-ai",
+        "title": "Baby Dancing AI",
+        "url": "https://ricebowl.ai/app/baby-dancing-ai"
+      },
+      {
+        "id_or_slug": "bad-times-ai-video",
+        "title": "Bad Times AI Video",
+        "url": "https://ricebowl.ai/app/bad-times-ai-video"
+      },
+      {
+        "id_or_slug": "baile-charme-dance",
+        "title": "Baile Charme Dance",
+        "url": "https://ricebowl.ai/app/baile-charme-dance"
+      },
+      {
+        "id_or_slug": "ballon-dor-winner-ai",
+        "title": "Ballon Dor Winner AI",
+        "url": "https://ricebowl.ai/app/ballon-dor-winner-ai"
+      },
+      {
+        "id_or_slug": "barbie-ai-dance",
+        "title": "Barbie AI Dance",
+        "url": "https://ricebowl.ai/app/barbie-ai-dance"
+      },
+      {
+        "id_or_slug": "basketball-middle-finger",
+        "title": "Basketball Middle Finger",
+        "url": "https://ricebowl.ai/app/basketball-middle-finger"
+      },
+      {
+        "id_or_slug": "bing-bing-bing-kicking",
+        "title": "Bing Bing Bing Kicking",
+        "url": "https://ricebowl.ai/app/bing-bing-bing-kicking"
+      },
+      {
+        "id_or_slug": "birds-of-a-feather-ai-video-generator",
+        "title": "Birds Of A Feather AI Video Generator",
+        "url": "https://ricebowl.ai/app/birds-of-a-feather-ai-video-generator"
+      },
+      {
+        "id_or_slug": "birthday-surprise-video",
+        "title": "Birthday Surprise Video",
+        "url": "https://ricebowl.ai/app/birthday-surprise-video"
+      },
+      {
+        "id_or_slug": "birthday-video-card",
+        "title": "Birthday Video Card",
+        "url": "https://ricebowl.ai/app/birthday-video-card"
+      },
+      {
+        "id_or_slug": "birthday-video-message",
+        "title": "Birthday Video Message",
+        "url": "https://ricebowl.ai/app/birthday-video-message"
+      },
+      {
+        "id_or_slug": "black-and-white-cinematic-ai-video",
+        "title": "Black And White Cinematic AI Video",
+        "url": "https://ricebowl.ai/app/black-and-white-cinematic-ai-video"
+      },
+      {
+        "id_or_slug": "black-friday-video-maker",
+        "title": "Black Friday Video Maker",
+        "url": "https://ricebowl.ai/app/black-friday-video-maker"
+      },
+      {
+        "id_or_slug": "bonito-bonito-ai-baby-dance",
+        "title": "Bonito Bonito AI Baby Dance",
+        "url": "https://ricebowl.ai/app/bonito-bonito-ai-baby-dance"
+      },
+      {
+        "id_or_slug": "boyfriend-makeup-prank-filter",
+        "title": "Boyfriend Makeup Prank Filter",
+        "url": "https://ricebowl.ai/app/boyfriend-makeup-prank-filter"
+      },
+      {
+        "id_or_slug": "bring-photos-to-life",
+        "title": "Bring Photos To Life",
+        "url": "https://ricebowl.ai/app/bring-photos-to-life"
+      },
+      {
+        "id_or_slug": "broccoli-throw-ai-video",
+        "title": "Broccoli Throw AI Video",
+        "url": "https://ricebowl.ai/app/broccoli-throw-ai-video"
+      },
+      {
+        "id_or_slug": "bts-swim-dance-ai-video",
+        "title": "Bts Swim Dance AI Video",
+        "url": "https://ricebowl.ai/app/bts-swim-dance-ai-video"
+      },
+      {
+        "id_or_slug": "bulin-47-freestyle-ai",
+        "title": "Bulin 47 Freestyle AI",
+        "url": "https://ricebowl.ai/app/bulin-47-freestyle-ai"
+      },
+      {
+        "id_or_slug": "bullet-bike-ai-video-generator",
+        "title": "Bullet Bike AI Video Generator",
+        "url": "https://ricebowl.ai/app/bullet-bike-ai-video-generator"
+      },
+      {
+        "id_or_slug": "burning-bridges-ai-video",
+        "title": "Burning Bridges AI Video",
+        "url": "https://ricebowl.ai/app/burning-bridges-ai-video"
+      },
+      {
+        "id_or_slug": "c-walk-ai-dance",
+        "title": "C Walk AI Dance",
+        "url": "https://ricebowl.ai/app/c-walk-ai-dance"
+      },
+      {
+        "id_or_slug": "can-can-dance-ai",
+        "title": "Can Can Dance AI",
+        "url": "https://ricebowl.ai/app/can-can-dance-ai"
+      },
+      {
+        "id_or_slug": "car-alarm-dance",
+        "title": "Car Alarm Dance",
+        "url": "https://ricebowl.ai/app/car-alarm-dance"
+      },
+      {
+        "id_or_slug": "car-jump-ai-video",
+        "title": "Car Jump AI Video",
+        "url": "https://ricebowl.ai/app/car-jump-ai-video"
+      },
+      {
+        "id_or_slug": "car-reveal-video-template",
+        "title": "Car Reveal Video Template",
+        "url": "https://ricebowl.ai/app/car-reveal-video-template"
+      },
+      {
+        "id_or_slug": "casa-tupka-ai-video",
+        "title": "Casa Tupka AI Video",
+        "url": "https://ricebowl.ai/app/casa-tupka-ai-video"
+      },
+      {
+        "id_or_slug": "cats-making-coffee-ai-video-generator",
+        "title": "Cats Making Coffee AI Video Generator",
+        "url": "https://ricebowl.ai/app/cats-making-coffee-ai-video-generator"
+      },
+      {
+        "id_or_slug": "ceiling-fan-outfit-change-ai",
+        "title": "Ceiling Fan Outfit Change AI",
+        "url": "https://ricebowl.ai/app/ceiling-fan-outfit-change-ai"
+      },
+      {
+        "id_or_slug": "champagne-pop-birthday-ai-video",
+        "title": "Champagne Pop Birthday AI Video",
+        "url": "https://ricebowl.ai/app/champagne-pop-birthday-ai-video"
+      },
+      {
+        "id_or_slug": "chinaza-dynamic-filter-ai-video",
+        "title": "Chinaza Dynamic Filter AI Video",
+        "url": "https://ricebowl.ai/app/chinaza-dynamic-filter-ai-video"
+      },
+      {
+        "id_or_slug": "chipmunks-dance",
+        "title": "Chipmunks Dance",
+        "url": "https://ricebowl.ai/app/chipmunks-dance"
+      },
+      {
+        "id_or_slug": "choosin-texas-emo",
+        "title": "Choosin Texas Emo",
+        "url": "https://ricebowl.ai/app/choosin-texas-emo"
+      },
+      {
+        "id_or_slug": "christmas-eve-message-from-santa",
+        "title": "Christmas Eve Message From Santa",
+        "url": "https://ricebowl.ai/app/christmas-eve-message-from-santa"
+      },
+      {
+        "id_or_slug": "christmas-princess-carriage-ai-trend",
+        "title": "Christmas Princess Carriage AI Trend",
+        "url": "https://ricebowl.ai/app/christmas-princess-carriage-ai-trend"
+      },
+      {
+        "id_or_slug": "cilvelim-ai-trend",
+        "title": "Cilvelim AI Trend",
+        "url": "https://ricebowl.ai/app/cilvelim-ai-trend"
+      },
+      {
+        "id_or_slug": "clapping-cat-meme",
+        "title": "Clapping Cat Meme",
+        "url": "https://ricebowl.ai/app/clapping-cat-meme"
+      },
+      {
+        "id_or_slug": "coldplay-kiss-cam-generator",
+        "title": "Coldplay Kiss Cam Generator",
+        "url": "https://ricebowl.ai/app/coldplay-kiss-cam-generator"
+      },
+      {
+        "id_or_slug": "convertible-coffee-drive-ai-video",
+        "title": "Convertible Coffee Drive AI Video",
+        "url": "https://ricebowl.ai/app/convertible-coffee-drive-ai-video"
+      },
+      {
+        "id_or_slug": "corpse-bride-ai",
+        "title": "Corpse Bride AI",
+        "url": "https://ricebowl.ai/app/corpse-bride-ai"
+      },
+      {
+        "id_or_slug": "crazy-frog-ai-video",
+        "title": "Crazy Frog AI Video",
+        "url": "https://ricebowl.ai/app/crazy-frog-ai-video"
+      },
+      {
+        "id_or_slug": "damon-salvatore-ai-video",
+        "title": "Damon Salvatore AI Video",
+        "url": "https://ricebowl.ai/app/damon-salvatore-ai-video"
+      },
+      {
+        "id_or_slug": "day-of-the-dead-ai-video",
+        "title": "Day Of The Dead AI Video",
+        "url": "https://ricebowl.ai/app/day-of-the-dead-ai-video"
+      },
+      {
+        "id_or_slug": "deck-the-halls-dance",
+        "title": "Deck The Halls Dance",
+        "url": "https://ricebowl.ai/app/deck-the-halls-dance"
+      },
+      {
+        "id_or_slug": "deep-down-in-my-heart-ai",
+        "title": "Deep Down In My Heart AI",
+        "url": "https://ricebowl.ai/app/deep-down-in-my-heart-ai"
+      },
+      {
+        "id_or_slug": "devil-wears-prada-ai",
+        "title": "Devil Wears Prada AI",
+        "url": "https://ricebowl.ai/app/devil-wears-prada-ai"
+      },
+      {
+        "id_or_slug": "diwali-ai-transformation-video",
+        "title": "Diwali AI Transformation Video",
+        "url": "https://ricebowl.ai/app/diwali-ai-transformation-video"
+      },
+      {
+        "id_or_slug": "dog-pool-party-ai-dance",
+        "title": "Dog Pool Party AI Dance",
+        "url": "https://ricebowl.ai/app/dog-pool-party-ai-dance"
+      },
+      {
+        "id_or_slug": "dog-year-recap-video",
+        "title": "Dog Year Recap Video",
+        "url": "https://ricebowl.ai/app/dog-year-recap-video"
+      },
+      {
+        "id_or_slug": "dominican-papi-ai-dance-generator",
+        "title": "Dominican Papi AI Dance Generator",
+        "url": "https://ricebowl.ai/app/dominican-papi-ai-dance-generator"
+      },
+      {
+        "id_or_slug": "dugun-oyunu-ai-trend",
+        "title": "Dugun Oyunu AI Trend",
+        "url": "https://ricebowl.ai/app/dugun-oyunu-ai-trend"
+      },
+      {
+        "id_or_slug": "elf-on-the-shelf-video",
+        "title": "Elf On The Shelf Video",
+        "url": "https://ricebowl.ai/app/elf-on-the-shelf-video"
+      },
+      {
+        "id_or_slug": "elf-yourself",
+        "title": "Elf Yourself",
+        "url": "https://ricebowl.ai/app/elf-yourself"
+      },
+      {
+        "id_or_slug": "enchantress-filter-ai",
+        "title": "Enchantress Filter AI",
+        "url": "https://ricebowl.ai/app/enchantress-filter-ai"
+      },
+      {
+        "id_or_slug": "enzo-fernandez-celebration-ai-video",
+        "title": "Enzo Fernandez Celebration AI Video",
+        "url": "https://ricebowl.ai/app/enzo-fernandez-celebration-ai-video"
+      },
+      {
+        "id_or_slug": "fergie-baby-harlem-walk-ai-video",
+        "title": "Fergie Baby Harlem Walk AI Video",
+        "url": "https://ricebowl.ai/app/fergie-baby-harlem-walk-ai-video"
+      },
+      {
+        "id_or_slug": "flying-car-ai-video",
+        "title": "Flying Car AI Video",
+        "url": "https://ricebowl.ai/app/flying-car-ai-video"
+      },
+      {
+        "id_or_slug": "fnaf-jumpscare-ai",
+        "title": "Fnaf Jumpscare AI",
+        "url": "https://ricebowl.ai/app/fnaf-jumpscare-ai"
+      },
+      {
+        "id_or_slug": "funeral-tribute-video",
+        "title": "Funeral Tribute Video",
+        "url": "https://ricebowl.ai/app/funeral-tribute-video"
+      },
+      {
+        "id_or_slug": "funny-birthday-ecard",
+        "title": "Funny Birthday Ecard",
+        "url": "https://ricebowl.ai/app/funny-birthday-ecard"
+      },
+      {
+        "id_or_slug": "funny-birthday-video",
+        "title": "Funny Birthday Video",
+        "url": "https://ricebowl.ai/app/funny-birthday-video"
+      },
+      {
+        "id_or_slug": "funny-birthday-video-maker",
+        "title": "Funny Birthday Video Maker",
+        "url": "https://ricebowl.ai/app/funny-birthday-video-maker"
+      },
+      {
+        "id_or_slug": "funny-christmas-video",
+        "title": "Funny Christmas Video",
+        "url": "https://ricebowl.ai/app/funny-christmas-video"
+      },
+      {
+        "id_or_slug": "funny-thanksgiving-video",
+        "title": "Funny Thanksgiving Video",
+        "url": "https://ricebowl.ai/app/funny-thanksgiving-video"
+      },
+      {
+        "id_or_slug": "fuzzy-dream-dance",
+        "title": "Fuzzy Dream Dance",
+        "url": "https://ricebowl.ai/app/fuzzy-dream-dance"
+      },
+      {
+        "id_or_slug": "gangnam-style-ai",
+        "title": "Gangnam Style AI",
+        "url": "https://ricebowl.ai/app/gangnam-style-ai"
+      },
+      {
+        "id_or_slug": "gangnam-style-ai-dance",
+        "title": "Gangnam Style AI Dance",
+        "url": "https://ricebowl.ai/app/gangnam-style-ai-dance"
+      },
+      {
+        "id_or_slug": "gangstas-paradise-ai-trend",
+        "title": "Gangstas Paradise AI Trend",
+        "url": "https://ricebowl.ai/app/gangstas-paradise-ai-trend"
+      },
+      {
+        "id_or_slug": "gas-station-dance",
+        "title": "Gas Station Dance",
+        "url": "https://ricebowl.ai/app/gas-station-dance"
+      },
+      {
+        "id_or_slug": "gemini-rain-ai-effect",
+        "title": "Gemini Rain AI Effect",
+        "url": "https://ricebowl.ai/app/gemini-rain-ai-effect"
+      },
+      {
+        "id_or_slug": "ghost-filter-prank-ai",
+        "title": "Ghost Filter Prank AI",
+        "url": "https://ricebowl.ai/app/ghost-filter-prank-ai"
+      },
+      {
+        "id_or_slug": "ghost-photoshoot-trend",
+        "title": "Ghost Photoshoot Trend",
+        "url": "https://ricebowl.ai/app/ghost-photoshoot-trend"
+      },
+      {
+        "id_or_slug": "giant-cat-ai-video",
+        "title": "Giant Cat AI Video",
+        "url": "https://ricebowl.ai/app/giant-cat-ai-video"
+      },
+      {
+        "id_or_slug": "giant-hands-dress-up-ai-video-generator",
+        "title": "Giant Hands Dress Up AI Video Generator",
+        "url": "https://ricebowl.ai/app/giant-hands-dress-up-ai-video-generator"
+      },
+      {
+        "id_or_slug": "goodbye-2026-welcome-2027",
+        "title": "Goodbye 2026 Welcome 2027",
+        "url": "https://ricebowl.ai/app/goodbye-2026-welcome-2027"
+      },
+      {
+        "id_or_slug": "grease-dance-ai",
+        "title": "Grease Dance AI",
+        "url": "https://ricebowl.ai/app/grease-dance-ai"
+      },
+      {
+        "id_or_slug": "grinch-pet-ai-trend",
+        "title": "Grinch Pet AI Trend",
+        "url": "https://ricebowl.ai/app/grinch-pet-ai-trend"
+      },
+      {
+        "id_or_slug": "gym-pet-one-more-rep-ai-video",
+        "title": "Gym Pet One More Rep AI Video",
+        "url": "https://ricebowl.ai/app/gym-pet-one-more-rep-ai-video"
+      },
+      {
+        "id_or_slug": "halloween-pumpkin-head",
+        "title": "Halloween Pumpkin Head",
+        "url": "https://ricebowl.ai/app/halloween-pumpkin-head"
+      },
+      {
+        "id_or_slug": "halloween-transformation-video",
+        "title": "Halloween Transformation Video",
+        "url": "https://ricebowl.ai/app/halloween-transformation-video"
+      },
+      {
+        "id_or_slug": "happy-birthday-boyfriend-video",
+        "title": "Happy Birthday Boyfriend Video",
+        "url": "https://ricebowl.ai/app/happy-birthday-boyfriend-video"
+      },
+      {
+        "id_or_slug": "happy-birthday-cat-video",
+        "title": "Happy Birthday Cat Video",
+        "url": "https://ricebowl.ai/app/happy-birthday-cat-video"
+      },
+      {
+        "id_or_slug": "happy-birthday-dad-video",
+        "title": "Happy Birthday Dad Video",
+        "url": "https://ricebowl.ai/app/happy-birthday-dad-video"
+      },
+      {
+        "id_or_slug": "happy-birthday-dog-video",
+        "title": "Happy Birthday Dog Video",
+        "url": "https://ricebowl.ai/app/happy-birthday-dog-video"
+      },
+      {
+        "id_or_slug": "happy-birthday-girlfriend-video",
+        "title": "Happy Birthday Girlfriend Video",
+        "url": "https://ricebowl.ai/app/happy-birthday-girlfriend-video"
+      },
+      {
+        "id_or_slug": "happy-birthday-grandma-video",
+        "title": "Happy Birthday Grandma Video",
+        "url": "https://ricebowl.ai/app/happy-birthday-grandma-video"
+      },
+      {
+        "id_or_slug": "happy-birthday-husband-video",
+        "title": "Happy Birthday Husband Video",
+        "url": "https://ricebowl.ai/app/happy-birthday-husband-video"
+      },
+      {
+        "id_or_slug": "happy-birthday-mom-video",
+        "title": "Happy Birthday Mom Video",
+        "url": "https://ricebowl.ai/app/happy-birthday-mom-video"
+      },
+      {
+        "id_or_slug": "happy-birthday-sister-video",
+        "title": "Happy Birthday Sister Video",
+        "url": "https://ricebowl.ai/app/happy-birthday-sister-video"
+      },
+      {
+        "id_or_slug": "happy-birthday-wife-video",
+        "title": "Happy Birthday Wife Video",
+        "url": "https://ricebowl.ai/app/happy-birthday-wife-video"
+      },
+      {
+        "id_or_slug": "happy-new-year-video",
+        "title": "Happy New Year Video",
+        "url": "https://ricebowl.ai/app/happy-new-year-video"
+      },
+      {
+        "id_or_slug": "heavenly-reunion-ai-video",
+        "title": "Heavenly Reunion AI Video",
+        "url": "https://ricebowl.ai/app/heavenly-reunion-ai-video"
+      },
+      {
+        "id_or_slug": "hit-the-road-dude-ai-video",
+        "title": "Hit The Road Dude AI Video",
+        "url": "https://ricebowl.ai/app/hit-the-road-dude-ai-video"
+      },
+      {
+        "id_or_slug": "hotel-lobby-ai",
+        "title": "Hotel Lobby AI",
+        "url": "https://ricebowl.ai/app/hotel-lobby-ai"
+      },
+      {
+        "id_or_slug": "hotline-bling-ai-trend",
+        "title": "Hotline Bling AI Trend",
+        "url": "https://ricebowl.ai/app/hotline-bling-ai-trend"
+      },
+      {
+        "id_or_slug": "hug-your-younger-self",
+        "title": "Hug Your Younger Self",
+        "url": "https://ricebowl.ai/app/hug-your-younger-self"
+      },
+      {
+        "id_or_slug": "i-feel-like-nicole-ai-video",
+        "title": "I Feel Like Nicole AI Video",
+        "url": "https://ricebowl.ai/app/i-feel-like-nicole-ai-video"
+      },
+      {
+        "id_or_slug": "i-wanna-love-you-ai-video",
+        "title": "I Wanna Love You AI Video",
+        "url": "https://ricebowl.ai/app/i-wanna-love-you-ai-video"
+      },
+      {
+        "id_or_slug": "illit-you-re-under-arrest-ai-dance",
+        "title": "Illit You Re Under Arrest AI Dance",
+        "url": "https://ricebowl.ai/app/illit-you-re-under-arrest-ai-dance"
+      },
+      {
+        "id_or_slug": "im-not-yo-b-no-more-ai-dance",
+        "title": "Im Not Yo B No More AI Dance",
+        "url": "https://ricebowl.ai/app/im-not-yo-b-no-more-ai-dance"
+      },
+      {
+        "id_or_slug": "im-so-in-love-with-you-ai-dance",
+        "title": "Im So In Love With You AI Dance",
+        "url": "https://ricebowl.ai/app/im-so-in-love-with-you-ai-dance"
+      },
+      {
+        "id_or_slug": "insallah-masallah-ai-trend",
+        "title": "Insallah Masallah AI Trend",
+        "url": "https://ricebowl.ai/app/insallah-masallah-ai-trend"
+      },
+      {
+        "id_or_slug": "its-my-life-dog-ai-video-generator",
+        "title": "Its My Life Dog AI Video Generator",
+        "url": "https://ricebowl.ai/app/its-my-life-dog-ai-video-generator"
+      },
+      {
+        "id_or_slug": "its-time-christmas-ai-trend",
+        "title": "Its Time Christmas AI Trend",
+        "url": "https://ricebowl.ai/app/its-time-christmas-ai-trend"
+      },
+      {
+        "id_or_slug": "jawn-dance-ai",
+        "title": "Jawn Dance AI",
+        "url": "https://ricebowl.ai/app/jawn-dance-ai"
+      },
+      {
+        "id_or_slug": "jme-check-one-check-two",
+        "title": "Jme Check One Check Two",
+        "url": "https://ricebowl.ai/app/jme-check-one-check-two"
+      },
+      {
+        "id_or_slug": "karwa-chauth-ai-video-generator",
+        "title": "Karwa Chauth AI Video Generator",
+        "url": "https://ricebowl.ai/app/karwa-chauth-ai-video-generator"
+      },
+      {
+        "id_or_slug": "kda-firestarter-dance",
+        "title": "Kda Firestarter Dance",
+        "url": "https://ricebowl.ai/app/kda-firestarter-dance"
+      },
+      {
+        "id_or_slug": "keep-on-steppin-ai-dance-video",
+        "title": "Keep On Steppin AI Dance Video",
+        "url": "https://ricebowl.ai/app/keep-on-steppin-ai-dance-video"
+      },
+      {
+        "id_or_slug": "kiat-jud-dai-kitten-parade",
+        "title": "Kiat Jud Dai Kitten Parade",
+        "url": "https://ricebowl.ai/app/kiat-jud-dai-kitten-parade"
+      },
+      {
+        "id_or_slug": "knight-cat-ai",
+        "title": "Knight Cat AI",
+        "url": "https://ricebowl.ai/app/knight-cat-ai"
+      },
+      {
+        "id_or_slug": "la-calabaza-dance",
+        "title": "La Calabaza Dance",
+        "url": "https://ricebowl.ai/app/la-calabaza-dance"
+      },
+      {
+        "id_or_slug": "la-mujer-del-pelotero-ai-dance",
+        "title": "La Mujer Del Pelotero AI Dance",
+        "url": "https://ricebowl.ai/app/la-mujer-del-pelotero-ai-dance"
+      },
+      {
+        "id_or_slug": "lamine-yamal-rabona-ai",
+        "title": "Lamine Yamal Rabona AI",
+        "url": "https://ricebowl.ai/app/lamine-yamal-rabona-ai"
+      },
+      {
+        "id_or_slug": "last-dance-ai-trend",
+        "title": "Last Dance AI Trend",
+        "url": "https://ricebowl.ai/app/last-dance-ai-trend"
+      },
+      {
+        "id_or_slug": "layoo-ai-dance",
+        "title": "Layoo AI Dance",
+        "url": "https://ricebowl.ai/app/layoo-ai-dance"
+      },
+      {
+        "id_or_slug": "lego-truck-wash-ai-video",
+        "title": "Lego Truck Wash AI Video",
+        "url": "https://ricebowl.ai/app/lego-truck-wash-ai-video"
+      },
+      {
+        "id_or_slug": "like-jennie-ai-trend",
+        "title": "Like Jennie AI Trend",
+        "url": "https://ricebowl.ai/app/like-jennie-ai-trend"
+      },
+      {
+        "id_or_slug": "lil-durk-king-von-back-again",
+        "title": "Lil Durk King Von Back Again",
+        "url": "https://ricebowl.ai/app/lil-durk-king-von-back-again"
+      },
+      {
+        "id_or_slug": "lil-t-jones-dance",
+        "title": "Lil T Jones Dance",
+        "url": "https://ricebowl.ai/app/lil-t-jones-dance"
+      },
+      {
+        "id_or_slug": "lisa-tarantino-dance",
+        "title": "Lisa Tarantino Dance",
+        "url": "https://ricebowl.ai/app/lisa-tarantino-dance"
+      },
+      {
+        "id_or_slug": "lonyo-ai-dance",
+        "title": "Lonyo AI Dance",
+        "url": "https://ricebowl.ai/app/lonyo-ai-dance"
+      },
+      {
+        "id_or_slug": "make-old-photos-talk",
+        "title": "Make Old Photos Talk",
+        "url": "https://ricebowl.ai/app/make-old-photos-talk"
+      },
+      {
+        "id_or_slug": "mandem-in-disguise",
+        "title": "Mandem In Disguise",
+        "url": "https://ricebowl.ai/app/mandem-in-disguise"
+      },
+      {
+        "id_or_slug": "marigold-bridge-ai-video-generator",
+        "title": "Marigold Bridge AI Video Generator",
+        "url": "https://ricebowl.ai/app/marigold-bridge-ai-video-generator"
+      },
+      {
+        "id_or_slug": "meimei-dance",
+        "title": "Meimei Dance",
+        "url": "https://ricebowl.ai/app/meimei-dance"
+      },
+      {
+        "id_or_slug": "mi-chico-dance-ai-trend",
+        "title": "Mi Chico Dance AI Trend",
+        "url": "https://ricebowl.ai/app/mi-chico-dance-ai-trend"
+      },
+      {
+        "id_or_slug": "michael-jackson-ai-dance",
+        "title": "Michael Jackson AI Dance",
+        "url": "https://ricebowl.ai/app/michael-jackson-ai-dance"
+      },
+      {
+        "id_or_slug": "mickey-mickey-ds-dance",
+        "title": "Mickey Mickey Ds Dance",
+        "url": "https://ricebowl.ai/app/mickey-mickey-ds-dance"
+      },
+      {
+        "id_or_slug": "migos-ai",
+        "title": "Migos AI",
+        "url": "https://ricebowl.ai/app/migos-ai"
+      },
+      {
+        "id_or_slug": "missed-train-dance",
+        "title": "Missed Train Dance",
+        "url": "https://ricebowl.ai/app/missed-train-dance"
+      },
+      {
+        "id_or_slug": "mom-dad-sister-brother-trend",
+        "title": "Mom Dad Sister Brother Trend",
+        "url": "https://ricebowl.ai/app/mom-dad-sister-brother-trend"
+      },
+      {
+        "id_or_slug": "moon-headlight-transition-ai-video",
+        "title": "Moon Headlight Transition AI Video",
+        "url": "https://ricebowl.ai/app/moon-headlight-transition-ai-video"
+      },
+      {
+        "id_or_slug": "my-ride-is-here-broom-trend",
+        "title": "My Ride Is Here Broom Trend",
+        "url": "https://ricebowl.ai/app/my-ride-is-here-broom-trend"
+      },
+      {
+        "id_or_slug": "ngifuna-wena-dance",
+        "title": "Ngifuna Wena Dance",
+        "url": "https://ricebowl.ai/app/ngifuna-wena-dance"
+      },
+      {
+        "id_or_slug": "nightwing-ai-trend",
+        "title": "Nightwing AI Trend",
+        "url": "https://ricebowl.ai/app/nightwing-ai-trend"
+      },
+      {
+        "id_or_slug": "no-guidance-dance",
+        "title": "No Guidance Dance",
+        "url": "https://ricebowl.ai/app/no-guidance-dance"
+      },
+      {
+        "id_or_slug": "no-scrubs-ai-dance",
+        "title": "No Scrubs AI Dance",
+        "url": "https://ricebowl.ai/app/no-scrubs-ai-dance"
+      },
+      {
+        "id_or_slug": "no-te-da-miedo-andar-sola-ai-video",
+        "title": "No Te Da Miedo Andar Sola AI Video",
+        "url": "https://ricebowl.ai/app/no-te-da-miedo-andar-sola-ai-video"
+      },
+      {
+        "id_or_slug": "not-like-us-ai-video-generator",
+        "title": "Not Like US AI Video Generator",
+        "url": "https://ricebowl.ai/app/not-like-us-ai-video-generator"
+      },
+      {
+        "id_or_slug": "on-the-radar-ai",
+        "title": "On The Radar AI",
+        "url": "https://ricebowl.ai/app/on-the-radar-ai"
+      },
+      {
+        "id_or_slug": "oouuh-ai",
+        "title": "Oouuh AI",
+        "url": "https://ricebowl.ai/app/oouuh-ai"
+      },
+      {
+        "id_or_slug": "ozil-goal-ai-video",
+        "title": "Ozil Goal AI Video",
+        "url": "https://ricebowl.ai/app/ozil-goal-ai-video"
+      },
+      {
+        "id_or_slug": "paparazzi-red-carpet-ai-video",
+        "title": "Paparazzi Red Carpet AI Video",
+        "url": "https://ricebowl.ai/app/paparazzi-red-carpet-ai-video"
+      },
+      {
+        "id_or_slug": "parrot-dance-ai-video-generator",
+        "title": "Parrot Dance AI Video Generator",
+        "url": "https://ricebowl.ai/app/parrot-dance-ai-video-generator"
+      },
+      {
+        "id_or_slug": "passport-photo-maker",
+        "title": "Passport Photo Maker",
+        "url": "https://ricebowl.ai/app/passport-photo-maker"
+      },
+      {
+        "id_or_slug": "pata-chalega-ai-video",
+        "title": "Pata Chalega AI Video",
+        "url": "https://ricebowl.ai/app/pata-chalega-ai-video"
+      },
+      {
+        "id_or_slug": "patrick-swayze-dance-ai-video",
+        "title": "Patrick Swayze Dance AI Video",
+        "url": "https://ricebowl.ai/app/patrick-swayze-dance-ai-video"
+      },
+      {
+        "id_or_slug": "personalized-santa-video",
+        "title": "Personalized Santa Video",
+        "url": "https://ricebowl.ai/app/personalized-santa-video"
+      },
+      {
+        "id_or_slug": "pet-memorial-ai-video",
+        "title": "Pet Memorial AI Video",
+        "url": "https://ricebowl.ai/app/pet-memorial-ai-video"
+      },
+      {
+        "id_or_slug": "pick-it-up-make-it-jump-dance",
+        "title": "Pick It Up Make It Jump Dance",
+        "url": "https://ricebowl.ai/app/pick-it-up-make-it-jump-dance"
+      },
+      {
+        "id_or_slug": "plug-walk-ai-filter",
+        "title": "Plug Walk AI Filter",
+        "url": "https://ricebowl.ai/app/plug-walk-ai-filter"
+      },
+      {
+        "id_or_slug": "polska-jumpstyle-ai",
+        "title": "Polska Jumpstyle AI",
+        "url": "https://ricebowl.ai/app/polska-jumpstyle-ai"
+      },
+      {
+        "id_or_slug": "popstar-ai-video",
+        "title": "Popstar AI Video",
+        "url": "https://ricebowl.ai/app/popstar-ai-video"
+      },
+      {
+        "id_or_slug": "pray-for-me-slow-mo-dance-ai",
+        "title": "Pray For Me Slow Mo Dance AI",
+        "url": "https://ricebowl.ai/app/pray-for-me-slow-mo-dance-ai"
+      },
+      {
+        "id_or_slug": "puerto-rican-mami-ai-dance",
+        "title": "Puerto Rican Mami AI Dance",
+        "url": "https://ricebowl.ai/app/puerto-rican-mami-ai-dance"
+      },
+      {
+        "id_or_slug": "put-a-ring-on-it-dog",
+        "title": "Put A Ring On It Dog",
+        "url": "https://ricebowl.ai/app/put-a-ring-on-it-dog"
+      },
+      {
+        "id_or_slug": "quiet-on-the-creek-dance",
+        "title": "Quiet On The Creek Dance",
+        "url": "https://ricebowl.ai/app/quiet-on-the-creek-dance"
+      },
+      {
+        "id_or_slug": "raindance-ai-trend",
+        "title": "Raindance AI Trend",
+        "url": "https://ricebowl.ai/app/raindance-ai-trend"
+      },
+      {
+        "id_or_slug": "ramalama-bang-bang-trend",
+        "title": "Ramalama Bang Bang Trend",
+        "url": "https://ricebowl.ai/app/ramalama-bang-bang-trend"
+      },
+      {
+        "id_or_slug": "ramalama-halloween",
+        "title": "Ramalama Halloween",
+        "url": "https://ricebowl.ai/app/ramalama-halloween"
+      },
+      {
+        "id_or_slug": "rasputin-dance-ai-generator",
+        "title": "Rasputin Dance AI Generator",
+        "url": "https://ricebowl.ai/app/rasputin-dance-ai-generator"
+      },
+      {
+        "id_or_slug": "restore-old-photos",
+        "title": "Restore Old Photos",
+        "url": "https://ricebowl.ai/app/restore-old-photos"
+      },
+      {
+        "id_or_slug": "santa-caught-on-camera-ai",
+        "title": "Santa Caught On Camera AI",
+        "url": "https://ricebowl.ai/app/santa-caught-on-camera-ai"
+      },
+      {
+        "id_or_slug": "santa-facetime",
+        "title": "Santa Facetime",
+        "url": "https://ricebowl.ai/app/santa-facetime"
+      },
+      {
+        "id_or_slug": "santa-naughty-list-video",
+        "title": "Santa Naughty List Video",
+        "url": "https://ricebowl.ai/app/santa-naughty-list-video"
+      },
+      {
+        "id_or_slug": "santa-nice-list-ai-video",
+        "title": "Santa Nice List AI Video",
+        "url": "https://ricebowl.ai/app/santa-nice-list-ai-video"
+      },
+      {
+        "id_or_slug": "santa-video-message",
+        "title": "Santa Video Message",
+        "url": "https://ricebowl.ai/app/santa-video-message"
+      },
+      {
+        "id_or_slug": "singing-pets-ai",
+        "title": "Singing Pets AI",
+        "url": "https://ricebowl.ai/app/singing-pets-ai"
+      },
+      {
+        "id_or_slug": "skull-cap-ai",
+        "title": "Skull Cap AI",
+        "url": "https://ricebowl.ai/app/skull-cap-ai"
+      },
+      {
+        "id_or_slug": "smalltown-boy-ai",
+        "title": "Smalltown Boy AI",
+        "url": "https://ricebowl.ai/app/smalltown-boy-ai"
+      },
+      {
+        "id_or_slug": "smooth-criminal-dance-challenge",
+        "title": "Smooth Criminal Dance Challenge",
+        "url": "https://ricebowl.ai/app/smooth-criminal-dance-challenge"
+      },
+      {
+        "id_or_slug": "solar-eclipse-drake-ai-video-generator",
+        "title": "Solar Eclipse Drake AI Video Generator",
+        "url": "https://ricebowl.ai/app/solar-eclipse-drake-ai-video-generator"
+      },
+      {
+        "id_or_slug": "spicy-chicken-sandwich-school-dance",
+        "title": "Spicy Chicken Sandwich School Dance",
+        "url": "https://ricebowl.ai/app/spicy-chicken-sandwich-school-dance"
+      },
+      {
+        "id_or_slug": "spiderman-mom-and-son-trend",
+        "title": "Spiderman Mom And Son Trend",
+        "url": "https://ricebowl.ai/app/spiderman-mom-and-son-trend"
+      },
+      {
+        "id_or_slug": "spooky-scary-skeleton-dance",
+        "title": "Spooky Scary Skeleton Dance",
+        "url": "https://ricebowl.ai/app/spooky-scary-skeleton-dance"
+      },
+      {
+        "id_or_slug": "step-brothers-dance",
+        "title": "Step Brothers Dance",
+        "url": "https://ricebowl.ai/app/step-brothers-dance"
+      },
+      {
+        "id_or_slug": "stuffed-animal-ufc-ai-video",
+        "title": "Stuffed Animal Ufc AI Video",
+        "url": "https://ricebowl.ai/app/stuffed-animal-ufc-ai-video"
+      },
+      {
+        "id_or_slug": "suave-cat-dance",
+        "title": "Suave Cat Dance",
+        "url": "https://ricebowl.ai/app/suave-cat-dance"
+      },
+      {
+        "id_or_slug": "subway-singing-ai-video",
+        "title": "Subway Singing AI Video",
+        "url": "https://ricebowl.ai/app/subway-singing-ai-video"
+      },
+      {
+        "id_or_slug": "susan-dell-dance-ai-video",
+        "title": "Susan Dell Dance AI Video",
+        "url": "https://ricebowl.ai/app/susan-dell-dance-ai-video"
+      },
+      {
+        "id_or_slug": "take-me-home-dom-perignon-ai-trend",
+        "title": "Take Me Home Dom Perignon AI Trend",
+        "url": "https://ricebowl.ai/app/take-me-home-dom-perignon-ai-trend"
+      },
+      {
+        "id_or_slug": "talk-dirty-dance-ai-trend",
+        "title": "Talk Dirty Dance AI Trend",
+        "url": "https://ricebowl.ai/app/talk-dirty-dance-ai-trend"
+      },
+      {
+        "id_or_slug": "tears-falling-down-filter",
+        "title": "Tears Falling Down Filter",
+        "url": "https://ricebowl.ai/app/tears-falling-down-filter"
+      },
+      {
+        "id_or_slug": "tecktonik-dance-ai",
+        "title": "Tecktonik Dance AI",
+        "url": "https://ricebowl.ai/app/tecktonik-dance-ai"
+      },
+      {
+        "id_or_slug": "tesla-flying-car-ai-video",
+        "title": "Tesla Flying Car AI Video",
+        "url": "https://ricebowl.ai/app/tesla-flying-car-ai-video"
+      },
+      {
+        "id_or_slug": "thank-you-baby-ai-dance",
+        "title": "Thank You Baby AI Dance",
+        "url": "https://ricebowl.ai/app/thank-you-baby-ai-dance"
+      },
+      {
+        "id_or_slug": "thriller-dance-ai-video",
+        "title": "Thriller Dance AI Video",
+        "url": "https://ricebowl.ai/app/thriller-dance-ai-video"
+      },
+      {
+        "id_or_slug": "tim-burton-girls-ai",
+        "title": "Tim Burton Girls AI",
+        "url": "https://ricebowl.ai/app/tim-burton-girls-ai"
+      },
+      {
+        "id_or_slug": "toc-toc-dance",
+        "title": "Toc Toc Dance",
+        "url": "https://ricebowl.ai/app/toc-toc-dance"
+      },
+      {
+        "id_or_slug": "toy-car-to-real-car",
+        "title": "Toy Car To Real Car",
+        "url": "https://ricebowl.ai/app/toy-car-to-real-car"
+      },
+      {
+        "id_or_slug": "toz-pembe-ai-dance",
+        "title": "Toz Pembe AI Dance",
+        "url": "https://ricebowl.ai/app/toz-pembe-ai-dance"
+      },
+      {
+        "id_or_slug": "turning-my-mom-into-me-ai-trend",
+        "title": "Turning My Mom Into Me AI Trend",
+        "url": "https://ricebowl.ai/app/turning-my-mom-into-me-ai-trend"
+      },
+      {
+        "id_or_slug": "twilight-baseball-scene",
+        "title": "Twilight Baseball Scene",
+        "url": "https://ricebowl.ai/app/twilight-baseball-scene"
+      },
+      {
+        "id_or_slug": "unforgettable-car-ai-video",
+        "title": "Unforgettable Car AI Video",
+        "url": "https://ricebowl.ai/app/unforgettable-car-ai-video"
+      },
+      {
+        "id_or_slug": "uptown-funk-ai-dance",
+        "title": "Uptown Funk AI Dance",
+        "url": "https://ricebowl.ai/app/uptown-funk-ai-dance"
+      },
+      {
+        "id_or_slug": "vai-matar-papai-dance",
+        "title": "Vai Matar Papai Dance",
+        "url": "https://ricebowl.ai/app/vai-matar-papai-dance"
+      },
+      {
+        "id_or_slug": "valentine-video-card",
+        "title": "Valentine Video Card",
+        "url": "https://ricebowl.ai/app/valentine-video-card"
+      },
+      {
+        "id_or_slug": "valet-shoe-drop-ai-trend",
+        "title": "Valet Shoe Drop AI Trend",
+        "url": "https://ricebowl.ai/app/valet-shoe-drop-ai-trend"
+      },
+      {
+        "id_or_slug": "van-damme-ai-dance",
+        "title": "Van Damme AI Dance",
+        "url": "https://ricebowl.ai/app/van-damme-ai-dance"
+      },
+      {
+        "id_or_slug": "venom-car-ai-video",
+        "title": "Venom Car AI Video",
+        "url": "https://ricebowl.ai/app/venom-car-ai-video"
+      },
+      {
+        "id_or_slug": "venom-makeup-video",
+        "title": "Venom Makeup Video",
+        "url": "https://ricebowl.ai/app/venom-makeup-video"
+      },
+      {
+        "id_or_slug": "video-from-santa",
+        "title": "Video From Santa",
+        "url": "https://ricebowl.ai/app/video-from-santa"
+      },
+      {
+        "id_or_slug": "vikas-editing-ai",
+        "title": "Vikas Editing AI",
+        "url": "https://ricebowl.ai/app/vikas-editing-ai"
+      },
+      {
+        "id_or_slug": "vivaldi-dance-ai-video-generator",
+        "title": "Vivaldi Dance AI Video Generator",
+        "url": "https://ricebowl.ai/app/vivaldi-dance-ai-video-generator"
+      },
+      {
+        "id_or_slug": "what-hairstyle-suits-me",
+        "title": "What Hairstyle Suits Me",
+        "url": "https://ricebowl.ai/app/what-hairstyle-suits-me"
+      },
+      {
+        "id_or_slug": "whiny-dog-ai-trend",
+        "title": "Whiny Dog AI Trend",
+        "url": "https://ricebowl.ai/app/whiny-dog-ai-trend"
+      },
+      {
+        "id_or_slug": "white-chicks-car-scene-ai",
+        "title": "White Chicks Car Scene AI",
+        "url": "https://ricebowl.ai/app/white-chicks-car-scene-ai"
+      },
+      {
+        "id_or_slug": "wipe-me-down-ai-dance",
+        "title": "Wipe Me Down AI Dance",
+        "url": "https://ricebowl.ai/app/wipe-me-down-ai-dance"
+      },
+      {
+        "id_or_slug": "wyw-my-sweetie-dance-ai-video",
+        "title": "Wyw My Sweetie Dance AI Video",
+        "url": "https://ricebowl.ai/app/wyw-my-sweetie-dance-ai-video"
+      },
+      {
+        "id_or_slug": "yohohoho-meme",
+        "title": "Yohohoho Meme",
+        "url": "https://ricebowl.ai/app/yohohoho-meme"
+      },
+      {
+        "id_or_slug": "zombie-ai-trend",
+        "title": "Zombie AI Trend",
+        "url": "https://ricebowl.ai/app/zombie-ai-trend"
+      }
+    ],
+    "missing": []
+  },
+  "aimakevideo.json": {
+    "site": "aiMakeVideo",
+    "prev": 49,
+    "raw_now": 50,
+    "new": [
+      {
+        "id_or_slug": "need-for-speed-ai",
+        "title": "Need For Speed AI",
+        "url": "https://aimakevideo.com/need-for-speed-ai"
+      }
+    ],
+    "missing": []
+  },
+  "tryatrend.json": {
+    "site": "Try a Trend",
+    "prev": 51,
+    "raw_now": 51,
+    "new": [
+      {
+        "id_or_slug": "oh-my-carne-asada-ai",
+        "title": "Oh My Carne Asada AI",
+        "url": "https://tryatrend.com/oh-my-carne-asada-ai"
+      }
+    ],
+    "missing": [
+      {
+        "id_or_slug": "ai-halloween-costume",
+        "title": "AI Halloween Costume",
+        "url": "https://tryatrend.com/ai-halloween-costume"
+      }
+    ]
+  },
+  "memelry.json": {
+    "site": "Memelry",
+    "prev": 355,
+    "raw_now": 418,
+    "new": [
+      {
+        "id_or_slug": "affiliates",
+        "title": "Affiliates",
+        "url": "https://memelry.com/affiliates"
+      },
+      {
+        "id_or_slug": "ai-dance-video-from-photo",
+        "title": "AI Dance Video From Photo",
+        "url": "https://memelry.com/ai-dance-video-from-photo"
+      },
+      {
+        "id_or_slug": "ai-mermaid-filter",
+        "title": "AI Mermaid Filter",
+        "url": "https://memelry.com/ai-mermaid-filter"
+      },
+      {
+        "id_or_slug": "ai-tiny-desk-video-look-realistic",
+        "title": "AI Tiny Desk Video Look Realistic",
+        "url": "https://memelry.com/ai-tiny-desk-video-look-realistic"
+      },
+      {
+        "id_or_slug": "ai-tiny-desk-video-without-editing",
+        "title": "AI Tiny Desk Video Without Editing",
+        "url": "https://memelry.com/ai-tiny-desk-video-without-editing"
+      },
+      {
+        "id_or_slug": "ai-tool-tiny-desk-office-concert",
+        "title": "AI Tool Tiny Desk Office Concert",
+        "url": "https://memelry.com/ai-tool-tiny-desk-office-concert"
+      },
+      {
+        "id_or_slug": "atm-christmas-wish-meaning",
+        "title": "Atm Christmas Wish Meaning",
+        "url": "https://memelry.com/atm-christmas-wish-meaning"
+      },
+      {
+        "id_or_slug": "bulin-47-freestyle-meme",
+        "title": "Bulin 47 Freestyle Meme",
+        "url": "https://memelry.com/bulin-47-freestyle-meme"
+      },
+      {
+        "id_or_slug": "car-drift-photo-guide",
+        "title": "Car Drift Photo Guide",
+        "url": "https://memelry.com/car-drift-photo-guide"
+      },
+      {
+        "id_or_slug": "central-cee-doja-ai-origin",
+        "title": "Central Cee Doja AI Origin",
+        "url": "https://memelry.com/central-cee-doja-ai-origin"
+      },
+      {
+        "id_or_slug": "central-cee-doja-photo-guide",
+        "title": "Central Cee Doja Photo Guide",
+        "url": "https://memelry.com/central-cee-doja-photo-guide"
+      },
+      {
+        "id_or_slug": "coaches-thriller-face-swap-tools",
+        "title": "Coaches Thriller Face Swap Tools",
+        "url": "https://memelry.com/coaches-thriller-face-swap-tools"
+      },
+      {
+        "id_or_slug": "cortis-go-ai-from-photo",
+        "title": "Cortis Go AI From Photo",
+        "url": "https://memelry.com/cortis-go-ai-from-photo"
+      },
+      {
+        "id_or_slug": "custom-meme",
+        "title": "Custom Meme",
+        "url": "https://memelry.com/custom-meme"
+      },
+      {
+        "id_or_slug": "dime-dime-baby-dog-cat",
+        "title": "Dime Dime Baby Dog Cat",
+        "url": "https://memelry.com/dime-dime-baby-dog-cat"
+      },
+      {
+        "id_or_slug": "dime-dime-baby-meme",
+        "title": "Dime Dime Baby Meme",
+        "url": "https://memelry.com/dime-dime-baby-meme"
+      },
+      {
+        "id_or_slug": "gangnam-style-face-swap-tools",
+        "title": "Gangnam Style Face Swap Tools",
+        "url": "https://memelry.com/gangnam-style-face-swap-tools"
+      },
+      {
+        "id_or_slug": "golf-dance-ai-photo-guide",
+        "title": "Golf Dance AI Photo Guide",
+        "url": "https://memelry.com/golf-dance-ai-photo-guide"
+      },
+      {
+        "id_or_slug": "good-chat-on-phone-ai",
+        "title": "Good Chat On Phone AI",
+        "url": "https://memelry.com/good-chat-on-phone-ai"
+      },
+      {
+        "id_or_slug": "good-chat-one-time-payment-ai",
+        "title": "Good Chat One Time Payment AI",
+        "url": "https://memelry.com/good-chat-one-time-payment-ai"
+      },
+      {
+        "id_or_slug": "good-chat-original-audio-ai",
+        "title": "Good Chat Original Audio AI",
+        "url": "https://memelry.com/good-chat-original-audio-ai"
+      },
+      {
+        "id_or_slug": "good-chat-two-people-ai",
+        "title": "Good Chat Two People AI",
+        "url": "https://memelry.com/good-chat-two-people-ai"
+      },
+      {
+        "id_or_slug": "group-performance-video-from-selfies",
+        "title": "Group Performance Video From Selfies",
+        "url": "https://memelry.com/group-performance-video-from-selfies"
+      },
+      {
+        "id_or_slug": "gta-6-loading-screen-ai",
+        "title": "Gta 6 Loading Screen AI",
+        "url": "https://memelry.com/gta-6-loading-screen-ai"
+      },
+      {
+        "id_or_slug": "gta-next-chapter-meaning",
+        "title": "Gta Next Chapter Meaning",
+        "url": "https://memelry.com/gta-next-chapter-meaning"
+      },
+      {
+        "id_or_slug": "how-to-make-no-scrubs-ai-video",
+        "title": "How To Make No Scrubs AI Video",
+        "url": "https://memelry.com/how-to-make-no-scrubs-ai-video"
+      },
+      {
+        "id_or_slug": "im-flying-titanic-meme",
+        "title": "Im Flying Titanic Meme",
+        "url": "https://memelry.com/im-flying-titanic-meme"
+      },
+      {
+        "id_or_slug": "its-time-christmas-from-photo",
+        "title": "Its Time Christmas From Photo",
+        "url": "https://memelry.com/its-time-christmas-from-photo"
+      },
+      {
+        "id_or_slug": "la-la-land-couple-ai",
+        "title": "La La Land Couple AI",
+        "url": "https://memelry.com/la-la-land-couple-ai"
+      },
+      {
+        "id_or_slug": "la-la-land-dance-moves-ai",
+        "title": "La La Land Dance Moves AI",
+        "url": "https://memelry.com/la-la-land-dance-moves-ai"
+      },
+      {
+        "id_or_slug": "la-la-land-one-selfie-ai",
+        "title": "La La Land One Selfie AI",
+        "url": "https://memelry.com/la-la-land-one-selfie-ai"
+      },
+      {
+        "id_or_slug": "la-la-land-with-music-ai",
+        "title": "La La Land With Music AI",
+        "url": "https://memelry.com/la-la-land-with-music-ai"
+      },
+      {
+        "id_or_slug": "mans-not-hot-ai-origin",
+        "title": "Mans Not Hot AI Origin",
+        "url": "https://memelry.com/mans-not-hot-ai-origin"
+      },
+      {
+        "id_or_slug": "mourinho-pressure-original-audio",
+        "title": "Mourinho Pressure Original Audio",
+        "url": "https://memelry.com/mourinho-pressure-original-audio"
+      },
+      {
+        "id_or_slug": "no-scrubs-trend-with-friends",
+        "title": "No Scrubs Trend With Friends",
+        "url": "https://memelry.com/no-scrubs-trend-with-friends"
+      },
+      {
+        "id_or_slug": "outstanding-tiny-desk-set",
+        "title": "Outstanding Tiny Desk Set",
+        "url": "https://memelry.com/outstanding-tiny-desk-set"
+      },
+      {
+        "id_or_slug": "photo-video-privacy",
+        "title": "Photo Video Privacy",
+        "url": "https://memelry.com/photo-video-privacy"
+      },
+      {
+        "id_or_slug": "realistic-dog-pool-party-ai",
+        "title": "Realistic Dog Pool Party AI",
+        "url": "https://memelry.com/realistic-dog-pool-party-ai"
+      },
+      {
+        "id_or_slug": "replace-person-in-video",
+        "title": "Replace Person In Video",
+        "url": "https://memelry.com/replace-person-in-video"
+      },
+      {
+        "id_or_slug": "rush-hour-fantasy-face-likeness",
+        "title": "Rush Hour Fantasy Face Likeness",
+        "url": "https://memelry.com/rush-hour-fantasy-face-likeness"
+      },
+      {
+        "id_or_slug": "rush-hour-fantasy-two-photos",
+        "title": "Rush Hour Fantasy Two Photos",
+        "url": "https://memelry.com/rush-hour-fantasy-two-photos"
+      },
+      {
+        "id_or_slug": "saree-pose-ai",
+        "title": "Saree Pose AI",
+        "url": "https://memelry.com/saree-pose-ai"
+      },
+      {
+        "id_or_slug": "singing-pet-photo-guide",
+        "title": "Singing Pet Photo Guide",
+        "url": "https://memelry.com/singing-pet-photo-guide"
+      },
+      {
+        "id_or_slug": "the-jawn-meaning",
+        "title": "The Jawn Meaning",
+        "url": "https://memelry.com/the-jawn-meaning"
+      },
+      {
+        "id_or_slug": "tiktok-video-face-swap",
+        "title": "Tiktok Video Face Swap",
+        "url": "https://memelry.com/tiktok-video-face-swap"
+      },
+      {
+        "id_or_slug": "tiny-desk-ai-birthday",
+        "title": "Tiny Desk AI Birthday",
+        "url": "https://memelry.com/tiny-desk-ai-birthday"
+      },
+      {
+        "id_or_slug": "tiny-desk-ai-couples",
+        "title": "Tiny Desk AI Couples",
+        "url": "https://memelry.com/tiny-desk-ai-couples"
+      },
+      {
+        "id_or_slug": "tiny-desk-ai-coworkers",
+        "title": "Tiny Desk AI Coworkers",
+        "url": "https://memelry.com/tiny-desk-ai-coworkers"
+      },
+      {
+        "id_or_slug": "tiny-desk-ai-face-swap",
+        "title": "Tiny Desk AI Face Swap",
+        "url": "https://memelry.com/tiny-desk-ai-face-swap"
+      },
+      {
+        "id_or_slug": "tiny-desk-ai-family",
+        "title": "Tiny Desk AI Family",
+        "url": "https://memelry.com/tiny-desk-ai-family"
+      },
+      {
+        "id_or_slug": "tiny-desk-ai-graduation",
+        "title": "Tiny Desk AI Graduation",
+        "url": "https://memelry.com/tiny-desk-ai-graduation"
+      },
+      {
+        "id_or_slug": "tiny-desk-ai-meme-origin",
+        "title": "Tiny Desk AI Meme Origin",
+        "url": "https://memelry.com/tiny-desk-ai-meme-origin"
+      },
+      {
+        "id_or_slug": "tiny-desk-ai-on-phone",
+        "title": "Tiny Desk AI On Phone",
+        "url": "https://memelry.com/tiny-desk-ai-on-phone"
+      },
+      {
+        "id_or_slug": "tiny-desk-ai-original-audio",
+        "title": "Tiny Desk AI Original Audio",
+        "url": "https://memelry.com/tiny-desk-ai-original-audio"
+      },
+      {
+        "id_or_slug": "tiny-desk-ai-wedding",
+        "title": "Tiny Desk AI Wedding",
+        "url": "https://memelry.com/tiny-desk-ai-wedding"
+      },
+      {
+        "id_or_slug": "tiny-desk-parody-from-photos",
+        "title": "Tiny Desk Parody From Photos",
+        "url": "https://memelry.com/tiny-desk-parody-from-photos"
+      },
+      {
+        "id_or_slug": "wassup-dance-face-expression-guide",
+        "title": "Wassup Dance Face Expression Guide",
+        "url": "https://memelry.com/wassup-dance-face-expression-guide"
+      },
+      {
+        "id_or_slug": "wassup-dance-with-three-friends",
+        "title": "Wassup Dance With Three Friends",
+        "url": "https://memelry.com/wassup-dance-with-three-friends"
+      },
+      {
+        "id_or_slug": "wassup-in-a-minute-cost",
+        "title": "Wassup In A Minute Cost",
+        "url": "https://memelry.com/wassup-in-a-minute-cost"
+      },
+      {
+        "id_or_slug": "window-peeper-dog-cat",
+        "title": "Window Peeper Dog Cat",
+        "url": "https://memelry.com/window-peeper-dog-cat"
+      },
+      {
+        "id_or_slug": "window-peeper-meme",
+        "title": "Window Peeper Meme",
+        "url": "https://memelry.com/window-peeper-meme"
+      },
+      {
+        "id_or_slug": "window-peeper-prank",
+        "title": "Window Peeper Prank",
+        "url": "https://memelry.com/window-peeper-prank"
+      },
+      {
+        "id_or_slug": "wizard-cat-keyboard-ai",
+        "title": "Wizard Cat Keyboard AI",
+        "url": "https://memelry.com/wizard-cat-keyboard-ai"
+      }
+    ],
+    "missing": []
+  },
+  "bolly.json": {
+    "site": "Bolly.AI",
+    "prev": 219,
+    "raw_now": 226,
+    "new": [
+      {
+        "id_or_slug": "anime",
+        "title": "Anime",
+        "url": "https://www.bolly.ai/template/anime"
+      },
+      {
+        "id_or_slug": "brainrot",
+        "title": "Brainrot",
+        "url": "https://www.bolly.ai/template/brainrot"
+      },
+      {
+        "id_or_slug": "edits",
+        "title": "Edits",
+        "url": "https://www.bolly.ai/template/edits"
+      },
+      {
+        "id_or_slug": "football",
+        "title": "Football",
+        "url": "https://www.bolly.ai/template/football"
+      },
+      {
+        "id_or_slug": "kpop",
+        "title": "Kpop",
+        "url": "https://www.bolly.ai/template/kpop"
+      },
+      {
+        "id_or_slug": "meme",
+        "title": "Meme",
+        "url": "https://www.bolly.ai/template/meme"
+      },
+      {
+        "id_or_slug": "multi-person",
+        "title": "Multi Person",
+        "url": "https://www.bolly.ai/template/multi-person"
+      }
+    ],
+    "missing": []
+  },
+  "starrd.json": {
+    "site": "Starrd",
+    "prev": 378,
+    "raw_now": 393,
+    "new": [
+      {
+        "id_or_slug": "birthday",
+        "title": "Birthday",
+        "url": "https://www.getstarrd.app/template/birthday"
+      },
+      {
+        "id_or_slug": "cars",
+        "title": "Cars",
+        "url": "https://www.getstarrd.app/template/cars"
+      },
+      {
+        "id_or_slug": "dip-on-em-dance-ai-video",
+        "title": "Dip On Em Dance AI Video",
+        "url": "https://www.getstarrd.app/template/dip-on-em-dance-ai-video"
+      },
+      {
+        "id_or_slug": "drama",
+        "title": "Drama",
+        "url": "https://www.getstarrd.app/template/drama"
+      },
+      {
+        "id_or_slug": "effects",
+        "title": "Effects",
+        "url": "https://www.getstarrd.app/template/effects"
+      },
+      {
+        "id_or_slug": "famous",
+        "title": "Famous",
+        "url": "https://www.getstarrd.app/template/famous"
+      },
+      {
+        "id_or_slug": "gaming",
+        "title": "Gaming",
+        "url": "https://www.getstarrd.app/template/gaming"
+      },
+      {
+        "id_or_slug": "holidays",
+        "title": "Holidays",
+        "url": "https://www.getstarrd.app/template/holidays"
+      },
+      {
+        "id_or_slug": "music",
+        "title": "Music",
+        "url": "https://www.getstarrd.app/template/music"
+      },
+      {
+        "id_or_slug": "needs-more-salt-ai-video",
+        "title": "Needs More Salt AI Video",
+        "url": "https://www.getstarrd.app/template/needs-more-salt-ai-video"
+      },
+      {
+        "id_or_slug": "never-let-her-pay-ai-video",
+        "title": "Never Let Her Pay AI Video",
+        "url": "https://www.getstarrd.app/template/never-let-her-pay-ai-video"
+      },
+      {
+        "id_or_slug": "pets",
+        "title": "Pets",
+        "url": "https://www.getstarrd.app/template/pets"
+      },
+      {
+        "id_or_slug": "quiet-on-the-creek-ai-video",
+        "title": "Quiet On The Creek AI Video",
+        "url": "https://www.getstarrd.app/template/quiet-on-the-creek-ai-video"
+      },
+      {
+        "id_or_slug": "song",
+        "title": "Song",
+        "url": "https://www.getstarrd.app/template/song"
+      },
+      {
+        "id_or_slug": "sports",
+        "title": "Sports",
+        "url": "https://www.getstarrd.app/template/sports"
+      }
+    ],
+    "missing": []
+  },
+  "kubflow.json": {
+    "site": "Kubflow",
+    "prev": 10,
+    "raw_now": 11,
+    "new": [
+      {
+        "id_or_slug": "generations",
+        "title": "Generations",
+        "url": "https://kubflow.ai/trends/generations"
+      }
+    ],
+    "missing": []
+  }
+}

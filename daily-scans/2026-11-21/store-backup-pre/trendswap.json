@@ -1,0 +1,303 @@
+{
+  "site": "TrendSwap",
+  "home": "https://trendswap.app/",
+  "checked_at": "2026-11-20T09:39:28+08:00",
+  "sitemap_urls_found": [
+    "https://trendswap.app/sitemap.xml",
+    "https://trendswap.app/video-sitemap.xml",
+    "https://trendswap.app/image-sitemap.xml"
+  ],
+  "sitemap_existed": true,
+  "template_count": 57,
+  "new_count": 0,
+  "removed_count": 0,
+  "new_templates": [],
+  "removed_templates": [],
+  "templates": [
+    {
+      "id_or_slug": "1987-rumpelstiltskin",
+      "title": "1987 Rumpelstiltskin",
+      "url": "https://trendswap.app/1987-rumpelstiltskin"
+    },
+    {
+      "id_or_slug": "addicted-dance-ai",
+      "title": "Addicted Dance AI",
+      "url": "https://trendswap.app/addicted-dance-ai"
+    },
+    {
+      "id_or_slug": "ai-christmas-video",
+      "title": "AI Christmas Video",
+      "url": "https://trendswap.app/ai-christmas-video"
+    },
+    {
+      "id_or_slug": "ai-dunk-ai",
+      "title": "AI Dunk AI",
+      "url": "https://trendswap.app/ai-dunk-ai"
+    },
+    {
+      "id_or_slug": "alors-on-danse-ai-video",
+      "title": "Alors On Danse AI Video",
+      "url": "https://trendswap.app/alors-on-danse-ai-video"
+    },
+    {
+      "id_or_slug": "baby-knight-ai-video",
+      "title": "Baby Knight AI Video",
+      "url": "https://trendswap.app/baby-knight-ai-video"
+    },
+    {
+      "id_or_slug": "bby-wow-guy-ai",
+      "title": "Bby Wow Guy AI",
+      "url": "https://trendswap.app/bby-wow-guy-ai"
+    },
+    {
+      "id_or_slug": "bicep-heart-ai",
+      "title": "Bicep Heart AI",
+      "url": "https://trendswap.app/bicep-heart-ai"
+    },
+    {
+      "id_or_slug": "bulin-47-ai-video",
+      "title": "Bulin 47 AI Video",
+      "url": "https://trendswap.app/bulin-47-ai-video"
+    },
+    {
+      "id_or_slug": "burning-bridges-ai",
+      "title": "Burning Bridges AI",
+      "url": "https://trendswap.app/burning-bridges-ai"
+    },
+    {
+      "id_or_slug": "cat-clapping-ai",
+      "title": "Cat Clapping AI",
+      "url": "https://trendswap.app/cat-clapping-ai"
+    },
+    {
+      "id_or_slug": "christmas-dance-ai",
+      "title": "Christmas Dance AI",
+      "url": "https://trendswap.app/christmas-dance-ai"
+    },
+    {
+      "id_or_slug": "closed-on-sunday-ai",
+      "title": "Closed On Sunday AI",
+      "url": "https://trendswap.app/closed-on-sunday-ai"
+    },
+    {
+      "id_or_slug": "closing-door-prank-ai",
+      "title": "Closing Door Prank AI",
+      "url": "https://trendswap.app/closing-door-prank-ai"
+    },
+    {
+      "id_or_slug": "coldplay-kiss-cam-ai",
+      "title": "Coldplay Kiss Cam AI",
+      "url": "https://trendswap.app/coldplay-kiss-cam-ai"
+    },
+    {
+      "id_or_slug": "crazy-frog-ai-video",
+      "title": "Crazy Frog AI Video",
+      "url": "https://trendswap.app/crazy-frog-ai-video"
+    },
+    {
+      "id_or_slug": "day-of-the-dead-ai-video",
+      "title": "Day Of The Dead AI Video",
+      "url": "https://trendswap.app/day-of-the-dead-ai-video"
+    },
+    {
+      "id_or_slug": "duo-coffee-ai",
+      "title": "Duo Coffee AI",
+      "url": "https://trendswap.app/duo-coffee-ai"
+    },
+    {
+      "id_or_slug": "ela-peida-funk-ai",
+      "title": "Ela Peida Funk AI",
+      "url": "https://trendswap.app/ela-peida-funk-ai"
+    },
+    {
+      "id_or_slug": "end-of-watch-ai",
+      "title": "End Of Watch AI",
+      "url": "https://trendswap.app/end-of-watch-ai"
+    },
+    {
+      "id_or_slug": "first-snow-dance-ai",
+      "title": "First Snow Dance AI",
+      "url": "https://trendswap.app/first-snow-dance-ai"
+    },
+    {
+      "id_or_slug": "first-time-in-a-fancy-cafe-ai",
+      "title": "First Time In A Fancy Cafe AI",
+      "url": "https://trendswap.app/first-time-in-a-fancy-cafe-ai"
+    },
+    {
+      "id_or_slug": "flying-tesla-roadster-ai",
+      "title": "Flying Tesla Roadster AI",
+      "url": "https://trendswap.app/flying-tesla-roadster-ai"
+    },
+    {
+      "id_or_slug": "goodbye-2026-welcome-2027-ai",
+      "title": "Goodbye 2026 Welcome 2027 AI",
+      "url": "https://trendswap.app/goodbye-2026-welcome-2027-ai"
+    },
+    {
+      "id_or_slug": "halloween-ai-video",
+      "title": "Halloween AI Video",
+      "url": "https://trendswap.app/halloween-ai-video"
+    },
+    {
+      "id_or_slug": "hit-the-road-dude-ai-video",
+      "title": "Hit The Road Dude AI Video",
+      "url": "https://trendswap.app/hit-the-road-dude-ai-video"
+    },
+    {
+      "id_or_slug": "hop-hop-hop-ai",
+      "title": "Hop Hop Hop AI",
+      "url": "https://trendswap.app/hop-hop-hop-ai"
+    },
+    {
+      "id_or_slug": "hotel-lobby-ai-video",
+      "title": "Hotel Lobby AI Video",
+      "url": "https://trendswap.app/hotel-lobby-ai-video"
+    },
+    {
+      "id_or_slug": "i-love-the-smiths-ai",
+      "title": "I Love The Smiths AI",
+      "url": "https://trendswap.app/i-love-the-smiths-ai"
+    },
+    {
+      "id_or_slug": "iphone-kupi-dance",
+      "title": "Iphone Kupi Dance",
+      "url": "https://trendswap.app/iphone-kupi-dance"
+    },
+    {
+      "id_or_slug": "la-mujer-del-pelotero-ai",
+      "title": "La Mujer del Pelotero AI",
+      "url": "https://trendswap.app/la-mujer-del-pelotero-ai"
+    },
+    {
+      "id_or_slug": "like-jennie-ai",
+      "title": "Like Jennie AI",
+      "url": "https://trendswap.app/like-jennie-ai"
+    },
+    {
+      "id_or_slug": "looks-can-kill-teleport-ai",
+      "title": "Looks Can Kill Teleport AI",
+      "url": "https://trendswap.app/looks-can-kill-teleport-ai"
+    },
+    {
+      "id_or_slug": "neon-dance-ai-video",
+      "title": "Neon Dance AI Video",
+      "url": "https://trendswap.app/neon-dance-ai-video"
+    },
+    {
+      "id_or_slug": "new-year-ai-video",
+      "title": "New Year AI Video",
+      "url": "https://trendswap.app/new-year-ai-video"
+    },
+    {
+      "id_or_slug": "ozil-ai-video",
+      "title": "Ozil AI Video",
+      "url": "https://trendswap.app/ozil-ai-video"
+    },
+    {
+      "id_or_slug": "phone-on-train-ai",
+      "title": "Phone On Train AI",
+      "url": "https://trendswap.app/phone-on-train-ai"
+    },
+    {
+      "id_or_slug": "polar-bear-2026-ai",
+      "title": "Polar Bear 2026 AI",
+      "url": "https://trendswap.app/polar-bear-2026-ai"
+    },
+    {
+      "id_or_slug": "prilili-ai",
+      "title": "Prilili AI",
+      "url": "https://trendswap.app/prilili-ai"
+    },
+    {
+      "id_or_slug": "sawadika-dance-ai",
+      "title": "Sawadika Dance AI",
+      "url": "https://trendswap.app/sawadika-dance-ai"
+    },
+    {
+      "id_or_slug": "sheru-bhai-ai",
+      "title": "Sheru Bhai AI",
+      "url": "https://trendswap.app/sheru-bhai-ai"
+    },
+    {
+      "id_or_slug": "skull-cap-trend-ai",
+      "title": "Skull Cap Trend AI",
+      "url": "https://trendswap.app/skull-cap-trend-ai"
+    },
+    {
+      "id_or_slug": "smalltown-boy-ai",
+      "title": "Smalltown Boy AI",
+      "url": "https://trendswap.app/smalltown-boy-ai"
+    },
+    {
+      "id_or_slug": "spooky-scary-skeletons-ai-dance",
+      "title": "Spooky Scary Skeletons AI Dance",
+      "url": "https://trendswap.app/spooky-scary-skeletons-ai-dance"
+    },
+    {
+      "id_or_slug": "tesla-roadster-flip-ai",
+      "title": "Tesla Roadster Flip AI",
+      "url": "https://trendswap.app/tesla-roadster-flip-ai"
+    },
+    {
+      "id_or_slug": "thanksgiving-ai-video",
+      "title": "Thanksgiving AI Video",
+      "url": "https://trendswap.app/thanksgiving-ai-video"
+    },
+    {
+      "id_or_slug": "tiny-desk-ai",
+      "title": "Tiny Desk AI",
+      "url": "https://trendswap.app/tiny-desk-ai"
+    },
+    {
+      "id_or_slug": "tip-toeing-in-my-jordans",
+      "title": "Tip Toeing In My Jordans",
+      "url": "https://trendswap.app/tip-toeing-in-my-jordans"
+    },
+    {
+      "id_or_slug": "toc-toc-dance-ai",
+      "title": "Toc Toc Dance AI",
+      "url": "https://trendswap.app/toc-toc-dance-ai"
+    },
+    {
+      "id_or_slug": "topo-gigio-ai-video",
+      "title": "Topo Gigio AI Video",
+      "url": "https://trendswap.app/topo-gigio-ai-video"
+    },
+    {
+      "id_or_slug": "turkey-dance-ai",
+      "title": "Turkey Dance AI",
+      "url": "https://trendswap.app/turkey-dance-ai"
+    },
+    {
+      "id_or_slug": "unforgettable-car-ai",
+      "title": "Unforgettable Car AI",
+      "url": "https://trendswap.app/unforgettable-car-ai"
+    },
+    {
+      "id_or_slug": "victoria-secret-ai-runway",
+      "title": "Victoria Secret AI Runway",
+      "url": "https://trendswap.app/victoria-secret-ai-runway"
+    },
+    {
+      "id_or_slug": "w-chews-ai",
+      "title": "W Chews AI",
+      "url": "https://trendswap.app/w-chews-ai"
+    },
+    {
+      "id_or_slug": "what-stop-sign-ai",
+      "title": "What Stop Sign AI",
+      "url": "https://trendswap.app/what-stop-sign-ai"
+    },
+    {
+      "id_or_slug": "window-peeper-ai",
+      "title": "Window Peeper AI",
+      "url": "https://trendswap.app/window-peeper-ai"
+    },
+    {
+      "id_or_slug": "zombie-couple-video",
+      "title": "Zombie Couple Video",
+      "url": "https://trendswap.app/zombie-couple-video"
+    }
+  ]
+}
