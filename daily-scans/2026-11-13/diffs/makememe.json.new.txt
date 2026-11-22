@@ -1,0 +1,7 @@
+MakeMeme.video new=6 gone=0 prev=130 now=136
+apple-icon.png	https://makememe.video/apple-icon.png
+dog-pool-party-ai	https://makememe.video/dog-pool-party-ai
+favicon.ico	https://makememe.video/favicon.ico
+gangstas-paradise-ai	https://makememe.video/gangstas-paradise-ai
+kiss-cam-ai	https://makememe.video/kiss-cam-ai
+manifest.webmanifest	https://makememe.video/manifest.webmanifest

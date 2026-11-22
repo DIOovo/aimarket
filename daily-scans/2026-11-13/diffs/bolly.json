@@ -1,0 +1,51 @@
+{
+  "site": "Bolly.AI",
+  "file": "bolly.json",
+  "prev": 217,
+  "now": 225,
+  "fetch_ok": true,
+  "notes": [],
+  "new": [
+    {
+      "id_or_slug": "anime",
+      "title": "Anime",
+      "url": "https://www.bolly.ai/template/anime"
+    },
+    {
+      "id_or_slug": "brainrot",
+      "title": "Brainrot",
+      "url": "https://www.bolly.ai/template/brainrot"
+    },
+    {
+      "id_or_slug": "edits",
+      "title": "Edits",
+      "url": "https://www.bolly.ai/template/edits"
+    },
+    {
+      "id_or_slug": "football",
+      "title": "Football",
+      "url": "https://www.bolly.ai/template/football"
+    },
+    {
+      "id_or_slug": "kpop",
+      "title": "Kpop",
+      "url": "https://www.bolly.ai/template/kpop"
+    },
+    {
+      "id_or_slug": "mariah-carey-it-s-time-ai-character-swap",
+      "title": "Mariah Carey It S Time AI Character Swap",
+      "url": "https://www.bolly.ai/template/mariah-carey-it-s-time-ai-character-swap"
+    },
+    {
+      "id_or_slug": "meme",
+      "title": "Meme",
+      "url": "https://www.bolly.ai/template/meme"
+    },
+    {
+      "id_or_slug": "multi-person",
+      "title": "Multi Person",
+      "url": "https://www.bolly.ai/template/multi-person"
+    }
+  ],
+  "removed": []
+}

@@ -1,0 +1,16 @@
+TrendSwap new=15 gone=0 prev=55 now=70
+apple-touch-icon.png	https://trendswap.app/apple-touch-icon.png
+content-policy	https://trendswap.app/content-policy
+dance	https://trendswap.app/dance
+duo	https://trendswap.app/duo
+favicon.ico	https://trendswap.app/favicon.ico
+icon-192.png	https://trendswap.app/icon-192.png
+la-mujer-del-pelotero-ai	https://trendswap.app/la-mujer-del-pelotero-ai
+meme	https://trendswap.app/meme
+new	https://trendswap.app/new
+pet	https://trendswap.app/pet
+prompts	https://trendswap.app/prompts
+refund-policy	https://trendswap.app/refund-policy
+sheru-bhai-ai	https://trendswap.app/sheru-bhai-ai
+site.webmanifest	https://trendswap.app/site.webmanifest
+videos	https://trendswap.app/videos

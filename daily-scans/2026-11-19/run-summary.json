@@ -1,0 +1,330 @@
+{
+  "checked_at": "2026-11-19T09:40:27+08:00",
+  "timezone": "Asia/Shanghai",
+  "previous_checked_at": "2026-11-18T09:43:11+08:00",
+  "ledger": {
+    "sites": 28,
+    "sites_updated": 28,
+    "total_templates": 3454,
+    "total_new": 74,
+    "total_digest_new": 73,
+    "putmein_bulk_new": 0,
+    "total_removed": 0
+  },
+  "per_site": {
+    "dothetrend.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 70,
+      "raw_now": 70,
+      "curated_new": 0,
+      "store_new": 0,
+      "filtered": 0
+    },
+    "trendtemplate.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 34,
+      "raw_now": 48,
+      "curated_new": 2,
+      "store_new": 2,
+      "filtered": 12
+    },
+    "memefxai.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 74,
+      "raw_now": 95,
+      "curated_new": 0,
+      "store_new": 0,
+      "filtered": 21
+    },
+    "clipremake.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 55,
+      "raw_now": 64,
+      "curated_new": 9,
+      "store_new": 9,
+      "filtered": 0
+    },
+    "remakeyourmeme.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [
+        "Sitemap via WebFetch; box IP still 403; inventory unchanged (44)."
+      ],
+      "prev_count": 44,
+      "raw_now": 44,
+      "curated_new": 0,
+      "store_new": 0,
+      "filtered": 0
+    },
+    "makeviral.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 552,
+      "raw_now": 566,
+      "curated_new": 14,
+      "store_new": 14,
+      "filtered": 0
+    },
+    "smew.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 439,
+      "raw_now": 439,
+      "curated_new": 0,
+      "store_new": 0,
+      "filtered": 0
+    },
+    "makememe.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 154,
+      "raw_now": 163,
+      "curated_new": 4,
+      "store_new": 4,
+      "filtered": 5
+    },
+    "viralremake.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 37,
+      "raw_now": 37,
+      "curated_new": 0,
+      "store_new": 0,
+      "filtered": 0
+    },
+    "memeclone.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 75,
+      "raw_now": 75,
+      "curated_new": 0,
+      "store_new": 0,
+      "filtered": 0
+    },
+    "trendswap.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 57,
+      "raw_now": 70,
+      "curated_new": 0,
+      "store_new": 0,
+      "filtered": 13
+    },
+    "putmein.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 226,
+      "raw_now": 226,
+      "curated_new": 0,
+      "store_new": 0,
+      "filtered": 0
+    },
+    "samevid.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 210,
+      "raw_now": 233,
+      "curated_new": 7,
+      "store_new": 7,
+      "filtered": 16
+    },
+    "zapvid.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 38,
+      "raw_now": 42,
+      "curated_new": 4,
+      "store_new": 4,
+      "filtered": 0
+    },
+    "summrs.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [
+        "Kept bigfoot-vlog despite missing from today's sitemap (page still 200)."
+      ],
+      "prev_count": 78,
+      "raw_now": 100,
+      "curated_new": 2,
+      "store_new": 2,
+      "filtered": 21
+    },
+    "trendify.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 14,
+      "raw_now": 14,
+      "curated_new": 0,
+      "store_new": 0,
+      "filtered": 0
+    },
+    "genjutsu.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 45,
+      "raw_now": 53,
+      "curated_new": 0,
+      "store_new": 0,
+      "filtered": 8
+    },
+    "danceremake.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 18,
+      "raw_now": 19,
+      "curated_new": 1,
+      "store_new": 1,
+      "filtered": 0
+    },
+    "starrd.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [
+        "Need for Speed (Extended) added to inventory as a longer cut, not listed separately in the digest.",
+        "Dropped 23 templates whose pages returned 404 today; not itemized in the digest.",
+        "Dropped ai-personal-trainer-prank: page 404 on 2026-11-19.",
+        "Dropped ai-pool-boy-prank: page 404 on 2026-11-19.",
+        "Dropped ai-repair-man-prank: page 404 on 2026-11-19.",
+        "Dropped anime-hero-henshin-transformation: page 404 on 2026-11-19.",
+        "Dropped big-guy-ai-dance: page 404 on 2026-11-19.",
+        "Dropped chibi-anime-romance: page 404 on 2026-11-19.",
+        "Dropped cleaning-lady: page 404 on 2026-11-19.",
+        "Dropped cops-at-the-door: page 404 on 2026-11-19.",
+        "Dropped dark-warrior-henshin-transformation: page 404 on 2026-11-19.",
+        "Dropped fit-check-ai-video: page 404 on 2026-11-19.",
+        "Dropped generate-a-man-next-to-me-ai-video: page 404 on 2026-11-19.",
+        "Dropped homeless-man: page 404 on 2026-11-19.",
+        "Dropped kitchen-fire: page 404 on 2026-11-19.",
+        "Dropped nunchaku: page 404 on 2026-11-19.",
+        "Dropped put-a-mind-chip-ai-video: page 404 on 2026-11-19.",
+        "Dropped quiero-verte-venir-ai-dance: page 404 on 2026-11-19.",
+        "Dropped samurai-henshin-transformation: page 404 on 2026-11-19.",
+        "Dropped shirtless-plumber: page 404 on 2026-11-19.",
+        "Dropped snake-in-the-kitchen: page 404 on 2026-11-19.",
+        "Dropped tiptoeing-in-my-jordans-ai-video: page 404 on 2026-11-19.",
+        "Dropped tokyo-drift-ai-dance: page 404 on 2026-11-19.",
+        "Dropped vibes-ai-dance: page 404 on 2026-11-19.",
+        "Dropped zombie-love-story-ai-video: page 404 on 2026-11-19."
+      ],
+      "prev_count": 382,
+      "raw_now": 389,
+      "curated_new": 18,
+      "store_new": 19,
+      "filtered": 11
+    },
+    "aitrendvideo.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 7,
+      "raw_now": 13,
+      "curated_new": 3,
+      "store_new": 3,
+      "filtered": 3
+    },
+    "ricebowl.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [
+        "Meme catalog (/trends/meme ItemList) unchanged vs yesterday (84 claimed / 0 genuine new). Generic /app tool pages and parse junk not added."
+      ],
+      "prev_count": 72,
+      "raw_now": 344,
+      "curated_new": 0,
+      "store_new": 0,
+      "filtered": 272
+    },
+    "kubflow.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 10,
+      "raw_now": 11,
+      "curated_new": 0,
+      "store_new": 0,
+      "filtered": 1
+    },
+    "picturetovideo.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 5,
+      "raw_now": 48,
+      "curated_new": 0,
+      "store_new": 0,
+      "filtered": 43
+    },
+    "bolly.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 219,
+      "raw_now": 226,
+      "curated_new": 0,
+      "store_new": 0,
+      "filtered": 7
+    },
+    "rapvideo.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 42,
+      "raw_now": 70,
+      "curated_new": 0,
+      "store_new": 0,
+      "filtered": 28
+    },
+    "aimakevideo.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 47,
+      "raw_now": 49,
+      "curated_new": 2,
+      "store_new": 2,
+      "filtered": 0
+    },
+    "tryatrend.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [
+        "Kept ai-halloween-costume despite missing from today's sitemap (page still 200)."
+      ],
+      "prev_count": 50,
+      "raw_now": 50,
+      "curated_new": 1,
+      "store_new": 1,
+      "filtered": 0
+    },
+    "memelry.json": {
+      "update_store": true,
+      "fetch_ok": true,
+      "notes": [],
+      "prev_count": 349,
+      "raw_now": 418,
+      "curated_new": 6,
+      "store_new": 6,
+      "filtered": 63
+    }
+  }
+}

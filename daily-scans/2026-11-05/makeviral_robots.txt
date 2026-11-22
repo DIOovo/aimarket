@@ -1,0 +1,17 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+Disallow: /dashboard
+Disallow: /profile
+Disallow: /videos
+Disallow: /video/
+Disallow: /create/
+Disallow: /bulk-generate
+Disallow: /prompt-tester
+Disallow: /auth/
+Disallow: /signin
+Disallow: /template/
+Disallow: /admin
+
+Host: https://www.makeviral.ai
+Sitemap: https://www.makeviral.ai/sitemap.xml

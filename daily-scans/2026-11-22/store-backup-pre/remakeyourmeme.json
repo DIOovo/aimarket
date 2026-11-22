@@ -1,0 +1,237 @@
+{
+  "site": "Remake Your Meme",
+  "home": "https://remakeyourmeme.com/",
+  "checked_at": "2026-11-21T09:40:54+08:00",
+  "sitemap_urls_found": [
+    "https://remakeyourmeme.com/sitemap.xml"
+  ],
+  "sitemap_existed": true,
+  "template_count": 44,
+  "new_count": 0,
+  "removed_count": 0,
+  "new_templates": [],
+  "removed_templates": [],
+  "templates": [
+    {
+      "id_or_slug": "24k-magic-ai-video-generator",
+      "title": "24k Magic AI Video Generator",
+      "url": "https://remakeyourmeme.com/templates/24k-magic-ai-video-generator/"
+    },
+    {
+      "id_or_slug": "ai-90s-school-photo",
+      "title": "AI 90s School Photo",
+      "url": "https://remakeyourmeme.com/templates/ai-90s-school-photo/"
+    },
+    {
+      "id_or_slug": "ai-ghost-photoshoot",
+      "title": "AI Ghost Photoshoot",
+      "url": "https://remakeyourmeme.com/templates/ai-ghost-photoshoot/"
+    },
+    {
+      "id_or_slug": "ai-halloween-costume",
+      "title": "AI Halloween Costume",
+      "url": "https://remakeyourmeme.com/templates/ai-halloween-costume/"
+    },
+    {
+      "id_or_slug": "ai-hotel-lobby-trend",
+      "title": "AI Hotel Lobby Trend",
+      "url": "https://remakeyourmeme.com/templates/ai-hotel-lobby-trend/"
+    },
+    {
+      "id_or_slug": "ai-pumpkin-head-photoshoot",
+      "title": "AI Pumpkin Head Photoshoot",
+      "url": "https://remakeyourmeme.com/templates/ai-pumpkin-head-photoshoot/"
+    },
+    {
+      "id_or_slug": "alors-on-danse-ai-trend",
+      "title": "Alors On Danse AI Trend",
+      "url": "https://remakeyourmeme.com/templates/alors-on-danse-ai-trend/"
+    },
+    {
+      "id_or_slug": "avatar-seven-havens-ai",
+      "title": "Avatar Seven Havens AI",
+      "url": "https://remakeyourmeme.com/templates/avatar-seven-havens-ai/"
+    },
+    {
+      "id_or_slug": "baby-riding-reindeer-ai-video-generator",
+      "title": "Baby Riding Reindeer",
+      "url": "https://remakeyourmeme.com/templates/baby-riding-reindeer-ai-video-generator/"
+    },
+    {
+      "id_or_slug": "babydoll-dance-ai",
+      "title": "Babydoll Dance AI",
+      "url": "https://remakeyourmeme.com/templates/babydoll-dance-ai/"
+    },
+    {
+      "id_or_slug": "bicep-heart-ai-video-generator",
+      "title": "Bicep Heart",
+      "url": "https://remakeyourmeme.com/templates/bicep-heart-ai-video-generator/"
+    },
+    {
+      "id_or_slug": "bulin-47-ai-trend",
+      "title": "Bulin 47 AI Trend",
+      "url": "https://remakeyourmeme.com/templates/bulin-47-ai-trend/"
+    },
+    {
+      "id_or_slug": "burning-bridges-ai-trend",
+      "title": "Burning Bridges AI Trend",
+      "url": "https://remakeyourmeme.com/templates/burning-bridges-ai-trend/"
+    },
+    {
+      "id_or_slug": "car-alarm-dance-ai-video-generator",
+      "title": "Car Alarm Dance AI Video Generator",
+      "url": "https://remakeyourmeme.com/templates/car-alarm-dance-ai-video-generator/"
+    },
+    {
+      "id_or_slug": "careless-whisper-car-ai-video-generator",
+      "title": "Careless Whisper Car",
+      "url": "https://remakeyourmeme.com/templates/careless-whisper-car-ai-video-generator/"
+    },
+    {
+      "id_or_slug": "chipmunks-dance-ai-video-generator",
+      "title": "Chipmunks Dance AI Video Generator",
+      "url": "https://remakeyourmeme.com/templates/chipmunks-dance-ai-video-generator/"
+    },
+    {
+      "id_or_slug": "christmas-dance-ai-video-generator",
+      "title": "Christmas Pajama Dance",
+      "url": "https://remakeyourmeme.com/templates/christmas-dance-ai-video-generator/"
+    },
+    {
+      "id_or_slug": "christmas-family-dance-ai-video-generator",
+      "title": "Christmas Family Dance",
+      "url": "https://remakeyourmeme.com/templates/christmas-family-dance-ai-video-generator/"
+    },
+    {
+      "id_or_slug": "christmas-photobooth-ai-video-generator",
+      "title": "Christmas Photobooth",
+      "url": "https://remakeyourmeme.com/templates/christmas-photobooth-ai-video-generator/"
+    },
+    {
+      "id_or_slug": "closed-on-sunday-ai-trend",
+      "title": "Closed On Sunday AI Trend",
+      "url": "https://remakeyourmeme.com/templates/closed-on-sunday-ai-trend/"
+    },
+    {
+      "id_or_slug": "coldplay-kiss-cam-ai-video-generator",
+      "title": "Coldplay Kiss Cam AI Video Generator",
+      "url": "https://remakeyourmeme.com/templates/coldplay-kiss-cam-ai-video-generator/"
+    },
+    {
+      "id_or_slug": "crazy-frog-ai-trend",
+      "title": "Crazy Frog AI Trend",
+      "url": "https://remakeyourmeme.com/templates/crazy-frog-ai-trend/"
+    },
+    {
+      "id_or_slug": "crochet-filter-ai",
+      "title": "Crochet Filter AI",
+      "url": "https://remakeyourmeme.com/templates/crochet-filter-ai/"
+    },
+    {
+      "id_or_slug": "dime-dime-baby-ai-video-generator",
+      "title": "Dime Dime Baby AI Video Generator",
+      "url": "https://remakeyourmeme.com/templates/dime-dime-baby-ai-video-generator/"
+    },
+    {
+      "id_or_slug": "dog-pool-party-ai",
+      "title": "Dog Pool Party AI",
+      "url": "https://remakeyourmeme.com/templates/dog-pool-party-ai/"
+    },
+    {
+      "id_or_slug": "fancy-cafe-ai-video-generator",
+      "title": "Fancy Cafe AI Video Generator",
+      "url": "https://remakeyourmeme.com/templates/fancy-cafe-ai-video-generator/"
+    },
+    {
+      "id_or_slug": "gangnam-style-ai-video-generator",
+      "title": "Gangnam Style AI Video Generator",
+      "url": "https://remakeyourmeme.com/templates/gangnam-style-ai-video-generator/"
+    },
+    {
+      "id_or_slug": "ghostface-ai-trend",
+      "title": "Ghostface AI Trend",
+      "url": "https://remakeyourmeme.com/templates/ghostface-ai-trend/"
+    },
+    {
+      "id_or_slug": "green-christmas-creature-ai-photoshoot",
+      "title": "Green Christmas Creature Photoshoot",
+      "url": "https://remakeyourmeme.com/templates/green-christmas-creature-ai-photoshoot/"
+    },
+    {
+      "id_or_slug": "hop-hop-hop-ai",
+      "title": "Hop Hop Hop AI",
+      "url": "https://remakeyourmeme.com/templates/hop-hop-hop-ai/"
+    },
+    {
+      "id_or_slug": "hug-in-heaven",
+      "title": "Hug In Heaven",
+      "url": "https://remakeyourmeme.com/templates/hug-in-heaven/"
+    },
+    {
+      "id_or_slug": "husband-emporium-ai",
+      "title": "Husband Emporium AI",
+      "url": "https://remakeyourmeme.com/templates/husband-emporium-ai/"
+    },
+    {
+      "id_or_slug": "i-love-the-smiths-ai-video-generator",
+      "title": "I Love The Smiths AI Video Generator",
+      "url": "https://remakeyourmeme.com/templates/i-love-the-smiths-ai-video-generator/"
+    },
+    {
+      "id_or_slug": "ice-ice-baby-dance-ai-video-generator",
+      "title": "Ice Ice Baby Dance AI Video Generator",
+      "url": "https://remakeyourmeme.com/templates/ice-ice-baby-dance-ai-video-generator/"
+    },
+    {
+      "id_or_slug": "middle-finger-dunk-ai-video-generator",
+      "title": "Middle Finger Dunk AI Video Generator",
+      "url": "https://remakeyourmeme.com/templates/middle-finger-dunk-ai-video-generator/"
+    },
+    {
+      "id_or_slug": "no-scrubs-ai-video-generator",
+      "title": "No Scrubs AI Video Generator",
+      "url": "https://remakeyourmeme.com/templates/no-scrubs-ai-video-generator/"
+    },
+    {
+      "id_or_slug": "raindance-ai-trend",
+      "title": "Raindance AI Trend",
+      "url": "https://remakeyourmeme.com/templates/raindance-ai-trend/"
+    },
+    {
+      "id_or_slug": "rumpelstiltskin-ai-video",
+      "title": "Rumpelstiltskin AI Video",
+      "url": "https://remakeyourmeme.com/templates/rumpelstiltskin-ai-video/"
+    },
+    {
+      "id_or_slug": "smalltown-boy-cat-dance",
+      "title": "Smalltown Boy Cat Dance",
+      "url": "https://remakeyourmeme.com/templates/smalltown-boy-cat-dance/"
+    },
+    {
+      "id_or_slug": "thanksgiving-dance-ai",
+      "title": "Thanksgiving Dance",
+      "url": "https://remakeyourmeme.com/templates/thanksgiving-dance-ai/"
+    },
+    {
+      "id_or_slug": "tiny-desk-ai-video-generator",
+      "title": "Tiny Desk AI Video Generator",
+      "url": "https://remakeyourmeme.com/templates/tiny-desk-ai-video-generator/"
+    },
+    {
+      "id_or_slug": "tip-toeing-in-my-jordans-ai",
+      "title": "Tip Toeing In My Jordans AI",
+      "url": "https://remakeyourmeme.com/templates/tip-toeing-in-my-jordans-ai/"
+    },
+    {
+      "id_or_slug": "vossi-bop-ai-video-generator",
+      "title": "Vossi Bop AI Video Generator",
+      "url": "https://remakeyourmeme.com/templates/vossi-bop-ai-video-generator/"
+    },
+    {
+      "id_or_slug": "zombie-couple-ai-trend",
+      "title": "Zombie Couple AI Trend",
+      "url": "https://remakeyourmeme.com/templates/zombie-couple-ai-trend/"
+    }
+  ],
+  "note": "Sitemap via WebFetch; box IP still 403; inventory unchanged (44)."
+}

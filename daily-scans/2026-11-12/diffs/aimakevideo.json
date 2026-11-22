@@ -1,0 +1,23 @@
+{
+  "site": "aiMakeVideo",
+  "file": "aimakevideo.json",
+  "prev": 37,
+  "now": 39,
+  "new": [
+    {
+      "id_or_slug": "careless-whisper-car-meme-ai",
+      "title": "Careless Whisper Car Meme AI",
+      "url": "https://aimakevideo.com/careless-whisper-car-meme-ai"
+    },
+    {
+      "id_or_slug": "stormzy-shut-up-ai",
+      "title": "Stormzy Shut Up AI",
+      "url": "https://aimakevideo.com/stormzy-shut-up-ai"
+    }
+  ],
+  "gone": [],
+  "notes": [],
+  "sitemaps": [
+    "https://aimakevideo.com/sitemap.xml"
+  ]
+}

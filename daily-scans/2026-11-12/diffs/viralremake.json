@@ -1,0 +1,18 @@
+{
+  "site": "ViralRemake",
+  "file": "viralremake.json",
+  "prev": 36,
+  "now": 37,
+  "new": [
+    {
+      "id_or_slug": "little-cousins-ai",
+      "title": "Little Cousins AI",
+      "url": "https://viralremake.com/templates/little-cousins-ai"
+    }
+  ],
+  "gone": [],
+  "notes": [],
+  "sitemaps": [
+    "https://viralremake.com/sitemap.xml"
+  ]
+}

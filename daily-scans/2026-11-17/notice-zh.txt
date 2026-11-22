@@ -1,0 +1,212 @@
+竞品模板日报（2026-11-17，上海时间）
+
+今日共 70 个新模板，分布在 11 家。已核实页面可打开；解析误伤（分类页/聚合页/FAQ/SEO 变体/通用工具页）未计入。
+
+另：Put Me In 继续把 11-15 的 sitemap 回填写入快照（lastmod 均为 2026-11-15），今日再入库 86 条（快照增至 226；3 条为改名替换，不在此逐条列出）；与今日他站新增撞车的见文末「多家共有」。
+
+【TrendTemplate】3 个
+- Dancing With Santa AI：圣诞红毯上和圣诞老人跳 El Baile De Santa Clos，朋友可扮圣诞老人
+  https://trendtemplate.com/dancing-with-santa-ai
+- Give It All to Me AI：在 From The Block 场景吊麦前说唱 BigXthaPlug《Give It All》
+  https://trendtemplate.com/give-it-all-to-me-ai
+- Never Let Her Pay AI：约会买单打开包却掏出一块海绵，被罚去洗碗
+  https://trendtemplate.com/never-let-her-pay-ai
+
+【ClipRemake】2 个
+- Sheru Bhai AI：13 段狮王老板情景剧：拍卖、私人飞机、喝chai、婚礼或登基
+  https://clipremake.com/templates/sheru-bhai-ai
+- Te He Perdido AI：一人在俱乐部阳台，灯光打到舞池里的另一个人
+  https://clipremake.com/templates/te-he-perdido-ai
+
+【MakeViral】9 个
+- Dog Cake Smash AI：狗把整块奶油蛋糕砸到主人脸上
+  https://www.makeviral.ai/templates/dog-cake-smash-ai-trend
+- Joaquin Buckley Kick AI：还原 UFC 乔金·巴克利旋转后踢 KO，可打朋友或让宠物上场
+  https://www.makeviral.ai/templates/joaquin-buckley-knockout-ai-trend
+- King Jin AI Trend：霓虹韩街上一站不动，整条街的人向你鞠躬
+  https://www.makeviral.ai/templates/king-jin-ai-trend
+- My Moon My Man Trend：跪在小花旁，画里的耶稣藏着一大束花（My Moon My Man）
+  https://www.makeviral.ai/templates/my-moon-my-man-ai-trend
+- Olly Olly Dance AI：跟跳 OLLY 节拍：弹跳、挥拳、侧步再冲出画面
+  https://www.makeviral.ai/templates/olly-olly-dance-ai-trend
+- Put The Rollie On My Wrist：肩扛伴侣转身，另一张脸从前面冒出来（I'm the One）
+  https://www.makeviral.ai/templates/rollie-on-my-wrist-ai-trend
+- Tom Hardy Legend Edit AI：把自己做成 60 年代伦敦黑帮剪辑，配 slowed Criminal
+  https://www.makeviral.ai/templates/tom-hardy-legend-edit-ai
+- What If You Fly Meme：从卧室地板坠落，再喷火飞上云端
+  https://www.makeviral.ai/templates/what-if-you-fly-ai-trend
+- Whoville Character AI：一张自拍变成《圣诞怪杰》Who 村民造型
+  https://www.makeviral.ai/templates/whoville-ai-trend
+
+【MakeMeme.video】1 个
+- Reaching Out Cat AI：手伸向天花板，再把自家猫狗一把拽出画面
+  https://makememe.video/reaching-out-cat-ai
+
+【SameVid AI】18 个
+- All I Need Is A Little Bit AI Dance：跟跳 All I Need Is A Little Bit 卡点舞，最多三人
+  https://samevid.com/template/all-i-need-is-a-little-bit-ai-dance
+- Aproveita Que Eu Tô Brigado AI：在黑色 SUV 旁清唱 Aproveita Que Eu Tô Brigado
+  https://samevid.com/template/aproveita-que-eu-to-brigado-ai
+- Baby Riding Reindeer AI：宝宝骑着驯鹿出现在圣诞雪橇场景
+  https://samevid.com/template/baby-riding-reindeer-ai
+- Digidi Digidi AI Dance：跟跳 DJ.ILHAM《Digidi Digidi》热门舞
+  https://samevid.com/template/digidi-digidi-ai-dance
+- Ice Ice Baby AI Dance：在湿球场上跟跳 Ice Ice Baby，可加一位朋友
+  https://samevid.com/template/ice-ice-baby-ai-dance
+- Jensen Huang Worth It AI：黄仁勋抱着尤克里里唱 Worth It 的迷因
+  https://samevid.com/template/jensen-huang-worth-it-ai
+- LISA Crab Dance AI：一张照片跟跳 LISA 螃蟹舞（Poo Neep E-Pi）
+  https://samevid.com/template/lisa-crab-dance-ai
+- Little House on the Prairie AI Dance：草原小屋风卡点舞，可双人
+  https://samevid.com/template/little-house-on-the-prairie-ai-dance
+- Lush Curls AI：特写让头发自然弹出卷曲弹性
+  https://samevid.com/template/lush-curls-ai
+- Luxury Shopping Walk AI：在奢侈品店里气场十足地走过
+  https://samevid.com/template/luxury-shopping-walk-ai
+- Mean Girls Jingle Bell Rock AI：《贱女孩》里 Jingle Bell Rock 圣诞群舞，最多三人
+  https://samevid.com/template/mean-girls-jingle-bell-rock-ai
+- Neymar Studio AI：录音棚里唱巴西 Funk 的内马尔迷因，最多三人
+  https://samevid.com/template/neymar-studio-ai
+- One More Thing Keynote AI：苹果发布会 One More Thing 登台亮相
+  https://samevid.com/template/one-more-thing-keynote-ai
+- Party Popper AI：走廊里拉开礼宾喷彩的 Baby Boom 揭晓
+  https://samevid.com/template/party-popper-ai
+- Peter Griffin AI：一张正脸照变成真人版 Peter Griffin
+  https://samevid.com/template/peter-griffin-ai
+- SRK AI Dance：宝莱坞聚光灯下转圈托腰双人舞
+  https://samevid.com/template/srk-ai-dance
+- Step Brothers Christmas AI：《继兄弟》菱形背心和格子睡衣的圣诞小品，可双人
+  https://samevid.com/template/step-brothers-christmas-ai
+- The Office AI Parody：《办公室》模拟纪录片风格对口型小品，最多四人
+  https://samevid.com/template/the-office-ai-parody
+
+【ZapVid】16 个
+- Asereje AI：戴墨镜在车里对口型，跟跳《Aserejé / Ketchup Song》手势
+  https://zapvid.ai/asereje-ai-video-generator
+- Catch Santa on Camera AI：圣诞树旁抓拍到圣诞老人放礼物，还会叫出孩子的名字
+  https://zapvid.ai/catch-santa-on-camera-ai-video-generator
+- Christmas Pajama Dance AI：和朋友穿着格子圣诞睡衣跳双人舞
+  https://zapvid.ai/christmas-dance-ai-video-generator
+- Christmas Photobooth AI：黑白拍贴一条，每一格换姿势，镜头横移扫过
+  https://zapvid.ai/christmas-photobooth-ai-video-generator
+- DJ Cat AI：让自家猫狗当 DJ，爪搭在打碟机上，台下是演唱会观众
+  https://zapvid.ai/dj-cat-ai-video-generator
+- Elf Dance AI：把自己和最多两位朋友变成圣诞精灵，在工作室里跳舞
+  https://zapvid.ai/elf-dance-ai-video-generator
+- Grau de Moto AI：在空路上骑黄黑超级摩托做前轮离地（巴西 grau de moto）
+  https://zapvid.ai/grau-de-moto-ai-video-generator
+- Iconic By Mistake Dance AI：夜巷里跟跳 Iconic By Mistake 整套表情和动作
+  https://zapvid.ai/iconic-by-mistake-dance-ai-video-generator
+- Jingle Bell Brazil Dance AI：戴圣诞帽排成一排，交叉手臂拍胸跳巴西版 Jingle Bell
+  https://zapvid.ai/jingle-bell-brazil-ai-video-generator
+- Monkey Eating Apple AI：野猕猴扑过来抢苹果咬一口，人呆在原地
+  https://zapvid.ai/monkey-eating-apple-ai-video-generator
+- November 1st Christmas Meme AI：11 月 1 日走廊开门、蹲下再回头的圣诞迷因
+  https://zapvid.ai/november-1st-christmas-meme-ai-video-generator
+- NYC Rats AI：让自家宠物领着纽约巷子里的老鼠直立对峙镜头
+  https://zapvid.ai/nyc-rats-ai-video-generator
+- Quiet on the Creek Dance AI：夜里城市为背景，跟跳 Quiet on the Creek 双人舞
+  https://zapvid.ai/quiet-on-the-creek-dance-ai-video-generator
+- Santa Nice List AI：圣诞老人念乖孩子名单，工作室金框里出现你的脸
+  https://zapvid.ai/santa-nice-list-ai-video-generator
+- Steer Wrestling AI：扮演牛仔追牛、跳下马把牛按倒在地
+  https://zapvid.ai/steer-wrestling-ai-video-generator
+- Then I Walk In Meme AI：特写自拍直视镜头的 then I walk in 迷因
+  https://zapvid.ai/then-i-walk-in-ai-video-generator
+
+【Summrs】4 个
+- Mourinho Pressure AI：穆里尼奥压力采访、边线和嘘声剪辑，配 Feel The Pressure
+  https://www.summrs.com/feel-the-pressure-ai-video-generator
+- James Bond Reveal AI：把自己放进罗伯特·帕丁森式的 007 宣布亮相
+  https://www.summrs.com/james-bond-reveal-ai-video-generator
+- Quiet on the Creek AI：车里四人对口型，配 Saucy Santana 原曲
+  https://www.summrs.com/quiet-on-the-creek-ai-video-generator
+- Shoulder Carry / I'm the One：两人肩扛转身，把 I'm the One / Rollie on my Wrist 梗演出来
+  https://www.summrs.com/rollie-on-my-wrist-ai-video-generator
+
+【DanceRemake】1 个
+- Te He Perdido AI：两人版：俱乐部阳台望见舞池聚光灯下的那个人
+  https://danceremake.com/templates/te-he-perdido-ai
+
+【RapVideo.ai】2 个
+- BigXthaPlug Give It All AI：在挤满人的电影院大厅吊麦前说唱 Give It All
+  https://rapvideo.ai/bigxthaplug-give-it-all-ai
+- Wassup in a Minute AI：和最多两位朋友在山坡上跳 Wassup in a Minute
+  https://rapvideo.ai/wassup-in-a-minute-ai
+
+【aiMakeVideo】1 个
+- My Moon My Man AI：一张照片做成耶稣藏花的绘画，或两人版 10 秒视频
+  https://aimakevideo.com/my-moon-my-man-ai
+
+【Memelry】13 个
+- Airport Transition AI：登机口用手在镜头前画圈，再切到另一个场景
+  https://memelry.com/airport-transition-ai
+- Dance With Santa AI：在圣诞树旁和圣诞老人并肩跳舞
+  https://memelry.com/dance-with-santa-ai
+- Dog Washing Dishes AI：宠物在水槽洗碗，打开盒子却是块海绵
+  https://memelry.com/dog-washing-dishes-ai
+- Jingle Bell Brazil Dance AI：戴圣诞帽排成一排，跳巴西 Funk 版 Jingle Bell 卡点舞
+  https://memelry.com/jingle-bell-brazil-dance-ai
+- Nadie Ta Frío AI：跟跳 Laja《Nadie Ta Frío》手部卡点舞
+  https://memelry.com/nadie-ta-frio-ai
+- Reaching Out Cat AI：手伸向天花板，再把猫一把拽出画面
+  https://memelry.com/reaching-out-cat-ai
+- Ronaldo Header AI：还原 C 罗式头球，最多两人上场
+  https://memelry.com/ronaldo-header-ai
+- Самая холодная зима / Milena Snow：Milena《最冷的冬天》雪花彩纸飘落的卡点视频
+  https://memelry.com/samaya-kholodnaya-zima-ai
+- Shoulder Carry / I'm the One AI：肩扛伴侣转身，把 I'm the One 翻脸梗演出来
+  https://memelry.com/shoulder-carry-im-the-one-ai
+- Tidal Wave / Su Gibi Git Su Gibi Gel：巨浪打来再退去的 Su Gibi Git Su Gibi Gel 浪潮梗，最多三人
+  https://memelry.com/tidal-wave-ai
+- Tiger Transition AI：手挡镜头后变身虎纹妆或华丽造型
+  https://memelry.com/tiger-transition-ai
+- You're Under Arrest Dance AI：法庭三人跳 You're Under Arrest 舞，两张照片仍保留第三位舞者
+  https://memelry.com/under-arrest-dance-ai
+- You Rock My World AI：手扫过镜头后变盛装，You Rock My World 转场，可双人
+  https://memelry.com/you-rock-my-world-ai
+
+【多家共有】
+今日新增互相撞车：
+· BigXthaPlug Give It All（8 家，今日新增 2 家）：TrendTemplate（新） https://trendtemplate.com/give-it-all-to-me-ai ｜ MakeViral（存量） https://www.makeviral.ai/templates/bigxthaplug-give-it-all-ai-trend ｜ MakeMeme.video（存量） https://makememe.video/bigxthaplug-give-it-all-ai ｜ SameVid AI（存量） https://samevid.com/template/give-it-all-ai ｜ Summrs（存量） https://www.summrs.com/bigxthaplug-give-it-all-ai-video-generator ｜ Starrd（存量） https://www.getstarrd.app/template/bigxthaplug-give-it-all-ai-video ｜ RapVideo.ai（新） https://rapvideo.ai/bigxthaplug-give-it-all-ai ｜ Memelry（存量） https://memelry.com/bigxthaplug-give-it-all-ai
+· Quiet on the Creek（5 家，今日新增 2 家）：MakeViral（存量） https://www.makeviral.ai/templates/quiet-on-the-creek-ai-trend ｜ Put Me In（存量） https://putmein.app/templates/quiet-on-the-creek-ai-trend ｜ ZapVid（新） https://zapvid.ai/quiet-on-the-creek-dance-ai-video-generator ｜ Summrs（新） https://www.summrs.com/quiet-on-the-creek-ai-video-generator ｜ Memelry（存量） https://memelry.com/quiet-on-the-creek-ai ｜ 另有 Smew AI（存量） https://smew.ai/templates/quiet-on-the-creek-ai-trend
+· Reaching Out Cat（4 家，今日新增 2 家）：MakeViral（存量） https://www.makeviral.ai/templates/reaching-out-cat-ai ｜ MakeMeme.video（新） https://makememe.video/reaching-out-cat-ai ｜ SameVid AI（存量） https://samevid.com/template/reaching-out-cat-ai ｜ Memelry（新） https://memelry.com/reaching-out-cat-ai
+· Te He Perdido / La Tormenta de Arena（4 家，今日新增 2 家）：ClipRemake（新） https://clipremake.com/templates/te-he-perdido-ai ｜ ZapVid（存量） https://zapvid.ai/la-tormenta-de-arena-ai-video-generator ｜ DanceRemake（新） https://danceremake.com/templates/te-he-perdido-ai ｜ Memelry（存量） https://memelry.com/la-tormenta-de-arena-ai
+· Shoulder Carry / I'm the One / Rollie On My Wrist（3 家，今日新增 3 家）：MakeViral（新） https://www.makeviral.ai/templates/rollie-on-my-wrist-ai-trend ｜ Summrs（新） https://www.summrs.com/rollie-on-my-wrist-ai-video-generator ｜ Memelry（新） https://memelry.com/shoulder-carry-im-the-one-ai ｜ 另有 Smew AI（存量） https://smew.ai/templates/shoulder-carry-im-the-one-ai-trend
+· Dance With Santa（3 家，今日新增 2 家）：TrendTemplate（新） https://trendtemplate.com/dancing-with-santa-ai ｜ MakeViral（存量） https://www.makeviral.ai/templates/dance-with-santa-ai ｜ Memelry（新） https://memelry.com/dance-with-santa-ai
+· Jingle Bell Brazil Dance（3 家，今日新增 2 家）：MakeViral（存量） https://www.makeviral.ai/templates/jingle-bell-brazil-dance-ai ｜ ZapVid（新） https://zapvid.ai/jingle-bell-brazil-ai-video-generator ｜ Memelry（新） https://memelry.com/jingle-bell-brazil-dance-ai
+· My Moon My Man（2 家，今日新增 2 家）：MakeViral（新） https://www.makeviral.ai/templates/my-moon-my-man-ai-trend ｜ aiMakeVideo（新） https://aimakevideo.com/my-moon-my-man-ai
+
+今日新增与他站存量撞车：
+· Wassup in a Minute（12 家）：TrendTemplate（存量） https://trendtemplate.com/wassup-in-a-minute-ai ｜ MemeFX AI（存量） https://memefxai.com/wassup-in-a-minute-ai-trend ｜ ClipRemake（存量） https://clipremake.com/templates/wassup-in-a-minute-ai ｜ MakeViral（存量） https://www.makeviral.ai/templates/wassup-in-a-minute-ai-trend ｜ ViralRemake（存量） https://viralremake.com/templates/wassup-in-a-minute-ai ｜ Summrs（存量） https://www.summrs.com/wassup-in-a-minute-ai-video-generator ｜ DanceRemake（存量） https://danceremake.com/templates/wassup-in-a-minute-ai ｜ Ricebowl AI（存量） https://ricebowl.ai/app/in-a-minute-wassup ｜ RapVideo.ai（新） https://rapvideo.ai/wassup-in-a-minute-ai ｜ aiMakeVideo（存量） https://aimakevideo.com/wassup-in-a-minute-ai ｜ Try a Trend（存量） https://tryatrend.com/wassup-in-a-minute-ai ｜ Memelry（存量） https://memelry.com/wassup-dance-ai ｜ 另有 Smew AI（存量） https://smew.ai/templates/wassup-in-a-minute-ai-trend
+· Christmas Pajama Dance（11 家）：TrendTemplate（存量） https://trendtemplate.com/christmas-pajama-dance-ai ｜ MemeFX AI（存量） https://memefxai.com/christmas-couple-dance-ai ｜ Remake Your Meme（存量） https://remakeyourmeme.com/templates/christmas-dance-ai-video-generator/ ｜ MakeViral（存量） https://www.makeviral.ai/templates/christmas-dance-ai-trend ｜ MakeMeme.video（存量） https://makememe.video/christmas-dance-ai ｜ TrendSwap（存量） https://trendswap.app/christmas-dance-ai ｜ SameVid AI（存量） https://samevid.com/template/christmas-dance-ai ｜ ZapVid（新） https://zapvid.ai/christmas-dance-ai-video-generator ｜ Starrd（存量） https://www.getstarrd.app/template/christmas-dance-trend ｜ RapVideo.ai（存量） https://rapvideo.ai/christmas-dance-ai ｜ aiMakeVideo（存量） https://aimakevideo.com/christmas-dance-ai ｜ 另有 Smew AI（存量） https://smew.ai/templates/christmas-dance-ai-trend
+· Elf Dance（9 家）：TrendTemplate（存量） https://trendtemplate.com/elf-dance-ai ｜ MemeFX AI（存量） https://memefxai.com/ai-elf-dance-video ｜ ClipRemake（存量） https://clipremake.com/templates/ai-elf-dance ｜ MakeViral（存量） https://www.makeviral.ai/templates/ai-elf-dance-video ｜ MemeClone.ai（存量） https://memeclone.ai/templates/christmas-elf ｜ ZapVid（新） https://zapvid.ai/elf-dance-ai-video-generator ｜ DanceRemake（存量） https://danceremake.com/templates/ai-elf-dance ｜ Starrd（存量） https://www.getstarrd.app/template/elf-dance-ai-video ｜ Try a Trend（存量） https://tryatrend.com/elf-dance-ai ｜ 另有 Smew AI（存量） https://smew.ai/templates/ai-elf-dance-video
+· Iconic By Mistake（7 家）：MakeViral（存量） https://www.makeviral.ai/templates/iconic-by-mistake-ai-dance ｜ MakeMeme.video（存量） https://makememe.video/iconic-by-mistake-ai ｜ SameVid AI（存量） https://samevid.com/template/iconic-by-mistake-dance-ai ｜ ZapVid（新） https://zapvid.ai/iconic-by-mistake-dance-ai-video-generator ｜ Summrs（存量） https://www.summrs.com/iconic-by-mistake-ai-video-generator ｜ Starrd（存量） https://www.getstarrd.app/template/iconic-by-mistake-ai-video ｜ Memelry（存量） https://memelry.com/iconic-by-mistake-ai
+· Catch Santa on Camera（5 家）：MemeFX AI（存量） https://memefxai.com/santa-caught-on-camera ｜ ClipRemake（存量） https://clipremake.com/templates/ai-santa-caught-on-camera ｜ MakeViral（存量） https://www.makeviral.ai/templates/ai-santa-caught-on-camera ｜ ZapVid（新） https://zapvid.ai/catch-santa-on-camera-ai-video-generator ｜ Try a Trend（存量） https://tryatrend.com/catch-santa-on-camera-ai ｜ 另有 Smew AI（存量） https://smew.ai/templates/ai-santa-caught-on-camera
+· Jingle Bell Rock / Mean Girls（5 家）：MakeViral（存量） https://www.makeviral.ai/templates/jingle-bell-rock-mean-girls-ai-trend ｜ MakeMeme.video（存量） https://makememe.video/jingle-bell-rock-ai ｜ SameVid AI（新） https://samevid.com/template/mean-girls-jingle-bell-rock-ai ｜ Starrd（存量） https://www.getstarrd.app/template/jingle-bell-rock-ai-dance ｜ Memelry（存量） https://memelry.com/jingle-bell-rock-mean-girls-ai
+· Monkey Eating Apple（5 家）：MakeViral（存量） https://www.makeviral.ai/templates/monkey-eating-apple-ai-trend ｜ Put Me In（存量） https://putmein.app/templates/monkey-eating-apple-ai-trend ｜ ZapVid（新） https://zapvid.ai/monkey-eating-apple-ai-video-generator ｜ Starrd（存量） https://www.getstarrd.app/template/monkey-eating-apple-ai-video ｜ aiMakeVideo（存量） https://aimakevideo.com/monkey-eating-apple-ai ｜ 另有 Smew AI（存量） https://smew.ai/templates/monkey-eating-apple-ai-trend
+· Christmas Photobooth（4 家）：Remake Your Meme（存量） https://remakeyourmeme.com/templates/christmas-photobooth-ai-video-generator/ ｜ MakeViral（存量） https://www.makeviral.ai/templates/christmas-photobooth-ai-trend ｜ SameVid AI（存量） https://samevid.com/template/christmas-photobooth-ai ｜ ZapVid（新） https://zapvid.ai/christmas-photobooth-ai-video-generator
+· DJ Cat（4 家）：MemeFX AI（存量） https://memefxai.com/dj-cat-ai ｜ MakeViral（存量） https://www.makeviral.ai/templates/dj-cat-ai ｜ ZapVid（新） https://zapvid.ai/dj-cat-ai-video-generator ｜ Memelry（存量） https://memelry.com/dj-cat-ai ｜ 另有 Smew AI（存量） https://smew.ai/templates/dj-cat-ai
+· Never Let Her Pay（4 家）：TrendTemplate（新） https://trendtemplate.com/never-let-her-pay-ai ｜ MakeViral（存量） https://www.makeviral.ai/templates/never-let-her-pay-ai-trend ｜ MakeMeme.video（存量） https://makememe.video/never-let-her-pay-ai ｜ Memelry（存量） https://memelry.com/never-let-her-pay-ai
+· Then I Walk In（4 家）：DoTheTrend（存量） https://dothetrend.ai/templates/then-i-walk-in-ai-trend ｜ MakeViral（存量） https://www.makeviral.ai/templates/then-i-walk-in-ai-trend ｜ Put Me In（存量） https://putmein.app/templates/then-i-walk-in-ai-trend ｜ ZapVid（新） https://zapvid.ai/then-i-walk-in-ai-video-generator ｜ 另有 Smew AI（存量） https://smew.ai/templates/then-i-walk-in-ai-trend
+· Baby Boom / Party Popper（3 家）：MakeViral（存量） https://www.makeviral.ai/templates/party-popper-ai-trend ｜ SameVid AI（新） https://samevid.com/template/party-popper-ai ｜ Memelry（存量） https://memelry.com/party-popper-ai
+· Baby Riding Reindeer（3 家）：Remake Your Meme（存量） https://remakeyourmeme.com/templates/baby-riding-reindeer-ai-video-generator/ ｜ MakeMeme.video（存量） https://makememe.video/baby-riding-reindeer-ai ｜ SameVid AI（新） https://samevid.com/template/baby-riding-reindeer-ai
+· Grau De Moto（3 家）：MakeViral（存量） https://www.makeviral.ai/templates/grau-de-moto-ai-trend ｜ Put Me In（存量） https://putmein.app/templates/grau-de-moto-ai-trend ｜ ZapVid（新） https://zapvid.ai/grau-de-moto-ai-video-generator ｜ 另有 Smew AI（存量） https://smew.ai/templates/grau-de-moto-ai-trend
+· LISA Crab Dance（3 家）：MakeViral（存量） https://www.makeviral.ai/templates/lisa-crab-dance-ai-trend ｜ SameVid AI（新） https://samevid.com/template/lisa-crab-dance-ai ｜ Memelry（存量） https://memelry.com/lisa-crab-dance-ai
+· Mourinho Pressure / Feel The Pressure（3 家）：MakeViral（存量） https://www.makeviral.ai/templates/mourinho-pressure-ai-trend ｜ Summrs（新） https://www.summrs.com/feel-the-pressure-ai-video-generator ｜ Memelry（存量） https://memelry.com/mourinho-pressure-ai
+· NYC Rats（3 家）：MakeViral（存量） https://www.makeviral.ai/templates/nyc-rats-ai-trend ｜ Put Me In（存量） https://putmein.app/templates/nyc-rats-ai-trend ｜ ZapVid（新） https://zapvid.ai/nyc-rats-ai-video-generator
+· Ronaldo Header（3 家）：MakeViral（存量） https://www.makeviral.ai/templates/ronaldo-header-ai-trend ｜ SameVid AI（存量） https://samevid.com/template/ronaldo-header-ai ｜ Memelry（新） https://memelry.com/ronaldo-header-ai
+· Steer Wrestling（3 家）：MakeViral（存量） https://www.makeviral.ai/templates/steer-wrestling-ai-trend ｜ ZapVid（新） https://zapvid.ai/steer-wrestling-ai-video-generator ｜ Memelry（存量） https://memelry.com/steer-wrestling-ai
+· Airport Transition（2 家）：MakeViral（存量） https://www.makeviral.ai/templates/airport-transition-ai-trend ｜ Memelry（新） https://memelry.com/airport-transition-ai
+· Asereje（2 家）：ZapVid（新） https://zapvid.ai/asereje-ai-video-generator ｜ Memelry（存量） https://memelry.com/asereje-ai
+· Dog Washing Dishes（2 家）：MakeViral（存量） https://www.makeviral.ai/templates/dog-washing-dishes-ai-trend ｜ Memelry（新） https://memelry.com/dog-washing-dishes-ai
+· Ice Ice Baby（2 家）：SameVid AI（新） https://samevid.com/template/ice-ice-baby-ai-dance ｜ Memelry（存量） https://memelry.com/ice-ice-baby-ai
+· King Jin（2 家）：MakeViral（新） https://www.makeviral.ai/templates/king-jin-ai-trend ｜ Memelry（存量） https://memelry.com/king-jin-ai
+· Nadie Ta Frio（2 家）：MakeViral（存量） https://www.makeviral.ai/templates/nadie-ta-frio-ai-trend ｜ Memelry（新） https://memelry.com/nadie-ta-frio-ai
+· Santa Nice List（2 家）：MakeViral（存量） https://www.makeviral.ai/templates/santa-nice-list-ai-video ｜ ZapVid（新） https://zapvid.ai/santa-nice-list-ai-video-generator ｜ 另有 Smew AI（存量） https://smew.ai/templates/santa-nice-list-ai-video
+· Sheru Bhai（2 家）：ClipRemake（新） https://clipremake.com/templates/sheru-bhai-ai ｜ TrendSwap（存量） https://trendswap.app/sheru-bhai-ai
+· SRK（2 家）：SameVid AI（新） https://samevid.com/template/srk-ai-dance ｜ Memelry（存量） https://memelry.com/srk-ai-dance-ai
+· Tidal Wave / Su Gibi Git Su Gibi Gel（2 家）：MakeViral（存量） https://www.makeviral.ai/templates/ai-tidal-wave-video ｜ Memelry（新） https://memelry.com/tidal-wave-ai
+· Tiger Transition（2 家）：MakeViral（存量） https://www.makeviral.ai/templates/tiger-transition-ai-trend ｜ Memelry（新） https://memelry.com/tiger-transition-ai
+· You Rock My World（2 家）：MakeViral（存量） https://www.makeviral.ai/templates/you-rock-my-world-ai-trend ｜ Memelry（新） https://memelry.com/you-rock-my-world-ai
+· You're Under Arrest Dance（2 家）：Put Me In（存量） https://putmein.app/templates/youre-under-arrest-ai-dance ｜ Memelry（新） https://memelry.com/under-arrest-dance-ai

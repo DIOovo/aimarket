@@ -1,0 +1,82 @@
+{
+  "site": "AI Trend Video",
+  "home": "https://aitrendvideo.net/",
+  "checked_at": "2026-11-19T09:40:27+08:00",
+  "sitemap_urls_found": [
+    "https://aitrendvideo.net/sitemap.xml"
+  ],
+  "sitemap_existed": true,
+  "template_count": 10,
+  "templates": [
+    {
+      "id_or_slug": "ai-rap-video",
+      "title": "AI Rap Video",
+      "url": "https://aitrendvideo.net/ai-rap-video"
+    },
+    {
+      "id_or_slug": "baby-face-filter-ai",
+      "title": "Baby Face Filter AI",
+      "url": "https://aitrendvideo.net/baby-face-filter-ai"
+    },
+    {
+      "id_or_slug": "boxing-dog-ai-trend",
+      "title": "Boxing Dog AI Trend",
+      "url": "https://aitrendvideo.net/boxing-dog-ai-trend"
+    },
+    {
+      "id_or_slug": "bulin-47-ai-video",
+      "title": "Bulin 47 AI Video",
+      "url": "https://aitrendvideo.net/bulin-47-ai-video"
+    },
+    {
+      "id_or_slug": "dime-dime-baby-ai",
+      "title": "Dime Dime Baby AI",
+      "url": "https://aitrendvideo.net/dime-dime-baby-ai"
+    },
+    {
+      "id_or_slug": "flying-car-ai",
+      "title": "Flying Car AI",
+      "url": "https://aitrendvideo.net/flying-car-ai"
+    },
+    {
+      "id_or_slug": "flying-product-ai",
+      "title": "Flying Product AI",
+      "url": "https://aitrendvideo.net/flying-product-ai"
+    },
+    {
+      "id_or_slug": "gangnam-style-ai",
+      "title": "Gangnam Style AI",
+      "url": "https://aitrendvideo.net/gangnam-style-ai"
+    },
+    {
+      "id_or_slug": "pixar-snow-globe-ai-filter",
+      "title": "Pixar Snow Globe AI Filter",
+      "url": "https://aitrendvideo.net/pixar-snow-globe-ai-filter"
+    },
+    {
+      "id_or_slug": "tiny-desk-ai",
+      "title": "Tiny Desk AI",
+      "url": "https://aitrendvideo.net/tiny-desk-ai"
+    }
+  ],
+  "new_count": 3,
+  "removed_count": 0,
+  "new_templates": [
+    {
+      "id_or_slug": "baby-face-filter-ai",
+      "title": "Baby Face Filter AI",
+      "url": "https://aitrendvideo.net/baby-face-filter-ai"
+    },
+    {
+      "id_or_slug": "boxing-dog-ai-trend",
+      "title": "Boxing Dog AI Trend",
+      "url": "https://aitrendvideo.net/boxing-dog-ai-trend"
+    },
+    {
+      "id_or_slug": "pixar-snow-globe-ai-filter",
+      "title": "Pixar Snow Globe AI Filter",
+      "url": "https://aitrendvideo.net/pixar-snow-globe-ai-filter"
+    }
+  ],
+  "removed_templates": []
+}

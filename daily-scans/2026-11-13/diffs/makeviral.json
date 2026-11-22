@@ -1,0 +1,61 @@
+{
+  "site": "MakeViral",
+  "file": "makeviral.json",
+  "prev": 478,
+  "now": 488,
+  "fetch_ok": true,
+  "notes": [],
+  "new": [
+    {
+      "id_or_slug": "ai-video-with-celebrity",
+      "title": "AI Video With Celebrity",
+      "url": "https://www.makeviral.ai/templates/ai-video-with-celebrity"
+    },
+    {
+      "id_or_slug": "almost-almost-ai-trend",
+      "title": "Almost Almost AI Trend",
+      "url": "https://www.makeviral.ai/templates/almost-almost-ai-trend"
+    },
+    {
+      "id_or_slug": "barbie-girl-dance-ai-trend",
+      "title": "Barbie Girl Dance AI Trend",
+      "url": "https://www.makeviral.ai/templates/barbie-girl-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "davul-zurna-ai-trend",
+      "title": "Davul Zurna AI Trend",
+      "url": "https://www.makeviral.ai/templates/davul-zurna-ai-trend"
+    },
+    {
+      "id_or_slug": "if-i-was-chatgpt-trend",
+      "title": "If I Was Chatgpt Trend",
+      "url": "https://www.makeviral.ai/templates/if-i-was-chatgpt-trend"
+    },
+    {
+      "id_or_slug": "island-boy-ai-trend",
+      "title": "Island Boy AI Trend",
+      "url": "https://www.makeviral.ai/templates/island-boy-ai-trend"
+    },
+    {
+      "id_or_slug": "misanthropy-meme-ai-trend",
+      "title": "Misanthropy Meme AI Trend",
+      "url": "https://www.makeviral.ai/templates/misanthropy-meme-ai-trend"
+    },
+    {
+      "id_or_slug": "old-town-road-ai-video",
+      "title": "Old Town Road AI Video",
+      "url": "https://www.makeviral.ai/templates/old-town-road-ai-video"
+    },
+    {
+      "id_or_slug": "st-tropez-dj-ai-trend",
+      "title": "St Tropez DJ AI Trend",
+      "url": "https://www.makeviral.ai/templates/st-tropez-dj-ai-trend"
+    },
+    {
+      "id_or_slug": "zoolander-who-is-she-ai-trend",
+      "title": "Zoolander Who Is She AI Trend",
+      "url": "https://www.makeviral.ai/templates/zoolander-who-is-she-ai-trend"
+    }
+  ],
+  "removed": []
+}

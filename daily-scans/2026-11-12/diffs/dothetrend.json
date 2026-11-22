@@ -1,0 +1,12 @@
+{
+  "site": "DoTheTrend",
+  "file": "dothetrend.json",
+  "prev": 70,
+  "now": 70,
+  "new": [],
+  "gone": [],
+  "notes": [],
+  "sitemaps": [
+    "https://dothetrend.ai/sitemap.xml"
+  ]
+}

@@ -1,0 +1,592 @@
+[
+  {
+    "site": "TrendTemplate",
+    "file": "trendtemplate.json",
+    "item": {
+      "id_or_slug": "dancing-snowman-ai",
+      "title": "Dancing Snowman AI",
+      "url": "https://trendtemplate.com/dancing-snowman-ai"
+    },
+    "desc": "穿着雪人装在雪地里跟着 Sia《Snowman》副歌跳舞"
+  },
+  {
+    "site": "TrendTemplate",
+    "file": "trendtemplate.json",
+    "item": {
+      "id_or_slug": "jingle-bell-brazil-dance-ai",
+      "title": "Jingle Bell Brazil Dance AI",
+      "url": "https://trendtemplate.com/jingle-bell-brazil-dance-ai"
+    },
+    "desc": "把 1–3 张脸贴到戴圣诞帽的巴西 Funk 三人舞上，一张照片也可演三个角色"
+  },
+  {
+    "site": "TrendTemplate",
+    "file": "trendtemplate.json",
+    "item": {
+      "id_or_slug": "nutcracker-soldier-dance-ai",
+      "title": "Nutcracker Soldier Dance AI",
+      "url": "https://trendtemplate.com/nutcracker-soldier-dance-ai"
+    },
+    "desc": "两名胡桃夹子士兵在圣诞舞台上踏步、敬礼、转身，配 Trepak，可加朋友"
+  },
+  {
+    "site": "TrendTemplate",
+    "file": "trendtemplate.json",
+    "item": {
+      "id_or_slug": "santa-caught-on-camera-ai",
+      "title": "Santa Caught on Camera AI",
+      "url": "https://trendtemplate.com/santa-caught-on-camera-ai"
+    },
+    "desc": "用客厅照片生成监控画质的圣诞老人放礼物片段，不露人脸"
+  },
+  {
+    "site": "TrendTemplate",
+    "file": "trendtemplate.json",
+    "item": {
+      "id_or_slug": "santa-hug-ai",
+      "title": "Santa Hug AI",
+      "url": "https://trendtemplate.com/santa-hug-ai"
+    },
+    "desc": "圣诞老人走进客厅拍你肩膀，再给你一个熊抱"
+  },
+  {
+    "site": "TrendTemplate",
+    "file": "trendtemplate.json",
+    "item": {
+      "id_or_slug": "snowman-dance-ai",
+      "title": "Snowman Dance AI",
+      "url": "https://trendtemplate.com/snowman-dance-ai"
+    },
+    "desc": "圣诞树旁跟跳 Sia《Snowman》双人转圈和背负舞，可双人"
+  },
+  {
+    "site": "MemeFX AI",
+    "file": "memefxai.json",
+    "item": {
+      "id_or_slug": "jingle-bell-brazil-dance",
+      "title": "Jingle Bell Brazil Dance AI",
+      "url": "https://memefxai.com/jingle-bell-brazil-dance"
+    },
+    "desc": "从 11 条 TikTok 里选一条，把最多三人的脸贴进圣诞巴西 Funk 舞"
+  },
+  {
+    "site": "ClipRemake",
+    "file": "clipremake.json",
+    "item": {
+      "id_or_slug": "never-let-her-pay-ai",
+      "title": "Never Let Her Pay AI",
+      "url": "https://clipremake.com/templates/never-let-her-pay-ai"
+    },
+    "desc": "约会买单掏出海绵钱包，从「我来」说到被罚去洗碗"
+  },
+  {
+    "site": "MakeViral",
+    "file": "makeviral.json",
+    "item": {
+      "id_or_slug": "car-drift-ai-video",
+      "title": "Car Drift AI Video",
+      "url": "https://www.makeviral.ai/templates/car-drift-ai-video"
+    },
+    "desc": "自己的车在湿路口急转，侧漂着从镜头前滑过，配原曲"
+  },
+  {
+    "site": "MakeViral",
+    "file": "makeviral.json",
+    "item": {
+      "id_or_slug": "gta-5-goodbye-ai-trend",
+      "title": "GTA 5 Goodbye AI Trend",
+      "url": "https://www.makeviral.ai/templates/gta-5-goodbye-ai-trend"
+    },
+    "desc": "日落码头上三位主角和你告别，然后你开车离去"
+  },
+  {
+    "site": "MakeViral",
+    "file": "makeviral.json",
+    "item": {
+      "id_or_slug": "james-bond-reveal-ai-trend",
+      "title": "James Bond Reveal",
+      "url": "https://www.makeviral.ai/templates/james-bond-reveal-ai-trend"
+    },
+    "desc": "黑暗中一束硬光打出，你以 007 黑西装造型现身"
+  },
+  {
+    "site": "MakeViral",
+    "file": "makeviral.json",
+    "item": {
+      "id_or_slug": "laisse-tomber-les-filles-ai-trend",
+      "title": "Laisse Tomber Les Filles Trend",
+      "url": "https://www.makeviral.ai/templates/laisse-tomber-les-filles-ai-trend"
+    },
+    "desc": "你站在自己眼睛的巨大投影前摆拍，配原曲"
+  },
+  {
+    "site": "MakeViral",
+    "file": "makeviral.json",
+    "item": {
+      "id_or_slug": "me-and-my-girlfriend-ai-trend",
+      "title": "Me and My Girlfriend Trend",
+      "url": "https://www.makeviral.ai/templates/me-and-my-girlfriend-ai-trend"
+    },
+    "desc": "镜子自拍里对方先藏在肩后，再探出头，画面上多出手臂"
+  },
+  {
+    "site": "MakeViral",
+    "file": "makeviral.json",
+    "item": {
+      "id_or_slug": "me-parece-que-te-vi-bailando-ai-trend",
+      "title": "Me Parece Que Te Vi Bailando AI Trend",
+      "url": "https://www.makeviral.ai/templates/me-parece-que-te-vi-bailando-ai-trend"
+    },
+    "desc": "车里穿着各自球衣说唱这首 cumbia，最多三人"
+  },
+  {
+    "site": "MakeViral",
+    "file": "makeviral.json",
+    "item": {
+      "id_or_slug": "ps2-filter",
+      "title": "PS2 Filter",
+      "url": "https://www.makeviral.ai/templates/ps2-filter"
+    },
+    "desc": "把任何点子或照片做成早期 2000 年代 PS2 游戏过场"
+  },
+  {
+    "site": "MakeViral",
+    "file": "makeviral.json",
+    "item": {
+      "id_or_slug": "sidewalk-drop-in-ai-trend",
+      "title": "Sidewalk Drop-In AI Trend",
+      "url": "https://www.makeviral.ai/templates/sidewalk-drop-in-ai-trend"
+    },
+    "desc": "靴子落到纽约人行道，镜头抬起，你戴墨镜走过来"
+  },
+  {
+    "site": "MakeViral",
+    "file": "makeviral.json",
+    "item": {
+      "id_or_slug": "sunlight-eye-portrait-ai",
+      "title": "Sunlight Eye Portrait",
+      "url": "https://www.makeviral.ai/templates/sunlight-eye-portrait-ai"
+    },
+    "desc": "一道金色阳光横过眼际，其余面部留在阴影里"
+  },
+  {
+    "site": "MakeViral",
+    "file": "makeviral.json",
+    "item": {
+      "id_or_slug": "you-met-me-at-a-very-chinese-time-ai",
+      "title": "You Met Me at a Very Chinese Time",
+      "url": "https://www.makeviral.ai/templates/you-met-me-at-a-very-chinese-time-ai"
+    },
+    "desc": "PS2 游戏过场风，字幕是你填的词，配原曲；可把自己做成主角"
+  },
+  {
+    "site": "MakeMeme.video",
+    "file": "makememe.json",
+    "item": {
+      "id_or_slug": "husband-emporium-ai",
+      "title": "Husband Emporium AI",
+      "url": "https://makememe.video/husband-emporium-ai"
+    },
+    "desc": "复古广告里把伴侣或宠物摆上金色展台推销，可自定义型号和广告词"
+  },
+  {
+    "site": "MakeMeme.video",
+    "file": "makememe.json",
+    "item": {
+      "id_or_slug": "king-jin-ai",
+      "title": "King Jin AI",
+      "url": "https://makememe.video/king-jin-ai"
+    },
+    "desc": "霓虹街上你一站不动，整条街的人向你鞠躬"
+  },
+  {
+    "site": "MakeMeme.video",
+    "file": "makememe.json",
+    "item": {
+      "id_or_slug": "my-moon-my-man-ai",
+      "title": "My Moon My Man AI",
+      "url": "https://makememe.video/my-moon-my-man-ai"
+    },
+    "desc": "油画里你在摘花，耶稣藏着一大束花（My Moon My Man）"
+  },
+  {
+    "site": "MakeMeme.video",
+    "file": "makememe.json",
+    "item": {
+      "id_or_slug": "rollie-on-my-wrist-ai",
+      "title": "Rollie On My Wrist AI",
+      "url": "https://makememe.video/rollie-on-my-wrist-ai"
+    },
+    "desc": "肩扛伴侣转身，另一张脸从前面冒出来（I'm the One）"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "ai-cafe",
+      "title": "First Time in a Fancy Cafe",
+      "url": "https://samevid.com/template/ai-cafe"
+    },
+    "desc": "第一次进高级咖啡馆，桌上东西搞混的小品"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "ai-chaos-trend",
+      "title": "AI Chaos Trend",
+      "url": "https://samevid.com/template/ai-chaos-trend"
+    },
+    "desc": "人行道碰撞：咖啡慢放、墨镜和手机从画面里飞过"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "ai-dress-trend",
+      "title": "AI Dress Trend",
+      "url": "https://samevid.com/template/ai-dress-trend"
+    },
+    "desc": "吊扇下衣服切换的变装过渡"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "ai-tattoo-filter",
+      "title": "AI Tattoo Filter",
+      "url": "https://samevid.com/template/ai-tattoo-filter"
+    },
+    "desc": "皮肤上逐渐显现逼真纹身的揭示镜头"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "cause-im-the-one-ai",
+      "title": "Cause I'm The One AI",
+      "url": "https://samevid.com/template/cause-im-the-one-ai"
+    },
+    "desc": "肩扛转身，另一张脸从前面冒出来（I'm the One）"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "clayface-ai",
+      "title": "Clayface AI",
+      "url": "https://samevid.com/template/clayface-ai"
+    },
+    "desc": "手一抹，脸融化成黏土再成型"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "mermaid-ai",
+      "title": "Mermaid AI",
+      "url": "https://samevid.com/template/mermaid-ai"
+    },
+    "desc": "溅水揭晓，一张照片变成水下美人鱼"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "ocarina-of-time-remake-meme",
+      "title": "Ocarina of Time Remake Meme",
+      "url": "https://samevid.com/template/ocarina-of-time-remake-meme"
+    },
+    "desc": "塞尔达《时之笛》重制风格迷因，一张正脸出片"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "prada-ai",
+      "title": "Prada AI",
+      "url": "https://samevid.com/template/prada-ai"
+    },
+    "desc": "室内切到夜晚皮衣造型的变装过渡，配同步音效"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "sheru-bhai-ai",
+      "title": "Sheru Bhai AI",
+      "url": "https://samevid.com/template/sheru-bhai-ai"
+    },
+    "desc": "白西装金链、豪车登场的狮王老板"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "trouble-maker-ai-dance",
+      "title": "Trouble Maker AI Dance",
+      "url": "https://samevid.com/template/trouble-maker-ai-dance"
+    },
+    "desc": "跟跳 Trouble Maker 双人 K-pop 编舞，可双人"
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "trump-ai-meme",
+      "title": "Trump AI Meme",
+      "url": "https://samevid.com/template/trump-ai-meme"
+    },
+    "desc": "办公室喜剧小品，一张正脸出演特朗普风场面"
+  },
+  {
+    "site": "Summrs",
+    "file": "summrs.json",
+    "item": {
+      "id_or_slug": "old-town-road-ai-video-generator",
+      "title": "Old Town Road AI",
+      "url": "https://www.summrs.com/old-town-road-ai-video-generator"
+    },
+    "desc": "和朋友坐红敞篷车，经过糖果店和钱袋，再从头顶驶离，配原曲"
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "feel-the-pressure-ai-video",
+      "title": "Feel The Pressure",
+      "url": "https://www.getstarrd.app/template/feel-the-pressure-ai-video"
+    },
+    "desc": "穆里尼奥 Feel the Pressure 压迫感走位梗"
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "gta-6-airboat-escape-ai-video",
+      "title": "GTA 6: Swamp Airboat Escape",
+      "url": "https://www.getstarrd.app/template/gta-6-airboat-escape-ai-video"
+    },
+    "desc": "GTA 6 风格沼泽气垫船逃亡"
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "gta-6-bonnie-and-clyde-heist-ai-video",
+      "title": "GTA 6: Bonnie & Clyde Heist",
+      "url": "https://www.getstarrd.app/template/gta-6-bonnie-and-clyde-heist-ai-video"
+    },
+    "desc": "便利店抢劫后滑过引擎盖，驶入霓虹 Vice City"
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "gta-6-brand-drop-ai-video",
+      "title": "GTA 6 Brand Drop",
+      "url": "https://www.getstarrd.app/template/gta-6-brand-drop-ai-video"
+    },
+    "desc": "黄昏从自己店门口走出举起产品，招牌上是你的品牌名，GTA 6 封面风"
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "gta-6-car-loading-screen-ai-video",
+      "title": "GTA 6 Loading Screen: Your Ride",
+      "url": "https://www.getstarrd.app/template/gta-6-car-loading-screen-ai-video"
+    },
+    "desc": "你的车停在画风 Vice City 大道上，加载条拉满、周围世界逐渐生成"
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "gta-6-couple-ai-video",
+      "title": "Vice City Couple",
+      "url": "https://www.getstarrd.app/template/gta-6-couple-ai-video"
+    },
+    "desc": "你和伴侣成为霓虹迈阿密犯罪游戏预告片里的亡命搭档"
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "gta-6-farewell-ai-video",
+      "title": "GTA 6: The Farewell",
+      "url": "https://www.getstarrd.app/template/gta-6-farewell-ai-video"
+    },
+    "desc": "日落和旧团伙告别，再和新伙伴开车进入 Vice City"
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "gta-6-he-wont-let-you-leave-ai-video",
+      "title": "GTA 6: He Won't Let You Leave",
+      "url": "https://www.getstarrd.app/template/gta-6-he-wont-let-you-leave-ai-video"
+    },
+    "desc": "离开旧团伙后，对方开 SUV 在热带大桥上追你"
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "gta-6-loading-screen-ai-video",
+      "title": "GTA 6 Loading Screen",
+      "url": "https://www.getstarrd.app/template/gta-6-loading-screen-ai-video"
+    },
+    "desc": "把你的迈阿密日常瞬间冻成 GTA 6 加载画面插画"
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "gta-6-vice-city-arrival-ai-video",
+      "title": "GTA 6: Vice City Arrival",
+      "url": "https://www.getstarrd.app/template/gta-6-vice-city-arrival-ai-video"
+    },
+    "desc": "黄金时段快艇抵达 Vice City，和伙伴走上沙滩定格角色介绍"
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "i-just-seen-a-rainbow-ai-video",
+      "title": "I Just Seen A Rainbow",
+      "url": "https://www.getstarrd.app/template/i-just-seen-a-rainbow-ai-video"
+    },
+    "desc": "对着手机装酷自拍，再猛地甩过去拍城里一道巨大彩虹"
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "james-bond-reveal-ai-video",
+      "title": "James Bond Reveal",
+      "url": "https://www.getstarrd.app/template/james-bond-reveal-ai-video"
+    },
+    "desc": "黑暗中一束光先打到手枪再抬到脸，007 预告片出场"
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "not-just-a-cutie-jamaican-core-ai-video",
+      "title": "Not Just A Cutie Jamaican Core",
+      "url": "https://www.getstarrd.app/template/not-just-a-cutie-jamaican-core-ai-video"
+    },
+    "desc": "戴手织拉斯塔帽走在阳光小路上，对镜头讲牙买加式夸赞"
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "old-town-road-ai-video",
+      "title": "Old Town Road",
+      "url": "https://www.getstarrd.app/template/old-town-road-ai-video"
+    },
+    "desc": "和朋友或宠物坐红敞篷车唱《Old Town Road》，带着一袋现金"
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "shoulder-carry-ai-video",
+      "title": "Shoulder Carry",
+      "url": "https://www.getstarrd.app/template/shoulder-carry-ai-video"
+    },
+    "desc": "肩扛转身，另一张脸从前面冒出来（I'm the One）"
+  },
+  {
+    "site": "Ricebowl AI",
+    "file": "ricebowl.json",
+    "item": {
+      "id_or_slug": "king-jin-ai-trend",
+      "title": "King Jin AI Trend",
+      "url": "https://ricebowl.ai/app/king-jin-ai-trend"
+    },
+    "desc": "走进街道，人群为你让路肃立"
+  },
+  {
+    "site": "Ricebowl AI",
+    "file": "ricebowl.json",
+    "item": {
+      "id_or_slug": "teardrop-sink-ai-video",
+      "title": "Teardrop Sink AI Video",
+      "url": "https://ricebowl.ai/app/teardrop-sink-ai-video"
+    },
+    "desc": "伸手去摸并不存在的泪滴形洗手台，一脸困惑"
+  },
+  {
+    "site": "Ricebowl AI",
+    "file": "ricebowl.json",
+    "item": {
+      "id_or_slug": "fish-chop-ai-video",
+      "title": "Fish Chop AI Video",
+      "url": "https://ricebowl.ai/app/fish-chop-ai-video"
+    },
+    "desc": "面对一条超大鱼挥刀猛砍"
+  },
+  {
+    "site": "Ricebowl AI",
+    "file": "ricebowl.json",
+    "item": {
+      "id_or_slug": "mini-tricycle-crash",
+      "title": "Mini Tricycle Crash",
+      "url": "https://ricebowl.ai/app/mini-tricycle-crash"
+    },
+    "desc": "骑迷你三轮车晃悠再滑稽摔倒"
+  },
+  {
+    "site": "aiMakeVideo",
+    "file": "aimakevideo.json",
+    "item": {
+      "id_or_slug": "bigxthaplug-give-it-all-ai",
+      "title": "BigXthaPlug Give It All AI",
+      "url": "https://aimakevideo.com/bigxthaplug-give-it-all-ai"
+    },
+    "desc": "在挤满人的影院大厅吊麦前说唱 BigXthaPlug《Give It All》"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "car-drift-ai",
+      "title": "Car Drift AI",
+      "url": "https://memelry.com/car-drift-ai"
+    },
+    "desc": "自己的车在十字路口侧漂过镜头"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "central-cee-doja-ai",
+      "title": "Central Cee Doja AI",
+      "url": "https://memelry.com/central-cee-doja-ai"
+    },
+    "desc": "Central Cee《Doja》街头蒙太奇，一张照片出片"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "mans-not-hot-ai",
+      "title": "Man's Not Hot AI",
+      "url": "https://memelry.com/mans-not-hot-ai"
+    },
+    "desc": "从卧室切到海滩的 Big Shaq《Man's Not Hot》说唱"
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "what-if-you-fly-ai",
+      "title": "What If You Fly AI",
+      "url": "https://memelry.com/what-if-you-fly-ai"
+    },
+    "desc": "从地板坠落再喷火飞上云端（What If You Fall Twin）"
+  }
+]

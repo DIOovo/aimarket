@@ -1,0 +1,769 @@
+======================================================================
+Genjutsu AI (genjutsu.json) prev=45 raw=53 +8 -0
+  + apple-touch-icon.png | Apple Touch Icon.png | https://genjutsuai.cc/apple-touch-icon.png
+  + favicon-16x16.png | Favicon 16x16.png | https://genjutsuai.cc/favicon-16x16.png
+  + favicon-32x32.png | Favicon 32x32.png | https://genjutsuai.cc/favicon-32x32.png
+  + favicon.ico | Favicon.ico | https://genjutsuai.cc/favicon.ico
+  + history | History | https://genjutsuai.cc/history
+  + logo-dark.png | Logo Dark.png | https://genjutsuai.cc/logo-dark.png
+  + logo.png | Logo.png | https://genjutsuai.cc/logo.png
+  + manifest.json | Manifest.json | https://genjutsuai.cc/manifest.json
+======================================================================
+Summrs (summrs.json) prev=73 raw=93 +21 -1
+  - MISSING bigfoot-vlog | https://www.summrs.com/bigfoot-vlog
+  + add-product-to-photo-ai | Add Product To Photo AI | https://www.summrs.com/add-product-to-photo-ai
+  + ai-asmr-video-generator | AI Asmr Video Generator | https://www.summrs.com/ai-asmr-video-generator
+  + ai-basketball-meme-generator | AI Basketball Meme Generator | https://www.summrs.com/ai-basketball-meme-generator
+  + ai-color-grading-tool | AI Color Grading Tool | https://www.summrs.com/ai-color-grading-tool
+  + ai-dance-generator | AI Dance Generator | https://www.summrs.com/ai-dance-generator
+  + ai-explainer-video-generator | AI Explainer Video Generator | https://www.summrs.com/ai-explainer-video-generator
+  + ai-face-swap-video | AI Face Swap Video | https://www.summrs.com/ai-face-swap-video
+  + ai-freestyle-video-generator | AI Freestyle Video Generator | https://www.summrs.com/ai-freestyle-video-generator
+  + ai-kissing-generator | AI Kissing Generator | https://www.summrs.com/ai-kissing-generator
+  + ai-lip-sync-generator | AI Lip Sync Generator | https://www.summrs.com/ai-lip-sync-generator
+  + ai-music-video-generator | AI Music Video Generator | https://www.summrs.com/ai-music-video-generator
+  + ai-music-visualizer-generator | AI Music Visualizer Generator | https://www.summrs.com/ai-music-visualizer-generator
+  + ai-object-remover | AI Object Remover | https://www.summrs.com/ai-object-remover
+  + ai-outfit-generator | AI Outfit Generator | https://www.summrs.com/ai-outfit-generator
+  + ai-person-holding-product-generator | AI Person Holding Product Generator | https://www.summrs.com/ai-person-holding-product-generator
+  + ai-pet-animator | AI Pet Animator | https://www.summrs.com/ai-pet-animator
+  + ai-silhouette-video-generator | AI Silhouette Video Generator | https://www.summrs.com/ai-silhouette-video-generator
+  + ai-ugc-video-generator | AI Ugc Video Generator | https://www.summrs.com/ai-ugc-video-generator
+  + ai-wedding-photo-editing | AI Wedding Photo Editing | https://www.summrs.com/ai-wedding-photo-editing
+  + colorize-black-and-white-photos-ai | Colorize Black And White Photos AI | https://www.summrs.com/colorize-black-and-white-photos-ai
+  + restore-old-photos-color-ai | Restore Old Photos Color AI | https://www.summrs.com/restore-old-photos-color-ai
+======================================================================
+PictureToVideo (picturetovideo.json) prev=5 raw=48 +43 -0
+  PREV templates:
+    * ai-baby-dance | https://picturetovideo.org/ai-baby-dance
+    * ai-baby-video | https://picturetovideo.org/ai-baby-video
+    * ai-cat-dance | https://picturetovideo.org/ai-cat-dance
+    * ai-dog-dance | https://picturetovideo.org/ai-dog-dance
+    * hotel-lobby-ai-video | https://picturetovideo.org/hotel-lobby-ai-video
+  + ai-animation-generator | AI Animation Generator | https://picturetovideo.org/ai-animation-generator
+  + ai-dance-generator | AI Dance Generator | https://picturetovideo.org/ai-dance-generator
+  + ai-video-prompt-generator | AI Video Prompt Generator | https://picturetovideo.org/ai-video-prompt-generator
+  + animate-drawing | Animate Drawing | https://picturetovideo.org/animate-drawing
+  + animate-old-photos | Animate Old Photos | https://picturetovideo.org/animate-old-photos
+  + animate-photo | Animate Photo | https://picturetovideo.org/animate-photo
+  + apple-touch-icon.png | Apple Touch Icon.png | https://picturetovideo.org/apple-touch-icon.png
+  + best-ai-video-generator | Best AI Video Generator | https://picturetovideo.org/best-ai-video-generator
+  + content-policy | Content Policy | https://picturetovideo.org/content-policy
+  + favicon.ico | Favicon.ico | https://picturetovideo.org/favicon.ico
+  + grok-imagine | Grok Imagine | https://picturetovideo.org/grok-imagine
+  + higgsfield-alternative | Higgsfield Alternative | https://picturetovideo.org/higgsfield-alternative
+  + keyframes | Keyframes | https://picturetovideo.org/keyframes
+  + king-ai | King AI | https://picturetovideo.org/king-ai
+  + kling-2-1 | Kling 2 1 | https://picturetovideo.org/kling-2-1
+  + kling-2-5-turbo | Kling 2 5 Turbo | https://picturetovideo.org/kling-2-5-turbo
+  + kling-2-6 | Kling 2 6 | https://picturetovideo.org/kling-2-6
+  + kling-3-0 | Kling 3 0 | https://picturetovideo.org/kling-3-0
+  + kling-4-0 | Kling 4 0 | https://picturetovideo.org/kling-4-0
+  + kling-4-vs-kling-3 | Kling 4 Vs Kling 3 | https://picturetovideo.org/kling-4-vs-kling-3
+  + kling-ai-alternatives | Kling AI Alternatives | https://picturetovideo.org/kling-ai-alternatives
+  + kling-ai-app | Kling AI App | https://picturetovideo.org/kling-ai-app
+  + kling-ai-free | Kling AI Free | https://picturetovideo.org/kling-ai-free
+  + kling-ai-pricing | Kling AI Pricing | https://picturetovideo.org/kling-ai-pricing
+  + kling-api | Kling Api | https://picturetovideo.org/kling-api
+  + kling-image-to-video | Kling Image To Video | https://picturetovideo.org/kling-image-to-video
+  + kling-o1 | Kling O1 | https://picturetovideo.org/kling-o1
+  + kling-vs-hailuo | Kling Vs Hailuo | https://picturetovideo.org/kling-vs-hailuo
+  + kling-vs-runway | Kling Vs Runway | https://picturetovideo.org/kling-vs-runway
+  + kling-vs-seedance | Kling Vs Seedance | https://picturetovideo.org/kling-vs-seedance
+  + kling-vs-veo-3 | Kling Vs Veo 3 | https://picturetovideo.org/kling-vs-veo-3
+  + minimax-h3 | Minimax H3 | https://picturetovideo.org/minimax-h3
+  + models | Models | https://picturetovideo.org/models
+  + motion-control | Motion Control | https://picturetovideo.org/motion-control
+  + photo-to-video | Photo To Video | https://picturetovideo.org/photo-to-video
+  + refund-policy | Refund Policy | https://picturetovideo.org/refund-policy
+  + seedance-2-5 | Seedance 2 5 | https://picturetovideo.org/seedance-2-5
+  + sora-alternative | Sora Alternative | https://picturetovideo.org/sora-alternative
+  + text-to-video | Text To Video | https://picturetovideo.org/text-to-video
+  + veo-3 | Veo 3 | https://picturetovideo.org/veo-3
+  + video-extender | Video Extender | https://picturetovideo.org/video-extender
+  + viggle-ai-alternative | Viggle AI Alternative | https://picturetovideo.org/viggle-ai-alternative
+  + wan-2-5 | Wan 2 5 | https://picturetovideo.org/wan-2-5
+======================================================================
+Starrd (starrd.json) prev=364 raw=381 +18 -1
+  - MISSING bro-took-the-whole-bag-ai-video | https://www.getstarrd.app/template/bro-took-the-whole-bag-ai-video
+  + action | Action | https://www.getstarrd.app/template/action
+  + anime | Anime | https://www.getstarrd.app/template/anime
+  + asmr | Asmr | https://www.getstarrd.app/template/asmr
+  + broke-his-ankles-ai-video | Broke His Ankles AI Video | https://www.getstarrd.app/template/broke-his-ankles-ai-video
+  + cars | Cars | https://www.getstarrd.app/template/cars
+  + crime | Crime | https://www.getstarrd.app/template/crime
+  + drama | Drama | https://www.getstarrd.app/template/drama
+  + gaming | Gaming | https://www.getstarrd.app/template/gaming
+  + henshin | Henshin | https://www.getstarrd.app/template/henshin
+  + holidays | Holidays | https://www.getstarrd.app/template/holidays
+  + jingle-bell-rock-ai-dance | Jingle Bell Rock AI Dance | https://www.getstarrd.app/template/jingle-bell-rock-ai-dance
+  + music | Music | https://www.getstarrd.app/template/music
+  + nostalgia | Nostalgia | https://www.getstarrd.app/template/nostalgia
+  + pets | Pets | https://www.getstarrd.app/template/pets
+  + pranks | Pranks | https://www.getstarrd.app/template/pranks
+  + song | Song | https://www.getstarrd.app/template/song
+  + sports | Sports | https://www.getstarrd.app/template/sports
+  + trailers | Trailers | https://www.getstarrd.app/template/trailers
+======================================================================
+MemeFX AI (memefxai.json) prev=72 raw=93 +21 -0
+  + ai-baby-video-generator | AI Baby Video Generator | https://memefxai.com/ai-baby-video-generator
+  + ai-dance-video-generator | AI Dance Video Generator | https://memefxai.com/ai-dance-video-generator
+  + ai-group-video-generator | AI Group Video Generator | https://memefxai.com/ai-group-video-generator
+  + ai-halloween-video-generator | AI Halloween Video Generator | https://memefxai.com/ai-halloween-video-generator
+  + ai-meme-video-generator | AI Meme Video Generator | https://memefxai.com/ai-meme-video-generator
+  + ai-music-video-generator | AI Music Video Generator | https://memefxai.com/ai-music-video-generator
+  + ai-pet-video-generator | AI Pet Video Generator | https://memefxai.com/ai-pet-video-generator
+  + ai-tiktok-video-generator | AI Tiktok Video Generator | https://memefxai.com/ai-tiktok-video-generator
+  + alternatives | Alternatives | https://memefxai.com/alternatives
+  + apple-touch-icon.png | Apple Touch Icon.png | https://memefxai.com/apple-touch-icon.png
+  + favicon-16x16.png | Favicon 16x16.png | https://memefxai.com/favicon-16x16.png
+  + favicon-32x32.png | Favicon 32x32.png | https://memefxai.com/favicon-32x32.png
+  + favicon.ico | Favicon.ico | https://memefxai.com/favicon.ico
+  + llms.txt | Llms.txt | https://memefxai.com/llms.txt
+  + logo-dark.png | Logo Dark.png | https://memefxai.com/logo-dark.png
+  + logo.png | Logo.png | https://memefxai.com/logo.png
+  + manifest.json | Manifest.json | https://memefxai.com/manifest.json
+  + refund-policy | Refund Policy | https://memefxai.com/refund-policy
+  + report | Report | https://memefxai.com/report
+  + templates | Templates | https://memefxai.com/templates
+  + videos | Videos | https://memefxai.com/videos
+======================================================================
+RapVideo.ai (rapvideo.json) prev=39 raw=67 +28 -0
+  PREV sample (first 8) and path prefixes:
+    prev /80s-ai-video: 1
+    prev /ai-baby-generator: 1
+    prev /ai-bald-filter: 1
+    prev /ai-dunk-video: 1
+    prev /ai-halloween-costume: 1
+    prev /ai-rap-battle-generator: 1
+    prev /ai-rap-duo: 1
+    prev /ai-rap-generator: 1
+    prev /ai-rapper: 1
+    prev /ai-zombie-trend: 1
+    prev /bad-times-ai: 1
+    prev /bicep-heart-ai: 1
+    prev /bulin-47-ai: 1
+    prev /burning-bridges-ai: 1
+    prev /car-jump-ai-video: 1
+    prev /ceiling-fan-outfit-change-ai: 1
+    prev /charme-dance-ai: 1
+    prev /chipmunks-dance-ai: 1
+    prev /christmas-dance-ai: 1
+    prev /dame-hombro-ai: 1
+    prev /dime-dime-baby-ai: 1
+    prev /fancy-cafe-ai: 1
+    prev /flamingo-float-ai: 1
+    prev /gangstas-paradise-ai: 1
+    prev /gas-station-ai-trend: 1
+    prev /hotel-lobby-ai: 1
+    prev /hotel-lobby-ai-own-song: 1
+    prev /hotel-lobby-trend: 1
+    prev /hug-your-younger-self: 1
+    prev /i-love-the-smiths-ai: 1
+    prev /iphone-kupi-dance-ai: 1
+    prev /kids-drawing-to-life-ai: 1
+    prev /migos-ai: 1
+    prev /pet-rap-video: 1
+    prev /raindance-ai-trend: 1
+    prev /stormzy-shut-up-ai: 1
+    prev /tiny-desk-ai: 1
+    prev /toc-toc-ai: 1
+    prev /window-peeper-filter: 1
+    * 80s-ai-video | https://rapvideo.ai/80s-ai-video
+    * ai-baby-generator | https://rapvideo.ai/ai-baby-generator
+    * ai-bald-filter | https://rapvideo.ai/ai-bald-filter
+    * ai-dunk-video | https://rapvideo.ai/ai-dunk-video
+    * ai-halloween-costume | https://rapvideo.ai/ai-halloween-costume
+    * ai-rap-battle-generator | https://rapvideo.ai/ai-rap-battle-generator
+    * ai-rap-duo | https://rapvideo.ai/ai-rap-duo
+    * ai-rap-generator | https://rapvideo.ai/ai-rap-generator
+  + ai-clone-video | AI Clone Video | https://rapvideo.ai/ai-clone-video
+  + ai-dance-video | AI Dance Video | https://rapvideo.ai/ai-dance-video
+  + ai-family-video | AI Family Video | https://rapvideo.ai/ai-family-video
+  + ai-hug-deceased-loved-one | AI Hug Deceased Loved One | https://rapvideo.ai/ai-hug-deceased-loved-one
+  + ai-hug-generator | AI Hug Generator | https://rapvideo.ai/ai-hug-generator
+  + ai-music-video-generator | AI Music Video Generator | https://rapvideo.ai/ai-music-video-generator
+  + ai-promo-video-for-small-business | AI Promo Video For Small Business | https://rapvideo.ai/ai-promo-video-for-small-business
+  + ai-tribute-video | AI Tribute Video | https://rapvideo.ai/ai-tribute-video
+  + ai-video-effects | AI Video Effects | https://rapvideo.ai/ai-video-effects
+  + ai-video-of-yourself | AI Video Of Yourself | https://rapvideo.ai/ai-video-of-yourself
+  + animate-old-photos | Animate Old Photos | https://rapvideo.ai/animate-old-photos
+  + apple-touch-icon.png | Apple Touch Icon.png | https://rapvideo.ai/apple-touch-icon.png
+  + birthday-rap-song | Birthday Rap Song | https://rapvideo.ai/birthday-rap-song
+  + can-chatgpt-make-videos | Can Chatgpt Make Videos | https://rapvideo.ai/can-chatgpt-make-videos
+  + diss-track-generator | Diss Track Generator | https://rapvideo.ai/diss-track-generator
+  + earth-zoom-out | Earth Zoom Out | https://rapvideo.ai/earth-zoom-out
+  + favicon.ico | Favicon.ico | https://rapvideo.ai/favicon.ico
+  + funny-birthday-video | Funny Birthday Video | https://rapvideo.ai/funny-birthday-video
+  + how-to-do-the-ai-trend-on-tiktok | How To Do The AI Trend On Tiktok | https://rapvideo.ai/how-to-do-the-ai-trend-on-tiktok
+  + personalized-anniversary-song | Personalized Anniversary Song | https://rapvideo.ai/personalized-anniversary-song
+  + personalized-birthday-song | Personalized Birthday Song | https://rapvideo.ai/personalized-birthday-song
+  + personalized-christmas-song | Personalized Christmas Song | https://rapvideo.ai/personalized-christmas-song
+  + personalized-love-song | Personalized Love Song | https://rapvideo.ai/personalized-love-song
+  + photo-to-video-ai | Photo To Video AI | https://rapvideo.ai/photo-to-video-ai
+  + rap-duo-name-generator | Rap Duo Name Generator | https://rapvideo.ai/rap-duo-name-generator
+  + rap-maker | Rap Maker | https://rapvideo.ai/rap-maker
+  + refund-policy | Refund Policy | https://rapvideo.ai/refund-policy
+  + videos | Videos | https://rapvideo.ai/videos
+======================================================================
+Kubflow (kubflow.json) prev=10 raw=11 +1 -0
+  + generations | Generations | https://kubflow.ai/trends/generations
+======================================================================
+Bolly.AI (bolly.json) prev=218 raw=226 +8 -0
+  + anime | Anime | https://www.bolly.ai/template/anime
+  + brainrot | Brainrot | https://www.bolly.ai/template/brainrot
+  + edits | Edits | https://www.bolly.ai/template/edits
+  + football | Football | https://www.bolly.ai/template/football
+  + kpop | Kpop | https://www.bolly.ai/template/kpop
+  + meme | Meme | https://www.bolly.ai/template/meme
+  + multi-person | Multi Person | https://www.bolly.ai/template/multi-person
+  + relationship-rant-reaction-ai-character-swap | Relationship Rant Reaction AI Character Swap | https://www.bolly.ai/template/relationship-rant-reaction-ai-character-swap
+======================================================================
+Try a Trend (tryatrend.json) prev=46 raw=47 +2 -1
+  - MISSING ai-halloween-costume | https://tryatrend.com/ai-halloween-costume
+  + catch-santa-on-camera-ai | Catch Santa On Camera AI | https://tryatrend.com/catch-santa-on-camera-ai
+  + talk-to-me-doja-ai | Talk To Me Doja AI | https://tryatrend.com/talk-to-me-doja-ai
+======================================================================
+Memelry (memelry.json) prev=294 raw=380 +86 -0
+  new path prefixes:
+    /90s-rom-com-ai: 1
+    /affiliates: 1
+    /ai-cat-gym-video-ai: 1
+    /ai-dance-video-from-photo: 1
+    /ai-mermaid-filter: 1
+    /ai-tiny-desk-video-look-realistic: 1
+    /ai-tiny-desk-video-without-editing: 1
+    /ai-tool-tiny-desk-office-concert: 1
+    /baba-aku-yok-ai: 1
+    /baby-knight-ai: 1
+    /bad-aim-edit-ai: 1
+    /bigxthaplug-give-it-all-ai: 1
+    /boy-its-just-alcohol-ai: 1
+    /brick-by-brick-ai: 1
+    /bulin-47-freestyle-meme: 1
+    /cat-shower-ai: 1
+    /coaches-thriller-face-swap-tools: 1
+    /cortis-go-ai: 1
+    /custom-meme: 1
+    /dime-dime-baby-dog-cat: 1
+    /dime-dime-baby-meme: 1
+    /funny-frank-ai: 1
+    /gangnam-style-face-swap-tools: 1
+    /glow-trio-ai: 1
+    /golf-dance-ai: 1
+    /good-chat-on-phone-ai: 1
+    /good-chat-one-time-payment-ai: 1
+    /good-chat-original-audio-ai: 1
+    /good-chat-two-people-ai: 1
+    /group-performance-video-from-selfies: 1
+    /here-comes-santa-claus-dance-ai: 1
+    /iconic-by-mistake-ai: 1
+    /im-flying-titanic-meme: 1
+    /its-time-christmas-from-photo: 1
+    /jensen-huang-ai-video-ai: 1
+    /jingle-bell-rock-mean-girls-ai: 1
+    /king-jin-ai: 1
+    /la-la-land-couple-ai: 1
+    /la-la-land-dance-moves-ai: 1
+    /la-la-land-one-selfie-ai: 1
+    /la-la-land-with-music-ai: 1
+    /lisa-crab-dance-ai: 1
+    /mobland-paul-dance-ai: 1
+    /mourinho-pressure-ai: 1
+    /mr-and-mrs-smith-ai: 1
+    /need-for-speed-ai: 1
+    /never-let-her-pay-ai: 1
+    /no-scrubs-trend-with-friends: 1
+    /old-town-road-ai: 1
+    /outstanding-tiny-desk-set: 1
+    /party-popper-ai: 1
+    /photo-video-privacy: 1
+    /raccoon-and-cat-ai: 1
+    /realistic-dog-pool-party-ai: 1
+    /replace-person-in-video: 1
+    /riding-lion-ai: 1
+    /rush-hour-fantasy-face-likeness: 1
+    /rush-hour-fantasy-two-photos: 1
+    /saree-pose-ai: 1
+    /self-hug-sketch-ai: 1
+    /smash-and-grab-ai: 1
+    /snowman-dance-ai: 1
+    /srk-ai-dance-ai: 1
+    /stormzy-shut-up-ai: 1
+    /tiktok-video-face-swap: 1
+    /tiny-desk-ai-birthday: 1
+    /tiny-desk-ai-couples: 1
+    /tiny-desk-ai-coworkers: 1
+    /tiny-desk-ai-face-swap: 1
+    /tiny-desk-ai-family: 1
+    /tiny-desk-ai-graduation: 1
+    /tiny-desk-ai-meme-origin: 1
+    /tiny-desk-ai-on-phone: 1
+    /tiny-desk-ai-original-audio: 1
+    /tiny-desk-ai-wedding: 1
+    /tiny-desk-parody-from-photos: 1
+    /tough-like-a-gorilla-ai: 1
+    /tweenslop-ai: 1
+    /tying-shoes-money-ai: 1
+    /wassup-dance-ai: 1
+    /wassup-in-a-minute-cost: 1
+    /we-dont-talk-anymore-dance-ai: 1
+    /window-peeper-dog-cat: 1
+    /window-peeper-meme: 1
+    /window-peeper-prank: 1
+    /wizard-cat-keyboard-ai: 1
+  + 90s-rom-com-ai | 90s Rom Com AI | https://memelry.com/90s-rom-com-ai
+  + affiliates | Affiliates | https://memelry.com/affiliates
+  + ai-cat-gym-video-ai | AI Cat Gym Video AI | https://memelry.com/ai-cat-gym-video-ai
+  + ai-dance-video-from-photo | AI Dance Video From Photo | https://memelry.com/ai-dance-video-from-photo
+  + ai-mermaid-filter | AI Mermaid Filter | https://memelry.com/ai-mermaid-filter
+  + ai-tiny-desk-video-look-realistic | AI Tiny Desk Video Look Realistic | https://memelry.com/ai-tiny-desk-video-look-realistic
+  + ai-tiny-desk-video-without-editing | AI Tiny Desk Video Without Editing | https://memelry.com/ai-tiny-desk-video-without-editing
+  + ai-tool-tiny-desk-office-concert | AI Tool Tiny Desk Office Concert | https://memelry.com/ai-tool-tiny-desk-office-concert
+  + baba-aku-yok-ai | Baba Aku Yok AI | https://memelry.com/baba-aku-yok-ai
+  + baby-knight-ai | Baby Knight AI | https://memelry.com/baby-knight-ai
+  + bad-aim-edit-ai | Bad Aim Edit AI | https://memelry.com/bad-aim-edit-ai
+  + bigxthaplug-give-it-all-ai | Bigxthaplug Give It All AI | https://memelry.com/bigxthaplug-give-it-all-ai
+  + boy-its-just-alcohol-ai | Boy Its Just Alcohol AI | https://memelry.com/boy-its-just-alcohol-ai
+  + brick-by-brick-ai | Brick By Brick AI | https://memelry.com/brick-by-brick-ai
+  + bulin-47-freestyle-meme | Bulin 47 Freestyle Meme | https://memelry.com/bulin-47-freestyle-meme
+  + cat-shower-ai | Cat Shower AI | https://memelry.com/cat-shower-ai
+  + coaches-thriller-face-swap-tools | Coaches Thriller Face Swap Tools | https://memelry.com/coaches-thriller-face-swap-tools
+  + cortis-go-ai | Cortis Go AI | https://memelry.com/cortis-go-ai
+  + custom-meme | Custom Meme | https://memelry.com/custom-meme
+  + dime-dime-baby-dog-cat | Dime Dime Baby Dog Cat | https://memelry.com/dime-dime-baby-dog-cat
+  + dime-dime-baby-meme | Dime Dime Baby Meme | https://memelry.com/dime-dime-baby-meme
+  + funny-frank-ai | Funny Frank AI | https://memelry.com/funny-frank-ai
+  + gangnam-style-face-swap-tools | Gangnam Style Face Swap Tools | https://memelry.com/gangnam-style-face-swap-tools
+  + glow-trio-ai | Glow Trio AI | https://memelry.com/glow-trio-ai
+  + golf-dance-ai | Golf Dance AI | https://memelry.com/golf-dance-ai
+  + good-chat-on-phone-ai | Good Chat On Phone AI | https://memelry.com/good-chat-on-phone-ai
+  + good-chat-one-time-payment-ai | Good Chat One Time Payment AI | https://memelry.com/good-chat-one-time-payment-ai
+  + good-chat-original-audio-ai | Good Chat Original Audio AI | https://memelry.com/good-chat-original-audio-ai
+  + good-chat-two-people-ai | Good Chat Two People AI | https://memelry.com/good-chat-two-people-ai
+  + group-performance-video-from-selfies | Group Performance Video From Selfies | https://memelry.com/group-performance-video-from-selfies
+  + here-comes-santa-claus-dance-ai | Here Comes Santa Claus Dance AI | https://memelry.com/here-comes-santa-claus-dance-ai
+  + iconic-by-mistake-ai | Iconic By Mistake AI | https://memelry.com/iconic-by-mistake-ai
+  + im-flying-titanic-meme | Im Flying Titanic Meme | https://memelry.com/im-flying-titanic-meme
+  + its-time-christmas-from-photo | Its Time Christmas From Photo | https://memelry.com/its-time-christmas-from-photo
+  + jensen-huang-ai-video-ai | Jensen Huang AI Video AI | https://memelry.com/jensen-huang-ai-video-ai
+  + jingle-bell-rock-mean-girls-ai | Jingle Bell Rock Mean Girls AI | https://memelry.com/jingle-bell-rock-mean-girls-ai
+  + king-jin-ai | King Jin AI | https://memelry.com/king-jin-ai
+  + la-la-land-couple-ai | La La Land Couple AI | https://memelry.com/la-la-land-couple-ai
+  + la-la-land-dance-moves-ai | La La Land Dance Moves AI | https://memelry.com/la-la-land-dance-moves-ai
+  + la-la-land-one-selfie-ai | La La Land One Selfie AI | https://memelry.com/la-la-land-one-selfie-ai
+  + la-la-land-with-music-ai | La La Land With Music AI | https://memelry.com/la-la-land-with-music-ai
+  + lisa-crab-dance-ai | Lisa Crab Dance AI | https://memelry.com/lisa-crab-dance-ai
+  + mobland-paul-dance-ai | Mobland Paul Dance AI | https://memelry.com/mobland-paul-dance-ai
+  + mourinho-pressure-ai | Mourinho Pressure AI | https://memelry.com/mourinho-pressure-ai
+  + mr-and-mrs-smith-ai | Mr And Mrs Smith AI | https://memelry.com/mr-and-mrs-smith-ai
+  + need-for-speed-ai | Need For Speed AI | https://memelry.com/need-for-speed-ai
+  + never-let-her-pay-ai | Never Let Her Pay AI | https://memelry.com/never-let-her-pay-ai
+  + no-scrubs-trend-with-friends | No Scrubs Trend With Friends | https://memelry.com/no-scrubs-trend-with-friends
+  + old-town-road-ai | Old Town Road AI | https://memelry.com/old-town-road-ai
+  + outstanding-tiny-desk-set | Outstanding Tiny Desk Set | https://memelry.com/outstanding-tiny-desk-set
+  + party-popper-ai | Party Popper AI | https://memelry.com/party-popper-ai
+  + photo-video-privacy | Photo Video Privacy | https://memelry.com/photo-video-privacy
+  + raccoon-and-cat-ai | Raccoon And Cat AI | https://memelry.com/raccoon-and-cat-ai
+  + realistic-dog-pool-party-ai | Realistic Dog Pool Party AI | https://memelry.com/realistic-dog-pool-party-ai
+  + replace-person-in-video | Replace Person In Video | https://memelry.com/replace-person-in-video
+  + riding-lion-ai | Riding Lion AI | https://memelry.com/riding-lion-ai
+  + rush-hour-fantasy-face-likeness | Rush Hour Fantasy Face Likeness | https://memelry.com/rush-hour-fantasy-face-likeness
+  + rush-hour-fantasy-two-photos | Rush Hour Fantasy Two Photos | https://memelry.com/rush-hour-fantasy-two-photos
+  + saree-pose-ai | Saree Pose AI | https://memelry.com/saree-pose-ai
+  + self-hug-sketch-ai | Self Hug Sketch AI | https://memelry.com/self-hug-sketch-ai
+  + smash-and-grab-ai | Smash And Grab AI | https://memelry.com/smash-and-grab-ai
+  + snowman-dance-ai | Snowman Dance AI | https://memelry.com/snowman-dance-ai
+  + srk-ai-dance-ai | Srk AI Dance AI | https://memelry.com/srk-ai-dance-ai
+  + stormzy-shut-up-ai | Stormzy Shut Up AI | https://memelry.com/stormzy-shut-up-ai
+  + tiktok-video-face-swap | Tiktok Video Face Swap | https://memelry.com/tiktok-video-face-swap
+  + tiny-desk-ai-birthday | Tiny Desk AI Birthday | https://memelry.com/tiny-desk-ai-birthday
+  + tiny-desk-ai-couples | Tiny Desk AI Couples | https://memelry.com/tiny-desk-ai-couples
+  + tiny-desk-ai-coworkers | Tiny Desk AI Coworkers | https://memelry.com/tiny-desk-ai-coworkers
+  + tiny-desk-ai-face-swap | Tiny Desk AI Face Swap | https://memelry.com/tiny-desk-ai-face-swap
+  + tiny-desk-ai-family | Tiny Desk AI Family | https://memelry.com/tiny-desk-ai-family
+  + tiny-desk-ai-graduation | Tiny Desk AI Graduation | https://memelry.com/tiny-desk-ai-graduation
+  + tiny-desk-ai-meme-origin | Tiny Desk AI Meme Origin | https://memelry.com/tiny-desk-ai-meme-origin
+  + tiny-desk-ai-on-phone | Tiny Desk AI On Phone | https://memelry.com/tiny-desk-ai-on-phone
+  + tiny-desk-ai-original-audio | Tiny Desk AI Original Audio | https://memelry.com/tiny-desk-ai-original-audio
+  + tiny-desk-ai-wedding | Tiny Desk AI Wedding | https://memelry.com/tiny-desk-ai-wedding
+  + tiny-desk-parody-from-photos | Tiny Desk Parody From Photos | https://memelry.com/tiny-desk-parody-from-photos
+  + tough-like-a-gorilla-ai | Tough Like A Gorilla AI | https://memelry.com/tough-like-a-gorilla-ai
+  + tweenslop-ai | Tweenslop AI | https://memelry.com/tweenslop-ai
+  + tying-shoes-money-ai | Tying Shoes Money AI | https://memelry.com/tying-shoes-money-ai
+  + wassup-dance-ai | Wassup Dance AI | https://memelry.com/wassup-dance-ai
+  + wassup-in-a-minute-cost | Wassup In A Minute Cost | https://memelry.com/wassup-in-a-minute-cost
+  + we-dont-talk-anymore-dance-ai | We Dont Talk Anymore Dance AI | https://memelry.com/we-dont-talk-anymore-dance-ai
+  + window-peeper-dog-cat | Window Peeper Dog Cat | https://memelry.com/window-peeper-dog-cat
+  + window-peeper-meme | Window Peeper Meme | https://memelry.com/window-peeper-meme
+  + window-peeper-prank | Window Peeper Prank | https://memelry.com/window-peeper-prank
+  + wizard-cat-keyboard-ai | Wizard Cat Keyboard AI | https://memelry.com/wizard-cat-keyboard-ai
+======================================================================
+AI Trend Video (aitrendvideo.json) prev=7 raw=10 +3 -0
+  + create | Create | https://aitrendvideo.net/create
+  + history | History | https://aitrendvideo.net/history
+  + refund-policy | Refund Policy | https://aitrendvideo.net/refund-policy
+======================================================================
+Ricebowl AI (ricebowl.json) prev=68 raw=333 +265 -0
+  path prefixes of NEW:
+    /app/2027-new-year-ai-trend: 1
+    /app/50th-birthday-video: 1
+    /app/90s-rom-com-ai-trend: 1
+    /app/a2o-lite-neon-dance: 1
+    /app/abcdefg-i-need-money: 1
+    /app/ai-arrest-filter: 1
+    /app/ai-baby-generator: 1
+    /app/ai-baby-podcast-generator: 1
+    /app/ai-bald-filter: 1
+    /app/ai-belly-dance: 1
+    /app/ai-birthday-video-generator: 1
+    /app/ai-car-video-from-photo: 1
+    /app/ai-cat-rap-video: 1
+    /app/ai-christmas-card-generator: 1
+    /app/ai-christmas-video-generator: 1
+    /app/ai-couple-cliff-prank: 1
+    /app/ai-crying-filter: 1
+    /app/ai-dance-generator: 1
+    /app/ai-dog-christmas-video: 1
+    /app/ai-dog-making-coffee: 1
+    /app/ai-dunk-video: 1
+    /app/ai-elf-dance-video: 1
+    /app/ai-family-photo-generator: 1
+    /app/ai-family-video: 1
+    /app/ai-fight-video-generator: 1
+    /app/ai-gender-reveal-video: 1
+    /app/ai-glow-up: 1
+    /app/ai-halloween-costume: 1
+    /app/ai-hug-deceased-loved-one: 1
+    /app/ai-hug-generator: 1
+    /app/ai-mecha-transformation: 1
+    /app/ai-memorial-video-generator: 1
+    /app/ai-mentalist-trend: 1
+    /app/ai-new-year-video: 1
+    /app/ai-pet-dance-generator: 1
+    /app/ai-pet-podcast-generator: 1
+    /app/ai-pet-video-generator: 1
+    /app/ai-pixie-haircut-filter: 1
+    /app/ai-pregnancy-announcement-video: 1
+    /app/ai-rap-duo: 1
+    /app/ai-rap-video: 1
+    /app/ai-retirement-video: 1
+    /app/ai-santa-video: 1
+    /app/ai-talking-photo: 1
+    /app/ai-tribute-video: 1
+    /app/ai-twerk-generator: 1
+    /app/ai-virtual-try-on: 1
+    /app/ai-wedding-video: 1
+    /app/airplane-flying-over-head-ai-trend: 1
+    /app/airport-celebrity-ai-video: 1
+    /app/ali-g-driving-scene: 1
+    /app/alors-on-danse-ai-meme: 1
+    /app/angel-devil-filter: 1
+    /app/animate-old-photos: 1
+    /app/animate-photos: 1
+    /app/animated-christmas-card: 1
+    /app/animated-thanksgiving-card: 1
+    /app/anniversary-video-maker: 1
+    /app/baby-born-with-mustache: 1
+    /app/baby-dancing-ai: 1
+    /app/bad-times-ai-video: 1
+    /app/baile-charme-dance: 1
+    /app/ballon-dor-winner-ai: 1
+    /app/barbie-ai-dance: 1
+    /app/basketball-middle-finger: 1
+    /app/bing-bing-bing-kicking: 1
+    /app/birds-of-a-feather-ai-video-generator: 1
+    /app/birthday-surprise-video: 1
+    /app/birthday-video-card: 1
+    /app/black-and-white-cinematic-ai-video: 1
+    /app/black-friday-video-maker: 1
+    /app/bonito-bonito-ai-baby-dance: 1
+    /app/boyfriend-makeup-prank-filter: 1
+    /app/bring-photos-to-life: 1
+    /app/broccoli-throw-ai-video: 1
+    /app/bts-swim-dance-ai-video: 1
+    /app/bulin-47-freestyle-ai: 1
+    /app/bullet-bike-ai-video-generator: 1
+    /app/burning-bridges-ai-video: 1
+    /app/c-walk-ai-dance: 1
+    /app/can-can-dance-ai: 1
+    /app/car-alarm-dance: 1
+    /app/car-jump-ai-video: 1
+    /app/car-reveal-video-template: 1
+    /app/casa-tupka-ai-video: 1
+    /app/cats-making-coffee-ai-video-generator: 1
+    /app/ceiling-fan-outfit-change-ai: 1
+    /app/champagne-pop-birthday-ai-video: 1
+    /app/chinaza-dynamic-filter-ai-video: 1
+    /app/chipmunks-dance: 1
+    /app/choosin-texas-emo: 1
+    /app/christmas-eve-message-from-santa: 1
+    /app/christmas-princess-carriage-ai-trend: 1
+    /app/cilvelim-ai-trend: 1
+    /app/clapping-cat-meme: 1
+    /app/coldplay-kiss-cam-generator: 1
+    /app/convertible-coffee-drive-ai-video: 1
+    /app/corpse-bride-ai: 1
+    /app/crazy-frog-ai-video: 1
+    /app/damon-salvatore-ai-video: 1
+    /app/day-of-the-dead-ai-video: 1
+    /app/deep-down-in-my-heart-ai: 1
+    /app/devil-wears-prada-ai: 1
+    /app/diwali-ai-transformation-video: 1
+    /app/dog-pool-party-ai-dance: 1
+    /app/dog-year-recap-video: 1
+    /app/dominican-papi-ai-dance-generator: 1
+    /app/dugun-oyunu-ai-trend: 1
+    /app/elf-on-the-shelf-video: 1
+    /app/elf-yourself: 1
+    /app/enchantress-filter-ai: 1
+    /app/enzo-fernandez-celebration-ai-video: 1
+    /app/fergie-baby-harlem-walk-ai-video: 1
+    /app/flying-car-ai-video: 1
+    /app/fnaf-jumpscare-ai: 1
+    /app/funeral-tribute-video: 1
+    /app/funny-birthday-video: 1
+    /app/funny-birthday-video-maker: 1
+    /app/funny-christmas-video: 1
+    /app/funny-thanksgiving-video: 1
+    /app/fuzzy-dream-dance: 1
+    /app/gangnam-style-ai: 1
+    /app/gangnam-style-ai-dance: 1
+    /app/gangstas-paradise-ai-trend: 1
+    /app/gas-station-dance: 1
+    /app/gemini-rain-ai-effect: 1
+    /app/ghost-filter-prank-ai: 1
+    /app/ghost-photoshoot-trend: 1
+    /app/giant-cat-ai-video: 1
+    /app/giant-hands-dress-up-ai-video-generator: 1
+    /app/goodbye-2026-welcome-2027: 1
+    /app/grease-dance-ai: 1
+    /app/grinch-pet-ai-trend: 1
+    /app/gym-pet-one-more-rep-ai-video: 1
+    /app/halloween-pumpkin-head: 1
+    /app/halloween-transformation-video: 1
+    /app/happy-birthday-boyfriend-video: 1
+    /app/happy-birthday-cat-video: 1
+    /app/happy-birthday-dad-video: 1
+    /app/happy-birthday-dog-video: 1
+    /app/happy-birthday-girlfriend-video: 1
+    /app/happy-birthday-grandma-video: 1
+    /app/happy-birthday-husband-video: 1
+    /app/happy-birthday-mom-video: 1
+    /app/happy-birthday-sister-video: 1
+    /app/happy-birthday-wife-video: 1
+    /app/happy-new-year-video: 1
+    /app/heavenly-reunion-ai-video: 1
+    /app/hit-the-road-dude-ai-video: 1
+    /app/hotel-lobby-ai: 1
+    /app/hotline-bling-ai-trend: 1
+    /app/hug-your-younger-self: 1
+    /app/i-feel-like-nicole-ai-video: 1
+    /app/i-wanna-love-you-ai-video: 1
+    /app/illit-you-re-under-arrest-ai-dance: 1
+    /app/im-not-yo-b-no-more-ai-dance: 1
+    /app/im-so-in-love-with-you-ai-dance: 1
+    /app/insallah-masallah-ai-trend: 1
+    /app/its-my-life-dog-ai-video-generator: 1
+    /app/its-time-christmas-ai-trend: 1
+    /app/jawn-dance-ai: 1
+    /app/jme-check-one-check-two: 1
+    /app/karwa-chauth-ai-video-generator: 1
+    /app/kda-firestarter-dance: 1
+    /app/keep-on-steppin-ai-dance-video: 1
+    /app/kiat-jud-dai-kitten-parade: 1
+    /app/knight-cat-ai: 1
+    /app/la-calabaza-dance: 1
+    /app/la-mujer-del-pelotero-ai-dance: 1
+    /app/lamine-yamal-rabona-ai: 1
+    /app/last-dance-ai-trend: 1
+    /app/layoo-ai-dance: 1
+    /app/lego-truck-wash-ai-video: 1
+    /app/like-jennie-ai-trend: 1
+    /app/lil-durk-king-von-back-again: 1
+    /app/lil-t-jones-dance: 1
+    /app/lisa-tarantino-dance: 1
+    /app/lonyo-ai-dance: 1
+    /app/mandem-in-disguise: 1
+    /app/marigold-bridge-ai-video-generator: 1
+    /app/meimei-dance: 1
+    /app/mi-chico-dance-ai-trend: 1
+    /app/michael-jackson-ai-dance: 1
+    /app/mickey-mickey-ds-dance: 1
+    /app/migos-ai: 1
+    /app/missed-train-dance: 1
+    /app/mom-dad-sister-brother-trend: 1
+    /app/moon-headlight-transition-ai-video: 1
+    /app/my-ride-is-here-broom-trend: 1
+    /app/ngifuna-wena-dance: 1
+    /app/nightwing-ai-trend: 1
+    /app/no-guidance-dance: 1
+    /app/no-scrubs-ai-dance: 1
+    /app/no-te-da-miedo-andar-sola-ai-video: 1
+    /app/not-like-us-ai-video-generator: 1
+    /app/on-the-radar-ai: 1
+    /app/oouuh-ai: 1
+    /app/ozil-goal-ai-video: 1
+    /app/paparazzi-red-carpet-ai-video: 1
+    /app/parrot-dance-ai-video-generator: 1
+    /app/passport-photo-maker: 1
+    /app/pata-chalega-ai-video: 1
+    /app/patrick-swayze-dance-ai-video: 1
+    /app/personalized-santa-video: 1
+    /app/pet-memorial-ai-video: 1
+    /app/pick-it-up-make-it-jump-dance: 1
+    /app/plug-walk-ai-filter: 1
+    /app/polska-jumpstyle-ai: 1
+    /app/popstar-ai-video: 1
+    /app/pray-for-me-slow-mo-dance-ai: 1
+    /app/puerto-rican-mami-ai-dance: 1
+    /app/put-a-ring-on-it-dog: 1
+    /app/quiet-on-the-creek-dance: 1
+    /app/raindance-ai-trend: 1
+    /app/ramalama-bang-bang-trend: 1
+    /app/ramalama-halloween: 1
+    /app/rasputin-dance-ai-generator: 1
+    /app/restore-old-photos: 1
+    /app/santa-caught-on-camera-ai: 1
+    /app/santa-facetime: 1
+    /app/santa-naughty-list-video: 1
+    /app/santa-nice-list-ai-video: 1
+    /app/santa-video-message: 1
+    /app/singing-pets-ai: 1
+    /app/skull-cap-ai: 1
+    /app/smalltown-boy-ai: 1
+    /app/smooth-criminal-dance-challenge: 1
+    /app/solar-eclipse-drake-ai-video-generator: 1
+    /app/spicy-chicken-sandwich-school-dance: 1
+    /app/spiderman-mom-and-son-trend: 1
+    /app/spooky-scary-skeleton-dance: 1
+    /app/stuffed-animal-ufc-ai-video: 1
+    /app/suave-cat-dance: 1
+    /app/subway-singing-ai-video: 1
+    /app/susan-dell-dance-ai-video: 1
+    /app/take-me-home-dom-perignon-ai-trend: 1
+    /app/talk-dirty-dance-ai-trend: 1
+    /app/tears-falling-down-filter: 1
+    /app/tecktonik-dance-ai: 1
+    /app/tesla-flying-car-ai-video: 1
+    /app/thank-you-baby-ai-dance: 1
+    /app/thriller-dance-ai-video: 1
+    /app/tim-burton-girls-ai: 1
+    /app/toc-toc-dance: 1
+    /app/toy-car-to-real-car: 1
+    /app/toz-pembe-ai-dance: 1
+    /app/turning-my-mom-into-me-ai-trend: 1
+    /app/twilight-baseball-scene: 1
+    /app/unforgettable-car-ai-video: 1
+    /app/uptown-funk-ai-dance: 1
+    /app/vai-matar-papai-dance: 1
+    /app/valet-shoe-drop-ai-trend: 1
+    /app/van-damme-ai-dance: 1
+    /app/venom-car-ai-video: 1
+    /app/venom-makeup-video: 1
+    /app/video-from-santa: 1
+    /app/vikas-editing-ai: 1
+    /app/vivaldi-dance-ai-video-generator: 1
+    /app/what-hairstyle-suits-me: 1
+    /app/whiny-dog-ai-trend: 1
+    /app/white-chicks-car-scene-ai: 1
+    /app/wipe-me-down-ai-dance: 1
+    /app/wyw-my-sweetie-dance-ai-video: 1
+    /app/yohohoho-meme: 1
+    /app/zombie-ai-trend: 1
+  new on /trends*: 0
+  PREV path prefixes:
+    /app/abra-kadabra-ai: 1
+    /app/ai-baby-gangster: 1
+    /app/ai-cakeify-effect: 1
+    /app/ai-camera-orbit-video-effect: 1
+    /app/ai-clone-video: 1
+    /app/ai-hair-growth-generator: 1
+    /app/ai-laughing-face-effect: 1
+    /app/ai-melt-effect: 1
+    /app/ai-movie-scene-generator: 1
+    /app/ai-scared-face-effect: 1
+    /app/ai-shocked-face-effect: 1
+    /app/ai-video-effects: 1
+    /app/ai-video-of-yourself: 1
+    /app/ai-walking-effect: 1
+    /app/angry-ginge-ai: 1
+    /app/aura-farming-ai: 1
+    /app/bama-bound-trend: 1
+    /app/blocus-poursuite-ai-video: 1
+    /app/bottle-kick-ai-video: 1
+    /app/can-you-make-it-cap: 1
+    /app/car-chips-prank-ai-trend: 1
+    /app/cardo-dinner-ai-video: 1
+    /app/chatgpt-millionaire-30-days-ai-video: 1
+    /app/closing-door-prank: 1
+    /app/cofi-trend-ai-video-generator: 1
+    /app/compa-coleto-baby-bottle: 1
+    /app/counting-money-meme: 1
+    /app/crying-ai-slap-transition: 1
+    /app/dime-dime-baby-ai-dance: 1
+    /app/earth-zoom-out: 1
+    /app/explosion-walk-ai-video-generator: 1
+    /app/first-time-in-a-fancy-cafe: 1
+    /app/fridge-pov-ai-video-generator: 1
+    /app/happy-friday-im-onnat-ai-video: 1
+    /app/head-bop-animation: 1
+    /app/hop-hop-hop-ai: 1
+    /app/i-love-the-smiths-ai-trend: 1
+    /app/i-need-a-gf-alvin: 1
+    /app/im-so-sorry-trend: 1
+    /app/in-a-minute-wassup: 1
+    /app/instagram-journey-ai-video-generator: 1
+    /app/iphone-kupi-dance: 1
+    /app/jailer-2-building-explosion-ai-video: 1
+    /app/money-flex-ai: 1
+    /app/mr-and-mrs-stretchy: 1
+    /app/nestle-crunch-ai-video-generator: 1
+    /app/not-bro-getting-arrested-again: 1
+    /app/opa-opa-opa-trend: 1
+    /app/perdon-ai-trend: 1
+    /app/permission-to-cry-sir-ai-trend: 1
+    /app/pig-riding-ai-video: 1
+    /app/pimpwalk-entrance: 1
+    /app/retro-chair-rock-ai-video: 1
+    /app/rubber-band-prank-ai-trend: 1
+    /app/rumpelstiltskin-meme: 1
+    /app/screaming-girl-hair-funk: 1
+    /app/shaking-head-trend: 1
+    /app/shan-shen-bu: 1
+    /app/stones-to-castle-ai: 1
+    /app/storm-ii-ai-video: 1
+    /app/street-light-slide-ai-generator: 1
+    /app/tip-toeing-in-my-jordans-ai: 1
+    /app/tung-tung-tung-sahur-ai-video: 1
+    /app/turkey-dance-video: 1
+    /app/tus-ojos-me-reflejan: 1
+    /app/two-legends-making-coffee: 1
+    /app/window-peeper-ai: 1
+    /app/year-in-review-video: 1
+======================================================================
+Smew AI (smew.json) prev=439 raw=439 +0 -0
+======================================================================
+Remake Your Meme (remakeyourmeme.json) prev=44 raw=44 +0 -0
+
+======= excluded-non-templates keys / samples =======
+note: Non-template URLs that parsers may pick up from sitemaps or list pages; never treat as template inventory or daily-new.
+memefxai.json count 2
+    studio
+    whats-new
+trendswap.json count 1
+    help-center
+summrs.json count 2
+    favicon.svg
+    icon.svg
+makememe.json count 1
+    halloween-ai-video-trends
+ricebowl.json count 12
+    ai-asmr-video-generator
+    ai-fight-video-generator
+    ai-lip-sync
+    ai-talking-photo
+    angel-devil-filter
+    animate-illustrations
+    animate-photos
+    black-and-white-cinematic-ai-video

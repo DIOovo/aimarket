@@ -1,0 +1,111 @@
+{
+  "site": "DanceRemake",
+  "home": "https://danceremake.com/",
+  "checked_at": "2026-11-21T09:40:54+08:00",
+  "sitemap_urls_found": [
+    "https://danceremake.com/sitemap.xml"
+  ],
+  "sitemap_existed": true,
+  "template_count": 19,
+  "new_count": 0,
+  "removed_count": 0,
+  "new_templates": [],
+  "removed_templates": [],
+  "templates": [
+    {
+      "id_or_slug": "ai-elf-dance",
+      "title": "AI Elf Dance",
+      "url": "https://danceremake.com/templates/ai-elf-dance"
+    },
+    {
+      "id_or_slug": "bby-wow-dance-ai",
+      "title": "Bby Wow Dance AI",
+      "url": "https://danceremake.com/templates/bby-wow-dance-ai"
+    },
+    {
+      "id_or_slug": "christmas-dance-ai",
+      "title": "Christmas Dance AI",
+      "url": "https://danceremake.com/templates/christmas-dance-ai"
+    },
+    {
+      "id_or_slug": "crazy-frog-ai",
+      "title": "Crazy Frog AI",
+      "url": "https://danceremake.com/templates/crazy-frog-ai"
+    },
+    {
+      "id_or_slug": "gangnam-style-ai-video",
+      "title": "Gangnam Style AI Video",
+      "url": "https://danceremake.com/templates/gangnam-style-ai-video"
+    },
+    {
+      "id_or_slug": "gas-station-trend",
+      "title": "Gas Station Trend",
+      "url": "https://danceremake.com/templates/gas-station-trend"
+    },
+    {
+      "id_or_slug": "hop-hop-hop-ai",
+      "title": "Hop Hop Hop AI",
+      "url": "https://danceremake.com/templates/hop-hop-hop-ai"
+    },
+    {
+      "id_or_slug": "hotline-bling-ai",
+      "title": "Hotline Bling AI",
+      "url": "https://danceremake.com/templates/hotline-bling-ai"
+    },
+    {
+      "id_or_slug": "missed-train-dance-ai",
+      "title": "Missed Train Dance AI",
+      "url": "https://danceremake.com/templates/missed-train-dance-ai"
+    },
+    {
+      "id_or_slug": "nicole-kidman-dance-trend",
+      "title": "Nicole Kidman Dance Trend",
+      "url": "https://danceremake.com/templates/nicole-kidman-dance-trend"
+    },
+    {
+      "id_or_slug": "no-scrubs-ai",
+      "title": "No Scrubs AI",
+      "url": "https://danceremake.com/templates/no-scrubs-ai"
+    },
+    {
+      "id_or_slug": "pimp-walk-entrance-ai",
+      "title": "Pimp Walk Entrance AI",
+      "url": "https://danceremake.com/templates/pimp-walk-entrance-ai"
+    },
+    {
+      "id_or_slug": "pumpkin-head-ai",
+      "title": "Pumpkin Head AI",
+      "url": "https://danceremake.com/templates/pumpkin-head-ai"
+    },
+    {
+      "id_or_slug": "raindance-ai-trend",
+      "title": "Raindance AI Trend",
+      "url": "https://danceremake.com/templates/raindance-ai-trend"
+    },
+    {
+      "id_or_slug": "rumpelstiltskin-ai",
+      "title": "Rumpelstiltskin AI",
+      "url": "https://danceremake.com/templates/rumpelstiltskin-ai"
+    },
+    {
+      "id_or_slug": "storm-ii-ai-trend",
+      "title": "Storm Ii AI Trend",
+      "url": "https://danceremake.com/templates/storm-ii-ai-trend"
+    },
+    {
+      "id_or_slug": "te-he-perdido-ai",
+      "title": "Te He Perdido AI",
+      "url": "https://danceremake.com/templates/te-he-perdido-ai"
+    },
+    {
+      "id_or_slug": "thriller-dance-ai",
+      "title": "Thriller Dance AI",
+      "url": "https://danceremake.com/templates/thriller-dance-ai"
+    },
+    {
+      "id_or_slug": "wassup-in-a-minute-ai",
+      "title": "Wassup In A Minute AI",
+      "url": "https://danceremake.com/templates/wassup-in-a-minute-ai"
+    }
+  ]
+}

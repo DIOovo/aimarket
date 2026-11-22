@@ -1,0 +1,17 @@
+{
+  "site": "Put Me In",
+  "file": "putmein.json",
+  "prev": 10,
+  "now": 10,
+  "new": [],
+  "gone": [],
+  "notes": [],
+  "sitemaps": [
+    "https://putmein.app/sitemap.xml",
+    "https://putmein.app/sitemap-media.xml",
+    "https://putmein.app/blog/rss.xml",
+    "https://putmein.app/es/blog/rss.xml",
+    "https://putmein.app/ja/blog/rss.xml",
+    "https://putmein.app/pt/blog/rss.xml"
+  ]
+}

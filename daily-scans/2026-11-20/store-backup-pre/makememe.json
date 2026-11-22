@@ -1,0 +1,827 @@
+{
+  "site": "MakeMeme.video",
+  "home": "https://makememe.video/",
+  "checked_at": "2026-11-19T09:40:27+08:00",
+  "sitemap_urls_found": [
+    "https://makememe.video/sitemap.xml"
+  ],
+  "sitemap_existed": true,
+  "template_count": 158,
+  "templates": [
+    {
+      "id_or_slug": "abra-kadabra-ai",
+      "title": "Abra Kadabra AI",
+      "url": "https://makememe.video/abra-kadabra-ai"
+    },
+    {
+      "id_or_slug": "ai-boyfriend-prank",
+      "title": "AI Boyfriend Prank",
+      "url": "https://makememe.video/ai-boyfriend-prank"
+    },
+    {
+      "id_or_slug": "ai-halloween-costume",
+      "title": "AI Halloween Costume",
+      "url": "https://makememe.video/ai-halloween-costume"
+    },
+    {
+      "id_or_slug": "ai-kiss",
+      "title": "AI Kiss",
+      "url": "https://makememe.video/ai-kiss"
+    },
+    {
+      "id_or_slug": "ai-love-story",
+      "title": "AI Love Story",
+      "url": "https://makememe.video/ai-love-story"
+    },
+    {
+      "id_or_slug": "ai-sway-dance",
+      "title": "AI Sway Dance",
+      "url": "https://makememe.video/ai-sway-dance"
+    },
+    {
+      "id_or_slug": "ai-zombie-trend",
+      "title": "AI Zombie Trend",
+      "url": "https://makememe.video/ai-zombie-trend"
+    },
+    {
+      "id_or_slug": "ali-g-ai",
+      "title": "Ali G AI",
+      "url": "https://makememe.video/ali-g-ai"
+    },
+    {
+      "id_or_slug": "alors-on-danse-ai",
+      "title": "Alors On Danse AI",
+      "url": "https://makememe.video/alors-on-danse-ai"
+    },
+    {
+      "id_or_slug": "ba-ba-ba-dance-ai",
+      "title": "Ba Ba Ba Dance AI",
+      "url": "https://makememe.video/ba-ba-ba-dance-ai"
+    },
+    {
+      "id_or_slug": "baby-knight-ai",
+      "title": "Baby Knight AI",
+      "url": "https://makememe.video/baby-knight-ai"
+    },
+    {
+      "id_or_slug": "baby-riding-reindeer-ai",
+      "title": "Baby Riding Reindeer AI",
+      "url": "https://makememe.video/baby-riding-reindeer-ai"
+    },
+    {
+      "id_or_slug": "baby-running-ai",
+      "title": "Baby Running AI",
+      "url": "https://makememe.video/baby-running-ai"
+    },
+    {
+      "id_or_slug": "baby-with-mustache-ai",
+      "title": "Baby With Mustache AI",
+      "url": "https://makememe.video/baby-with-mustache-ai"
+    },
+    {
+      "id_or_slug": "babydoll-dance-ai",
+      "title": "Babydoll Dance AI",
+      "url": "https://makememe.video/babydoll-dance-ai"
+    },
+    {
+      "id_or_slug": "bad-times-ai",
+      "title": "Bad Times AI",
+      "url": "https://makememe.video/bad-times-ai"
+    },
+    {
+      "id_or_slug": "ballon-dor-ai",
+      "title": "Ballon Dor AI",
+      "url": "https://makememe.video/ballon-dor-ai"
+    },
+    {
+      "id_or_slug": "baseball-ai-trend",
+      "title": "Baseball AI Trend",
+      "url": "https://makememe.video/baseball-ai-trend"
+    },
+    {
+      "id_or_slug": "bicep-heart-ai",
+      "title": "Bicep Heart AI",
+      "url": "https://makememe.video/bicep-heart-ai"
+    },
+    {
+      "id_or_slug": "bigxthaplug-give-it-all-ai",
+      "title": "BigXthaPlug Give It All AI",
+      "url": "https://makememe.video/bigxthaplug-give-it-all-ai"
+    },
+    {
+      "id_or_slug": "bing-bing-bing-ai",
+      "title": "Bing Bing Bing AI",
+      "url": "https://makememe.video/bing-bing-bing-ai"
+    },
+    {
+      "id_or_slug": "birthday-cake-ai",
+      "title": "Birthday Cake AI",
+      "url": "https://makememe.video/birthday-cake-ai"
+    },
+    {
+      "id_or_slug": "birthday-car-ai",
+      "title": "Birthday Car AI",
+      "url": "https://makememe.video/birthday-car-ai"
+    },
+    {
+      "id_or_slug": "birthday-champagne-trend",
+      "title": "Birthday Champagne Trend",
+      "url": "https://makememe.video/birthday-champagne-trend"
+    },
+    {
+      "id_or_slug": "bonito-bonito-ai",
+      "title": "Bonito Bonito AI",
+      "url": "https://makememe.video/bonito-bonito-ai"
+    },
+    {
+      "id_or_slug": "bottle-kick-challenge-ai",
+      "title": "Bottle Kick Challenge AI",
+      "url": "https://makememe.video/bottle-kick-challenge-ai"
+    },
+    {
+      "id_or_slug": "buggin-dance-ai",
+      "title": "Buggin Dance AI",
+      "url": "https://makememe.video/buggin-dance-ai"
+    },
+    {
+      "id_or_slug": "bulin-47-ai-trend",
+      "title": "Bulin 47 AI Trend",
+      "url": "https://makememe.video/bulin-47-ai-trend"
+    },
+    {
+      "id_or_slug": "burning-bridges-ai",
+      "title": "Burning Bridges AI",
+      "url": "https://makememe.video/burning-bridges-ai"
+    },
+    {
+      "id_or_slug": "can-i-ride-dance-ai",
+      "title": "Can I Ride Dance AI",
+      "url": "https://makememe.video/can-i-ride-dance-ai"
+    },
+    {
+      "id_or_slug": "car-alarm-dance-ai",
+      "title": "Car Alarm Dance AI",
+      "url": "https://makememe.video/car-alarm-dance-ai"
+    },
+    {
+      "id_or_slug": "car-to-transformer-ai",
+      "title": "Car To Transformer AI",
+      "url": "https://makememe.video/car-to-transformer-ai"
+    },
+    {
+      "id_or_slug": "careless-whisper-car-ai",
+      "title": "Careless Whisper Car AI",
+      "url": "https://makememe.video/careless-whisper-car-ai"
+    },
+    {
+      "id_or_slug": "cat-human-ai",
+      "title": "Cat Human AI",
+      "url": "https://makememe.video/cat-human-ai"
+    },
+    {
+      "id_or_slug": "cat-wheelie-ai",
+      "title": "Cat Wheelie AI",
+      "url": "https://makememe.video/cat-wheelie-ai"
+    },
+    {
+      "id_or_slug": "catrina-ai",
+      "title": "Catrina AI",
+      "url": "https://makememe.video/catrina-ai"
+    },
+    {
+      "id_or_slug": "ceiling-fan-transition-ai",
+      "title": "Ceiling Fan Transition AI",
+      "url": "https://makememe.video/ceiling-fan-transition-ai"
+    },
+    {
+      "id_or_slug": "charlie-brown-christmas-ai",
+      "title": "Charlie Brown Christmas AI",
+      "url": "https://makememe.video/charlie-brown-christmas-ai"
+    },
+    {
+      "id_or_slug": "charme-dance-ai",
+      "title": "Charme Dance AI",
+      "url": "https://makememe.video/charme-dance-ai"
+    },
+    {
+      "id_or_slug": "chipmunks-dance-ai",
+      "title": "Chipmunks Dance AI",
+      "url": "https://makememe.video/chipmunks-dance-ai"
+    },
+    {
+      "id_or_slug": "christmas-ai-video",
+      "title": "Christmas AI Video",
+      "url": "https://makememe.video/christmas-ai-video"
+    },
+    {
+      "id_or_slug": "christmas-dance-ai",
+      "title": "Christmas Dance AI",
+      "url": "https://makememe.video/christmas-dance-ai"
+    },
+    {
+      "id_or_slug": "christmas-lights-wife-ai",
+      "title": "Christmas Lights Wife AI",
+      "url": "https://makememe.video/christmas-lights-wife-ai"
+    },
+    {
+      "id_or_slug": "christmas-pajama-dance-ai",
+      "title": "Christmas Pajama Dance AI",
+      "url": "https://makememe.video/christmas-pajama-dance-ai"
+    },
+    {
+      "id_or_slug": "christmas-pfp-ai",
+      "title": "Christmas PFP AI",
+      "url": "https://makememe.video/christmas-pfp-ai"
+    },
+    {
+      "id_or_slug": "clapping-cat-ai",
+      "title": "Clapping Cat AI",
+      "url": "https://makememe.video/clapping-cat-ai"
+    },
+    {
+      "id_or_slug": "closing-door-prank-ai",
+      "title": "Closing Door Prank AI",
+      "url": "https://makememe.video/closing-door-prank-ai"
+    },
+    {
+      "id_or_slug": "coffee-making-ai",
+      "title": "Coffee Making AI",
+      "url": "https://makememe.video/coffee-making-ai"
+    },
+    {
+      "id_or_slug": "cortis-go-ai",
+      "title": "CORTIS GO AI",
+      "url": "https://makememe.video/cortis-go-ai"
+    },
+    {
+      "id_or_slug": "cow-shaking-head-ai",
+      "title": "Cow Shaking Head AI",
+      "url": "https://makememe.video/cow-shaking-head-ai"
+    },
+    {
+      "id_or_slug": "damon-salvatore-ai",
+      "title": "Damon Salvatore AI",
+      "url": "https://makememe.video/damon-salvatore-ai"
+    },
+    {
+      "id_or_slug": "day-of-the-dead-pets-ai",
+      "title": "Day Of The Dead Pets AI",
+      "url": "https://makememe.video/day-of-the-dead-pets-ai"
+    },
+    {
+      "id_or_slug": "dia-de-muertos-ai",
+      "title": "Dia De Muertos AI",
+      "url": "https://makememe.video/dia-de-muertos-ai"
+    },
+    {
+      "id_or_slug": "dime-dime-baby-ai",
+      "title": "Dime Dime Baby AI",
+      "url": "https://makememe.video/dime-dime-baby-ai"
+    },
+    {
+      "id_or_slug": "dog-bartender-ai",
+      "title": "Dog Bartender AI",
+      "url": "https://makememe.video/dog-bartender-ai"
+    },
+    {
+      "id_or_slug": "dog-bohemian-rhapsody-ai",
+      "title": "Dog Bohemian Rhapsody AI",
+      "url": "https://makememe.video/dog-bohemian-rhapsody-ai"
+    },
+    {
+      "id_or_slug": "dog-pool-party-ai",
+      "title": "Dog Pool Party AI",
+      "url": "https://makememe.video/dog-pool-party-ai"
+    },
+    {
+      "id_or_slug": "dominican-papi-ai",
+      "title": "Dominican Papi AI",
+      "url": "https://makememe.video/dominican-papi-ai"
+    },
+    {
+      "id_or_slug": "doodle-dance-partner-ai",
+      "title": "Doodle Dance Partner AI",
+      "url": "https://makememe.video/doodle-dance-partner-ai"
+    },
+    {
+      "id_or_slug": "end-of-watch-locker-scene-ai",
+      "title": "End Of Watch Locker Scene AI",
+      "url": "https://makememe.video/end-of-watch-locker-scene-ai"
+    },
+    {
+      "id_or_slug": "favorite-rumors-about-us-ai",
+      "title": "Favorite Rumors About US AI",
+      "url": "https://makememe.video/favorite-rumors-about-us-ai"
+    },
+    {
+      "id_or_slug": "first-time-in-a-fancy-cafe-ai",
+      "title": "First Time In A Fancy Cafe AI",
+      "url": "https://makememe.video/first-time-in-a-fancy-cafe-ai"
+    },
+    {
+      "id_or_slug": "fish-cutting-meme-ai",
+      "title": "Fish Cutting Meme AI",
+      "url": "https://makememe.video/fish-cutting-meme-ai"
+    },
+    {
+      "id_or_slug": "flamingo-float-ai",
+      "title": "Flamingo Float AI",
+      "url": "https://makememe.video/flamingo-float-ai"
+    },
+    {
+      "id_or_slug": "flying-broom-ai",
+      "title": "Flying Broom AI",
+      "url": "https://makememe.video/flying-broom-ai"
+    },
+    {
+      "id_or_slug": "gangnam-style-ai",
+      "title": "Gangnam Style AI",
+      "url": "https://makememe.video/gangnam-style-ai"
+    },
+    {
+      "id_or_slug": "gangstas-paradise-ai",
+      "title": "Gangsta's Paradise AI",
+      "url": "https://makememe.video/gangstas-paradise-ai"
+    },
+    {
+      "id_or_slug": "gas-station-dance-ai",
+      "title": "Gas Station Dance AI",
+      "url": "https://makememe.video/gas-station-dance-ai"
+    },
+    {
+      "id_or_slug": "ghostface-ai",
+      "title": "Ghostface AI",
+      "url": "https://makememe.video/ghostface-ai"
+    },
+    {
+      "id_or_slug": "giant-ramp-climbing-ai",
+      "title": "Giant Ramp Climbing AI",
+      "url": "https://makememe.video/giant-ramp-climbing-ai"
+    },
+    {
+      "id_or_slug": "glow-trio-ai",
+      "title": "Glow Trio AI",
+      "url": "https://makememe.video/glow-trio-ai"
+    },
+    {
+      "id_or_slug": "golf-dance-ai",
+      "title": "Golf Dance AI",
+      "url": "https://makememe.video/golf-dance-ai"
+    },
+    {
+      "id_or_slug": "grinch-pet-filter",
+      "title": "Grinch Pet Filter",
+      "url": "https://makememe.video/grinch-pet-filter"
+    },
+    {
+      "id_or_slug": "hair-dye-filter-ai",
+      "title": "Hair Dye Filter AI",
+      "url": "https://makememe.video/hair-dye-filter-ai"
+    },
+    {
+      "id_or_slug": "heaven-hug-ai",
+      "title": "Heaven Hug AI",
+      "url": "https://makememe.video/heaven-hug-ai"
+    },
+    {
+      "id_or_slug": "here-comes-santa-claus-dance-ai",
+      "title": "Here Comes Santa Claus Dance AI",
+      "url": "https://makememe.video/here-comes-santa-claus-dance-ai"
+    },
+    {
+      "id_or_slug": "hit-the-road-dude-ai",
+      "title": "Hit The Road Dude AI",
+      "url": "https://makememe.video/hit-the-road-dude-ai"
+    },
+    {
+      "id_or_slug": "hop-hop-hop-dance-ai",
+      "title": "Hop Hop Hop Dance AI",
+      "url": "https://makememe.video/hop-hop-hop-dance-ai"
+    },
+    {
+      "id_or_slug": "hotel-lobby-ai",
+      "title": "Hotel Lobby AI",
+      "url": "https://makememe.video/hotel-lobby-ai"
+    },
+    {
+      "id_or_slug": "hotline-bling-ai",
+      "title": "Hotline Bling AI",
+      "url": "https://makememe.video/hotline-bling-ai"
+    },
+    {
+      "id_or_slug": "husband-emporium-ai",
+      "title": "Husband Emporium AI",
+      "url": "https://makememe.video/husband-emporium-ai"
+    },
+    {
+      "id_or_slug": "i-lost-you-in-the-crowd-ai",
+      "title": "I Lost You In The Crowd AI",
+      "url": "https://makememe.video/i-lost-you-in-the-crowd-ai"
+    },
+    {
+      "id_or_slug": "i-love-the-smiths-ai",
+      "title": "I Love The Smiths AI",
+      "url": "https://makememe.video/i-love-the-smiths-ai"
+    },
+    {
+      "id_or_slug": "i-need-a-girl-dance-ai",
+      "title": "I Need A Girl Dance AI",
+      "url": "https://makememe.video/i-need-a-girl-dance-ai"
+    },
+    {
+      "id_or_slug": "iconic-by-mistake-ai",
+      "title": "Iconic By Mistake AI",
+      "url": "https://makememe.video/iconic-by-mistake-ai"
+    },
+    {
+      "id_or_slug": "instagram-profile-cleaning-ai",
+      "title": "Instagram Profile Cleaning AI",
+      "url": "https://makememe.video/instagram-profile-cleaning-ai"
+    },
+    {
+      "id_or_slug": "iphone-kupi-dance-ai",
+      "title": "Iphone Kupi Dance AI",
+      "url": "https://makememe.video/iphone-kupi-dance-ai"
+    },
+    {
+      "id_or_slug": "ja-morant-dunk-ai",
+      "title": "Ja Morant Dunk AI",
+      "url": "https://makememe.video/ja-morant-dunk-ai"
+    },
+    {
+      "id_or_slug": "james-bond-reveal-ai",
+      "title": "James Bond Reveal AI",
+      "url": "https://makememe.video/james-bond-reveal-ai"
+    },
+    {
+      "id_or_slug": "jingle-bell-brazil-dance-ai",
+      "title": "Jingle Bell Brazil Dance AI",
+      "url": "https://makememe.video/jingle-bell-brazil-dance-ai"
+    },
+    {
+      "id_or_slug": "jingle-bell-rock-ai",
+      "title": "Jingle Bell Rock AI",
+      "url": "https://makememe.video/jingle-bell-rock-ai"
+    },
+    {
+      "id_or_slug": "jisoo-addicted-dance-ai",
+      "title": "Jisoo Addicted Dance AI",
+      "url": "https://makememe.video/jisoo-addicted-dance-ai"
+    },
+    {
+      "id_or_slug": "kda-firestarter-dance-ai",
+      "title": "KDA Firestarter Dance AI",
+      "url": "https://makememe.video/kda-firestarter-dance-ai"
+    },
+    {
+      "id_or_slug": "king-jin-ai",
+      "title": "King Jin AI",
+      "url": "https://makememe.video/king-jin-ai"
+    },
+    {
+      "id_or_slug": "kiss-cam-ai",
+      "title": "Kiss Cam AI",
+      "url": "https://makememe.video/kiss-cam-ai"
+    },
+    {
+      "id_or_slug": "knight-cat-ai",
+      "title": "Knight Cat AI",
+      "url": "https://makememe.video/knight-cat-ai"
+    },
+    {
+      "id_or_slug": "lil-yachty-walkout-ai",
+      "title": "Lil Yachty Walkout AI",
+      "url": "https://makememe.video/lil-yachty-walkout-ai"
+    },
+    {
+      "id_or_slug": "market-parkour-ai",
+      "title": "Market Parkour AI",
+      "url": "https://makememe.video/market-parkour-ai"
+    },
+    {
+      "id_or_slug": "marlon-ai",
+      "title": "Marlon AI",
+      "url": "https://makememe.video/marlon-ai"
+    },
+    {
+      "id_or_slug": "me-and-my-girlfriend-ai",
+      "title": "Me and My Girlfriend AI",
+      "url": "https://makememe.video/me-and-my-girlfriend-ai"
+    },
+    {
+      "id_or_slug": "mei-mei-cat-ai",
+      "title": "Mei Mei Cat AI",
+      "url": "https://makememe.video/mei-mei-cat-ai"
+    },
+    {
+      "id_or_slug": "mini-me-ai",
+      "title": "Mini Me AI",
+      "url": "https://makememe.video/mini-me-ai"
+    },
+    {
+      "id_or_slug": "mirror-panther-ai",
+      "title": "Mirror Panther AI",
+      "url": "https://makememe.video/mirror-panther-ai"
+    },
+    {
+      "id_or_slug": "money-flex-ai",
+      "title": "Money Flex AI",
+      "url": "https://makememe.video/money-flex-ai"
+    },
+    {
+      "id_or_slug": "monster-high-filter",
+      "title": "Monster High Filter",
+      "url": "https://makememe.video/monster-high-filter"
+    },
+    {
+      "id_or_slug": "my-moon-my-man-ai",
+      "title": "My Moon My Man AI",
+      "url": "https://makememe.video/my-moon-my-man-ai"
+    },
+    {
+      "id_or_slug": "neptune-square-trend",
+      "title": "Neptune Square Trend",
+      "url": "https://makememe.video/neptune-square-trend"
+    },
+    {
+      "id_or_slug": "never-let-her-pay-ai",
+      "title": "Never Let Her Pay AI",
+      "url": "https://makememe.video/never-let-her-pay-ai"
+    },
+    {
+      "id_or_slug": "nicole-kidman-dance-ai",
+      "title": "Nicole Kidman Dance AI",
+      "url": "https://makememe.video/nicole-kidman-dance-ai"
+    },
+    {
+      "id_or_slug": "nightwing-ai-trend",
+      "title": "Nightwing AI Trend",
+      "url": "https://makememe.video/nightwing-ai-trend"
+    },
+    {
+      "id_or_slug": "no-scrubs-ai",
+      "title": "No Scrubs AI",
+      "url": "https://makememe.video/no-scrubs-ai"
+    },
+    {
+      "id_or_slug": "old-town-road-ai",
+      "title": "Old Town Road AI",
+      "url": "https://makememe.video/old-town-road-ai"
+    },
+    {
+      "id_or_slug": "ozil-goal-ai",
+      "title": "Ozil Goal AI",
+      "url": "https://makememe.video/ozil-goal-ai"
+    },
+    {
+      "id_or_slug": "perfect-partner-ai",
+      "title": "Perfect Partner AI",
+      "url": "https://makememe.video/perfect-partner-ai"
+    },
+    {
+      "id_or_slug": "pet-taxi-ai",
+      "title": "Pet Taxi AI",
+      "url": "https://makememe.video/pet-taxi-ai"
+    },
+    {
+      "id_or_slug": "phone-on-the-train-ai",
+      "title": "Phone On The Train AI",
+      "url": "https://makememe.video/phone-on-the-train-ai"
+    },
+    {
+      "id_or_slug": "pimpwalk-entrance-ai",
+      "title": "Pimpwalk Entrance AI",
+      "url": "https://makememe.video/pimpwalk-entrance-ai"
+    },
+    {
+      "id_or_slug": "polar-bear-2026-ai",
+      "title": "Polar Bear 2026 AI",
+      "url": "https://makememe.video/polar-bear-2026-ai"
+    },
+    {
+      "id_or_slug": "prank-mask-ai",
+      "title": "Prank Mask AI",
+      "url": "https://makememe.video/prank-mask-ai"
+    },
+    {
+      "id_or_slug": "pray-for-me-slow-mo-ai",
+      "title": "Pray For Me Slow Mo AI",
+      "url": "https://makememe.video/pray-for-me-slow-mo-ai"
+    },
+    {
+      "id_or_slug": "puerto-rican-mami-dance-ai",
+      "title": "Puerto Rican Mami Dance AI",
+      "url": "https://makememe.video/puerto-rican-mami-dance-ai"
+    },
+    {
+      "id_or_slug": "raindance-ai",
+      "title": "Raindance AI",
+      "url": "https://makememe.video/raindance-ai"
+    },
+    {
+      "id_or_slug": "ramalama-trend",
+      "title": "Ramalama Trend",
+      "url": "https://makememe.video/ramalama-trend"
+    },
+    {
+      "id_or_slug": "rapunzel-dance-ai",
+      "title": "Rapunzel Dance AI",
+      "url": "https://makememe.video/rapunzel-dance-ai"
+    },
+    {
+      "id_or_slug": "reaching-out-cat-ai",
+      "title": "Reaching Out Cat AI",
+      "url": "https://makememe.video/reaching-out-cat-ai"
+    },
+    {
+      "id_or_slug": "rollie-on-my-wrist-ai",
+      "title": "Rollie On My Wrist AI",
+      "url": "https://makememe.video/rollie-on-my-wrist-ai"
+    },
+    {
+      "id_or_slug": "rumpelstiltskin-tip-toe-ai",
+      "title": "Rumpelstiltskin Tip Toe AI",
+      "url": "https://makememe.video/rumpelstiltskin-tip-toe-ai"
+    },
+    {
+      "id_or_slug": "shadow-boxing-ai",
+      "title": "Shadow Boxing AI",
+      "url": "https://makememe.video/shadow-boxing-ai"
+    },
+    {
+      "id_or_slug": "shan-shen-bu-ai",
+      "title": "Shan Shen Bu AI",
+      "url": "https://makememe.video/shan-shen-bu-ai"
+    },
+    {
+      "id_or_slug": "shoulder-carry-ai",
+      "title": "Shoulder Carry AI",
+      "url": "https://makememe.video/shoulder-carry-ai"
+    },
+    {
+      "id_or_slug": "single-ladies-dog-ai",
+      "title": "Single Ladies Dog AI",
+      "url": "https://makememe.video/single-ladies-dog-ai"
+    },
+    {
+      "id_or_slug": "skull-cap-trend",
+      "title": "Skull Cap Trend",
+      "url": "https://makememe.video/skull-cap-trend"
+    },
+    {
+      "id_or_slug": "smalltown-boy-ai",
+      "title": "Smalltown Boy AI",
+      "url": "https://makememe.video/smalltown-boy-ai"
+    },
+    {
+      "id_or_slug": "smooth-criminal-dance-ai",
+      "title": "Smooth Criminal Dance AI",
+      "url": "https://makememe.video/smooth-criminal-dance-ai"
+    },
+    {
+      "id_or_slug": "somebody-that-i-used-to-know-ai",
+      "title": "Somebody That I Used To Know AI",
+      "url": "https://makememe.video/somebody-that-i-used-to-know-ai"
+    },
+    {
+      "id_or_slug": "spooky-scary-skeletons-ai",
+      "title": "Spooky Scary Skeletons AI",
+      "url": "https://makememe.video/spooky-scary-skeletons-ai"
+    },
+    {
+      "id_or_slug": "storm-trend-ai",
+      "title": "Storm Trend AI",
+      "url": "https://makememe.video/storm-trend-ai"
+    },
+    {
+      "id_or_slug": "talk-dirty-dance-ai",
+      "title": "Talk Dirty Dance AI",
+      "url": "https://makememe.video/talk-dirty-dance-ai"
+    },
+    {
+      "id_or_slug": "tarantino-ai",
+      "title": "Tarantino AI",
+      "url": "https://makememe.video/tarantino-ai"
+    },
+    {
+      "id_or_slug": "tesla-roadster-ai",
+      "title": "Tesla Roadster AI",
+      "url": "https://makememe.video/tesla-roadster-ai"
+    },
+    {
+      "id_or_slug": "thank-you-baby-ai",
+      "title": "Thank You Baby AI",
+      "url": "https://makememe.video/thank-you-baby-ai"
+    },
+    {
+      "id_or_slug": "three-kittens-dance-ai",
+      "title": "Three Kittens Dance AI",
+      "url": "https://makememe.video/three-kittens-dance-ai"
+    },
+    {
+      "id_or_slug": "thriller-dance-ai",
+      "title": "Thriller Dance AI",
+      "url": "https://makememe.video/thriller-dance-ai"
+    },
+    {
+      "id_or_slug": "tim-burton-ai",
+      "title": "Tim Burton AI",
+      "url": "https://makememe.video/tim-burton-ai"
+    },
+    {
+      "id_or_slug": "tiny-desk-ai",
+      "title": "Tiny Desk AI",
+      "url": "https://makememe.video/tiny-desk-ai"
+    },
+    {
+      "id_or_slug": "toc-toc-ai",
+      "title": "Toc Toc AI",
+      "url": "https://makememe.video/toc-toc-ai"
+    },
+    {
+      "id_or_slug": "toy-car-to-real-car-ai",
+      "title": "Toy Car To Real Car AI",
+      "url": "https://makememe.video/toy-car-to-real-car-ai"
+    },
+    {
+      "id_or_slug": "training-season-ai",
+      "title": "Training Season AI",
+      "url": "https://makememe.video/training-season-ai"
+    },
+    {
+      "id_or_slug": "twilight-baseball-scene-ai",
+      "title": "Twilight Baseball Scene AI",
+      "url": "https://makememe.video/twilight-baseball-scene-ai"
+    },
+    {
+      "id_or_slug": "unforgettable-24-car-ai",
+      "title": "Unforgettable 24 Car AI",
+      "url": "https://makememe.video/unforgettable-24-car-ai"
+    },
+    {
+      "id_or_slug": "vossi-bop-ai",
+      "title": "Vossi Bop AI",
+      "url": "https://makememe.video/vossi-bop-ai"
+    },
+    {
+      "id_or_slug": "welcome-2027-ai",
+      "title": "Welcome 2027 AI",
+      "url": "https://makememe.video/welcome-2027-ai"
+    },
+    {
+      "id_or_slug": "white-chicks-ai",
+      "title": "White Chicks AI",
+      "url": "https://makememe.video/white-chicks-ai"
+    },
+    {
+      "id_or_slug": "window-dance-ai",
+      "title": "Window Dance AI",
+      "url": "https://makememe.video/window-dance-ai"
+    },
+    {
+      "id_or_slug": "window-peeper-ai",
+      "title": "Window Peeper AI",
+      "url": "https://makememe.video/window-peeper-ai"
+    },
+    {
+      "id_or_slug": "wipe-me-down-ai",
+      "title": "Wipe Me Down AI",
+      "url": "https://makememe.video/wipe-me-down-ai"
+    },
+    {
+      "id_or_slug": "yamal-dance-ai",
+      "title": "Yamal Dance AI",
+      "url": "https://makememe.video/yamal-dance-ai"
+    },
+    {
+      "id_or_slug": "you-vs-you-ai",
+      "title": "You Vs You AI",
+      "url": "https://makememe.video/you-vs-you-ai"
+    }
+  ],
+  "new_count": 4,
+  "removed_count": 0,
+  "new_templates": [
+    {
+      "id_or_slug": "james-bond-reveal-ai",
+      "title": "James Bond Reveal AI",
+      "url": "https://makememe.video/james-bond-reveal-ai"
+    },
+    {
+      "id_or_slug": "jingle-bell-brazil-dance-ai",
+      "title": "Jingle Bell Brazil Dance AI",
+      "url": "https://makememe.video/jingle-bell-brazil-dance-ai"
+    },
+    {
+      "id_or_slug": "me-and-my-girlfriend-ai",
+      "title": "Me and My Girlfriend AI",
+      "url": "https://makememe.video/me-and-my-girlfriend-ai"
+    },
+    {
+      "id_or_slug": "yamal-dance-ai",
+      "title": "Yamal Dance AI",
+      "url": "https://makememe.video/yamal-dance-ai"
+    }
+  ],
+  "removed_templates": []
+}

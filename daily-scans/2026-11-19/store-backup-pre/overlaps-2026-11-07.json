@@ -1,0 +1,6315 @@
+{
+  "checked_at": "2026-11-07 (ledger)",
+  "compared_sites": [
+    "DoTheTrend",
+    "TrendTemplate",
+    "MemeFX AI",
+    "ClipRemake",
+    "Remake Your Meme",
+    "MakeViral",
+    "Smew AI",
+    "MakeMeme.video"
+  ],
+  "missing_snapshots": [
+    "ViralRemake",
+    "MemeClone.ai",
+    "TrendSwap",
+    "Put Me In",
+    "SameVid AI",
+    "ZapVid",
+    "Summrs",
+    "Trendify Video",
+    "Genjutsu AI",
+    "DanceRemake",
+    "Starrd",
+    "AI Trend Video",
+    "Ricebowl AI",
+    "Kubflow",
+    "PictureToVideo",
+    "Bolly.AI"
+  ],
+  "overlap_count": 310,
+  "max_cooccurrence": 8,
+  "max_cooccurrence_name": "Bulin 47",
+  "distribution": {
+    "8": 2,
+    "7": 2,
+    "6": 6,
+    "5": 13,
+    "4": 28,
+    "3": 59,
+    "2": 200
+  },
+  "overlaps": [
+    {
+      "key": "bulin-47",
+      "name": "Bulin 47",
+      "site_count": 8,
+      "sites": [
+        {
+          "site": "ClipRemake",
+          "url": "https://clipremake.com/templates/bulin-47-ai-trend",
+          "title": "Bulin 47 AI Trend"
+        },
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/bulin-47-ai-trend",
+          "title": "Bulin 47 AI Trend"
+        },
+        {
+          "site": "MakeMeme.video",
+          "url": "https://makememe.video/bulin-47-ai-trend",
+          "title": "Bulin 47 AI Trend"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/bulin-47-ai-trend",
+          "title": "Bulin 47 AI Trend"
+        },
+        {
+          "site": "MemeFX AI",
+          "url": "https://memefxai.com/bulin-47-ai",
+          "title": "Bulin 47 AI"
+        },
+        {
+          "site": "Remake Your Meme",
+          "url": "https://remakeyourmeme.com/templates/bulin-47-ai-trend/",
+          "title": "Bulin 47 AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/bulin-47-ai-trend",
+          "title": "Bulin 47 AI Trend"
+        },
+        {
+          "site": "TrendTemplate",
+          "url": "https://trendtemplate.com/bulin-47-ai",
+          "title": "Bulin 47"
+        }
+      ]
+    },
+    {
+      "key": "hotel-lobby",
+      "name": "Hotel Lobby",
+      "site_count": 8,
+      "sites": [
+        {
+          "site": "ClipRemake",
+          "url": "https://clipremake.com/templates/hotel-lobby-ai-trend",
+          "title": "Hotel Lobby AI Trend"
+        },
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/ai-hotel-lobby-trend",
+          "title": "AI Hotel Lobby Trend"
+        },
+        {
+          "site": "MakeMeme.video",
+          "url": "https://makememe.video/hotel-lobby-ai",
+          "title": "Hotel Lobby AI"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/ai-hotel-lobby-trend",
+          "title": "AI Hotel Lobby Trend"
+        },
+        {
+          "site": "MemeFX AI",
+          "url": "https://memefxai.com/hotel-lobby-ai-video-generator",
+          "title": "Hotel Lobby AI"
+        },
+        {
+          "site": "Remake Your Meme",
+          "url": "https://remakeyourmeme.com/templates/ai-hotel-lobby-trend/",
+          "title": "AI Hotel Lobby Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/ai-hotel-lobby-trend",
+          "title": "AI Hotel Lobby Trend"
+        },
+        {
+          "site": "TrendTemplate",
+          "url": "https://trendtemplate.com/hotel-lobby-ai",
+          "title": "Hotel Lobby"
+        }
+      ]
+    },
+    {
+      "key": "alors-on-danse",
+      "name": "Alors On Danse",
+      "site_count": 7,
+      "sites": [
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/alors-on-danse-ai-trend",
+          "title": "Alors On Danse AI Trend"
+        },
+        {
+          "site": "MakeMeme.video",
+          "url": "https://makememe.video/alors-on-danse-ai",
+          "title": "Alors On Danse AI"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/alors-on-danse-ai-trend",
+          "title": "Alors On Danse AI Trend"
+        },
+        {
+          "site": "MemeFX AI",
+          "url": "https://memefxai.com/alors-on-danse",
+          "title": "Alors on danse AI video"
+        },
+        {
+          "site": "Remake Your Meme",
+          "url": "https://remakeyourmeme.com/templates/alors-on-danse-ai-trend/",
+          "title": "Alors On Danse AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/alors-on-danse-ai-trend",
+          "title": "Alors On Danse AI Trend"
+        },
+        {
+          "site": "TrendTemplate",
+          "url": "https://trendtemplate.com/alors-on-danse-ai",
+          "title": "Alors On Danse"
+        }
+      ]
+    },
+    {
+      "key": "burning-bridges",
+      "name": "Burning Bridges",
+      "site_count": 7,
+      "sites": [
+        {
+          "site": "ClipRemake",
+          "url": "https://clipremake.com/templates/burning-bridges-ai",
+          "title": "Burning Bridges AI"
+        },
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/burning-bridges-ai-trend",
+          "title": "Burning Bridges AI Trend"
+        },
+        {
+          "site": "MakeMeme.video",
+          "url": "https://makememe.video/burning-bridges-ai",
+          "title": "Burning Bridges AI"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/burning-bridges-ai-trend",
+          "title": "Burning Bridges AI Trend"
+        },
+        {
+          "site": "MemeFX AI",
+          "url": "https://memefxai.com/burning-bridges-ai",
+          "title": "Burning Bridges AI Video Generator"
+        },
+        {
+          "site": "Remake Your Meme",
+          "url": "https://remakeyourmeme.com/templates/burning-bridges-ai-trend/",
+          "title": "Burning Bridges AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/burning-bridges-ai-trend",
+          "title": "Burning Bridges AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "bad-times",
+      "name": "Bad Times",
+      "site_count": 6,
+      "sites": [
+        {
+          "site": "ClipRemake",
+          "url": "https://clipremake.com/templates/bad-times-ai",
+          "title": "Bad Times AI"
+        },
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/bad-times-ai-trend",
+          "title": "Bad Times AI Trend"
+        },
+        {
+          "site": "MakeMeme.video",
+          "url": "https://makememe.video/bad-times-ai",
+          "title": "Bad Times AI"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/bad-times-ai-trend",
+          "title": "Bad Times AI Trend"
+        },
+        {
+          "site": "MemeFX AI",
+          "url": "https://memefxai.com/bad-times-ai",
+          "title": "Bad Times AI"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/bad-times-ai-trend",
+          "title": "Bad Times AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "first-time-in-a-fancy-cafe",
+      "name": "First Time In A Fancy Cafe",
+      "site_count": 6,
+      "sites": [
+        {
+          "site": "ClipRemake",
+          "url": "https://clipremake.com/templates/first-time-in-a-fancy-cafe-ai",
+          "title": "First Time In A Fancy Cafe AI"
+        },
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/first-time-in-a-fancy-cafe-ai-trend",
+          "title": "First Time In A Fancy Cafe AI Trend"
+        },
+        {
+          "site": "MakeMeme.video",
+          "url": "https://makememe.video/first-time-in-a-fancy-cafe-ai",
+          "title": "First Time In A Fancy Cafe AI"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/first-time-in-a-fancy-cafe-ai-trend",
+          "title": "First Time in a Fancy Cafe AI Trend"
+        },
+        {
+          "site": "MemeFX AI",
+          "url": "https://memefxai.com/first-time-in-a-fancy-cafe-ai",
+          "title": "First Time In A Fancy Cafe AI"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/first-time-in-a-fancy-cafe-ai-trend",
+          "title": "First Time In A Fancy Cafe AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "ozil-goal",
+      "name": "Ozil Goal",
+      "site_count": 6,
+      "sites": [
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/ozil-goal-ai-trend",
+          "title": "OZIL Goal AI Trend"
+        },
+        {
+          "site": "MakeMeme.video",
+          "url": "https://makememe.video/ozil-goal-ai",
+          "title": "Ozil Goal AI"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/ozil-goal-ai-trend",
+          "title": "OZIL Goal AI Trend"
+        },
+        {
+          "site": "MemeFX AI",
+          "url": "https://memefxai.com/ozil-ai-goal",
+          "title": "Ozil AI Goal"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/ozil-goal-ai-trend",
+          "title": "OZIL Goal AI Trend"
+        },
+        {
+          "site": "TrendTemplate",
+          "url": "https://trendtemplate.com/ozil-goal-ai",
+          "title": "Ozil Goal AI"
+        }
+      ]
+    },
+    {
+      "key": "raindance",
+      "name": "Raindance",
+      "site_count": 6,
+      "sites": [
+        {
+          "site": "ClipRemake",
+          "url": "https://clipremake.com/templates/raindance-ai-trend",
+          "title": "Raindance AI Trend"
+        },
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/raindance-ai-trend",
+          "title": "Raindance AI Trend"
+        },
+        {
+          "site": "MakeMeme.video",
+          "url": "https://makememe.video/raindance-ai",
+          "title": "Raindance AI"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/raindance-ai-trend",
+          "title": "Raindance AI Trend"
+        },
+        {
+          "site": "Remake Your Meme",
+          "url": "https://remakeyourmeme.com/templates/raindance-ai-trend/",
+          "title": "Raindance AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/raindance-ai-trend",
+          "title": "Raindance AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "skull-cap",
+      "name": "Skull Cap",
+      "site_count": 6,
+      "sites": [
+        {
+          "site": "ClipRemake",
+          "url": "https://clipremake.com/templates/skull-cap-trend-ai",
+          "title": "Skull Cap Trend AI"
+        },
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/skull-cap-ai-trend",
+          "title": "Skull Cap AI Trend"
+        },
+        {
+          "site": "MakeMeme.video",
+          "url": "https://makememe.video/skull-cap-trend",
+          "title": "Skull Cap Trend"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/skull-cap-ai-trend",
+          "title": "Skull Cap AI Trend"
+        },
+        {
+          "site": "MemeFX AI",
+          "url": "https://memefxai.com/skull-cap-trend-ai",
+          "title": "Skull Cap Trend AI"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/skull-cap-ai-trend",
+          "title": "Skull Cap AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "tiny-desk",
+      "name": "Tiny Desk",
+      "site_count": 6,
+      "sites": [
+        {
+          "site": "ClipRemake",
+          "url": "https://clipremake.com/templates/tiny-desk-ai-video",
+          "title": "Tiny Desk AI Video"
+        },
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/tiny-desk-ai-trend",
+          "title": "Tiny Desk AI Trend"
+        },
+        {
+          "site": "MakeMeme.video",
+          "url": "https://makememe.video/tiny-desk-ai",
+          "title": "Tiny Desk AI"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/tiny-desk-ai-trend",
+          "title": "Tiny Desk AI Trend"
+        },
+        {
+          "site": "Remake Your Meme",
+          "url": "https://remakeyourmeme.com/templates/tiny-desk-ai-video-generator/",
+          "title": "Tiny Desk AI Video Generator"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/tiny-desk-ai-trend",
+          "title": "Tiny Desk AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "24k-magic",
+      "name": "24k Magic",
+      "site_count": 5,
+      "sites": [
+        {
+          "site": "ClipRemake",
+          "url": "https://clipremake.com/templates/24k-magic-ai",
+          "title": "24k Magic AI"
+        },
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/24k-magic-ai-trend",
+          "title": "24k Magic AI Trend"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/24k-magic-ai-trend",
+          "title": "24K Magic AI Trend"
+        },
+        {
+          "site": "Remake Your Meme",
+          "url": "https://remakeyourmeme.com/templates/24k-magic-ai-video-generator/",
+          "title": "24k Magic AI Video Generator"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/24k-magic-ai-trend",
+          "title": "24k Magic AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "babydoll-dance",
+      "name": "Babydoll Dance",
+      "site_count": 5,
+      "sites": [
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/babydoll-dance-ai-trend",
+          "title": "Babydoll Dance AI Trend"
+        },
+        {
+          "site": "MakeMeme.video",
+          "url": "https://makememe.video/babydoll-dance-ai",
+          "title": "Babydoll Dance AI"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/babydoll-dance-ai-trend",
+          "title": "Babydoll Dance AI Trend"
+        },
+        {
+          "site": "Remake Your Meme",
+          "url": "https://remakeyourmeme.com/templates/babydoll-dance-ai/",
+          "title": "Babydoll Dance AI"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/babydoll-dance-ai-trend",
+          "title": "Babydoll Dance AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "chipmunks-dance",
+      "name": "Chipmunks Dance",
+      "site_count": 5,
+      "sites": [
+        {
+          "site": "ClipRemake",
+          "url": "https://clipremake.com/templates/chipmunks-dance-ai",
+          "title": "Chipmunks Dance AI"
+        },
+        {
+          "site": "MakeMeme.video",
+          "url": "https://makememe.video/chipmunks-dance-ai",
+          "title": "Chipmunks Dance AI"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/chipmunks-dance-ai-trend",
+          "title": "Chipmunks Dance AI Trend"
+        },
+        {
+          "site": "MemeFX AI",
+          "url": "https://memefxai.com/chipmunks-dance-ai",
+          "title": "Chipmunks dance AI"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/chipmunks-dance-ai-trend",
+          "title": "Chipmunks Dance AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "closed-on-sunday",
+      "name": "Closed On Sunday",
+      "site_count": 5,
+      "sites": [
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/closed-on-sunday-ai-trend",
+          "title": "Closed On Sunday AI Trend"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/closed-on-sunday-ai-trend",
+          "title": "Closed On Sunday AI Trend"
+        },
+        {
+          "site": "MemeFX AI",
+          "url": "https://memefxai.com/closed-on-sunday-ai-trend",
+          "title": "Closed on Sunday AI"
+        },
+        {
+          "site": "Remake Your Meme",
+          "url": "https://remakeyourmeme.com/templates/closed-on-sunday-ai-trend/",
+          "title": "Closed On Sunday AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/closed-on-sunday-ai-trend",
+          "title": "Closed On Sunday AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "crazy-frog",
+      "name": "Crazy Frog",
+      "site_count": 5,
+      "sites": [
+        {
+          "site": "ClipRemake",
+          "url": "https://clipremake.com/templates/crazy-frog-ai",
+          "title": "Crazy Frog AI"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/crazy-frog-ai-trend",
+          "title": "Crazy Frog AI Trend"
+        },
+        {
+          "site": "MemeFX AI",
+          "url": "https://memefxai.com/crazy-frog-ai",
+          "title": "Crazy Frog AI"
+        },
+        {
+          "site": "Remake Your Meme",
+          "url": "https://remakeyourmeme.com/templates/crazy-frog-ai-trend/",
+          "title": "Crazy Frog AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/crazy-frog-ai-trend",
+          "title": "Crazy Frog AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "elf-dance",
+      "name": "Elf Dance",
+      "site_count": 5,
+      "sites": [
+        {
+          "site": "ClipRemake",
+          "url": "https://clipremake.com/templates/ai-elf-dance",
+          "title": "AI Elf Dance"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/ai-elf-dance-video",
+          "title": "AI Elf Dance Video"
+        },
+        {
+          "site": "MemeFX AI",
+          "url": "https://memefxai.com/ai-elf-dance-video",
+          "title": "AI elf dance"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/ai-elf-dance-video",
+          "title": "AI Elf Dance Video"
+        },
+        {
+          "site": "TrendTemplate",
+          "url": "https://trendtemplate.com/elf-dance-ai",
+          "title": "Elf Dance AI"
+        }
+      ]
+    },
+    {
+      "key": "end-of-watch",
+      "name": "End Of Watch Locker Scene",
+      "site_count": 5,
+      "sites": [
+        {
+          "site": "ClipRemake",
+          "url": "https://clipremake.com/templates/end-of-watch-locker-scene-ai",
+          "title": "End Of Watch Locker Scene AI"
+        },
+        {
+          "site": "MakeMeme.video",
+          "url": "https://makememe.video/end-of-watch-locker-scene-ai",
+          "title": "End Of Watch Locker Scene AI"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/end-of-watch-locker-scene-ai-trend",
+          "title": "End of Watch Locker Scene AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/end-of-watch-locker-scene-ai-trend",
+          "title": "End Of Watch Locker Scene AI Trend"
+        },
+        {
+          "site": "TrendTemplate",
+          "url": "https://trendtemplate.com/end-of-watch-ai",
+          "title": "End Of Watch"
+        }
+      ]
+    },
+    {
+      "key": "gas-station-dance",
+      "name": "Gas Station Dance",
+      "site_count": 5,
+      "sites": [
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/gas-station-dance-ai-trend",
+          "title": "Gas Station Dance AI Trend"
+        },
+        {
+          "site": "MakeMeme.video",
+          "url": "https://makememe.video/gas-station-dance-ai",
+          "title": "Gas Station Dance AI"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/gas-station-dance-ai-trend",
+          "title": "Gas Station Dance AI Trend"
+        },
+        {
+          "site": "MemeFX AI",
+          "url": "https://memefxai.com/gas-station-dance",
+          "title": "Gas Station Dance AI"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/gas-station-dance-ai-trend",
+          "title": "Gas Station Dance AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "ghostface",
+      "name": "Ghostface",
+      "site_count": 5,
+      "sites": [
+        {
+          "site": "MakeMeme.video",
+          "url": "https://makememe.video/ghostface-ai",
+          "title": "Ghostface AI"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/ghostface-ai-trend",
+          "title": "Ghostface AI Trend"
+        },
+        {
+          "site": "MemeFX AI",
+          "url": "https://memefxai.com/ghostface-ai-trend",
+          "title": "Ghostface AI trend"
+        },
+        {
+          "site": "Remake Your Meme",
+          "url": "https://remakeyourmeme.com/templates/ghostface-ai-trend/",
+          "title": "Ghostface AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/ghostface-ai-trend",
+          "title": "Ghostface AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "halloween-costume",
+      "name": "Halloween Costume",
+      "site_count": 5,
+      "sites": [
+        {
+          "site": "ClipRemake",
+          "url": "https://clipremake.com/templates/ai-halloween-costume",
+          "title": "AI Halloween Costume"
+        },
+        {
+          "site": "MakeMeme.video",
+          "url": "https://makememe.video/ai-halloween-costume",
+          "title": "AI Halloween Costume"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/ai-halloween-costume",
+          "title": "AI Halloween Costume"
+        },
+        {
+          "site": "Remake Your Meme",
+          "url": "https://remakeyourmeme.com/templates/ai-halloween-costume/",
+          "title": "AI Halloween Costume"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/ai-halloween-costume",
+          "title": "AI Halloween Costume"
+        }
+      ]
+    },
+    {
+      "key": "hit-the-road-dude",
+      "name": "Hit The Road Dude",
+      "site_count": 5,
+      "sites": [
+        {
+          "site": "ClipRemake",
+          "url": "https://clipremake.com/templates/hit-the-road-dude-ai",
+          "title": "Hit The Road Dude AI"
+        },
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/hit-the-road-dude-ai-trend",
+          "title": "Hit The Road Dude AI Trend"
+        },
+        {
+          "site": "MakeMeme.video",
+          "url": "https://makememe.video/hit-the-road-dude-ai",
+          "title": "Hit The Road Dude AI"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/hit-the-road-dude-ai-trend",
+          "title": "Hit The Road Dude AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/hit-the-road-dude-ai-trend",
+          "title": "Hit The Road Dude AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "money-flex",
+      "name": "Money Flex",
+      "site_count": 5,
+      "sites": [
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/money-flex-ai-trend",
+          "title": "Money Flex AI Trend"
+        },
+        {
+          "site": "MakeMeme.video",
+          "url": "https://makememe.video/money-flex-ai",
+          "title": "Money Flex AI"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/money-flex-ai-trend",
+          "title": "Money Flex AI Trend"
+        },
+        {
+          "site": "MemeFX AI",
+          "url": "https://memefxai.com/money-flex-ai",
+          "title": "Money Flex AI"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/money-flex-ai-trend",
+          "title": "Money Flex AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "zombie",
+      "name": "Zombie",
+      "site_count": 5,
+      "sites": [
+        {
+          "site": "ClipRemake",
+          "url": "https://clipremake.com/templates/zombie-ai-trend",
+          "title": "Zombie AI Trend"
+        },
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/ai-zombie-trend",
+          "title": "AI Zombie Trend"
+        },
+        {
+          "site": "MakeMeme.video",
+          "url": "https://makememe.video/ai-zombie-trend",
+          "title": "AI Zombie Trend"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/ai-zombie-trend",
+          "title": "AI Zombie Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/ai-zombie-trend",
+          "title": "AI Zombie Trend"
+        }
+      ]
+    },
+    {
+      "key": "baby-knight",
+      "name": "Baby Knight",
+      "site_count": 4,
+      "sites": [
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/baby-knight-ai-video",
+          "title": "Baby Knight AI Video"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/baby-knight-ai-video",
+          "title": "Baby Knight AI Video"
+        },
+        {
+          "site": "MemeFX AI",
+          "url": "https://memefxai.com/baby-knight-ai-video",
+          "title": "Baby knight AI"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/baby-knight-ai-video",
+          "title": "Baby Knight AI Video"
+        }
+      ]
+    },
+    {
+      "key": "bicep-heart",
+      "name": "Bicep Heart",
+      "site_count": 4,
+      "sites": [
+        {
+          "site": "ClipRemake",
+          "url": "https://clipremake.com/templates/bicep-heart-ai",
+          "title": "Bicep Heart AI"
+        },
+        {
+          "site": "MakeMeme.video",
+          "url": "https://makememe.video/bicep-heart-ai",
+          "title": "Bicep Heart AI"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/bicep-heart-ai-trend",
+          "title": "Bicep Heart AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/bicep-heart-ai-trend",
+          "title": "Bicep Heart AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "birthday-car",
+      "name": "Birthday Car",
+      "site_count": 4,
+      "sites": [
+        {
+          "site": "ClipRemake",
+          "url": "https://clipremake.com/templates/birthday-car-ai",
+          "title": "Birthday Car AI"
+        },
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/birthday-car-ai-trend",
+          "title": "Birthday Car AI Trend"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/birthday-car-ai-trend",
+          "title": "Birthday Car AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/birthday-car-ai-trend",
+          "title": "Birthday Car AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "champagne-birthday",
+      "name": "Champagne Birthday",
+      "site_count": 4,
+      "sites": [
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/champagne-birthday-ai-trend",
+          "title": "Champagne Birthday AI Trend"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/champagne-birthday-ai-trend",
+          "title": "Champagne Birthday AI Trend"
+        },
+        {
+          "site": "MemeFX AI",
+          "url": "https://memefxai.com/champagne-birthday-ai-trend",
+          "title": "Champagne Birthday AI"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/champagne-birthday-ai-trend",
+          "title": "Champagne Birthday AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "charme-dance",
+      "name": "Charme Dance",
+      "site_count": 4,
+      "sites": [
+        {
+          "site": "MakeMeme.video",
+          "url": "https://makememe.video/charme-dance-ai",
+          "title": "Charme Dance AI"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/charme-dance-ai-trend",
+          "title": "Charme Dance AI Trend"
+        },
+        {
+          "site": "MemeFX AI",
+          "url": "https://memefxai.com/charme-dance-ai",
+          "title": "Charme Dance AI"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/charme-dance-ai-trend",
+          "title": "Charme Dance AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "chatgpt-millionaire",
+      "name": "Chatgpt Millionaire",
+      "site_count": 4,
+      "sites": [
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/chatgpt-millionaire-ai-trend",
+          "title": "Chatgpt Millionaire AI Trend"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/chatgpt-millionaire-ai-trend",
+          "title": "Chatgpt Millionaire AI Trend"
+        },
+        {
+          "site": "MemeFX AI",
+          "url": "https://memefxai.com/chatgpt-millionaire-ai",
+          "title": "ChatGPT Millionaire AI Video Generator"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/chatgpt-millionaire-ai-trend",
+          "title": "Chatgpt Millionaire AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "closer-dance",
+      "name": "Closer Dance",
+      "site_count": 4,
+      "sites": [
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/closer-dance-ai-trend",
+          "title": "Closer Dance AI Trend"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/closer-dance-ai-trend",
+          "title": "Closer Dance AI Trend"
+        },
+        {
+          "site": "MemeFX AI",
+          "url": "https://memefxai.com/closer-dance-ai-trend",
+          "title": "Closer Dance AI"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/closer-dance-ai-trend",
+          "title": "Closer Dance AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "closing-door-prank",
+      "name": "Closing Door Prank",
+      "site_count": 4,
+      "sites": [
+        {
+          "site": "MakeMeme.video",
+          "url": "https://makememe.video/closing-door-prank-ai",
+          "title": "Closing Door Prank AI"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/closing-door-prank-ai-trend",
+          "title": "Closing Door Prank AI Trend"
+        },
+        {
+          "site": "MemeFX AI",
+          "url": "https://memefxai.com/closing-door-prank-ai",
+          "title": "Closing Door Prank AI"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/closing-door-prank-ai-trend",
+          "title": "Closing Door Prank AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "damon-salvatore",
+      "name": "Damon Salvatore",
+      "site_count": 4,
+      "sites": [
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/damon-salvatore-ai-trend",
+          "title": "Damon Salvatore AI Trend"
+        },
+        {
+          "site": "MakeMeme.video",
+          "url": "https://makememe.video/damon-salvatore-ai",
+          "title": "Damon Salvatore AI"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/damon-salvatore-ai-trend",
+          "title": "Damon Salvatore AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/damon-salvatore-ai-trend",
+          "title": "Damon Salvatore AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "devil-wears-prada",
+      "name": "Devil Wears Prada",
+      "site_count": 4,
+      "sites": [
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/devil-wears-prada-ai-trend",
+          "title": "Devil Wears Prada AI Trend"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/devil-wears-prada-ai-trend",
+          "title": "Devil Wears Prada AI Trend"
+        },
+        {
+          "site": "MemeFX AI",
+          "url": "https://memefxai.com/devil-wears-prada-ai",
+          "title": "Devil Wears Prada Trend AI"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/devil-wears-prada-ai-trend",
+          "title": "Devil Wears Prada AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "dime-dime-baby",
+      "name": "Dime Dime Baby",
+      "site_count": 4,
+      "sites": [
+        {
+          "site": "MakeMeme.video",
+          "url": "https://makememe.video/dime-dime-baby-ai",
+          "title": "Dime Dime Baby AI"
+        },
+        {
+          "site": "MemeFX AI",
+          "url": "https://memefxai.com/dime-dime-baby-ai",
+          "title": "Dime Dime Baby AI"
+        },
+        {
+          "site": "Remake Your Meme",
+          "url": "https://remakeyourmeme.com/templates/dime-dime-baby-ai-video-generator/",
+          "title": "Dime Dime Baby AI Video Generator"
+        },
+        {
+          "site": "TrendTemplate",
+          "url": "https://trendtemplate.com/dime-dime-baby-ai",
+          "title": "Dime Dime Baby"
+        }
+      ]
+    },
+    {
+      "key": "jisoo-addicted-dance",
+      "name": "Jisoo Addicted Dance",
+      "site_count": 4,
+      "sites": [
+        {
+          "site": "ClipRemake",
+          "url": "https://clipremake.com/templates/jisoo-addicted-dance-ai",
+          "title": "Jisoo Addicted Dance AI"
+        },
+        {
+          "site": "MakeMeme.video",
+          "url": "https://makememe.video/jisoo-addicted-dance-ai",
+          "title": "Jisoo Addicted Dance AI"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/jisoo-addicted-ai-dance",
+          "title": "Jisoo Addicted AI Dance"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/jisoo-addicted-ai-dance",
+          "title": "Jisoo Addicted AI Dance"
+        }
+      ]
+    },
+    {
+      "key": "knight-standing",
+      "name": "Knight Standing",
+      "site_count": 4,
+      "sites": [
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/knight-standing-ai-video",
+          "title": "Knight Standing AI Video"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/knight-standing-ai-video",
+          "title": "Knight Standing AI Video"
+        },
+        {
+          "site": "MemeFX AI",
+          "url": "https://memefxai.com/knight-standing-ai-video",
+          "title": "Knight Standing AI"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/knight-standing-ai-video",
+          "title": "Knight Standing AI Video"
+        }
+      ]
+    },
+    {
+      "key": "la-calabaza-dance",
+      "name": "La Calabaza Dance",
+      "site_count": 4,
+      "sites": [
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/la-calabaza-ai-dance",
+          "title": "La Calabaza AI Dance"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/la-calabaza-ai-dance",
+          "title": "La Calabaza AI Dance"
+        },
+        {
+          "site": "MemeFX AI",
+          "url": "https://memefxai.com/la-calabaza-ai-dance",
+          "title": "La Calabaza AI Dance"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/la-calabaza-ai-dance",
+          "title": "La Calabaza AI Dance"
+        }
+      ]
+    },
+    {
+      "key": "middle-finger-dunk",
+      "name": "Middle Finger Dunk",
+      "site_count": 4,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/middle-finger-dunk-ai-trend",
+          "title": "Middle Finger Dunk AI Trend"
+        },
+        {
+          "site": "MemeFX AI",
+          "url": "https://memefxai.com/middle-finger-dunk-ai",
+          "title": "Middle Finger Dunk AI"
+        },
+        {
+          "site": "Remake Your Meme",
+          "url": "https://remakeyourmeme.com/templates/middle-finger-dunk-ai-video-generator/",
+          "title": "Middle Finger Dunk AI Video Generator"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/middle-finger-dunk-ai-trend",
+          "title": "Middle Finger Dunk AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "mini-me",
+      "name": "Mini Me",
+      "site_count": 4,
+      "sites": [
+        {
+          "site": "ClipRemake",
+          "url": "https://clipremake.com/templates/mini-me-ai",
+          "title": "Mini Me AI"
+        },
+        {
+          "site": "MakeMeme.video",
+          "url": "https://makememe.video/mini-me-ai",
+          "title": "Mini Me AI"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/ai-mini-me-trend",
+          "title": "AI Mini Me Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/ai-mini-me-trend",
+          "title": "AI Mini Me Trend"
+        }
+      ]
+    },
+    {
+      "key": "nicole-kidman-dance",
+      "name": "Nicole Kidman Dance",
+      "site_count": 4,
+      "sites": [
+        {
+          "site": "ClipRemake",
+          "url": "https://clipremake.com/templates/nicole-kidman-dance-trend",
+          "title": "Nicole Kidman Dance Trend"
+        },
+        {
+          "site": "MakeMeme.video",
+          "url": "https://makememe.video/nicole-kidman-dance-ai",
+          "title": "Nicole Kidman Dance AI"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/nicole-kidman-dance-ai-trend",
+          "title": "Nicole Kidman Dance AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/nicole-kidman-dance-ai-trend",
+          "title": "Nicole Kidman Dance AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "single-ladies-dog-dance",
+      "name": "Single Ladies Dog Dance",
+      "site_count": 4,
+      "sites": [
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/single-ladies-dog-dance-ai",
+          "title": "Single Ladies Dog Dance AI"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/single-ladies-dog-dance-ai",
+          "title": "Single Ladies Dog Dance AI"
+        },
+        {
+          "site": "MemeFX AI",
+          "url": "https://memefxai.com/single-ladies-dog-dance-ai",
+          "title": "Single Ladies dog dance"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/single-ladies-dog-dance-ai",
+          "title": "Single Ladies Dog Dance AI"
+        }
+      ]
+    },
+    {
+      "key": "smalltown-boy-dance",
+      "name": "Smalltown Boy Dance",
+      "site_count": 4,
+      "sites": [
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/smalltown-boy-ai-dance",
+          "title": "Smalltown Boy AI Dance"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/smalltown-boy-ai-dance",
+          "title": "Smalltown Boy AI Dance"
+        },
+        {
+          "site": "MemeFX AI",
+          "url": "https://memefxai.com/smalltown-boy-dance-ai",
+          "title": "Smalltown Boy AI Dance"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/smalltown-boy-ai-dance",
+          "title": "Smalltown Boy AI Dance"
+        }
+      ]
+    },
+    {
+      "key": "stones-to-castle",
+      "name": "Stones To Castle",
+      "site_count": 4,
+      "sites": [
+        {
+          "site": "ClipRemake",
+          "url": "https://clipremake.com/templates/stones-to-castle-ai",
+          "title": "Stones To Castle AI"
+        },
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/stones-to-castle-ai-trend",
+          "title": "Stones To Castle AI Trend"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/stones-to-castle-ai-trend",
+          "title": "Stones To Castle AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/stones-to-castle-ai-trend",
+          "title": "Stones To Castle AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "te-he-perdido-entre-la-gente",
+      "name": "Te He Perdido Entre La Gente",
+      "site_count": 4,
+      "sites": [
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/te-he-perdido-entre-la-gente-ai-trend",
+          "title": "Te He Perdido Entre La Gente AI Trend"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/te-he-perdido-entre-la-gente-ai-trend",
+          "title": "Te He Perdido Entre La Gente AI Trend"
+        },
+        {
+          "site": "MemeFX AI",
+          "url": "https://memefxai.com/te-he-perdido-entre-la-gente-ai-trend",
+          "title": "Te He Perdido Entre la Gente AI"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/te-he-perdido-entre-la-gente-ai-trend",
+          "title": "Te He Perdido Entre La Gente AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "thriller-dance",
+      "name": "Thriller Dance",
+      "site_count": 4,
+      "sites": [
+        {
+          "site": "ClipRemake",
+          "url": "https://clipremake.com/templates/thriller-dance-ai",
+          "title": "Thriller Dance AI"
+        },
+        {
+          "site": "MakeMeme.video",
+          "url": "https://makememe.video/thriller-dance-ai",
+          "title": "Thriller Dance AI"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/thriller-dance-ai-trend",
+          "title": "Thriller Dance AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/thriller-dance-ai-trend",
+          "title": "Thriller Dance AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "toc-toc-dance",
+      "name": "Toc Toc Dance",
+      "site_count": 4,
+      "sites": [
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/toc-toc-dance-ai-trend",
+          "title": "Toc Toc Dance AI Trend"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/toc-toc-dance-ai-trend",
+          "title": "Toc Toc Dance AI Trend"
+        },
+        {
+          "site": "MemeFX AI",
+          "url": "https://memefxai.com/toc-toc-ai-dance",
+          "title": "Toc Toc AI Dance"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/toc-toc-dance-ai-trend",
+          "title": "Toc Toc Dance AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "toy-car-to-real-car",
+      "name": "Toy Car To Real Car",
+      "site_count": 4,
+      "sites": [
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/toy-car-to-real-car-ai-trend",
+          "title": "Toy Car To Real Car AI Trend"
+        },
+        {
+          "site": "MakeMeme.video",
+          "url": "https://makememe.video/toy-car-to-real-car-ai",
+          "title": "Toy Car To Real Car AI"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/toy-car-to-real-car-ai-trend",
+          "title": "Toy Car To Real Car AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/toy-car-to-real-car-ai-trend",
+          "title": "Toy Car To Real Car AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "uptown-funk",
+      "name": "Uptown Funk",
+      "site_count": 4,
+      "sites": [
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/uptown-funk-ai-trend",
+          "title": "Uptown Funk AI Trend"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/uptown-funk-ai-trend",
+          "title": "Uptown Funk AI Trend"
+        },
+        {
+          "site": "MemeFX AI",
+          "url": "https://memefxai.com/uptown-funk-ai",
+          "title": "Uptown Funk AI"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/uptown-funk-ai-trend",
+          "title": "Uptown Funk AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "white-chicks",
+      "name": "White Chicks",
+      "site_count": 4,
+      "sites": [
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/white-chicks-ai-trend",
+          "title": "White Chicks AI Trend"
+        },
+        {
+          "site": "MakeMeme.video",
+          "url": "https://makememe.video/white-chicks-ai",
+          "title": "White Chicks AI"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/white-chicks-ai-trend",
+          "title": "White Chicks AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/white-chicks-ai-trend",
+          "title": "White Chicks AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "window-dance",
+      "name": "Window Dance",
+      "site_count": 4,
+      "sites": [
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/window-dance-ai-trend",
+          "title": "Window Dance AI Trend"
+        },
+        {
+          "site": "MakeMeme.video",
+          "url": "https://makememe.video/window-dance-ai",
+          "title": "Window Dance AI"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/window-dance-ai-trend",
+          "title": "Window Dance AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/window-dance-ai-trend",
+          "title": "Window Dance AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "window-peeper",
+      "name": "Window Peeper",
+      "site_count": 4,
+      "sites": [
+        {
+          "site": "MakeMeme.video",
+          "url": "https://makememe.video/window-peeper-ai",
+          "title": "Window Peeper AI"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/window-peeper-ai-filter",
+          "title": "Window Peeper AI Filter"
+        },
+        {
+          "site": "MemeFX AI",
+          "url": "https://memefxai.com/window-peeper-ai-video-generator",
+          "title": "Window Peeper AI"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/window-peeper-ai-filter",
+          "title": "Window Peeper AI Filter"
+        }
+      ]
+    },
+    {
+      "key": "58th-floor",
+      "name": "58th Floor",
+      "site_count": 3,
+      "sites": [
+        {
+          "site": "ClipRemake",
+          "url": "https://clipremake.com/templates/58th-floor-ai",
+          "title": "58th Floor AI"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/58th-floor-ai-trend",
+          "title": "58th Floor AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/58th-floor-ai-trend",
+          "title": "58th Floor AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "80s",
+      "name": "80s",
+      "site_count": 3,
+      "sites": [
+        {
+          "site": "ClipRemake",
+          "url": "https://clipremake.com/templates/80s-ai-video",
+          "title": "80s AI Video"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/80s-ai-trend",
+          "title": "80s AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/80s-ai-trend",
+          "title": "80s AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "a2o-lite-neon-dance",
+      "name": "A2o Lite Neon Dance",
+      "site_count": 3,
+      "sites": [
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/a2o-lite-neon-ai-dance",
+          "title": "A2o Lite Neon AI Dance"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/a2o-lite-neon-ai-dance",
+          "title": "A2o Lite Neon AI Dance"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/a2o-lite-neon-ai-dance",
+          "title": "A2o Lite Neon AI Dance"
+        }
+      ]
+    },
+    {
+      "key": "abra-kadabra",
+      "name": "Abra Kadabra",
+      "site_count": 3,
+      "sites": [
+        {
+          "site": "MakeMeme.video",
+          "url": "https://makememe.video/abra-kadabra-ai",
+          "title": "Abra Kadabra AI"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/abra-kadabra-ai-trend",
+          "title": "Abra Kadabra AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/abra-kadabra-ai-trend",
+          "title": "Abra Kadabra AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "apt",
+      "name": "Apt",
+      "site_count": 3,
+      "sites": [
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/apt-ai-trend",
+          "title": "APT AI Trend"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/apt-ai-trend",
+          "title": "APT AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/apt-ai-trend",
+          "title": "APT AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "banana-tree-run",
+      "name": "Banana Tree Run",
+      "site_count": 3,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/banana-tree-run-ai-trend",
+          "title": "Banana Tree Run AI Trend"
+        },
+        {
+          "site": "MemeFX AI",
+          "url": "https://memefxai.com/banana-tree-run-ai",
+          "title": "Banana Tree Run AI"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/banana-tree-run-ai-trend",
+          "title": "Banana Tree Run AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "bby-wow-dance",
+      "name": "Bby Wow Dance",
+      "site_count": 3,
+      "sites": [
+        {
+          "site": "ClipRemake",
+          "url": "https://clipremake.com/templates/bby-wow-dance-ai",
+          "title": "BbY Wow Dance AI"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/bby-wow-dance-ai-trend",
+          "title": "BbY Wow Dance AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/bby-wow-dance-ai-trend",
+          "title": "BbY Wow Dance AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "bby-wow-guy",
+      "name": "Bby Wow Guy",
+      "site_count": 3,
+      "sites": [
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/bby-wow-guy-ai-trend",
+          "title": "BbY Wow Guy AI Trend"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/bby-wow-guy-ai-trend",
+          "title": "BbY Wow Guy AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/bby-wow-guy-ai-trend",
+          "title": "BbY Wow Guy AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "billie-jean-dance",
+      "name": "Billie Jean Dance",
+      "site_count": 3,
+      "sites": [
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/billie-jean-dance-ai-trend",
+          "title": "Billie Jean Dance AI Trend"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/billie-jean-dance-ai-trend",
+          "title": "Billie Jean Dance AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/billie-jean-dance-ai-trend",
+          "title": "Billie Jean Dance AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "bottle-kick-challenge",
+      "name": "Bottle Kick Challenge",
+      "site_count": 3,
+      "sites": [
+        {
+          "site": "MakeMeme.video",
+          "url": "https://makememe.video/bottle-kick-challenge-ai",
+          "title": "Bottle Kick Challenge AI"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/bottle-kick-challenge-ai",
+          "title": "Bottle Kick Challenge AI"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/bottle-kick-challenge-ai",
+          "title": "Bottle Kick Challenge AI"
+        }
+      ]
+    },
+    {
+      "key": "can-can-dance",
+      "name": "Can Can Dance",
+      "site_count": 3,
+      "sites": [
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/can-can-dance-ai-trend",
+          "title": "Can Can Dance AI Trend"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/can-can-dance-ai-trend",
+          "title": "Can Can Dance AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/can-can-dance-ai-trend",
+          "title": "Can Can Dance AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "car-alarm-dance",
+      "name": "Car Alarm Dance",
+      "site_count": 3,
+      "sites": [
+        {
+          "site": "MakeMeme.video",
+          "url": "https://makememe.video/car-alarm-dance-ai",
+          "title": "Car Alarm Dance AI"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/car-alarm-dance-ai-trend",
+          "title": "Car Alarm Dance AI Trend"
+        },
+        {
+          "site": "Remake Your Meme",
+          "url": "https://remakeyourmeme.com/templates/car-alarm-dance-ai-video-generator/",
+          "title": "Car Alarm Dance AI Video Generator"
+        }
+      ]
+    },
+    {
+      "key": "cat-in-the-hat",
+      "name": "Cat In The Hat",
+      "site_count": 3,
+      "sites": [
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/cat-in-the-hat-ai-trend",
+          "title": "Cat In The Hat AI Trend"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/cat-in-the-hat-ai-trend",
+          "title": "Cat In The Hat AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/cat-in-the-hat-ai-trend",
+          "title": "Cat In The Hat AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "caught-at-the-window-ad",
+      "name": "Caught At The Window Ad",
+      "site_count": 3,
+      "sites": [
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/caught-at-the-window-ai-ad",
+          "title": "Caught At The Window AI Ad"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/caught-at-the-window-ai-ad",
+          "title": "Caught At The Window AI Ad"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/caught-at-the-window-ai-ad",
+          "title": "Caught At The Window AI Ad"
+        }
+      ]
+    },
+    {
+      "key": "ceiling-fan",
+      "name": "Ceiling Fan",
+      "site_count": 3,
+      "sites": [
+        {
+          "site": "ClipRemake",
+          "url": "https://clipremake.com/templates/ceiling-fan-trend",
+          "title": "Ceiling Fan Trend"
+        },
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/ai-ceiling-fan-trend",
+          "title": "AI Ceiling Fan Trend"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/ai-ceiling-fan-trend",
+          "title": "AI Ceiling Fan Trend"
+        }
+      ]
+    },
+    {
+      "key": "clapping-cat",
+      "name": "Clapping Cat",
+      "site_count": 3,
+      "sites": [
+        {
+          "site": "MakeMeme.video",
+          "url": "https://makememe.video/clapping-cat-ai",
+          "title": "Clapping Cat AI"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/clapping-cat-ai-video",
+          "title": "Clapping Cat AI Video"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/clapping-cat-ai-video",
+          "title": "Clapping Cat AI Video"
+        }
+      ]
+    },
+    {
+      "key": "coffee-making",
+      "name": "Coffee Making",
+      "site_count": 3,
+      "sites": [
+        {
+          "site": "MakeMeme.video",
+          "url": "https://makememe.video/coffee-making-ai",
+          "title": "Coffee Making AI"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/coffee-making-ai-video",
+          "title": "Coffee Making AI Video"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/coffee-making-ai-video",
+          "title": "Coffee Making AI Video"
+        }
+      ]
+    },
+    {
+      "key": "corpse-bride",
+      "name": "Corpse Bride",
+      "site_count": 3,
+      "sites": [
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/corpse-bride-ai-trend",
+          "title": "Corpse Bride AI Trend"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/corpse-bride-ai-trend",
+          "title": "Corpse Bride AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/corpse-bride-ai-trend",
+          "title": "Corpse Bride AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "day-of-the-dead-pet",
+      "name": "Day Of The Dead Pet",
+      "site_count": 3,
+      "sites": [
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/ai-day-of-the-dead-pet",
+          "title": "AI Day Of The Dead Pet"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/ai-day-of-the-dead-pet",
+          "title": "AI Day Of The Dead Pet"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/ai-day-of-the-dead-pet",
+          "title": "AI Day Of The Dead Pet"
+        }
+      ]
+    },
+    {
+      "key": "dog-bartender",
+      "name": "Dog Bartender",
+      "site_count": 3,
+      "sites": [
+        {
+          "site": "MakeMeme.video",
+          "url": "https://makememe.video/dog-bartender-ai",
+          "title": "Dog Bartender AI"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/dog-bartender-ai-trend",
+          "title": "Dog Bartender AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/dog-bartender-ai-trend",
+          "title": "Dog Bartender AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "dog-dance-crew",
+      "name": "Dog Dance Crew",
+      "site_count": 3,
+      "sites": [
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/dog-dance-crew-ai-trend",
+          "title": "Dog Dance Crew AI Trend"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/dog-dance-crew-ai-trend",
+          "title": "Dog Dance Crew AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/dog-dance-crew-ai-trend",
+          "title": "Dog Dance Crew AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "doodle-dance-partner",
+      "name": "Doodle Dance Partner",
+      "site_count": 3,
+      "sites": [
+        {
+          "site": "MakeMeme.video",
+          "url": "https://makememe.video/doodle-dance-partner-ai",
+          "title": "Doodle Dance Partner AI"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/ai-doodle-dance-partner",
+          "title": "AI Doodle Dance Partner"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/ai-doodle-dance-partner",
+          "title": "AI Doodle Dance Partner"
+        }
+      ]
+    },
+    {
+      "key": "dunk",
+      "name": "Dunk",
+      "site_count": 3,
+      "sites": [
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/dunk-ai-trend",
+          "title": "Dunk AI Trend"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/ai-dunk-trend",
+          "title": "AI Dunk Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/ai-dunk-trend",
+          "title": "AI Dunk Trend"
+        }
+      ]
+    },
+    {
+      "key": "gang-gang-dance",
+      "name": "Gang Gang Dance",
+      "site_count": 3,
+      "sites": [
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/gang-gang-dance-ai-trend",
+          "title": "Gang Gang Dance AI Trend"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/gang-gang-dance-ai-trend",
+          "title": "Gang Gang Dance AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/gang-gang-dance-ai-trend",
+          "title": "Gang Gang Dance AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "gangnam-style",
+      "name": "Gangnam Style",
+      "site_count": 3,
+      "sites": [
+        {
+          "site": "ClipRemake",
+          "url": "https://clipremake.com/templates/gangnam-style-ai-video",
+          "title": "Gangnam Style AI Video"
+        },
+        {
+          "site": "MakeMeme.video",
+          "url": "https://makememe.video/gangnam-style-ai",
+          "title": "Gangnam Style AI"
+        },
+        {
+          "site": "Remake Your Meme",
+          "url": "https://remakeyourmeme.com/templates/gangnam-style-ai-video-generator/",
+          "title": "Gangnam Style AI Video Generator"
+        }
+      ]
+    },
+    {
+      "key": "gangnam-style-dance",
+      "name": "Gangnam Style Dance",
+      "site_count": 3,
+      "sites": [
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/gangnam-style-ai-dance",
+          "title": "Gangnam Style AI Dance"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/gangnam-style-ai-dance",
+          "title": "Gangnam Style AI Dance"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/gangnam-style-ai-dance",
+          "title": "Gangnam Style AI Dance"
+        }
+      ]
+    },
+    {
+      "key": "ghost-photoshoot",
+      "name": "Ghost Photoshoot",
+      "site_count": 3,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/ai-ghost-photoshoot",
+          "title": "AI Ghost Photoshoot"
+        },
+        {
+          "site": "Remake Your Meme",
+          "url": "https://remakeyourmeme.com/templates/ai-ghost-photoshoot/",
+          "title": "AI Ghost Photoshoot"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/ai-ghost-photoshoot",
+          "title": "AI Ghost Photoshoot"
+        }
+      ]
+    },
+    {
+      "key": "giant-ramp-climbing",
+      "name": "Giant Ramp Climbing",
+      "site_count": 3,
+      "sites": [
+        {
+          "site": "MakeMeme.video",
+          "url": "https://makememe.video/giant-ramp-climbing-ai",
+          "title": "Giant Ramp Climbing AI"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/giant-ramp-climbing-ai-trend",
+          "title": "Giant Ramp Climbing AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/giant-ramp-climbing-ai-trend",
+          "title": "Giant Ramp Climbing AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "hair-dye",
+      "name": "Hair Dye",
+      "site_count": 3,
+      "sites": [
+        {
+          "site": "MakeMeme.video",
+          "url": "https://makememe.video/hair-dye-filter-ai",
+          "title": "Hair Dye Filter AI"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/ai-hair-dye-filter",
+          "title": "AI Hair Dye Filter"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/ai-hair-dye-filter",
+          "title": "AI Hair Dye Filter"
+        }
+      ]
+    },
+    {
+      "key": "hop-hop-hop",
+      "name": "Hop Hop Hop",
+      "site_count": 3,
+      "sites": [
+        {
+          "site": "ClipRemake",
+          "url": "https://clipremake.com/templates/hop-hop-hop-ai",
+          "title": "Hop Hop Hop AI"
+        },
+        {
+          "site": "MemeFX AI",
+          "url": "https://memefxai.com/hop-hop-hop-ai",
+          "title": "Hop Hop Hop"
+        },
+        {
+          "site": "Remake Your Meme",
+          "url": "https://remakeyourmeme.com/templates/hop-hop-hop-ai/",
+          "title": "Hop Hop Hop AI"
+        }
+      ]
+    },
+    {
+      "key": "hop-hop-hop-dance",
+      "name": "Hop Hop Hop Dance",
+      "site_count": 3,
+      "sites": [
+        {
+          "site": "MakeMeme.video",
+          "url": "https://makememe.video/hop-hop-hop-dance-ai",
+          "title": "Hop Hop Hop Dance AI"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/hop-hop-hop-ai-dance",
+          "title": "Hop Hop Hop AI Dance"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/hop-hop-hop-ai-dance",
+          "title": "Hop Hop Hop AI Dance"
+        }
+      ]
+    },
+    {
+      "key": "hug",
+      "name": "Hug",
+      "site_count": 3,
+      "sites": [
+        {
+          "site": "ClipRemake",
+          "url": "https://clipremake.com/templates/ai-hug",
+          "title": "AI Hug"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/ai-hug-video",
+          "title": "AI Hug Video"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/ai-hug-video",
+          "title": "AI Hug Video"
+        }
+      ]
+    },
+    {
+      "key": "knight-sword-swap",
+      "name": "Knight Sword Swap",
+      "site_count": 3,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/knight-sword-swap-ai-video",
+          "title": "Knight Sword Swap AI Video"
+        },
+        {
+          "site": "MemeFX AI",
+          "url": "https://memefxai.com/knight-sword-swap-ai-video",
+          "title": "Knight sword swap AI"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/knight-sword-swap-ai-video",
+          "title": "Knight Sword Swap AI Video"
+        }
+      ]
+    },
+    {
+      "key": "lil-yachty-walkout",
+      "name": "Lil Yachty Walkout",
+      "site_count": 3,
+      "sites": [
+        {
+          "site": "MakeMeme.video",
+          "url": "https://makememe.video/lil-yachty-walkout-ai",
+          "title": "Lil Yachty Walkout AI"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/lil-yachty-walkout-ai-trend",
+          "title": "Lil Yachty Walkout AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/lil-yachty-walkout-ai-trend",
+          "title": "Lil Yachty Walkout AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "love-options-dance",
+      "name": "Love Options Dance",
+      "site_count": 3,
+      "sites": [
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/love-options-ai-dance",
+          "title": "Love Options AI Dance"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/love-options-ai-dance",
+          "title": "Love Options AI Dance"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/love-options-ai-dance",
+          "title": "Love Options AI Dance"
+        }
+      ]
+    },
+    {
+      "key": "mi-chico-dance",
+      "name": "Mi Chico Dance",
+      "site_count": 3,
+      "sites": [
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/mi-chico-dance-ai-trend",
+          "title": "Mi Chico Dance AI Trend"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/mi-chico-dance-ai-trend",
+          "title": "Mi Chico Dance AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/mi-chico-dance-ai-trend",
+          "title": "Mi Chico Dance AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "missed-train-dance",
+      "name": "Missed Train Dance",
+      "site_count": 3,
+      "sites": [
+        {
+          "site": "ClipRemake",
+          "url": "https://clipremake.com/templates/missed-train-dance-ai",
+          "title": "Missed Train Dance AI"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/missed-train-dance-ai-trend",
+          "title": "Missed Train Dance AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/missed-train-dance-ai-trend",
+          "title": "Missed Train Dance AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "my-ride-is-here-broom",
+      "name": "My Ride Is Here Broom",
+      "site_count": 3,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/my-ride-is-here-broom-trend",
+          "title": "My Ride Is Here Broom Trend"
+        },
+        {
+          "site": "MemeFX AI",
+          "url": "https://memefxai.com/my-ride-is-here-broom-trend",
+          "title": "My Ride Is Here"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/my-ride-is-here-broom-trend",
+          "title": "My Ride Is Here Broom Trend"
+        }
+      ]
+    },
+    {
+      "key": "no-guidance-dance",
+      "name": "No Guidance Dance",
+      "site_count": 3,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/no-guidance-dance-ai-trend",
+          "title": "No Guidance Dance AI Trend"
+        },
+        {
+          "site": "MemeFX AI",
+          "url": "https://memefxai.com/no-guidance-dance-ai-trend",
+          "title": "No Guidance Dance AI"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/no-guidance-dance-ai-trend",
+          "title": "No Guidance Dance AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "oouuh",
+      "name": "Oouuh",
+      "site_count": 3,
+      "sites": [
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/oouuh-ai-trend",
+          "title": "Oouuh AI Trend"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/oouuh-ai-trend",
+          "title": "Oouuh AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/oouuh-ai-trend",
+          "title": "Oouuh AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "phone-on-train",
+      "name": "Phone On Train",
+      "site_count": 3,
+      "sites": [
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/phone-on-train-trend",
+          "title": "Phone On Train Trend"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/phone-on-train-trend",
+          "title": "Phone On Train Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/phone-on-train-trend",
+          "title": "Phone On Train Trend"
+        }
+      ]
+    },
+    {
+      "key": "pimpwalk-entrance",
+      "name": "Pimpwalk Entrance",
+      "site_count": 3,
+      "sites": [
+        {
+          "site": "MakeMeme.video",
+          "url": "https://makememe.video/pimpwalk-entrance-ai",
+          "title": "Pimpwalk Entrance AI"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/pimpwalk-entrance-ai-trend",
+          "title": "Pimpwalk Entrance AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/pimpwalk-entrance-ai-trend",
+          "title": "Pimpwalk Entrance AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "puerto-rican-mami-dance",
+      "name": "Puerto Rican Mami Dance",
+      "site_count": 3,
+      "sites": [
+        {
+          "site": "MakeMeme.video",
+          "url": "https://makememe.video/puerto-rican-mami-dance-ai",
+          "title": "Puerto Rican Mami Dance AI"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/puerto-rican-mami-ai-dance",
+          "title": "Puerto Rican Mami AI Dance"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/puerto-rican-mami-ai-dance",
+          "title": "Puerto Rican Mami AI Dance"
+        }
+      ]
+    },
+    {
+      "key": "pumpkin-head-photoshoot",
+      "name": "Pumpkin Head Photoshoot",
+      "site_count": 3,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/ai-pumpkin-head-photoshoot",
+          "title": "AI Pumpkin Head Photoshoot"
+        },
+        {
+          "site": "Remake Your Meme",
+          "url": "https://remakeyourmeme.com/templates/ai-pumpkin-head-photoshoot/",
+          "title": "AI Pumpkin Head Photoshoot"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/ai-pumpkin-head-photoshoot",
+          "title": "AI Pumpkin Head Photoshoot"
+        }
+      ]
+    },
+    {
+      "key": "ramalama",
+      "name": "Ramalama",
+      "site_count": 3,
+      "sites": [
+        {
+          "site": "MakeMeme.video",
+          "url": "https://makememe.video/ramalama-trend",
+          "title": "Ramalama Trend"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/ramalama-ai-trend",
+          "title": "Ramalama AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/ramalama-ai-trend",
+          "title": "Ramalama AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "rumpelstiltskin",
+      "name": "Rumpelstiltskin",
+      "site_count": 3,
+      "sites": [
+        {
+          "site": "ClipRemake",
+          "url": "https://clipremake.com/templates/rumpelstiltskin-ai",
+          "title": "Rumpelstiltskin AI"
+        },
+        {
+          "site": "MemeFX AI",
+          "url": "https://memefxai.com/rumpelstiltskin-ai",
+          "title": "Rumpelstiltskin AI"
+        },
+        {
+          "site": "Remake Your Meme",
+          "url": "https://remakeyourmeme.com/templates/rumpelstiltskin-ai-video/",
+          "title": "Rumpelstiltskin AI Video"
+        }
+      ]
+    },
+    {
+      "key": "rumpelstiltskin-dance",
+      "name": "Rumpelstiltskin Dance",
+      "site_count": 3,
+      "sites": [
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/ai-rumpelstiltskin-dance",
+          "title": "AI Rumpelstiltskin Dance"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/ai-rumpelstiltskin-dance",
+          "title": "AI Rumpelstiltskin Dance"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/ai-rumpelstiltskin-dance",
+          "title": "AI Rumpelstiltskin Dance"
+        }
+      ]
+    },
+    {
+      "key": "sawadika-dance",
+      "name": "Sawadika Dance",
+      "site_count": 3,
+      "sites": [
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/sawadika-dance-ai-trend",
+          "title": "Sawadika Dance AI Trend"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/sawadika-dance-ai-trend",
+          "title": "Sawadika Dance AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/sawadika-dance-ai-trend",
+          "title": "Sawadika Dance AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "smooth-criminal-dance",
+      "name": "Smooth Criminal Dance",
+      "site_count": 3,
+      "sites": [
+        {
+          "site": "MakeMeme.video",
+          "url": "https://makememe.video/smooth-criminal-dance-ai",
+          "title": "Smooth Criminal Dance AI"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/smooth-criminal-dance-ai-trend",
+          "title": "Smooth Criminal Dance AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/smooth-criminal-dance-ai-trend",
+          "title": "Smooth Criminal Dance AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "somebody-that-i-used-to-know",
+      "name": "Somebody That I Used To Know",
+      "site_count": 3,
+      "sites": [
+        {
+          "site": "MakeMeme.video",
+          "url": "https://makememe.video/somebody-that-i-used-to-know-ai",
+          "title": "Somebody That I Used To Know AI"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/somebody-that-i-used-to-know-ai-trend",
+          "title": "Somebody That I Used To Know AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/somebody-that-i-used-to-know-ai-trend",
+          "title": "Somebody That I Used To Know AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "susan-dell-dance",
+      "name": "Susan Dell Dance",
+      "site_count": 3,
+      "sites": [
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/susan-dell-dance-ai",
+          "title": "Susan Dell Dance AI"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/susan-dell-dance-ai",
+          "title": "Susan Dell Dance AI"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/susan-dell-dance-ai",
+          "title": "Susan Dell Dance AI"
+        }
+      ]
+    },
+    {
+      "key": "talk-dirty-dance",
+      "name": "Talk Dirty Dance",
+      "site_count": 3,
+      "sites": [
+        {
+          "site": "MakeMeme.video",
+          "url": "https://makememe.video/talk-dirty-dance-ai",
+          "title": "Talk Dirty Dance AI"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/talk-dirty-dance-ai-trend",
+          "title": "Talk Dirty Dance AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/talk-dirty-dance-ai-trend",
+          "title": "Talk Dirty Dance AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "tecktonik-dance",
+      "name": "Tecktonik Dance",
+      "site_count": 3,
+      "sites": [
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/tecktonik-dance-ai-trend",
+          "title": "Tecktonik Dance AI Trend"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/tecktonik-dance-ai-trend",
+          "title": "Tecktonik Dance AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/tecktonik-dance-ai-trend",
+          "title": "Tecktonik Dance AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "thank-you-baby",
+      "name": "Thank You Baby",
+      "site_count": 3,
+      "sites": [
+        {
+          "site": "MakeMeme.video",
+          "url": "https://makememe.video/thank-you-baby-ai",
+          "title": "Thank You Baby AI"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/thank-you-baby-ai-trend",
+          "title": "Thank You Baby AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/thank-you-baby-ai-trend",
+          "title": "Thank You Baby AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "the-jawn-dance",
+      "name": "The Jawn Dance",
+      "site_count": 3,
+      "sites": [
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/the-jawn-ai-dance",
+          "title": "The Jawn AI Dance"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/the-jawn-ai-dance",
+          "title": "The Jawn AI Dance"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/the-jawn-ai-dance",
+          "title": "The Jawn AI Dance"
+        }
+      ]
+    },
+    {
+      "key": "then-i-walk-in",
+      "name": "Then I Walk In",
+      "site_count": 3,
+      "sites": [
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/then-i-walk-in-ai-trend",
+          "title": "Then I Walk In AI Trend"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/then-i-walk-in-ai-trend",
+          "title": "Then I Walk In AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/then-i-walk-in-ai-trend",
+          "title": "Then I Walk In AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "twilight-baseball-scene",
+      "name": "Twilight Baseball Scene",
+      "site_count": 3,
+      "sites": [
+        {
+          "site": "MakeMeme.video",
+          "url": "https://makememe.video/twilight-baseball-scene-ai",
+          "title": "Twilight Baseball Scene AI"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/twilight-baseball-scene-ai",
+          "title": "Twilight Baseball Scene AI"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/twilight-baseball-scene-ai",
+          "title": "Twilight Baseball Scene AI"
+        }
+      ]
+    },
+    {
+      "key": "unforgettable-car",
+      "name": "Unforgettable Car",
+      "site_count": 3,
+      "sites": [
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/unforgettable-car-trend-ai",
+          "title": "Unforgettable Car Trend AI"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/unforgettable-car-trend-ai",
+          "title": "Unforgettable Car Trend AI"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/unforgettable-car-trend-ai",
+          "title": "Unforgettable Car Trend AI"
+        }
+      ]
+    },
+    {
+      "key": "walk-it-like-i-talk-it",
+      "name": "Walk It Like I Talk It",
+      "site_count": 3,
+      "sites": [
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/walk-it-like-i-talk-it-ai-trend",
+          "title": "Walk It Like I Talk It AI Trend"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/walk-it-like-i-talk-it-ai-trend",
+          "title": "Walk It Like I Talk It AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/walk-it-like-i-talk-it-ai-trend",
+          "title": "Walk It Like I Talk It AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "2016-me-meets-2026-me",
+      "name": "2016 Me Meets 2026 Me",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/2016-me-meets-2026-me-ai",
+          "title": "2016 Me Meets 2026 Me AI"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/2016-me-meets-2026-me-ai",
+          "title": "2016 Me Meets 2026 Me AI"
+        }
+      ]
+    },
+    {
+      "key": "3d-month-letters-photo",
+      "name": "3d Month Letters Photo",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/3d-month-letters-ai-photo",
+          "title": "3d Month Letters AI Photo"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/3d-month-letters-ai-photo",
+          "title": "3d Month Letters AI Photo"
+        }
+      ]
+    },
+    {
+      "key": "abcdefg-i-need-money",
+      "name": "Abcdefg I Need Money",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/abcdefg-i-need-money-ai-trend",
+          "title": "Abcdefg I Need Money AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/abcdefg-i-need-money-ai-trend",
+          "title": "Abcdefg I Need Money AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "aint-no-mountain-subway",
+      "name": "Aint No Mountain Subway",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/aint-no-mountain-subway-ai-trend",
+          "title": "Aint No Mountain Subway AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/aint-no-mountain-subway-ai-trend",
+          "title": "Aint No Mountain Subway AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "airport-star-arrival",
+      "name": "Airport Star Arrival",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/ai-airport-star-arrival",
+          "title": "AI AIrport Star Arrival"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/ai-airport-star-arrival",
+          "title": "AI AIrport Star Arrival"
+        }
+      ]
+    },
+    {
+      "key": "ali-g-driving-scene",
+      "name": "Ali G Driving Scene",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/ali-g-driving-scene-ai",
+          "title": "Ali G Driving Scene AI"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/ali-g-driving-scene-ai",
+          "title": "Ali G Driving Scene AI"
+        }
+      ]
+    },
+    {
+      "key": "amanha-e-feriado",
+      "name": "Amanha E Feriado",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/amanha-e-feriado-ai-trend",
+          "title": "Amanha E Feriado AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/amanha-e-feriado-ai-trend",
+          "title": "Amanha E Feriado AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "angel-or-devil",
+      "name": "Angel Or Devil",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/angel-or-devil-ai-filter",
+          "title": "Angel Or Devil AI Filter"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/angel-or-devil-ai-filter",
+          "title": "Angel Or Devil AI Filter"
+        }
+      ]
+    },
+    {
+      "key": "anime-eye",
+      "name": "Anime Eye",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/anime-eye-ai-trend",
+          "title": "Anime Eye AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/anime-eye-ai-trend",
+          "title": "Anime Eye AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "arrest",
+      "name": "Arrest",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/ai-arrest-trend",
+          "title": "AI Arrest Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/ai-arrest-trend",
+          "title": "AI Arrest Trend"
+        }
+      ]
+    },
+    {
+      "key": "ateez-bad-dance-challenge",
+      "name": "Ateez Bad Dance Challenge",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/ateez-bad-dance-challenge-ai",
+          "title": "Ateez Bad Dance Challenge AI"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/ateez-bad-dance-challenge-ai",
+          "title": "Ateez Bad Dance Challenge AI"
+        }
+      ]
+    },
+    {
+      "key": "atm-glitch",
+      "name": "Atm Glitch",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/atm-glitch-ai-trend",
+          "title": "Atm Glitch AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/atm-glitch-ai-trend",
+          "title": "Atm Glitch AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "ba-ba-ba-dance",
+      "name": "Ba Ba Ba Dance",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/ba-ba-ba-dance-ai-trend",
+          "title": "Ba Ba Ba Dance AI Trend"
+        },
+        {
+          "site": "MemeFX AI",
+          "url": "https://memefxai.com/ba-ba-ba-dance-ai",
+          "title": "Ba Ba Ba Dance AI"
+        }
+      ]
+    },
+    {
+      "key": "baby-dance",
+      "name": "Baby Dance",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/ai-baby-dance",
+          "title": "AI Baby Dance"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/ai-baby-dance",
+          "title": "AI Baby Dance"
+        }
+      ]
+    },
+    {
+      "key": "baby-reindeer-santa",
+      "name": "Baby Reindeer Santa",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/baby-reindeer-santa-ai-video",
+          "title": "Baby Reindeer Santa AI Video"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/baby-reindeer-santa-ai-video",
+          "title": "Baby Reindeer Santa AI Video"
+        }
+      ]
+    },
+    {
+      "key": "baby-with-mustache",
+      "name": "Baby With Mustache",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/baby-with-mustache-ai-trend",
+          "title": "Baby With Mustache AI Trend"
+        },
+        {
+          "site": "MakeMeme.video",
+          "url": "https://makememe.video/baby-with-mustache-ai",
+          "title": "Baby With Mustache AI"
+        }
+      ]
+    },
+    {
+      "key": "ballon-dor",
+      "name": "Ballon Dor",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/ballon-dor-ai-filter",
+          "title": "Ballon Dor AI Filter"
+        },
+        {
+          "site": "MakeMeme.video",
+          "url": "https://makememe.video/ballon-dor-ai",
+          "title": "Ballon Dor AI"
+        }
+      ]
+    },
+    {
+      "key": "ballon-dor-prank",
+      "name": "Ballon Dor Prank",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/ballon-dor-ai-prank",
+          "title": "Ballon Dor AI Prank"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/ballon-dor-ai-prank",
+          "title": "Ballon Dor AI Prank"
+        }
+      ]
+    },
+    {
+      "key": "bama-bound",
+      "name": "Bama Bound",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/bama-bound-ai-trend",
+          "title": "Bama Bound AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/bama-bound-ai-trend",
+          "title": "Bama Bound AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "barbie-and-raquelle",
+      "name": "Barbie And Raquelle",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/barbie-and-raquelle-ai-trend",
+          "title": "Barbie And Raquelle AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/barbie-and-raquelle-ai-trend",
+          "title": "Barbie And Raquelle AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "barn-find-truck",
+      "name": "Barn Find Truck",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/ai-barn-find-truck-trend",
+          "title": "AI Barn Find Truck Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/ai-barn-find-truck-trend",
+          "title": "AI Barn Find Truck Trend"
+        }
+      ]
+    },
+    {
+      "key": "beer-jacket",
+      "name": "Beer Jacket",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/ai-beer-jacket-trend",
+          "title": "AI Beer Jacket Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/ai-beer-jacket-trend",
+          "title": "AI Beer Jacket Trend"
+        }
+      ]
+    },
+    {
+      "key": "biker-birthday-cake",
+      "name": "Biker Birthday Cake",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/biker-birthday-cake-ai-trend",
+          "title": "Biker Birthday Cake AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/biker-birthday-cake-ai-trend",
+          "title": "Biker Birthday Cake AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "bing-bing-bing-kicking",
+      "name": "Bing Bing Bing Kicking",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/bing-bing-bing-kicking-ai-trend",
+          "title": "Bing Bing Bing Kicking AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/bing-bing-bing-kicking-ai-trend",
+          "title": "Bing Bing Bing Kicking AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "blue-screen-glitch",
+      "name": "Blue Screen Glitch",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/blue-screen-glitch-ai-trend",
+          "title": "Blue Screen Glitch AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/blue-screen-glitch-ai-trend",
+          "title": "Blue Screen Glitch AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "bob-haircut",
+      "name": "Bob Haircut",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/ai-bob-haircut-filter",
+          "title": "AI Bob Haircut Filter"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/ai-bob-haircut-filter",
+          "title": "AI Bob Haircut Filter"
+        }
+      ]
+    },
+    {
+      "key": "bonito-bonito-baby-dance",
+      "name": "Bonito Bonito Baby Dance",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/bonito-bonito-ai-baby-dance",
+          "title": "Bonito Bonito AI Baby Dance"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/bonito-bonito-ai-baby-dance",
+          "title": "Bonito Bonito AI Baby Dance"
+        }
+      ]
+    },
+    {
+      "key": "boombox-rap",
+      "name": "Boombox Rap",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/boombox-rap-ai-trend",
+          "title": "Boombox Rap AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/boombox-rap-ai-trend",
+          "title": "Boombox Rap AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "buggin-dance",
+      "name": "Buggin Dance",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeMeme.video",
+          "url": "https://makememe.video/buggin-dance-ai",
+          "title": "Buggin Dance AI"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/buggin-dance-ai-trend",
+          "title": "Buggin Dance AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "bulin-47-dance",
+      "name": "Bulin 47 Dance",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/bulin-47-dance-ai-trend",
+          "title": "Bulin 47 Dance AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/bulin-47-dance-ai-trend",
+          "title": "Bulin 47 Dance AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "c-walk-dance",
+      "name": "C Walk Dance",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/c-walk-ai-dance",
+          "title": "C Walk AI Dance"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/c-walk-ai-dance",
+          "title": "C Walk AI Dance"
+        }
+      ]
+    },
+    {
+      "key": "can-i-ride-dance",
+      "name": "Can I Ride Dance",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/can-i-ride-dance-ai-trend",
+          "title": "Can I Ride Dance AI Trend"
+        },
+        {
+          "site": "MemeFX AI",
+          "url": "https://memefxai.com/can-i-ride-dance-ai",
+          "title": "Can I Ride Dance AI"
+        }
+      ]
+    },
+    {
+      "key": "car-crash-prank",
+      "name": "Car Crash Prank",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/ai-car-crash-prank-filter",
+          "title": "AI Car Crash Prank Filter"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/ai-car-crash-prank-filter",
+          "title": "AI Car Crash Prank Filter"
+        }
+      ]
+    },
+    {
+      "key": "car-jump",
+      "name": "Car Jump",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/ai-car-jump-trend",
+          "title": "AI Car Jump Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/ai-car-jump-trend",
+          "title": "AI Car Jump Trend"
+        }
+      ]
+    },
+    {
+      "key": "car-roof-backflip",
+      "name": "Car Roof Backflip",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/car-roof-backflip-ai-trend",
+          "title": "Car Roof Backflip AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/car-roof-backflip-ai-trend",
+          "title": "Car Roof Backflip AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "cardo-dinner",
+      "name": "Cardo Dinner",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/cardo-dinner-ai-trend",
+          "title": "Cardo Dinner AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/cardo-dinner-ai-trend",
+          "title": "Cardo Dinner AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "caricature",
+      "name": "Caricature",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/ai-caricature-trend",
+          "title": "AI Caricature Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/ai-caricature-trend",
+          "title": "AI Caricature Trend"
+        }
+      ]
+    },
+    {
+      "key": "cartoon-couple",
+      "name": "Cartoon Couple",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/ai-cartoon-couple-video",
+          "title": "AI Cartoon Couple Video"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/ai-cartoon-couple-video",
+          "title": "AI Cartoon Couple Video"
+        }
+      ]
+    },
+    {
+      "key": "cat-human",
+      "name": "Cat Human",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/cat-human-ai-video",
+          "title": "Cat Human AI Video"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/cat-human-ai-video",
+          "title": "Cat Human AI Video"
+        }
+      ]
+    },
+    {
+      "key": "celebrity-autograph-signing",
+      "name": "Celebrity Autograph Signing",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/ai-celebrity-autograph-signing",
+          "title": "AI Celebrity Autograph Signing"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/ai-celebrity-autograph-signing",
+          "title": "AI Celebrity Autograph Signing"
+        }
+      ]
+    },
+    {
+      "key": "champagne-car-window",
+      "name": "Champagne Car Window",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/champagne-car-window-ai-trend",
+          "title": "Champagne Car Window AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/champagne-car-window-ai-trend",
+          "title": "Champagne Car Window AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "charlie-brown-christmas",
+      "name": "Charlie Brown Christmas",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeMeme.video",
+          "url": "https://makememe.video/charlie-brown-christmas-ai",
+          "title": "Charlie Brown Christmas AI"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/charlie-brown-christmas-ai-trend",
+          "title": "Charlie Brown Christmas AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "chat-gtt-lookin-ahh",
+      "name": "Chat Gtt Lookin Ahh",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/chat-gtt-lookin-ahh-ai",
+          "title": "Chat Gtt Lookin Ahh AI"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/chat-gtt-lookin-ahh-ai",
+          "title": "Chat Gtt Lookin Ahh AI"
+        }
+      ]
+    },
+    {
+      "key": "check-one-check-two",
+      "name": "Check One Check Two",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/check-one-check-two-ai-filter",
+          "title": "Check One Check Two AI Filter"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/check-one-check-two-ai-filter",
+          "title": "Check One Check Two AI Filter"
+        }
+      ]
+    },
+    {
+      "key": "chicken-dance",
+      "name": "Chicken Dance",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/ai-chicken-dance-trend",
+          "title": "AI Chicken Dance Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/ai-chicken-dance-trend",
+          "title": "AI Chicken Dance Trend"
+        }
+      ]
+    },
+    {
+      "key": "choosin-texas-emo",
+      "name": "Choosin Texas Emo",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/choosin-texas-emo-ai-trend",
+          "title": "Choosin Texas Emo AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/choosin-texas-emo-ai-trend",
+          "title": "Choosin Texas Emo AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "christmas-pfp",
+      "name": "Christmas Pfp",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeMeme.video",
+          "url": "https://makememe.video/christmas-pfp-ai",
+          "title": "Christmas PFP AI"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/christmas-pfp-ai-trend",
+          "title": "Christmas PFP AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "cinema-breakout",
+      "name": "Cinema Breakout",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/ai-cinema-breakout-video",
+          "title": "AI Cinema Breakout Video"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/ai-cinema-breakout-video",
+          "title": "AI Cinema Breakout Video"
+        }
+      ]
+    },
+    {
+      "key": "coldplay-affair",
+      "name": "Coldplay Affair",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/coldplay-affair-ai-trend",
+          "title": "Coldplay Affair AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/coldplay-affair-ai-trend",
+          "title": "Coldplay Affair AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "coraline",
+      "name": "Coraline",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/coraline-ai-trend",
+          "title": "Coraline AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/coraline-ai-trend",
+          "title": "Coraline AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "couple-back-tattoo",
+      "name": "Couple Back Tattoo",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/couple-back-tattoo-ai-trend",
+          "title": "Couple Back Tattoo AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/couple-back-tattoo-ai-trend",
+          "title": "Couple Back Tattoo AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "couple-thriller",
+      "name": "Couple Thriller",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/couple-thriller-ai-trend",
+          "title": "Couple Thriller AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/couple-thriller-ai-trend",
+          "title": "Couple Thriller AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "crochet-doll",
+      "name": "Crochet Doll",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/ai-crochet-doll-filter",
+          "title": "AI Crochet Doll Filter"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/ai-crochet-doll-filter",
+          "title": "AI Crochet Doll Filter"
+        }
+      ]
+    },
+    {
+      "key": "crying",
+      "name": "Crying",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/ai-crying-video",
+          "title": "AI Crying Video"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/ai-crying-video",
+          "title": "AI Crying Video"
+        }
+      ]
+    },
+    {
+      "key": "cupid",
+      "name": "Cupid",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/ai-cupid-trend",
+          "title": "AI Cupid Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/ai-cupid-trend",
+          "title": "AI Cupid Trend"
+        }
+      ]
+    },
+    {
+      "key": "cutedog",
+      "name": "Cutedog",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/cutedog-ai-trend",
+          "title": "Cutedog AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/cutedog-ai-trend",
+          "title": "Cutedog AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "dancing-dog",
+      "name": "Dancing Dog",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/ai-dancing-dog-video",
+          "title": "AI Dancing Dog Video"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/ai-dancing-dog-video",
+          "title": "AI Dancing Dog Video"
+        }
+      ]
+    },
+    {
+      "key": "danger-scene",
+      "name": "Danger Scene",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/ai-danger-scene-trend",
+          "title": "AI Danger Scene Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/ai-danger-scene-trend",
+          "title": "AI Danger Scene Trend"
+        }
+      ]
+    },
+    {
+      "key": "darts-170-prank",
+      "name": "Darts 170 Prank",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/darts-170-ai-prank",
+          "title": "Darts 170 AI Prank"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/darts-170-ai-prank",
+          "title": "Darts 170 AI Prank"
+        }
+      ]
+    },
+    {
+      "key": "day-of-the-dead-makeup",
+      "name": "Day Of The Dead Makeup",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/ai-day-of-the-dead-makeup",
+          "title": "AI Day Of The Dead Makeup"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/ai-day-of-the-dead-makeup",
+          "title": "AI Day Of The Dead Makeup"
+        }
+      ]
+    },
+    {
+      "key": "diamond-miner",
+      "name": "Diamond Miner",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/diamond-miner-meme-ai",
+          "title": "Diamond Miner Meme AI"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/diamond-miner-meme-ai",
+          "title": "Diamond Miner Meme AI"
+        }
+      ]
+    },
+    {
+      "key": "dog-bohemian-rhapsody",
+      "name": "Dog Bohemian Rhapsody",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/dog-bohemian-rhapsody-ai-trend",
+          "title": "Dog Bohemian Rhapsody AI Trend"
+        },
+        {
+          "site": "MemeFX AI",
+          "url": "https://memefxai.com/dog-bohemian-rhapsody-ai",
+          "title": "Dog Bohemian Rhapsody AI"
+        }
+      ]
+    },
+    {
+      "key": "dog-couple-dance",
+      "name": "Dog Couple Dance",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/dog-couple-dance-ai-trend",
+          "title": "Dog Couple Dance AI Trend"
+        },
+        {
+          "site": "MemeFX AI",
+          "url": "https://memefxai.com/dog-couple-dance-ai",
+          "title": "Dog Couple Dance AI"
+        }
+      ]
+    },
+    {
+      "key": "dont-you-dare-christmas",
+      "name": "Dont You Dare Christmas",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/dont-you-dare-christmas-ai-trend",
+          "title": "Dont You Dare Christmas AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/dont-you-dare-christmas-ai-trend",
+          "title": "Dont You Dare Christmas AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "drink-fly-bump",
+      "name": "Drink Fly Bump",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/drink-fly-bump-ai-trend",
+          "title": "Drink Fly Bump AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/drink-fly-bump-ai-trend",
+          "title": "Drink Fly Bump AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "earth-zoom-out",
+      "name": "Earth Zoom Out",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/earth-zoom-out-ai",
+          "title": "Earth Zoom Out AI"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/earth-zoom-out-ai",
+          "title": "Earth Zoom Out AI"
+        }
+      ]
+    },
+    {
+      "key": "electric-shock-pet-prank",
+      "name": "Electric Shock Pet Prank",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/ai-electric-shock-pet-prank",
+          "title": "AI Electric Shock Pet Prank"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/ai-electric-shock-pet-prank",
+          "title": "AI Electric Shock Pet Prank"
+        }
+      ]
+    },
+    {
+      "key": "elsa",
+      "name": "Elsa",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/elsa-ai-trend",
+          "title": "Elsa AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/elsa-ai-trend",
+          "title": "Elsa AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "enchantress",
+      "name": "Enchantress",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/enchantress-filter-ai",
+          "title": "Enchantress Filter AI"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/enchantress-filter-ai",
+          "title": "Enchantress Filter AI"
+        }
+      ]
+    },
+    {
+      "key": "explosion-walk",
+      "name": "Explosion Walk",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/ai-explosion-walk-trend",
+          "title": "AI Explosion Walk Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/ai-explosion-walk-trend",
+          "title": "AI Explosion Walk Trend"
+        }
+      ]
+    },
+    {
+      "key": "facebook-marketplace-husband",
+      "name": "Facebook Marketplace Husband",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/facebook-marketplace-husband-ai-trend",
+          "title": "Facebook Marketplace Husband AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/facebook-marketplace-husband-ai-trend",
+          "title": "Facebook Marketplace Husband AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "family-resemblance-photo",
+      "name": "Family Resemblance Photo",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/ai-family-resemblance-photo",
+          "title": "AI Family Resemblance Photo"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/ai-family-resemblance-photo",
+          "title": "AI Family Resemblance Photo"
+        }
+      ]
+    },
+    {
+      "key": "fergie-baby",
+      "name": "Fergie Baby",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/fergie-baby-ai-trend",
+          "title": "Fergie Baby AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/fergie-baby-ai-trend",
+          "title": "Fergie Baby AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "firestarter-dance",
+      "name": "Firestarter Dance",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/firestarter-dance-ai-trend",
+          "title": "Firestarter Dance AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/firestarter-dance-ai-trend",
+          "title": "Firestarter Dance AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "flamingo-float",
+      "name": "Flamingo Float",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/flamingo-float-ai-trend",
+          "title": "Flamingo Float AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/flamingo-float-ai-trend",
+          "title": "Flamingo Float AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "flying-roadster",
+      "name": "Flying Roadster",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/flying-roadster-ai-trend",
+          "title": "Flying Roadster AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/flying-roadster-ai-trend",
+          "title": "Flying Roadster AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "fridge-pov",
+      "name": "Fridge Pov",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/fridge-pov-ai-trend",
+          "title": "Fridge Pov AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/fridge-pov-ai-trend",
+          "title": "Fridge Pov AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "fruit-story",
+      "name": "Fruit Story",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/ai-fruit-story",
+          "title": "AI Fruit Story"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/ai-fruit-story",
+          "title": "AI Fruit Story"
+        }
+      ]
+    },
+    {
+      "key": "future-baby",
+      "name": "Future Baby",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/ai-future-baby-video",
+          "title": "AI Future Baby Video"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/ai-future-baby-video",
+          "title": "AI Future Baby Video"
+        }
+      ]
+    },
+    {
+      "key": "fuzzy-dream-dance",
+      "name": "Fuzzy Dream Dance",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/fuzzy-dream-dance-ai-trend",
+          "title": "Fuzzy Dream Dance AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/fuzzy-dream-dance-ai-trend",
+          "title": "Fuzzy Dream Dance AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "gemini-rain-effect",
+      "name": "Gemini Rain Effect",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/gemini-rain-ai-effect",
+          "title": "Gemini Rain AI Effect"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/gemini-rain-ai-effect",
+          "title": "Gemini Rain AI Effect"
+        }
+      ]
+    },
+    {
+      "key": "gender-swap",
+      "name": "Gender Swap",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/gender-swap-ai-filter",
+          "title": "Gender Swap AI Filter"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/gender-swap-ai-filter",
+          "title": "Gender Swap AI Filter"
+        }
+      ]
+    },
+    {
+      "key": "ghost-prank",
+      "name": "Ghost Prank",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/ghost-filter-prank-ai-trend",
+          "title": "Ghost Filter Prank AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/ghost-filter-prank-ai-trend",
+          "title": "Ghost Filter Prank AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "giant-bed",
+      "name": "Giant Bed",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/giant-bed-ai-trend",
+          "title": "Giant Bed AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/giant-bed-ai-trend",
+          "title": "Giant Bed AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "glitch-makeup-transition",
+      "name": "Glitch Makeup Transition",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/glitch-makeup-ai-transition",
+          "title": "Glitch Makeup AI Transition"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/glitch-makeup-ai-transition",
+          "title": "Glitch Makeup AI Transition"
+        }
+      ]
+    },
+    {
+      "key": "gomlegi-cekete-donusen-adam",
+      "name": "Gomlegi Cekete Donusen Adam",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/gomlegi-cekete-donusen-adam-ai",
+          "title": "Gomlegi Cekete Donusen Adam AI"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/gomlegi-cekete-donusen-adam-ai",
+          "title": "Gomlegi Cekete Donusen Adam AI"
+        }
+      ]
+    },
+    {
+      "key": "grandma-parkour",
+      "name": "Grandma Parkour",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/grandma-parkour-ai-trend",
+          "title": "Grandma Parkour AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/grandma-parkour-ai-trend",
+          "title": "Grandma Parkour AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "grease-dance",
+      "name": "Grease Dance",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/grease-dance-ai-trend",
+          "title": "Grease Dance AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/grease-dance-ai-trend",
+          "title": "Grease Dance AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "halay",
+      "name": "Halay",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/halay-ai-trend",
+          "title": "Halay AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/halay-ai-trend",
+          "title": "Halay AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "hali-saha-konum-gonderin",
+      "name": "Hali Saha Konum Gonderin",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/hali-saha-konum-gonderin-ai-trend",
+          "title": "Hali Saha Konum Gonderin AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/hali-saha-konum-gonderin-ai-trend",
+          "title": "Hali Saha Konum Gonderin AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "hand-pinch",
+      "name": "Hand Pinch",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/hand-pinch-filter-ai",
+          "title": "Hand Pinch Filter AI"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/hand-pinch-filter-ai",
+          "title": "Hand Pinch Filter AI"
+        }
+      ]
+    },
+    {
+      "key": "hawak-mo-ang-beat-dance",
+      "name": "Hawak Mo Ang Beat Dance",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/hawak-mo-ang-beat-ai-dance",
+          "title": "Hawak Mo Ang Beat AI Dance"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/hawak-mo-ang-beat-ai-dance",
+          "title": "Hawak Mo Ang Beat AI Dance"
+        }
+      ]
+    },
+    {
+      "key": "headbop",
+      "name": "Headbop",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/headbop-ai-trend",
+          "title": "Headbop AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/headbop-ai-trend",
+          "title": "Headbop AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "heaven-reunion-hug",
+      "name": "Heaven Reunion Hug",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/ai-heaven-reunion-hug",
+          "title": "AI Heaven Reunion Hug"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/ai-heaven-reunion-hug",
+          "title": "AI Heaven Reunion Hug"
+        }
+      ]
+    },
+    {
+      "key": "high-altitude-trampoline",
+      "name": "High Altitude Trampoline",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/ai-high-altitude-trampoline",
+          "title": "AI High Altitude Trampoline"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/ai-high-altitude-trampoline",
+          "title": "AI High Altitude Trampoline"
+        }
+      ]
+    },
+    {
+      "key": "hole-in-shirt-effect",
+      "name": "Hole In Shirt Effect",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/hole-in-shirt-ai-effect",
+          "title": "Hole In Shirt AI Effect"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/hole-in-shirt-ai-effect",
+          "title": "Hole In Shirt AI Effect"
+        }
+      ]
+    },
+    {
+      "key": "hot-tea-prank",
+      "name": "Hot Tea Prank",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/hot-tea-prank-ai",
+          "title": "Hot Tea Prank AI"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/hot-tea-prank-ai",
+          "title": "Hot Tea Prank AI"
+        }
+      ]
+    },
+    {
+      "key": "hug-in-heaven",
+      "name": "Hug In Heaven",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "ClipRemake",
+          "url": "https://clipremake.com/templates/hug-in-heaven-ai",
+          "title": "Hug In Heaven AI"
+        },
+        {
+          "site": "Remake Your Meme",
+          "url": "https://remakeyourmeme.com/templates/hug-in-heaven/",
+          "title": "Hug In Heaven"
+        }
+      ]
+    },
+    {
+      "key": "i-dont-listen-to-opinions-baby-dance",
+      "name": "I Dont Listen To Opinions Baby Dance",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/i-dont-listen-to-opinions-baby-dance",
+          "title": "I Dont Listen To Opinions Baby Dance"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/i-dont-listen-to-opinions-baby-dance",
+          "title": "I Dont Listen To Opinions Baby Dance"
+        }
+      ]
+    },
+    {
+      "key": "i-put-my-heart-in-this",
+      "name": "I Put My Heart In This",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/i-put-my-heart-in-this-ai-trend",
+          "title": "I Put My Heart In This AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/i-put-my-heart-in-this-ai-trend",
+          "title": "I Put My Heart In This AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "i-wanna-love-you-pet",
+      "name": "I Wanna Love You Pet",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/i-wanna-love-you-ai-pet",
+          "title": "I Wanna Love You AI Pet"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/i-wanna-love-you-ai-pet",
+          "title": "I Wanna Love You AI Pet"
+        }
+      ]
+    },
+    {
+      "key": "illit-youre-under-arrest-dance",
+      "name": "Illit Youre Under Arrest Dance",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/illit-youre-under-arrest-ai-dance",
+          "title": "Illit Youre Under Arrest AI Dance"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/illit-youre-under-arrest-ai-dance",
+          "title": "Illit Youre Under Arrest AI Dance"
+        }
+      ]
+    },
+    {
+      "key": "im-onnat-football",
+      "name": "Im Onnat Football",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/im-onnat-football-ai-trend",
+          "title": "Im Onnat Football AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/im-onnat-football-ai-trend",
+          "title": "Im Onnat Football AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "im-with-you",
+      "name": "Im With You",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/im-with-you-ai-trend",
+          "title": "Im With You AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/im-with-you-ai-trend",
+          "title": "Im With You AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "ive-looks-can-kill-dance",
+      "name": "Ive Looks Can Kill Dance",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/ive-looks-can-kill-ai-dance",
+          "title": "Ive Looks Can Kill AI Dance"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/ive-looks-can-kill-ai-dance",
+          "title": "Ive Looks Can Kill AI Dance"
+        }
+      ]
+    },
+    {
+      "key": "just-a-lil-bit-dance",
+      "name": "Just A Lil Bit Dance",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/just-a-lil-bit-ai-dance",
+          "title": "Just A Lil Bit AI Dance"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/just-a-lil-bit-ai-dance",
+          "title": "Just A Lil Bit AI Dance"
+        }
+      ]
+    },
+    {
+      "key": "keep-on-steppin-dance",
+      "name": "Keep On Steppin Dance",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/keep-on-steppin-ai-dance",
+          "title": "Keep On Steppin AI Dance"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/keep-on-steppin-ai-dance",
+          "title": "Keep On Steppin AI Dance"
+        }
+      ]
+    },
+    {
+      "key": "knight-cat",
+      "name": "Knight Cat",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/knight-cat-ai-video",
+          "title": "Knight Cat AI Video"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/knight-cat-ai-video",
+          "title": "Knight Cat AI Video"
+        }
+      ]
+    },
+    {
+      "key": "knocked-out-shadow-boxing",
+      "name": "Knocked Out Shadow Boxing",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/knocked-out-shadow-boxing-ai-trend",
+          "title": "Knocked Out Shadow Boxing AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/knocked-out-shadow-boxing-ai-trend",
+          "title": "Knocked Out Shadow Boxing AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "kung-fu-cat",
+      "name": "Kung Fu Cat",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/kung-fu-cat-ai-trend",
+          "title": "Kung Fu Cat AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/kung-fu-cat-ai-trend",
+          "title": "Kung Fu Cat AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "laughing-fairy",
+      "name": "Laughing Fairy",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/laughing-fairy-ai-trend",
+          "title": "Laughing Fairy AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/laughing-fairy-ai-trend",
+          "title": "Laughing Fairy AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "lego-car-wash",
+      "name": "Lego Car Wash",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/lego-car-wash-ai-trend",
+          "title": "Lego Car Wash AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/lego-car-wash-ai-trend",
+          "title": "Lego Car Wash AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "like-jennie",
+      "name": "Like Jennie",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/like-jennie-ai-trend",
+          "title": "Like Jennie AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/like-jennie-ai-trend",
+          "title": "Like Jennie AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "lion-friend",
+      "name": "Lion Friend",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/ai-lion-friend-video",
+          "title": "AI Lion Friend Video"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/ai-lion-friend-video",
+          "title": "AI Lion Friend Video"
+        }
+      ]
+    },
+    {
+      "key": "lonyo",
+      "name": "Lonyo",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/lonyo-ai-trend",
+          "title": "Lonyo AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/lonyo-ai-trend",
+          "title": "Lonyo AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "love-me",
+      "name": "Love Me",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/love-me-ai-trend",
+          "title": "Love Me AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/love-me-ai-trend",
+          "title": "Love Me AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "mabel-matiz-umrumdisi",
+      "name": "Mabel Matiz Umrumdisi",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/mabel-matiz-umrumdisi",
+          "title": "Mabel Matiz Umrumdisi"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/mabel-matiz-umrumdisi",
+          "title": "Mabel Matiz Umrumdisi"
+        }
+      ]
+    },
+    {
+      "key": "mafia-boss",
+      "name": "Mafia Boss",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/mafia-boss-ai-filter",
+          "title": "Mafia Boss AI Filter"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/mafia-boss-ai-filter",
+          "title": "Mafia Boss AI Filter"
+        }
+      ]
+    },
+    {
+      "key": "makeup",
+      "name": "Makeup",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/ai-makeup-filter",
+          "title": "AI Makeup Filter"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/ai-makeup-filter",
+          "title": "AI Makeup Filter"
+        }
+      ]
+    },
+    {
+      "key": "malfoid",
+      "name": "Malfoid",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/malfoid-ai-trend",
+          "title": "Malfoid AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/malfoid-ai-trend",
+          "title": "Malfoid AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "mandem-in-disguise",
+      "name": "Mandem In Disguise",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/mandem-in-disguise-ai-trend",
+          "title": "Mandem In Disguise AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/mandem-in-disguise-ai-trend",
+          "title": "Mandem In Disguise AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "marigold-bridge",
+      "name": "Marigold Bridge",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/marigold-bridge-ai-trend",
+          "title": "Marigold Bridge AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/marigold-bridge-ai-trend",
+          "title": "Marigold Bridge AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "mind-enterprises-balcony",
+      "name": "Mind Enterprises Balcony",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/mind-enterprises-balcony-ai-trend",
+          "title": "Mind Enterprises Balcony AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/mind-enterprises-balcony-ai-trend",
+          "title": "Mind Enterprises Balcony AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "mom-dad-sister-brother",
+      "name": "Mom Dad Sister Brother",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/mom-dad-sister-brother-ai-trend",
+          "title": "Mom Dad Sister Brother AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/mom-dad-sister-brother-ai-trend",
+          "title": "Mom Dad Sister Brother AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "money-rain-party",
+      "name": "Money Rain Party",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/ai-money-rain-party",
+          "title": "AI Money Rain Party"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/ai-money-rain-party",
+          "title": "AI Money Rain Party"
+        }
+      ]
+    },
+    {
+      "key": "monkey-eating-apple",
+      "name": "Monkey Eating Apple",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/monkey-eating-apple-ai-trend",
+          "title": "Monkey Eating Apple AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/monkey-eating-apple-ai-trend",
+          "title": "Monkey Eating Apple AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "mr-and-mrs-stretchy",
+      "name": "Mr And Mrs Stretchy",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/mr-and-mrs-stretchy-ai-trend",
+          "title": "Mr And Mrs Stretchy AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/mr-and-mrs-stretchy-ai-trend",
+          "title": "Mr And Mrs Stretchy AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "my-girl-couple-pinch",
+      "name": "My Girl Couple Pinch",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/my-girl-couple-pinch-ai-trend",
+          "title": "My Girl Couple Pinch AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/my-girl-couple-pinch-ai-trend",
+          "title": "My Girl Couple Pinch AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "nightwing-costume",
+      "name": "Nightwing Costume",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/nightwing-costume-ai-trend",
+          "title": "Nightwing Costume AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/nightwing-costume-ai-trend",
+          "title": "Nightwing Costume AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "no-renunciare",
+      "name": "No Renunciare",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/no-renunciare-ai-trend",
+          "title": "No Renunciare AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/no-renunciare-ai-trend",
+          "title": "No Renunciare AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "no-scrubs",
+      "name": "No Scrubs",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/no-scrubs-ai-trend",
+          "title": "No Scrubs AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/no-scrubs-ai-trend",
+          "title": "No Scrubs AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "nunca-ando-sola",
+      "name": "Nunca Ando Sola",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/nunca-ando-sola-ai-trend",
+          "title": "Nunca Ando Sola AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/nunca-ando-sola-ai-trend",
+          "title": "Nunca Ando Sola AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "on-the-radar",
+      "name": "On The Radar",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/on-the-radar-ai-trend",
+          "title": "On The Radar AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/on-the-radar-ai-trend",
+          "title": "On The Radar AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "opa-opa-bouncy-hair",
+      "name": "Opa Opa Bouncy Hair",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/opa-opa-bouncy-hair-ai",
+          "title": "Opa Opa Bouncy Hair AI"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/opa-opa-bouncy-hair-ai",
+          "title": "Opa Opa Bouncy Hair AI"
+        }
+      ]
+    },
+    {
+      "key": "otsukare-summer-dance",
+      "name": "Otsukare Summer Dance",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/otsukare-summer-dance-ai-trend",
+          "title": "Otsukare Summer Dance AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/otsukare-summer-dance-ai-trend",
+          "title": "Otsukare Summer Dance AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "parrot-dance",
+      "name": "Parrot Dance",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/parrot-dance-ai-trend",
+          "title": "Parrot Dance AI Trend"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/parrot-dance-ai-trend",
+          "title": "Parrot Dance AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "party-viral-dance",
+      "name": "Party Viral Dance",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/party-viral-dance-ai-trend",
+          "title": "Party Viral Dance AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/party-viral-dance-ai-trend",
+          "title": "Party Viral Dance AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "patrick-swayze-dance",
+      "name": "Patrick Swayze Dance",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/patrick-swayze-dance-ai-trend",
+          "title": "Patrick Swayze Dance AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/patrick-swayze-dance-ai-trend",
+          "title": "Patrick Swayze Dance AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "perdon-photo",
+      "name": "Perdon Photo",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/perdon-ai-photo-trend",
+          "title": "Perdon AI Photo Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/perdon-ai-photo-trend",
+          "title": "Perdon AI Photo Trend"
+        }
+      ]
+    },
+    {
+      "key": "pet-halloween-costume",
+      "name": "Pet Halloween Costume",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/ai-pet-halloween-costume",
+          "title": "AI Pet Halloween Costume"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/ai-pet-halloween-costume",
+          "title": "AI Pet Halloween Costume"
+        }
+      ]
+    },
+    {
+      "key": "phone-on-the-train",
+      "name": "Phone On The Train",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeMeme.video",
+          "url": "https://makememe.video/phone-on-the-train-ai",
+          "title": "Phone On The Train AI"
+        },
+        {
+          "site": "MemeFX AI",
+          "url": "https://memefxai.com/phone-on-train-trend",
+          "title": "Phone on the Train AI"
+        }
+      ]
+    },
+    {
+      "key": "pick-it-up-dance",
+      "name": "Pick It Up Dance",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/pick-it-up-dance-ai-trend",
+          "title": "Pick It Up Dance AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/pick-it-up-dance-ai-trend",
+          "title": "Pick It Up Dance AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "plane-over-head",
+      "name": "Plane Over Head",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/ai-plane-over-head-trend",
+          "title": "AI Plane Over Head Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/ai-plane-over-head-trend",
+          "title": "AI Plane Over Head Trend"
+        }
+      ]
+    },
+    {
+      "key": "plug-walk",
+      "name": "Plug Walk",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/plug-walk-ai-filter",
+          "title": "Plug Walk AI Filter"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/plug-walk-ai-filter",
+          "title": "Plug Walk AI Filter"
+        }
+      ]
+    },
+    {
+      "key": "polar-bear",
+      "name": "Polar Bear",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/polar-bear-ai-trend",
+          "title": "Polar Bear AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/polar-bear-ai-trend",
+          "title": "Polar Bear AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "police-chase",
+      "name": "Police Chase",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/police-chase-ai-trend",
+          "title": "Police Chase AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/police-chase-ai-trend",
+          "title": "Police Chase AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "popstar",
+      "name": "Popstar",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/popstar-ai-trend",
+          "title": "Popstar AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/popstar-ai-trend",
+          "title": "Popstar AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "pray-for-me-slow-mo",
+      "name": "Pray For Me Slow Mo",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/pray-for-me-slow-mo-ai-trend",
+          "title": "Pray For Me Slow Mo AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/pray-for-me-slow-mo-ai-trend",
+          "title": "Pray For Me Slow Mo AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "pull-out-of-tv",
+      "name": "Pull Out Of Tv",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/pull-out-of-tv-ai-trend",
+          "title": "Pull Out Of Tv AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/pull-out-of-tv-ai-trend",
+          "title": "Pull Out Of Tv AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "quiet-on-the-creek",
+      "name": "Quiet On The Creek",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/quiet-on-the-creek-ai-trend",
+          "title": "Quiet On The Creek AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/quiet-on-the-creek-ai-trend",
+          "title": "Quiet On The Creek AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "reverse-hurdle",
+      "name": "Reverse Hurdle",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/reverse-hurdle-ai-trend",
+          "title": "Reverse Hurdle AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/reverse-hurdle-ai-trend",
+          "title": "Reverse Hurdle AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "robot-girl",
+      "name": "Robot Girl",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/robot-girl-ai-trend",
+          "title": "Robot Girl AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/robot-girl-ai-trend",
+          "title": "Robot Girl AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "ryuk",
+      "name": "Ryuk",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/ryuk-ai-trend",
+          "title": "Ryuk AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/ryuk-ai-trend",
+          "title": "Ryuk AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "school-photo",
+      "name": "School Photo",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/ai-school-photo",
+          "title": "AI School Photo"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/ai-school-photo",
+          "title": "AI School Photo"
+        }
+      ]
+    },
+    {
+      "key": "shaking-head",
+      "name": "Shaking Head",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/shaking-head-ai-trend",
+          "title": "Shaking Head AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/shaking-head-ai-trend",
+          "title": "Shaking Head AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "shan-shen-bu-dance",
+      "name": "Shan Shen Bu Dance",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/shan-shen-bu-ai-dance",
+          "title": "Shan Shen Bu AI Dance"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/shan-shen-bu-ai-dance",
+          "title": "Shan Shen Bu AI Dance"
+        }
+      ]
+    },
+    {
+      "key": "shaving-cream",
+      "name": "Shaving Cream",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "DoTheTrend",
+          "url": "https://dothetrend.ai/templates/shaving-cream-ai-trend",
+          "title": "Shaving Cream AI Trend"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/shaving-cream-trend",
+          "title": "Shaving Cream Trend"
+        }
+      ]
+    },
+    {
+      "key": "shoulder-carry-im-the-one",
+      "name": "Shoulder Carry Im The One",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/shoulder-carry-im-the-one-ai-trend",
+          "title": "Shoulder Carry Im The One AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/shoulder-carry-im-the-one-ai-trend",
+          "title": "Shoulder Carry Im The One AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "singing-dog",
+      "name": "Singing Dog",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/singing-dog-ai-trend",
+          "title": "Singing Dog AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/singing-dog-ai-trend",
+          "title": "Singing Dog AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "skyfall",
+      "name": "Skyfall",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/skyfall-ai-trend",
+          "title": "Skyfall AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/skyfall-ai-trend",
+          "title": "Skyfall AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "slap-everyone",
+      "name": "Slap Everyone",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/slap-everyone-ai-trend",
+          "title": "Slap Everyone AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/slap-everyone-ai-trend",
+          "title": "Slap Everyone AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "smalltown-boy",
+      "name": "Smalltown Boy",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeMeme.video",
+          "url": "https://makememe.video/smalltown-boy-ai",
+          "title": "Smalltown Boy AI"
+        },
+        {
+          "site": "TrendTemplate",
+          "url": "https://trendtemplate.com/smalltown-boy-ai",
+          "title": "Smalltown Boy AI"
+        }
+      ]
+    },
+    {
+      "key": "smash-and-grab",
+      "name": "Smash And Grab",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/smash-and-grab-ai-trend",
+          "title": "Smash And Grab AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/smash-and-grab-ai-trend",
+          "title": "Smash And Grab AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "sniffer-dog",
+      "name": "Sniffer Dog",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/sniffer-dog-ai-trend",
+          "title": "Sniffer Dog AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/sniffer-dog-ai-trend",
+          "title": "Sniffer Dog AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "snow-leopard-paws-at-you",
+      "name": "Snow Leopard Paws At You",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "ClipRemake",
+          "url": "https://clipremake.com/templates/snow-leopard-paws-at-you-ai",
+          "title": "Snow Leopard Paws At You AI"
+        },
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/snow-leopard-paws-at-you-ai",
+          "title": "Snow Leopard Paws At You AI"
+        }
+      ]
+    },
+    {
+      "key": "south-park",
+      "name": "South Park",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/south-park-ai-filter",
+          "title": "South Park AI Filter"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/south-park-ai-filter",
+          "title": "South Park AI Filter"
+        }
+      ]
+    },
+    {
+      "key": "spooky-scary-skeletons-dance",
+      "name": "Spooky Scary Skeletons Dance",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/spooky-scary-skeletons-ai-dance",
+          "title": "Spooky Scary Skeletons AI Dance"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/spooky-scary-skeletons-ai-dance",
+          "title": "Spooky Scary Skeletons AI Dance"
+        }
+      ]
+    },
+    {
+      "key": "squishy",
+      "name": "Squishy",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/squishy-ai-trend",
+          "title": "Squishy AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/squishy-ai-trend",
+          "title": "Squishy AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "stadium-calm-down",
+      "name": "Stadium Calm Down",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/stadium-calm-down-ai-trend",
+          "title": "Stadium Calm Down AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/stadium-calm-down-ai-trend",
+          "title": "Stadium Calm Down AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "stateside-dance",
+      "name": "Stateside Dance",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/stateside-dance-ai-trend",
+          "title": "Stateside Dance AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/stateside-dance-ai-trend",
+          "title": "Stateside Dance AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "steroids",
+      "name": "Steroids",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/ai-steroids-filter",
+          "title": "AI Steroids Filter"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/ai-steroids-filter",
+          "title": "AI Steroids Filter"
+        }
+      ]
+    },
+    {
+      "key": "storm",
+      "name": "Storm",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/storm-ai-trend",
+          "title": "Storm AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/storm-ai-trend",
+          "title": "Storm AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "street-light-slide-effect",
+      "name": "Street Light Slide Effect",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/street-light-slide-ai-effect",
+          "title": "Street Light Slide AI Effect"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/street-light-slide-ai-effect",
+          "title": "Street Light Slide AI Effect"
+        }
+      ]
+    },
+    {
+      "key": "strike-a-pole",
+      "name": "Strike A Pole",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/strike-a-pole-ai-trend",
+          "title": "Strike A Pole AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/strike-a-pole-ai-trend",
+          "title": "Strike A Pole AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "symmetry",
+      "name": "Symmetry",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/symmetry-filter-ai",
+          "title": "Symmetry Filter AI"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/symmetry-filter-ai",
+          "title": "Symmetry Filter AI"
+        }
+      ]
+    },
+    {
+      "key": "tamagawa-koi-dance",
+      "name": "Tamagawa Koi Dance",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/tamagawa-koi-ai-dance",
+          "title": "Tamagawa Koi AI Dance"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/tamagawa-koi-ai-dance",
+          "title": "Tamagawa Koi AI Dance"
+        }
+      ]
+    },
+    {
+      "key": "the-end",
+      "name": "The End",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/the-end-ai-trend",
+          "title": "The End AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/the-end-ai-trend",
+          "title": "The End AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "three-bogatyrs",
+      "name": "Three Bogatyrs",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/three-bogatyrs-ai-trend",
+          "title": "Three Bogatyrs AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/three-bogatyrs-ai-trend",
+          "title": "Three Bogatyrs AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "tim-burton-girls",
+      "name": "Tim Burton Girls",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/tim-burton-girls-ai-trend",
+          "title": "Tim Burton Girls AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/tim-burton-girls-ai-trend",
+          "title": "Tim Burton Girls AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "times-square-billboard",
+      "name": "Times Square Billboard",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/times-square-billboard-ai-trend",
+          "title": "Times Square Billboard AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/times-square-billboard-ai-trend",
+          "title": "Times Square Billboard AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "toesa-quit-job",
+      "name": "Toesa Quit Job",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/toesa-quit-job-ai-trend",
+          "title": "Toesa Quit Job AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/toesa-quit-job-ai-trend",
+          "title": "Toesa Quit Job AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "toosie-slide",
+      "name": "Toosie Slide",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/toosie-slide-ai-trend",
+          "title": "Toosie Slide AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/toosie-slide-ai-trend",
+          "title": "Toosie Slide AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "topo-gigio-celebration",
+      "name": "Topo Gigio Celebration",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/topo-gigio-celebration-ai-trend",
+          "title": "Topo Gigio Celebration AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/topo-gigio-celebration-ai-trend",
+          "title": "Topo Gigio Celebration AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "toz-pembe",
+      "name": "Toz Pembe",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/toz-pembe-ai-trend",
+          "title": "Toz Pembe AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/toz-pembe-ai-trend",
+          "title": "Toz Pembe AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "training-season-dance",
+      "name": "Training Season Dance",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/training-season-dance-ai-trend",
+          "title": "Training Season Dance AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/training-season-dance-ai-trend",
+          "title": "Training Season Dance AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "trouble-maker-dance",
+      "name": "Trouble Maker Dance",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/trouble-maker-ai-dance",
+          "title": "Trouble Maker AI Dance"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/trouble-maker-ai-dance",
+          "title": "Trouble Maker AI Dance"
+        }
+      ]
+    },
+    {
+      "key": "venom-car",
+      "name": "Venom Car",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/venom-car-ai-trend",
+          "title": "Venom Car AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/venom-car-ai-trend",
+          "title": "Venom Car AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "venom-makeup",
+      "name": "Venom Makeup",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/venom-makeup-ai-trend",
+          "title": "Venom Makeup AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/venom-makeup-ai-trend",
+          "title": "Venom Makeup AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "victoria-secret-runway",
+      "name": "Victoria Secret Runway",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/victoria-secret-runway-ai-trend",
+          "title": "Victoria Secret Runway AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/victoria-secret-runway-ai-trend",
+          "title": "Victoria Secret Runway AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "wassup-in-a-minute",
+      "name": "Wassup In A Minute",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/wassup-in-a-minute-ai-trend",
+          "title": "Wassup In A Minute AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/wassup-in-a-minute-ai-trend",
+          "title": "Wassup In A Minute AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "werewolf-transformation",
+      "name": "Werewolf Transformation",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/ai-werewolf-transformation",
+          "title": "AI Werewolf Transformation"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/ai-werewolf-transformation",
+          "title": "AI Werewolf Transformation"
+        }
+      ]
+    },
+    {
+      "key": "what-stop-sign",
+      "name": "What Stop Sign",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/what-stop-sign-ai-trend",
+          "title": "What Stop Sign AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/what-stop-sign-ai-trend",
+          "title": "What Stop Sign AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "whiny-dog",
+      "name": "Whiny Dog",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/whiny-dog-ai-trend",
+          "title": "Whiny Dog AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/whiny-dog-ai-trend",
+          "title": "Whiny Dog AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "wipe-me-down-dance",
+      "name": "Wipe Me Down Dance",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/wipe-me-down-ai-dance",
+          "title": "Wipe Me Down AI Dance"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/wipe-me-down-ai-dance",
+          "title": "Wipe Me Down AI Dance"
+        }
+      ]
+    },
+    {
+      "key": "wyw-my-sweetie-dance",
+      "name": "Wyw My Sweetie Dance",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/wyw-my-sweetie-ai-dance",
+          "title": "Wyw My Sweetie AI Dance"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/wyw-my-sweetie-ai-dance",
+          "title": "Wyw My Sweetie AI Dance"
+        }
+      ]
+    },
+    {
+      "key": "yamal-no-rabona",
+      "name": "Yamal No Rabona",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/yamal-no-rabona-ai-trend",
+          "title": "Yamal No Rabona AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/yamal-no-rabona-ai-trend",
+          "title": "Yamal No Rabona AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "you-look-lonely",
+      "name": "You Look Lonely",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/you-look-lonely-ai-trend",
+          "title": "You Look Lonely AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/you-look-lonely-ai-trend",
+          "title": "You Look Lonely AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "you-talking-bout-me",
+      "name": "You Talking Bout Me",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/you-talking-bout-me-ai-trend",
+          "title": "You Talking Bout Me AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/you-talking-bout-me-ai-trend",
+          "title": "You Talking Bout Me AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "you-tweaking",
+      "name": "You Tweaking",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/you-tweaking-ai-trend",
+          "title": "You Tweaking AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/you-tweaking-ai-trend",
+          "title": "You Tweaking AI Trend"
+        }
+      ]
+    },
+    {
+      "key": "your-next-opponent-is-you",
+      "name": "Your Next Opponent Is You",
+      "site_count": 2,
+      "sites": [
+        {
+          "site": "MakeViral",
+          "url": "https://www.makeviral.ai/templates/your-next-opponent-is-you-ai-trend",
+          "title": "Your Next Opponent Is You AI Trend"
+        },
+        {
+          "site": "Smew AI",
+          "url": "https://smew.ai/templates/your-next-opponent-is-you-ai-trend",
+          "title": "Your Next Opponent Is You AI Trend"
+        }
+      ]
+    }
+  ]
+}

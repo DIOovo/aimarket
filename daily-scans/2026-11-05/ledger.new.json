@@ -1,0 +1,102 @@
+{
+  "checked_at": "2026-11-05T09:14:43+08:00",
+  "timezone": "Asia/Shanghai",
+  "baseline": false,
+  "previous_checked_at": "2026-11-04T09:07:49+08:00",
+  "sites": [
+    {
+      "site": "DoTheTrend",
+      "file": "dothetrend.json",
+      "home": "https://dothetrend.ai/",
+      "sitemap_existed": true,
+      "sitemap_urls_found": [
+        "https://dothetrend.ai/sitemap.xml"
+      ],
+      "template_count": 70,
+      "new_count": 0,
+      "removed_count": 0,
+      "dropped_dead_count": 0
+    },
+    {
+      "site": "TrendTemplate",
+      "file": "trendtemplate.json",
+      "home": "https://trendtemplate.com/",
+      "sitemap_existed": true,
+      "sitemap_urls_found": [
+        "https://trendtemplate.com/sitemap.xml"
+      ],
+      "template_count": 12,
+      "new_count": 0,
+      "removed_count": 0,
+      "dropped_dead_count": 0
+    },
+    {
+      "site": "MemeFX AI",
+      "file": "memefxai.json",
+      "home": "https://memefxai.com/",
+      "sitemap_existed": true,
+      "sitemap_urls_found": [
+        "https://memefxai.com/sitemap.xml"
+      ],
+      "template_count": 61,
+      "new_count": 0,
+      "removed_count": 0,
+      "dropped_dead_count": 0
+    },
+    {
+      "site": "ClipRemake",
+      "file": "clipremake.json",
+      "home": "https://clipremake.com/",
+      "sitemap_existed": true,
+      "sitemap_urls_found": [
+        "https://clipremake.com/sitemap.xml"
+      ],
+      "template_count": 38,
+      "new_count": 1,
+      "removed_count": 0,
+      "dropped_dead_count": 0
+    },
+    {
+      "site": "Remake Your Meme",
+      "file": "remakeyourmeme.json",
+      "home": "https://remakeyourmeme.com/",
+      "sitemap_existed": true,
+      "sitemap_urls_found": [
+        "https://remakeyourmeme.com/sitemap.xml"
+      ],
+      "template_count": 28,
+      "new_count": 2,
+      "removed_count": 0,
+      "dropped_dead_count": 0
+    },
+    {
+      "site": "MakeViral",
+      "file": "makeviral.json",
+      "home": "https://www.makeviral.ai/",
+      "sitemap_existed": true,
+      "sitemap_urls_found": [
+        "https://www.makeviral.ai/sitemap.xml"
+      ],
+      "template_count": 360,
+      "new_count": 17,
+      "removed_count": 0,
+      "dropped_dead_count": 0
+    },
+    {
+      "site": "Smew AI",
+      "file": "smew.json",
+      "home": "https://smew.ai/",
+      "sitemap_existed": true,
+      "sitemap_urls_found": [
+        "https://smew.ai/sitemap.xml"
+      ],
+      "template_count": 283,
+      "new_count": 10,
+      "removed_count": 0,
+      "dropped_dead_count": 0
+    }
+  ],
+  "total_templates": 852,
+  "total_new": 30,
+  "total_removed": 0
+}

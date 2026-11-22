@@ -1,0 +1,86 @@
+{
+  "site": "TrendSwap",
+  "file": "trendswap.json",
+  "prev": 55,
+  "now": 70,
+  "fetch_ok": true,
+  "notes": [],
+  "new": [
+    {
+      "id_or_slug": "apple-touch-icon.png",
+      "title": "Apple Touch Icon.png",
+      "url": "https://trendswap.app/apple-touch-icon.png"
+    },
+    {
+      "id_or_slug": "content-policy",
+      "title": "Content Policy",
+      "url": "https://trendswap.app/content-policy"
+    },
+    {
+      "id_or_slug": "dance",
+      "title": "Dance",
+      "url": "https://trendswap.app/dance"
+    },
+    {
+      "id_or_slug": "duo",
+      "title": "Duo",
+      "url": "https://trendswap.app/duo"
+    },
+    {
+      "id_or_slug": "favicon.ico",
+      "title": "Favicon.ico",
+      "url": "https://trendswap.app/favicon.ico"
+    },
+    {
+      "id_or_slug": "icon-192.png",
+      "title": "Icon 192.png",
+      "url": "https://trendswap.app/icon-192.png"
+    },
+    {
+      "id_or_slug": "la-mujer-del-pelotero-ai",
+      "title": "La Mujer Del Pelotero AI",
+      "url": "https://trendswap.app/la-mujer-del-pelotero-ai"
+    },
+    {
+      "id_or_slug": "meme",
+      "title": "Meme",
+      "url": "https://trendswap.app/meme"
+    },
+    {
+      "id_or_slug": "new",
+      "title": "New",
+      "url": "https://trendswap.app/new"
+    },
+    {
+      "id_or_slug": "pet",
+      "title": "Pet",
+      "url": "https://trendswap.app/pet"
+    },
+    {
+      "id_or_slug": "prompts",
+      "title": "Prompts",
+      "url": "https://trendswap.app/prompts"
+    },
+    {
+      "id_or_slug": "refund-policy",
+      "title": "Refund Policy",
+      "url": "https://trendswap.app/refund-policy"
+    },
+    {
+      "id_or_slug": "sheru-bhai-ai",
+      "title": "Sheru Bhai AI",
+      "url": "https://trendswap.app/sheru-bhai-ai"
+    },
+    {
+      "id_or_slug": "site.webmanifest",
+      "title": "Site.webmanifest",
+      "url": "https://trendswap.app/site.webmanifest"
+    },
+    {
+      "id_or_slug": "videos",
+      "title": "Videos",
+      "url": "https://trendswap.app/videos"
+    }
+  ],
+  "removed": []
+}

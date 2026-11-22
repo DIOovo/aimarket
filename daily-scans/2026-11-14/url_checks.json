@@ -1,0 +1,920 @@
+[
+  {
+    "kind": "candidate",
+    "site": "MakeMeme.video",
+    "url": "https://makememe.video/baby-riding-reindeer-ai",
+    "status": 200,
+    "final": "https://makememe.video/baby-riding-reindeer-ai",
+    "title": "Baby Riding Reindeer AI: Ride With Santa Video | MakeMeme",
+    "og": "Baby Riding Reindeer AI: Ride With Santa Video",
+    "h1": "Baby Riding Reindeer AI Video Generator",
+    "desc": "Make the baby riding a reindeer video from one photo: your little one gallops down a snowy street with Santa, then flies off over the village. 10 seconds.",
+    "looks_404": false,
+    "len": 200000,
+    "item": {
+      "id_or_slug": "baby-riding-reindeer-ai",
+      "title": "Baby Riding Reindeer AI",
+      "url": "https://makememe.video/baby-riding-reindeer-ai"
+    }
+  },
+  {
+    "kind": "candidate",
+    "site": "MakeMeme.video",
+    "url": "https://makememe.video/christmas-dance-ai",
+    "status": 200,
+    "final": "https://makememe.video/christmas-dance-ai",
+    "title": "Christmas Dance AI: Pick a Viral Christmas Dance | MakeMeme",
+    "og": "Christmas Dance AI: Pick a Viral Christmas Dance",
+    "h1": "Christmas Dance AI Video Generator",
+    "desc": "Make an AI Christmas dance video from photos: pick one of four viral Christmas dances and an outfit, and you and a friend, kid or pet dance it. 15s, with music.",
+    "looks_404": false,
+    "len": 200000,
+    "item": {
+      "id_or_slug": "christmas-dance-ai",
+      "title": "Christmas Dance AI",
+      "url": "https://makememe.video/christmas-dance-ai"
+    }
+  },
+  {
+    "kind": "candidate",
+    "site": "MakeMeme.video",
+    "url": "https://makememe.video/grinch-pet-filter",
+    "status": 200,
+    "final": "https://makememe.video/grinch-pet-filter",
+    "title": "Grinch Pet Filter: Turn Your Pet Into the Grinch | MakeMeme",
+    "og": "Grinch Pet Filter: Turn Your Pet Into the Grinch",
+    "h1": "Grinch Pet Filter Video Generator",
+    "desc": "Make the Grinch pet filter video from one photo: your dog or cat turns into a green, grinning Grinch in a Santa hat and suit, right where it sits. With sound.",
+    "looks_404": false,
+    "len": 200000,
+    "item": {
+      "id_or_slug": "grinch-pet-filter",
+      "title": "Grinch Pet Filter",
+      "url": "https://makememe.video/grinch-pet-filter"
+    }
+  },
+  {
+    "kind": "candidate",
+    "site": "MakeViral",
+    "url": "https://www.makeviral.ai/templates/ai-cat-gym-video",
+    "status": 200,
+    "final": "https://www.makeviral.ai/templates/ai-cat-gym-video",
+    "title": "AI Cat Gym Video: Your Pet Slips Off the Air Walker",
+    "og": "AI Cat Gym Video: Your Pet Slips Off the Air Walker",
+    "h1": "AI Cat Gym Video : Put Your Pet on the Air Walker",
+    "desc": "Make the AI cat gym video: your cat, your dog or you on an outdoor air walker, legs flailing, then the slip, with the original sound. Add one photo.",
+    "looks_404": false,
+    "len": 200000,
+    "item": {
+      "id_or_slug": "ai-cat-gym-video",
+      "title": "AI Cat Gym Video",
+      "url": "https://www.makeviral.ai/templates/ai-cat-gym-video"
+    }
+  },
+  {
+    "kind": "candidate",
+    "site": "MakeViral",
+    "url": "https://www.makeviral.ai/templates/aint-you-my-gangsta-ai-trend",
+    "status": 200,
+    "final": "https://www.makeviral.ai/templates/aint-you-my-gangsta-ai-trend",
+    "title": "Ain&#x27;t You My Gangsta B: AI Yes Trend With Your Photos",
+    "og": "Ain&#x27;t You My Gangsta B: AI Yes Trend With Your Photos",
+    "h1": "Ain&#x27;t You My Gangsta B : Make the &quot;Yes!&quot; Trend With AI",
+    "desc": "Make the ain&#x27;t you my gangsta trend with AI: you ask, your partner, friend or dog says yes, with the original sound. Add two photos.",
+    "looks_404": false,
+    "len": 200000,
+    "item": {
+      "id_or_slug": "aint-you-my-gangsta-ai-trend",
+      "title": "Aint You My Gangsta AI Trend",
+      "url": "https://www.makeviral.ai/templates/aint-you-my-gangsta-ai-trend"
+    }
+  },
+  {
+    "kind": "candidate",
+    "site": "MakeViral",
+    "url": "https://www.makeviral.ai/templates/all-i-want-for-christmas-ai-trend",
+    "status": 200,
+    "final": "https://www.makeviral.ai/templates/all-i-want-for-christmas-ai-trend",
+    "title": "All I Want for Christmas Dance AI: Do the TikTok Trend",
+    "og": "All I Want for Christmas Dance AI: Do the TikTok Trend",
+    "h1": "All I Want for Christmas Dance : Join the TikTok Trend With Your Photos",
+    "desc": "Do the All I Want for Christmas dance from TikTok: two photos put you and a friend in the pajama duo, three make a trio, one does it solo. Make yours now.",
+    "looks_404": false,
+    "len": 200000,
+    "item": {
+      "id_or_slug": "all-i-want-for-christmas-ai-trend",
+      "title": "All I Want For Christmas AI Trend",
+      "url": "https://www.makeviral.ai/templates/all-i-want-for-christmas-ai-trend"
+    }
+  },
+  {
+    "kind": "candidate",
+    "site": "MakeViral",
+    "url": "https://www.makeviral.ai/templates/bad-aim-edit-ai-trend",
+    "status": 200,
+    "final": "https://www.makeviral.ai/templates/bad-aim-edit-ai-trend",
+    "title": "Bad Aim Edit AI Trend: Miss the Shot, Own the Office",
+    "og": "Bad Aim Edit AI Trend: Miss the Shot, Own the Office",
+    "h1": "Bad Aim Edit AI Trend : Miss the Target, Then Own the Office",
+    "desc": "Make the bad aim edit with AI: you or your pet miss a flying target with a bow, then star in a black and white office edit, with the sound. Add a photo.",
+    "looks_404": false,
+    "len": 200000,
+    "item": {
+      "id_or_slug": "bad-aim-edit-ai-trend",
+      "title": "Bad Aim Edit AI Trend",
+      "url": "https://www.makeviral.ai/templates/bad-aim-edit-ai-trend"
+    }
+  },
+  {
+    "kind": "candidate",
+    "site": "MakeViral",
+    "url": "https://www.makeviral.ai/templates/balmain-couple-yacht-ai-trend",
+    "status": 200,
+    "final": "https://www.makeviral.ai/templates/balmain-couple-yacht-ai-trend",
+    "title": "Balmain Earkid AI Trend: Couple Yacht Selfie Video",
+    "og": "Balmain Earkid AI Trend: Couple Yacht Selfie Video",
+    "h1": "Balmain Earkid Trend : The Couple Yacht Selfie, Made From Your Photos",
+    "desc": "Make the Balmain Earkid couple yacht video: a selfie on a moving yacht, a turn to your partner asleep beside you, the song on top. Add two photos.",
+    "looks_404": false,
+    "len": 200000,
+    "item": {
+      "id_or_slug": "balmain-couple-yacht-ai-trend",
+      "title": "Balmain Couple Yacht AI Trend",
+      "url": "https://www.makeviral.ai/templates/balmain-couple-yacht-ai-trend"
+    }
+  },
+  {
+    "kind": "candidate",
+    "site": "MakeViral",
+    "url": "https://www.makeviral.ai/templates/cat-shower-ai-trend",
+    "status": 200,
+    "final": "https://www.makeviral.ai/templates/cat-shower-ai-trend",
+    "title": "Cat Shower AI: The Winter Bath Dodge Trend",
+    "og": "Cat Shower AI: The Winter Bath Dodge Trend",
+    "h1": "Cat Shower AI : Dodge the Water, Dive Under the Blanket",
+    "desc": "Make the cat shower AI trend: you or your pet pour water, dodge every drop and dive under the blanket, with the original sound. Add one photo.",
+    "looks_404": false,
+    "len": 200000,
+    "item": {
+      "id_or_slug": "cat-shower-ai-trend",
+      "title": "Cat Shower AI Trend",
+      "url": "https://www.makeviral.ai/templates/cat-shower-ai-trend"
+    }
+  },
+  {
+    "kind": "candidate",
+    "site": "MakeViral",
+    "url": "https://www.makeviral.ai/templates/chatgpt-sweater-portrait-trend",
+    "status": 200,
+    "final": "https://www.makeviral.ai/templates/chatgpt-sweater-portrait-trend",
+    "title": "ChatGPT Sweater Trend: AI Sweater Portrait From 1 Photo",
+    "og": "ChatGPT Sweater Trend: AI Sweater Portrait From 1 Photo",
+    "h1": "ChatGPT Sweater Trend : Black and White Portrait, Colored Sweater",
+    "desc": "Do the ChatGPT sweater trend: a black-and-white portrait where only your chunky sweater is in color, sleeves over your mouth. Add one photo to start.",
+    "looks_404": false,
+    "len": 200000,
+    "item": {
+      "id_or_slug": "chatgpt-sweater-portrait-trend",
+      "title": "Chatgpt Sweater Portrait Trend",
+      "url": "https://www.makeviral.ai/templates/chatgpt-sweater-portrait-trend"
+    }
+  },
+  {
+    "kind": "candidate",
+    "site": "MakeViral",
+    "url": "https://www.makeviral.ai/templates/christian-dior-dance-ai-trend",
+    "status": 200,
+    "final": "https://www.makeviral.ai/templates/christian-dior-dance-ai-trend",
+    "title": "Christian Dior Dance AI: Do the TikTok Duo From Photos",
+    "og": "Christian Dior Dance AI: Do the TikTok Duo From Photos",
+    "h1": "Christian Dior Dance AI : Do the Viral TikTok Duo From Your Photos",
+    "desc": "Do the viral Christian Dior dance, the I love Christian Dior duo from TikTok: add two photos, one photo or your pet and get it with the song. Try it.",
+    "looks_404": false,
+    "len": 200000,
+    "item": {
+      "id_or_slug": "christian-dior-dance-ai-trend",
+      "title": "Christian Dior Dance AI Trend",
+      "url": "https://www.makeviral.ai/templates/christian-dior-dance-ai-trend"
+    }
+  },
+  {
+    "kind": "candidate",
+    "site": "MakeViral",
+    "url": "https://www.makeviral.ai/templates/christmas-photobooth-ai-trend",
+    "status": 200,
+    "final": "https://www.makeviral.ai/templates/christmas-photobooth-ai-trend",
+    "title": "Christmas Photobooth Trend AI: Your Last Christmas Strip",
+    "og": "Christmas Photobooth Trend AI: Your Last Christmas Strip",
+    "h1": "Christmas Photobooth Trend AI : Put Your Faces on the Last Christmas Strip",
+    "desc": "Do the viral Christmas photobooth trend: two photos put you and a friend, or your pet, on the Last Christmas photo strips, one pose per line. Try it now.",
+    "looks_404": false,
+    "len": 200000,
+    "item": {
+      "id_or_slug": "christmas-photobooth-ai-trend",
+      "title": "Christmas Photobooth AI Trend",
+      "url": "https://www.makeviral.ai/templates/christmas-photobooth-ai-trend"
+    }
+  },
+  {
+    "kind": "candidate",
+    "site": "MakeViral",
+    "url": "https://www.makeviral.ai/templates/demolition-walk-ai-trend",
+    "status": 200,
+    "final": "https://www.makeviral.ai/templates/demolition-walk-ai-trend",
+    "title": "Jake Gyllenhaal Headphones Walk AI: Your Demolition Scene",
+    "og": "Jake Gyllenhaal Headphones Walk AI: Your Demolition Scene",
+    "h1": "Jake Gyllenhaal Headphones Walk AI : Your Own Demolition Scene",
+    "desc": "Make the Jake Gyllenhaal headphones walk with AI: one photo, and you stroll through a rush-hour crowd in shades, Demolition style. Add your photo.",
+    "looks_404": false,
+    "len": 200000,
+    "item": {
+      "id_or_slug": "demolition-walk-ai-trend",
+      "title": "Demolition Walk AI Trend",
+      "url": "https://www.makeviral.ai/templates/demolition-walk-ai-trend"
+    }
+  },
+  {
+    "kind": "candidate",
+    "site": "MakeViral",
+    "url": "https://www.makeviral.ai/templates/favorite-rumors-about-us-ai-trend",
+    "status": 200,
+    "final": "https://www.makeviral.ai/templates/favorite-rumors-about-us-ai-trend",
+    "title": "Favorite Rumors About Us AI: The Couple Rumors Trend",
+    "og": "Favorite Rumors About Us AI: The Couple Rumors Trend",
+    "h1": "Favorite Rumors About Us AI : Do the Couple Rumors Trend From Two Photos",
+    "desc": "Do the Favorite Rumors About Us trend from two photos: rumor captions, goofy dance bursts and the Zany Emote sound. Couple, pet and no-caption versions.",
+    "looks_404": false,
+    "len": 200000,
+    "item": {
+      "id_or_slug": "favorite-rumors-about-us-ai-trend",
+      "title": "Favorite Rumors About US AI Trend",
+      "url": "https://www.makeviral.ai/templates/favorite-rumors-about-us-ai-trend"
+    }
+  },
+  {
+    "kind": "candidate",
+    "site": "MakeViral",
+    "url": "https://www.makeviral.ai/templates/fitting-room-outfit-change-ai-trend",
+    "status": 200,
+    "final": "https://www.makeviral.ai/templates/fitting-room-outfit-change-ai-trend",
+    "title": "Fitting Room Outfit Change AI: 5 Looks, 5 Curtains",
+    "og": "Fitting Room Outfit Change AI: 5 Looks, 5 Curtains",
+    "h1": "Fitting Room Outfit Change AI : A New Look Behind Every Curtain",
+    "desc": "Make the fitting room outfit change from one photo: the camera glides past five fitting rooms, and you pull each curtain in a new look. Add your photo.",
+    "looks_404": false,
+    "len": 200000,
+    "item": {
+      "id_or_slug": "fitting-room-outfit-change-ai-trend",
+      "title": "Fitting Room Outfit Change AI Trend",
+      "url": "https://www.makeviral.ai/templates/fitting-room-outfit-change-ai-trend"
+    }
+  },
+  {
+    "kind": "candidate",
+    "site": "MakeViral",
+    "url": "https://www.makeviral.ai/templates/flash-couple-silhouette-ai-photo",
+    "status": 200,
+    "final": "https://www.makeviral.ai/templates/flash-couple-silhouette-ai-photo",
+    "title": "Flashlight Trend: Couple Photo on Black With Rim Light",
+    "og": "Flashlight Trend: Couple Photo on Black With Rim Light",
+    "h1": "Flashlight Trend : Your Couple Photo on Pure Black With a Warm Rim Light",
+    "desc": "Make the flashlight trend photo: you two on pure black, a warm rim light in your hair and a small white heart above. Two photos or one. Try it.",
+    "looks_404": false,
+    "len": 200000,
+    "item": {
+      "id_or_slug": "flash-couple-silhouette-ai-photo",
+      "title": "Flash Couple Silhouette AI Photo",
+      "url": "https://www.makeviral.ai/templates/flash-couple-silhouette-ai-photo"
+    }
+  },
+  {
+    "kind": "candidate",
+    "site": "MakeViral",
+    "url": "https://www.makeviral.ai/templates/i-thought-it-was-a-mountain-ai-trend",
+    "status": 200,
+    "final": "https://www.makeviral.ai/templates/i-thought-it-was-a-mountain-ai-trend",
+    "title": "I Thought It Was a Mountain AI: The Hill Is a Dinosaur",
+    "og": "I Thought It Was a Mountain AI: The Hill Is a Dinosaur",
+    "h1": "I Thought It Was a Mountain AI : You Climb a Hill, and It Is a Dinosaur",
+    "desc": "Make the I thought it was a mountain AI video: climb a mossy hill that turns out to be a giant dinosaur&#x27;s head and ride it into the sky. Try it now.",
+    "looks_404": false,
+    "len": 200000,
+    "item": {
+      "id_or_slug": "i-thought-it-was-a-mountain-ai-trend",
+      "title": "I Thought It Was A Mountain AI Trend",
+      "url": "https://www.makeviral.ai/templates/i-thought-it-was-a-mountain-ai-trend"
+    }
+  },
+  {
+    "kind": "candidate",
+    "site": "MakeViral",
+    "url": "https://www.makeviral.ai/templates/jensen-huang-ai-video",
+    "status": 200,
+    "final": "https://www.makeviral.ai/templates/jensen-huang-ai-video",
+    "title": "Jensen Huang AI Video: Ride With the Nvidia CEO",
+    "og": "Jensen Huang AI Video: Ride With the Nvidia CEO",
+    "h1": "Jensen Huang AI Video : Take the Wheel Next to the Nvidia CEO",
+    "desc": "Make the viral Jensen Huang AI video: you take the wheel in the car clip next to the Nvidia CEO, with the clip&#x27;s own sound. Add one photo to start.",
+    "looks_404": false,
+    "len": 200000,
+    "item": {
+      "id_or_slug": "jensen-huang-ai-video",
+      "title": "Jensen Huang AI Video",
+      "url": "https://www.makeviral.ai/templates/jensen-huang-ai-video"
+    }
+  },
+  {
+    "kind": "candidate",
+    "site": "MakeViral",
+    "url": "https://www.makeviral.ai/templates/mobland-paul-dance-ai",
+    "status": 200,
+    "final": "https://www.makeviral.ai/templates/mobland-paul-dance-ai",
+    "title": "MobLand Dance AI: Do Paul&#x27;s Dance From One Photo",
+    "og": "MobLand Dance AI: Do Paul&#x27;s Dance From One Photo",
+    "h1": "MobLand Dance AI : Do Paul&#x27;s Dance From One Photo",
+    "desc": "Make the MobLand dance with AI: you or your pet do Paul&#x27;s goofy swagger from season 2, kicks, knee lifts and shrugs, with the music. Add one photo.",
+    "looks_404": false,
+    "len": 200000,
+    "item": {
+      "id_or_slug": "mobland-paul-dance-ai",
+      "title": "Mobland Paul Dance AI",
+      "url": "https://www.makeviral.ai/templates/mobland-paul-dance-ai"
+    }
+  },
+  {
+    "kind": "candidate",
+    "site": "MakeViral",
+    "url": "https://www.makeviral.ai/templates/nyc-rats-ai-trend",
+    "status": 200,
+    "final": "https://www.makeviral.ai/templates/nyc-rats-ai-trend",
+    "title": "NYC Rats AI: The Never Take the Shortcut Rat Gang",
+    "og": "NYC Rats AI: The Never Take the Shortcut Rat Gang",
+    "h1": "NYC Rats AI : Never Take the Shortcut in NYC",
+    "desc": "The NYC rats AI trend: a rat gang stands up in a dark alley and squares up. Walk into the shortcut yourself, or make your pet the lead rat. Try it now.",
+    "looks_404": false,
+    "len": 200000,
+    "item": {
+      "id_or_slug": "nyc-rats-ai-trend",
+      "title": "Nyc Rats AI Trend",
+      "url": "https://www.makeviral.ai/templates/nyc-rats-ai-trend"
+    }
+  },
+  {
+    "kind": "candidate",
+    "site": "MakeViral",
+    "url": "https://www.makeviral.ai/templates/pet-taxi-ai-trend",
+    "status": 200,
+    "final": "https://www.makeviral.ai/templates/pet-taxi-ai-trend",
+    "title": "Cat Taxi AI: Your Giant Pet Picks You Up From Work",
+    "og": "Cat Taxi AI: Your Giant Pet Picks You Up From Work",
+    "h1": "Cat Taxi AI : Your Giant Pet Picks You Up After Work",
+    "desc": "Make the cat taxi AI video: hail your own cat or dog, now as big as a bus, at the curb after work and ride home on its back. Add two photos to start.",
+    "looks_404": false,
+    "len": 200000,
+    "item": {
+      "id_or_slug": "pet-taxi-ai-trend",
+      "title": "Pet Taxi AI Trend",
+      "url": "https://www.makeviral.ai/templates/pet-taxi-ai-trend"
+    }
+  },
+  {
+    "kind": "candidate",
+    "site": "MakeViral",
+    "url": "https://www.makeviral.ai/templates/pov-outfit-transition-ai-trend",
+    "status": 200,
+    "final": "https://www.makeviral.ai/templates/pov-outfit-transition-ai-trend",
+    "title": "POV Outfit Transition AI: A Look for Every Item",
+    "og": "POV Outfit Transition AI: A Look for Every Item",
+    "h1": "POV Outfit Transition AI : Six Items, Six Matching Looks",
+    "desc": "Make the POV outfit transition from one photo: a hand holds out an item, a jump cut, and you appear in a matching look. Six looks. Add your photo.",
+    "looks_404": false,
+    "len": 200000,
+    "item": {
+      "id_or_slug": "pov-outfit-transition-ai-trend",
+      "title": "Pov Outfit Transition AI Trend",
+      "url": "https://www.makeviral.ai/templates/pov-outfit-transition-ai-trend"
+    }
+  },
+  {
+    "kind": "candidate",
+    "site": "MakeViral",
+    "url": "https://www.makeviral.ai/templates/talk-to-me-doja-ai-trend",
+    "status": 200,
+    "final": "https://www.makeviral.ai/templates/talk-to-me-doja-ai-trend",
+    "title": "Talk to Me Doja AI Trend: Do the Anime Girl Sway",
+    "og": "Talk to Me Doja AI Trend: Do the Anime Girl Sway",
+    "h1": "Talk to Me Doja AI Trend : The Anime Girl Sway From One Photo",
+    "desc": "Make the Talk to me Doja trend from one photo: hands on your cheeks, a shy smile and the anime girl sway, with the sped-up Like That. Add your photo.",
+    "looks_404": false,
+    "len": 200000,
+    "item": {
+      "id_or_slug": "talk-to-me-doja-ai-trend",
+      "title": "Talk To Me Doja AI Trend",
+      "url": "https://www.makeviral.ai/templates/talk-to-me-doja-ai-trend"
+    }
+  },
+  {
+    "kind": "candidate",
+    "site": "MakeViral",
+    "url": "https://www.makeviral.ai/templates/tying-shoes-money-ai-trend",
+    "status": 200,
+    "final": "https://www.makeviral.ai/templates/tying-shoes-money-ai-trend",
+    "title": "Tying My Shoes Meme: Tip Cup AI Video With Your Photo",
+    "og": "Tying My Shoes Meme: Tip Cup AI Video With Your Photo",
+    "h1": "Tying My Shoes Meme : Put Yourself Behind the Tip Cup",
+    "desc": "Make the tying my shoes meme with AI: you or your pet set a cup on the park path, bend down, and strangers drop cash in it. Add one photo.",
+    "looks_404": false,
+    "len": 200000,
+    "item": {
+      "id_or_slug": "tying-shoes-money-ai-trend",
+      "title": "Tying Shoes Money AI Trend",
+      "url": "https://www.makeviral.ai/templates/tying-shoes-money-ai-trend"
+    }
+  },
+  {
+    "kind": "candidate",
+    "site": "MemeClone.ai",
+    "url": "https://memeclone.ai/templates/christmas-elf",
+    "status": 200,
+    "final": "https://memeclone.ai/templates/christmas-elf",
+    "title": "Elf Yourself AI: Dance the Christmas Trend as an Elf | MemeClone.ai",
+    "og": "Elf Yourself AI: Dance the Christmas Trend as an Elf | MemeClone.ai",
+    "h1": "Elf Yourself AI: Dance the Christmas Trend as an Elf",
+    "desc": "Elf yourself from one photo: your whole self, not a face on a cartoon, in a green elf costume in Santa&#x27;s workshop, doing TikTok&#x27;s deadpan Christmas dance to the Deck the Halls x Blow the Whistle mashup. Or pick the duo: you and a friend in plaid pajama pants by the fireplace or in the kitc",
+    "looks_404": false,
+    "len": 142918,
+    "item": {
+      "id_or_slug": "christmas-elf",
+      "title": "Christmas Elf",
+      "url": "https://memeclone.ai/templates/christmas-elf"
+    }
+  },
+  {
+    "kind": "candidate",
+    "site": "SameVid AI",
+    "url": "https://samevid.com/template/ai-alligator-dance",
+    "status": 200,
+    "final": "https://samevid.com/template/ai-alligator-dance",
+    "title": "AI Alligator Dance Video Generator | SameVid AI",
+    "og": "AI Alligator Dance Video Generator | SameVid AI",
+    "h1": "AI Alligator Dance Video Generator",
+    "desc": "Turn 1 photo into the viral AI Alligator Dance on a blue plaid bed. 15-second 720p HD video with synchronized music, 400 credits.",
+    "looks_404": false,
+    "len": 80177,
+    "item": {
+      "id_or_slug": "ai-alligator-dance",
+      "title": "AI Alligator Dance",
+      "url": "https://samevid.com/template/ai-alligator-dance"
+    }
+  },
+  {
+    "kind": "candidate",
+    "site": "SameVid AI",
+    "url": "https://samevid.com/template/almost-almost-ai-trend",
+    "status": 200,
+    "final": "https://samevid.com/template/almost-almost-ai-trend",
+    "title": "Almost Almost AI Video Generator | SameVid AI",
+    "og": "Almost Almost AI Video Generator | SameVid AI",
+    "h1": "Almost Almost AI Video Generator",
+    "desc": "Upload 1 photo to make an Almost Almost AI video: fast-food rush, rapid burger wrapping, and the dramatic near-miss toss with original sound. 190 credits.",
+    "looks_404": false,
+    "len": 89034,
+    "item": {
+      "id_or_slug": "almost-almost-ai-trend",
+      "title": "Almost Almost AI Trend",
+      "url": "https://samevid.com/template/almost-almost-ai-trend"
+    }
+  },
+  {
+    "kind": "candidate",
+    "site": "SameVid AI",
+    "url": "https://samevid.com/template/alvin-and-the-chipmunks-ai",
+    "status": 200,
+    "final": "https://samevid.com/template/alvin-and-the-chipmunks-ai",
+    "title": "Alvin and the Chipmunks AI Dance Generator | SameVid AI",
+    "og": "Alvin and the Chipmunks AI Dance Generator | SameVid AI",
+    "h1": "Alvin and the Chipmunks AI Dance Video Generator",
+    "desc": "Make the viral Alvin and the Chipmunks trio dance from 1-3 photos. 15s 9:16 HD video with You Spin Me Round chipmunk audio for 400 credits.",
+    "looks_404": false,
+    "len": 86097,
+    "item": {
+      "id_or_slug": "alvin-and-the-chipmunks-ai",
+      "title": "Alvin And The Chipmunks AI",
+      "url": "https://samevid.com/template/alvin-and-the-chipmunks-ai"
+    }
+  },
+  {
+    "kind": "candidate",
+    "site": "SameVid AI",
+    "url": "https://samevid.com/template/barbie-girl-dance-ai-trend",
+    "status": 200,
+    "final": "https://samevid.com/template/barbie-girl-dance-ai-trend",
+    "title": "Barbie Girl Dance AI Trend: Come On Barbie Let&#x27;s Go Party",
+    "og": "Barbie Girl Dance AI Trend: Come On Barbie Let&#x27;s Go Party",
+    "h1": "Barbie Girl Dance AI Trend: Come On Barbie Let&#x27;s Go Party",
+    "desc": "Do the viral Barbie Girl dance trend from two photos: step side-by-side into the iconic 13-second routine with Aqua&#x27;s sped-up remix beat.",
+    "looks_404": false,
+    "len": 85309,
+    "item": {
+      "id_or_slug": "barbie-girl-dance-ai-trend",
+      "title": "Barbie Girl Dance AI Trend",
+      "url": "https://samevid.com/template/barbie-girl-dance-ai-trend"
+    }
+  },
+  {
+    "kind": "candidate",
+    "site": "SameVid AI",
+    "url": "https://samevid.com/template/beans-greens-potatoes-tomatoes-ai-video",
+    "status": 200,
+    "final": "https://samevid.com/template/beans-greens-potatoes-tomatoes-ai-video",
+    "title": "Beans Greens Potatoes Tomatoes AI Video | SameVid AI",
+    "og": "Beans Greens Potatoes Tomatoes AI Video | SameVid AI",
+    "h1": "Beans Greens Potatoes Tomatoes AI Video Generator",
+    "desc": "Preach the viral Thanksgiving menu meme from 1-3 photos. 15s 720p HD church clip with the authentic Shirley Caesar sermon remix for 400 credits.",
+    "looks_404": false,
+    "len": 97945,
+    "item": {
+      "id_or_slug": "beans-greens-potatoes-tomatoes-ai-video",
+      "title": "Beans Greens Potatoes Tomatoes AI Video",
+      "url": "https://samevid.com/template/beans-greens-potatoes-tomatoes-ai-video"
+    }
+  },
+  {
+    "kind": "candidate",
+    "site": "SameVid AI",
+    "url": "https://samevid.com/template/davul-zurna-ai-trend",
+    "status": 200,
+    "final": "https://samevid.com/template/davul-zurna-ai-trend",
+    "title": "Davul Zurna AI Video Generator | SameVid AI",
+    "og": "Davul Zurna AI Video Generator | SameVid AI",
+    "h1": "Davul Zurna AI Video Generator",
+    "desc": "Upload 1–3 photos to make a Davul Zurna AI video: dance between drum and shawm in a Turkish workshop and sing Köprünün Altı with live audio. 400 credits.",
+    "looks_404": false,
+    "len": 89007,
+    "item": {
+      "id_or_slug": "davul-zurna-ai-trend",
+      "title": "Davul Zurna AI Trend",
+      "url": "https://samevid.com/template/davul-zurna-ai-trend"
+    }
+  },
+  {
+    "kind": "candidate",
+    "site": "SameVid AI",
+    "url": "https://samevid.com/template/distracted-boyfriend-ai-meme",
+    "status": 200,
+    "final": "https://samevid.com/template/distracted-boyfriend-ai-meme",
+    "title": "Distracted Boyfriend AI Meme Video Generator | SameVid AI",
+    "og": "Distracted Boyfriend AI Meme Video Generator | SameVid AI",
+    "h1": "Distracted Boyfriend AI Video Generator",
+    "desc": "Put yourself and friends into the famous Distracted Boyfriend meme: an 11s 720p street drama with a twist ending and authentic audio for 300 credits.",
+    "looks_404": false,
+    "len": 87580,
+    "item": {
+      "id_or_slug": "distracted-boyfriend-ai-meme",
+      "title": "Distracted Boyfriend AI Meme",
+      "url": "https://samevid.com/template/distracted-boyfriend-ai-meme"
+    }
+  },
+  {
+    "kind": "candidate",
+    "site": "SameVid AI",
+    "url": "https://samevid.com/template/elsa-ai-video",
+    "status": 200,
+    "final": "https://samevid.com/template/elsa-ai-video",
+    "title": "Elsa AI Video Generator | SameVid AI",
+    "og": "Elsa AI Video Generator | SameVid AI",
+    "h1": "Elsa AI Video Generator",
+    "desc": "Turn 1 selfie into a viral 15s Elsa AI video singing Let It Go in an ice palace with magical gown transformation in 720p HD for 400 credits.",
+    "looks_404": false,
+    "len": 78114,
+    "item": {
+      "id_or_slug": "elsa-ai-video",
+      "title": "Elsa AI Video",
+      "url": "https://samevid.com/template/elsa-ai-video"
+    }
+  },
+  {
+    "kind": "candidate",
+    "site": "SameVid AI",
+    "url": "https://samevid.com/template/hit-me-baby-one-more-time-ai-video",
+    "status": 200,
+    "final": "https://samevid.com/template/hit-me-baby-one-more-time-ai-video",
+    "title": "Hit Me Baby One More Time AI Video Generator | SameVid AI",
+    "og": "Hit Me Baby One More Time AI Video Generator | SameVid AI",
+    "h1": "Hit Me Baby One More Time AI Video Generator",
+    "desc": "Star in the iconic 1998 high school hallway dance from 1 photo. 15s 720p HD clip with pink pom-pom braids, knotted shirt, and original sound for 400 credits.",
+    "looks_404": false,
+    "len": 81379,
+    "item": {
+      "id_or_slug": "hit-me-baby-one-more-time-ai-video",
+      "title": "Hit Me Baby One More Time AI Video",
+      "url": "https://samevid.com/template/hit-me-baby-one-more-time-ai-video"
+    }
+  },
+  {
+    "kind": "candidate",
+    "site": "SameVid AI",
+    "url": "https://samevid.com/template/jurassic-run-ai",
+    "status": 200,
+    "final": "https://samevid.com/template/jurassic-run-ai",
+    "title": "Jurassic Run AI Video Generator | SameVid AI",
+    "og": "Jurassic Run AI Video Generator | SameVid AI",
+    "h1": "Jurassic Run AI Video Generator",
+    "desc": "Turn 1 photo into a cinematic 6s dinosaur chase video in 720p HD. Sprint for your life from a roaring T-Rex with authentic Foley audio for 160 credits.",
+    "looks_404": false,
+    "len": 80390,
+    "item": {
+      "id_or_slug": "jurassic-run-ai",
+      "title": "Jurassic Run AI",
+      "url": "https://samevid.com/template/jurassic-run-ai"
+    }
+  },
+  {
+    "kind": "candidate",
+    "site": "SameVid AI",
+    "url": "https://samevid.com/template/old-town-road-ai-video",
+    "status": 200,
+    "final": "https://samevid.com/template/old-town-road-ai-video",
+    "title": "Old Town Road AI Video Generator | SameVid AI",
+    "og": "Old Town Road AI Video Generator | SameVid AI",
+    "h1": "Old Town Road AI Video Generator",
+    "desc": "Ride the red convertible in the Old Town Road AI video from 1-2 photos. 15s 9:16 HD clip with the original Lil Nas X remix sound for 400 credits.",
+    "looks_404": false,
+    "len": 82567,
+    "item": {
+      "id_or_slug": "old-town-road-ai-video",
+      "title": "Old Town Road AI Video",
+      "url": "https://samevid.com/template/old-town-road-ai-video"
+    }
+  },
+  {
+    "kind": "candidate",
+    "site": "SameVid AI",
+    "url": "https://samevid.com/template/starbucks-sandwich-meme-ai",
+    "status": 200,
+    "final": "https://samevid.com/template/starbucks-sandwich-meme-ai",
+    "title": "Starbucks Sandwich Meme AI Video Generator | SameVid AI",
+    "og": "Starbucks Sandwich Meme AI Video Generator | SameVid AI",
+    "h1": "Starbucks Sandwich Meme AI Video Generator",
+    "desc": "Turn 1 photo into the viral Starbucks sandwich mystery meat meme. 6-second 720p HD video with authentic reaction sound for 160 credits.",
+    "looks_404": false,
+    "len": 79217,
+    "item": {
+      "id_or_slug": "starbucks-sandwich-meme-ai",
+      "title": "Starbucks Sandwich Meme AI",
+      "url": "https://samevid.com/template/starbucks-sandwich-meme-ai"
+    }
+  },
+  {
+    "kind": "candidate",
+    "site": "SameVid AI",
+    "url": "https://samevid.com/template/staring-at-me-mad-ai",
+    "status": 200,
+    "final": "https://samevid.com/template/staring-at-me-mad-ai",
+    "title": "She&#x27;s Staring At Me Mad AI Video Generator | SameVid AI",
+    "og": "She&#x27;s Staring At Me Mad AI Video Generator | SameVid AI",
+    "h1": "She&#x27;s Staring At Me Mad AI Video Generator",
+    "desc": "Turn 1-3 photos into the viral Ne-Yo &quot;Mad&quot; alley trio video. 15s 720p vertical MP4 with the sulking singer, death stare, and dancer for 400 credits.",
+    "looks_404": false,
+    "len": 89253,
+    "item": {
+      "id_or_slug": "staring-at-me-mad-ai",
+      "title": "Staring At Me Mad AI",
+      "url": "https://samevid.com/template/staring-at-me-mad-ai"
+    }
+  },
+  {
+    "kind": "candidate",
+    "site": "SameVid AI",
+    "url": "https://samevid.com/template/yan-diomande-ai",
+    "status": 200,
+    "final": "https://samevid.com/template/yan-diomande-ai",
+    "title": "Yan Diomande AI Video Generator | SameVid AI",
+    "og": "Yan Diomande AI Video Generator | SameVid AI",
+    "h1": "Yan Diomande AI Video Generator",
+    "desc": "Create a viral 10s Yan Diomande AI football celebration dance video from 1 photo with authentic stadium sound in 720p HD for 270 credits.",
+    "looks_404": false,
+    "len": 75462,
+    "item": {
+      "id_or_slug": "yan-diomande-ai",
+      "title": "Yan Diomande AI",
+      "url": "https://samevid.com/template/yan-diomande-ai"
+    }
+  },
+  {
+    "kind": "candidate",
+    "site": "Starrd",
+    "url": "https://www.getstarrd.app/template/all-i-want-for-christmas-is-you-ai-video",
+    "status": 200,
+    "final": "https://www.getstarrd.app/template/all-i-want-for-christmas-is-you-ai-video",
+    "title": "All I Want for Christmas Is You — AI Video Template | Starrd",
+    "og": "All I Want for Christmas Is You — AI Video Template",
+    "h1": "All I Want for Christmas Is You",
+    "desc": "You star in the live &quot;All I Want for Christmas Is You&quot; concert: one photo puts you alone on the Christmas stage in the iconic red mini dress and white…",
+    "looks_404": false,
+    "len": 200000,
+    "item": {
+      "id_or_slug": "all-i-want-for-christmas-is-you-ai-video",
+      "title": "All I Want For Christmas Is You AI Video",
+      "url": "https://www.getstarrd.app/template/all-i-want-for-christmas-is-you-ai-video"
+    }
+  },
+  {
+    "kind": "candidate",
+    "site": "Starrd",
+    "url": "https://www.getstarrd.app/template/bigxthaplug-give-it-all-ai-video",
+    "status": 200,
+    "final": "https://www.getstarrd.app/template/bigxthaplug-give-it-all-ai-video",
+    "title": "Give It All — AI Video Template | Starrd",
+    "og": "Give It All — AI Video Template",
+    "h1": "Give It All",
+    "desc": "You&#x27;re BigXthaPlug in his &quot;Give It All&quot; From The Block performance: rap the verse at a hanging vintage mic in a packed movie theater lobby, orange…",
+    "looks_404": false,
+    "len": 200000,
+    "item": {
+      "id_or_slug": "bigxthaplug-give-it-all-ai-video",
+      "title": "Bigxthaplug Give It All AI Video",
+      "url": "https://www.getstarrd.app/template/bigxthaplug-give-it-all-ai-video"
+    }
+  },
+  {
+    "kind": "missing",
+    "site": "Starrd",
+    "url": "https://www.getstarrd.app/template/bro-took-the-whole-bag-ai-video",
+    "status": 200,
+    "final": "https://www.getstarrd.app/template/careless-whisper-car-ai-video",
+    "title": "Careless Whisper Car — AI Video Template | Starrd",
+    "og": "Careless Whisper Car — AI Video Template",
+    "h1": "Careless Whisper Car",
+    "desc": "You and two friends star in the viral Careless Whisper car skit, the &quot;bro took the whole bag&quot; chip heist: one of you is blissfully eating chips with your…",
+    "looks_404": false,
+    "len": 200000,
+    "item": {
+      "id_or_slug": "bro-took-the-whole-bag-ai-video",
+      "title": "Bro Took The Whole Bag AI Video",
+      "url": "https://www.getstarrd.app/template/bro-took-the-whole-bag-ai-video"
+    }
+  },
+  {
+    "kind": "candidate",
+    "site": "Starrd",
+    "url": "https://www.getstarrd.app/template/hotline-bling-pt-2-dance-ai-video",
+    "status": 200,
+    "final": "https://www.getstarrd.app/template/hotline-bling-pt-2-dance-ai-video",
+    "title": "Hotline Bling Pt 2 — AI Video Template | Starrd",
+    "og": "Hotline Bling Pt 2 — AI Video Template",
+    "h1": "Hotline Bling Pt 2",
+    "desc": "You&#x27;re the star of Drake&#x27;s &quot;Hotline Bling&quot; video, part two: five shots in the glowing light rooms and a new outfit at every cut. You sing &quot;ever since I…",
+    "looks_404": false,
+    "len": 200000,
+    "item": {
+      "id_or_slug": "hotline-bling-pt-2-dance-ai-video",
+      "title": "Hotline Bling Pt 2 Dance AI Video",
+      "url": "https://www.getstarrd.app/template/hotline-bling-pt-2-dance-ai-video"
+    }
+  },
+  {
+    "kind": "missing",
+    "site": "Summrs",
+    "url": "https://www.summrs.com/bigfoot-vlog",
+    "status": 200,
+    "final": "https://www.summrs.com/bigfoot-vlog",
+    "title": "AI Bigfoot Vlog Generator - Create Viral Found Footage | Summrs | Summrs",
+    "og": "AI Bigfoot Vlog Generator - Create Viral Found Footage | Summrs",
+    "h1": "SUMMRS",
+    "desc": "Generate bigfoot vlogs instantly with AI. Describe the scene, get VHS-style found footage. Free to try—no editing or uploads needed.",
+    "looks_404": false,
+    "len": 174165,
+    "item": {
+      "id_or_slug": "bigfoot-vlog",
+      "title": "Bigfoot Vlog",
+      "url": "https://www.summrs.com/bigfoot-vlog"
+    }
+  },
+  {
+    "kind": "candidate",
+    "site": "Summrs",
+    "url": "https://www.summrs.com/cortis-go-ai-video-generator",
+    "status": 200,
+    "final": "https://www.summrs.com/cortis-go-ai-video-generator",
+    "title": "CORTIS GO! AI Video Generator – K-Pop Dance Challenge | Summrs | Summrs",
+    "og": "CORTIS GO! AI Video Generator – K-Pop Dance Challenge | Summrs",
+    "h1": "SUMMRS",
+    "desc": "Make the CORTIS GO! AI dance video from four photos. Your group in the choreography. With sound.",
+    "looks_404": false,
+    "len": 175956,
+    "item": {
+      "id_or_slug": "cortis-go-ai-video-generator",
+      "title": "Cortis Go AI Video Generator",
+      "url": "https://www.summrs.com/cortis-go-ai-video-generator"
+    }
+  },
+  {
+    "kind": "candidate",
+    "site": "Summrs",
+    "url": "https://www.summrs.com/m-row-bad-day-ai-video-generator",
+    "status": 200,
+    "final": "https://www.summrs.com/m-row-bad-day-ai-video-generator",
+    "title": "M Row Bad Day AI Video Generator – WhoRunItNYC Performance | Summrs | Summrs",
+    "og": "M Row Bad Day AI Video Generator – WhoRunItNYC Performance | Summrs",
+    "h1": "SUMMRS",
+    "desc": "Make the M Row Bad Day AI video from one photo. Your face in the WhoRunItNYC performance. Vertical 9:16 with sound.",
+    "looks_404": false,
+    "len": 175099,
+    "item": {
+      "id_or_slug": "m-row-bad-day-ai-video-generator",
+      "title": "M Row Bad Day AI Video Generator",
+      "url": "https://www.summrs.com/m-row-bad-day-ai-video-generator"
+    }
+  },
+  {
+    "kind": "candidate",
+    "site": "TrendTemplate",
+    "url": "https://trendtemplate.com/waist-heart-ai",
+    "status": 200,
+    "final": "https://trendtemplate.com/waist-heart-ai",
+    "title": "Waist Heart Trend AI: Do the Waist Heart From One Photo",
+    "og": "Waist Heart Trend AI: Do the Waist Heart From One Photo",
+    "h1": "Waist Heart AI Trend Generator",
+    "desc": "Make the Waist Heart trend video from one photo: chin tap, bicep flex, then a heart with your hand and waist, with the original sound. 9 seconds, 5 credits.",
+    "looks_404": false,
+    "len": 168264,
+    "item": {
+      "id_or_slug": "waist-heart-ai",
+      "title": "Waist Heart AI",
+      "url": "https://trendtemplate.com/waist-heart-ai"
+    }
+  },
+  {
+    "kind": "missing",
+    "site": "Try a Trend",
+    "url": "https://tryatrend.com/ai-halloween-costume",
+    "status": 200,
+    "final": "https://tryatrend.com/ai-halloween-costume",
+    "title": "AI Halloween Costume Video Generator: See Yourself in Costume",
+    "og": "AI Halloween Costume Video Generator: See Yourself in Costume",
+    "h1": "AI Halloween Costume Video Generator",
+    "desc": "See yourself in a Halloween costume with AI: upload one selfie, get a free AI Halloween photo as a witch, vampire, zombie and more, then a video. From $4.99.",
+    "looks_404": false,
+    "len": 200000,
+    "item": {
+      "id_or_slug": "ai-halloween-costume",
+      "title": "AI Halloween Costume",
+      "url": "https://tryatrend.com/ai-halloween-costume"
+    }
+  },
+  {
+    "kind": "candidate",
+    "site": "Try a Trend",
+    "url": "https://tryatrend.com/waist-heart-ai",
+    "status": 200,
+    "final": "https://tryatrend.com/waist-heart-ai",
+    "title": "Waist Heart AI Video Generator: The Heart Pose From One Photo",
+    "og": "Waist Heart AI Video Generator: The Heart Pose From One Photo",
+    "h1": "Waist Heart AI Video Generator",
+    "desc": "Make the waist heart trend with AI from one photo: the viral side-of-the-waist shot, both hands curving into a heart, with your own skin tone and top.",
+    "looks_404": false,
+    "len": 198798,
+    "item": {
+      "id_or_slug": "waist-heart-ai",
+      "title": "Waist Heart AI",
+      "url": "https://tryatrend.com/waist-heart-ai"
+    }
+  },
+  {
+    "kind": "candidate",
+    "site": "aiMakeVideo",
+    "url": "https://aimakevideo.com/gangstas-paradise-ai",
+    "status": 200,
+    "final": "https://aimakevideo.com/gangstas-paradise-ai",
+    "title": "Gangsta&#x27;s Paradise AI: Rap Duo Video Generator",
+    "og": "Gangsta&#x27;s Paradise AI: Rap Duo Video Generator",
+    "h1": "Gangsta&#x27;s Paradise AI Video Generator",
+    "desc": "Turn one or two photos into the Gangsta&#x27;s Paradise AI trend: rap the verse while a friend sings the chorus, a crowd of yellow hazmat suits behind you. 15 s, 720p.",
+    "looks_404": false,
+    "len": 133152,
+    "item": {
+      "id_or_slug": "gangstas-paradise-ai",
+      "title": "Gangstas Paradise AI",
+      "url": "https://aimakevideo.com/gangstas-paradise-ai"
+    }
+  },
+  {
+    "kind": "candidate",
+    "site": "aiMakeVideo",
+    "url": "https://aimakevideo.com/no-scrubs-ai",
+    "status": 200,
+    "final": "https://aimakevideo.com/no-scrubs-ai",
+    "title": "No Scrubs AI Dance Video Generator",
+    "og": "No Scrubs AI Dance Video Generator",
+    "h1": "No Scrubs AI Dance Video Generator",
+    "desc": "Turn one to three photos into the No Scrubs AI trend: a finger wag, a silver spaceship set and a trio dance. 15 seconds, 720p, no watermark.",
+    "looks_404": false,
+    "len": 133647,
+    "item": {
+      "id_or_slug": "no-scrubs-ai",
+      "title": "No Scrubs AI",
+      "url": "https://aimakevideo.com/no-scrubs-ai"
+    }
+  }
+]

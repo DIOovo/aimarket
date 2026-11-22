@@ -1,0 +1,4 @@
+AI Trend Video new=3 gone=0 prev=7 now=10
+create	https://aitrendvideo.net/create
+history	https://aitrendvideo.net/history
+refund-policy	https://aitrendvideo.net/refund-policy

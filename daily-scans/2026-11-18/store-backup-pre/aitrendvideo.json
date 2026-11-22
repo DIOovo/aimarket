@@ -1,0 +1,51 @@
+{
+  "site": "AI Trend Video",
+  "home": "https://aitrendvideo.net/",
+  "checked_at": "2026-11-17T09:39:00+08:00",
+  "sitemap_urls_found": [
+    "https://aitrendvideo.net/sitemap.xml"
+  ],
+  "sitemap_existed": true,
+  "template_count": 7,
+  "templates": [
+    {
+      "id_or_slug": "ai-rap-video",
+      "title": "AI Rap Video",
+      "url": "https://aitrendvideo.net/ai-rap-video"
+    },
+    {
+      "id_or_slug": "bulin-47-ai-video",
+      "title": "Bulin 47 AI Video",
+      "url": "https://aitrendvideo.net/bulin-47-ai-video"
+    },
+    {
+      "id_or_slug": "dime-dime-baby-ai",
+      "title": "Dime Dime Baby AI",
+      "url": "https://aitrendvideo.net/dime-dime-baby-ai"
+    },
+    {
+      "id_or_slug": "flying-car-ai",
+      "title": "Flying Car AI",
+      "url": "https://aitrendvideo.net/flying-car-ai"
+    },
+    {
+      "id_or_slug": "flying-product-ai",
+      "title": "Flying Product AI",
+      "url": "https://aitrendvideo.net/flying-product-ai"
+    },
+    {
+      "id_or_slug": "gangnam-style-ai",
+      "title": "Gangnam Style AI",
+      "url": "https://aitrendvideo.net/gangnam-style-ai"
+    },
+    {
+      "id_or_slug": "tiny-desk-ai",
+      "title": "Tiny Desk AI",
+      "url": "https://aitrendvideo.net/tiny-desk-ai"
+    }
+  ],
+  "new_count": 0,
+  "removed_count": 0,
+  "new_templates": [],
+  "removed_templates": []
+}

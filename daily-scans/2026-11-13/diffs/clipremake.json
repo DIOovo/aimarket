@@ -1,0 +1,21 @@
+{
+  "site": "ClipRemake",
+  "file": "clipremake.json",
+  "prev": 47,
+  "now": 49,
+  "fetch_ok": true,
+  "notes": [],
+  "new": [
+    {
+      "id_or_slug": "fish-chop-ai",
+      "title": "Fish Chop AI",
+      "url": "https://clipremake.com/templates/fish-chop-ai"
+    },
+    {
+      "id_or_slug": "tiger-fight-ai",
+      "title": "Tiger Fight AI",
+      "url": "https://clipremake.com/templates/tiger-fight-ai"
+    }
+  ],
+  "removed": []
+}

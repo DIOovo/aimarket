@@ -1,0 +1,108 @@
+{
+  "site": "Starrd",
+  "file": "starrd.json",
+  "prev": 341,
+  "now": 360,
+  "new": [
+    {
+      "id_or_slug": "action",
+      "title": "Action",
+      "url": "https://www.getstarrd.app/template/action"
+    },
+    {
+      "id_or_slug": "anime",
+      "title": "Anime",
+      "url": "https://www.getstarrd.app/template/anime"
+    },
+    {
+      "id_or_slug": "asmr",
+      "title": "Asmr",
+      "url": "https://www.getstarrd.app/template/asmr"
+    },
+    {
+      "id_or_slug": "beans-greens-potatoes-tomatoes-ai-video",
+      "title": "Beans Greens Potatoes Tomatoes AI Video",
+      "url": "https://www.getstarrd.app/template/beans-greens-potatoes-tomatoes-ai-video"
+    },
+    {
+      "id_or_slug": "bro-took-the-whole-bag-ai-video",
+      "title": "Bro Took The Whole Bag AI Video",
+      "url": "https://www.getstarrd.app/template/bro-took-the-whole-bag-ai-video"
+    },
+    {
+      "id_or_slug": "cars",
+      "title": "Cars",
+      "url": "https://www.getstarrd.app/template/cars"
+    },
+    {
+      "id_or_slug": "crime",
+      "title": "Crime",
+      "url": "https://www.getstarrd.app/template/crime"
+    },
+    {
+      "id_or_slug": "drama",
+      "title": "Drama",
+      "url": "https://www.getstarrd.app/template/drama"
+    },
+    {
+      "id_or_slug": "gaming",
+      "title": "Gaming",
+      "url": "https://www.getstarrd.app/template/gaming"
+    },
+    {
+      "id_or_slug": "henshin",
+      "title": "Henshin",
+      "url": "https://www.getstarrd.app/template/henshin"
+    },
+    {
+      "id_or_slug": "is-this-how-you-cut-it-ai-video",
+      "title": "Is This How You Cut It AI Video",
+      "url": "https://www.getstarrd.app/template/is-this-how-you-cut-it-ai-video"
+    },
+    {
+      "id_or_slug": "music",
+      "title": "Music",
+      "url": "https://www.getstarrd.app/template/music"
+    },
+    {
+      "id_or_slug": "nostalgia",
+      "title": "Nostalgia",
+      "url": "https://www.getstarrd.app/template/nostalgia"
+    },
+    {
+      "id_or_slug": "pets",
+      "title": "Pets",
+      "url": "https://www.getstarrd.app/template/pets"
+    },
+    {
+      "id_or_slug": "pranks",
+      "title": "Pranks",
+      "url": "https://www.getstarrd.app/template/pranks"
+    },
+    {
+      "id_or_slug": "song",
+      "title": "Song",
+      "url": "https://www.getstarrd.app/template/song"
+    },
+    {
+      "id_or_slug": "sports",
+      "title": "Sports",
+      "url": "https://www.getstarrd.app/template/sports"
+    },
+    {
+      "id_or_slug": "the-notebook-tigran-gertz-ai-video",
+      "title": "The Notebook Tigran Gertz AI Video",
+      "url": "https://www.getstarrd.app/template/the-notebook-tigran-gertz-ai-video"
+    },
+    {
+      "id_or_slug": "trailers",
+      "title": "Trailers",
+      "url": "https://www.getstarrd.app/template/trailers"
+    }
+  ],
+  "gone": [],
+  "notes": [],
+  "sitemaps": [
+    "https://www.getstarrd.app/sitemap.xml"
+  ]
+}

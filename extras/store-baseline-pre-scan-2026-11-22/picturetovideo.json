@@ -1,0 +1,41 @@
+{
+  "site": "PictureToVideo",
+  "home": "https://picturetovideo.org/",
+  "checked_at": "2026-11-21T09:40:54+08:00",
+  "sitemap_urls_found": [
+    "https://picturetovideo.org/sitemap.xml"
+  ],
+  "sitemap_existed": true,
+  "template_count": 5,
+  "new_count": 0,
+  "removed_count": 0,
+  "new_templates": [],
+  "removed_templates": [],
+  "templates": [
+    {
+      "id_or_slug": "ai-baby-dance",
+      "title": "AI Baby Dance",
+      "url": "https://picturetovideo.org/ai-baby-dance"
+    },
+    {
+      "id_or_slug": "ai-baby-video",
+      "title": "AI Baby Video",
+      "url": "https://picturetovideo.org/ai-baby-video"
+    },
+    {
+      "id_or_slug": "ai-cat-dance",
+      "title": "AI Cat Dance",
+      "url": "https://picturetovideo.org/ai-cat-dance"
+    },
+    {
+      "id_or_slug": "ai-dog-dance",
+      "title": "AI Dog Dance",
+      "url": "https://picturetovideo.org/ai-dog-dance"
+    },
+    {
+      "id_or_slug": "hotel-lobby-ai-video",
+      "title": "Hotel Lobby AI Video",
+      "url": "https://picturetovideo.org/hotel-lobby-ai-video"
+    }
+  ]
+}

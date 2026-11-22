@@ -1,0 +1,722 @@
+[
+  {
+    "site": "TrendTemplate",
+    "file": "trendtemplate.json",
+    "item": {
+      "id_or_slug": "christmas-pajama-dance-ai",
+      "title": "Christmas Pajama Dance AI",
+      "url": "https://trendtemplate.com/christmas-pajama-dance-ai"
+    }
+  },
+  {
+    "site": "TrendTemplate",
+    "file": "trendtemplate.json",
+    "item": {
+      "id_or_slug": "drake-hotline-bling-dance-ai",
+      "title": "Drake Hotline Bling Dance AI",
+      "url": "https://trendtemplate.com/drake-hotline-bling-dance-ai"
+    }
+  },
+  {
+    "site": "MemeFX AI",
+    "file": "memefxai.json",
+    "item": {
+      "id_or_slug": "christmas-couple-dance-ai",
+      "title": "Christmas Couple Dance AI",
+      "url": "https://memefxai.com/christmas-couple-dance-ai"
+    }
+  },
+  {
+    "site": "MemeFX AI",
+    "file": "memefxai.json",
+    "item": {
+      "id_or_slug": "dancing-dog-pool-party-ai",
+      "title": "Dancing Dog Pool Party AI",
+      "url": "https://memefxai.com/dancing-dog-pool-party-ai"
+    }
+  },
+  {
+    "site": "MemeFX AI",
+    "file": "memefxai.json",
+    "item": {
+      "id_or_slug": "dj-cat-ai",
+      "title": "DJ Cat AI",
+      "url": "https://memefxai.com/dj-cat-ai"
+    }
+  },
+  {
+    "site": "MemeFX AI",
+    "file": "memefxai.json",
+    "item": {
+      "id_or_slug": "dog-drummer-ai",
+      "title": "Dog Drummer AI",
+      "url": "https://memefxai.com/dog-drummer-ai"
+    }
+  },
+  {
+    "site": "MemeFX AI",
+    "file": "memefxai.json",
+    "item": {
+      "id_or_slug": "dog-grooming-time-ai",
+      "title": "Dog Grooming Time AI",
+      "url": "https://memefxai.com/dog-grooming-time-ai"
+    }
+  },
+  {
+    "site": "MemeFX AI",
+    "file": "memefxai.json",
+    "item": {
+      "id_or_slug": "gangstas-paradise-ai",
+      "title": "Gangsta's Paradise AI",
+      "url": "https://memefxai.com/gangstas-paradise-ai"
+    }
+  },
+  {
+    "site": "ClipRemake",
+    "file": "clipremake.json",
+    "item": {
+      "id_or_slug": "fish-chop-ai",
+      "title": "Fish Chop AI",
+      "url": "https://clipremake.com/templates/fish-chop-ai"
+    }
+  },
+  {
+    "site": "ClipRemake",
+    "file": "clipremake.json",
+    "item": {
+      "id_or_slug": "tiger-fight-ai",
+      "title": "Tiger Fight AI",
+      "url": "https://clipremake.com/templates/tiger-fight-ai"
+    }
+  },
+  {
+    "site": "MakeViral",
+    "file": "makeviral.json",
+    "item": {
+      "id_or_slug": "ai-video-with-celebrity",
+      "title": "Kara Sevda AI Trend",
+      "url": "https://www.makeviral.ai/templates/ai-video-with-celebrity"
+    }
+  },
+  {
+    "site": "MakeViral",
+    "file": "makeviral.json",
+    "item": {
+      "id_or_slug": "almost-almost-ai-trend",
+      "title": "Almost Almost AI Trend",
+      "url": "https://www.makeviral.ai/templates/almost-almost-ai-trend"
+    }
+  },
+  {
+    "site": "MakeViral",
+    "file": "makeviral.json",
+    "item": {
+      "id_or_slug": "barbie-girl-dance-ai-trend",
+      "title": "Barbie Girl Dance AI Trend",
+      "url": "https://www.makeviral.ai/templates/barbie-girl-dance-ai-trend"
+    }
+  },
+  {
+    "site": "MakeViral",
+    "file": "makeviral.json",
+    "item": {
+      "id_or_slug": "davul-zurna-ai-trend",
+      "title": "Davul Zurna AI Trend",
+      "url": "https://www.makeviral.ai/templates/davul-zurna-ai-trend"
+    }
+  },
+  {
+    "site": "MakeViral",
+    "file": "makeviral.json",
+    "item": {
+      "id_or_slug": "if-i-was-chatgpt-trend",
+      "title": "If I Was ChatGPT Trend",
+      "url": "https://www.makeviral.ai/templates/if-i-was-chatgpt-trend"
+    }
+  },
+  {
+    "site": "MakeViral",
+    "file": "makeviral.json",
+    "item": {
+      "id_or_slug": "island-boy-ai-trend",
+      "title": "Island Boy AI Trend",
+      "url": "https://www.makeviral.ai/templates/island-boy-ai-trend"
+    }
+  },
+  {
+    "site": "MakeViral",
+    "file": "makeviral.json",
+    "item": {
+      "id_or_slug": "misanthropy-meme-ai-trend",
+      "title": "Misanthropy Meme AI Trend",
+      "url": "https://www.makeviral.ai/templates/misanthropy-meme-ai-trend"
+    }
+  },
+  {
+    "site": "MakeViral",
+    "file": "makeviral.json",
+    "item": {
+      "id_or_slug": "old-town-road-ai-video",
+      "title": "Old Town Road AI Video",
+      "url": "https://www.makeviral.ai/templates/old-town-road-ai-video"
+    }
+  },
+  {
+    "site": "MakeViral",
+    "file": "makeviral.json",
+    "item": {
+      "id_or_slug": "st-tropez-dj-ai-trend",
+      "title": "St Tropez DJ AI Trend",
+      "url": "https://www.makeviral.ai/templates/st-tropez-dj-ai-trend"
+    }
+  },
+  {
+    "site": "MakeViral",
+    "file": "makeviral.json",
+    "item": {
+      "id_or_slug": "zoolander-who-is-she-ai-trend",
+      "title": "Zoolander Who Is She AI Trend",
+      "url": "https://www.makeviral.ai/templates/zoolander-who-is-she-ai-trend"
+    }
+  },
+  {
+    "site": "MakeMeme.video",
+    "file": "makememe.json",
+    "item": {
+      "id_or_slug": "dog-pool-party-ai",
+      "title": "Dog Pool Party AI",
+      "url": "https://makememe.video/dog-pool-party-ai"
+    }
+  },
+  {
+    "site": "MakeMeme.video",
+    "file": "makememe.json",
+    "item": {
+      "id_or_slug": "gangstas-paradise-ai",
+      "title": "Gangsta's Paradise AI",
+      "url": "https://makememe.video/gangstas-paradise-ai"
+    }
+  },
+  {
+    "site": "MakeMeme.video",
+    "file": "makememe.json",
+    "item": {
+      "id_or_slug": "kiss-cam-ai",
+      "title": "Kiss Cam AI",
+      "url": "https://makememe.video/kiss-cam-ai"
+    }
+  },
+  {
+    "site": "TrendSwap",
+    "file": "trendswap.json",
+    "item": {
+      "id_or_slug": "la-mujer-del-pelotero-ai",
+      "title": "La Mujer del Pelotero AI",
+      "url": "https://trendswap.app/la-mujer-del-pelotero-ai"
+    }
+  },
+  {
+    "site": "TrendSwap",
+    "file": "trendswap.json",
+    "item": {
+      "id_or_slug": "sheru-bhai-ai",
+      "title": "Sheru Bhai AI",
+      "url": "https://trendswap.app/sheru-bhai-ai"
+    }
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "boss-entrance-ai",
+      "title": "Boss Entrance AI",
+      "url": "https://samevid.com/template/boss-entrance-ai"
+    }
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "car-jump-ai",
+      "title": "Car Jump AI",
+      "url": "https://samevid.com/template/car-jump-ai"
+    }
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "disney-pet-ai",
+      "title": "Disney Pet AI",
+      "url": "https://samevid.com/template/disney-pet-ai"
+    }
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "driving-wave-ai",
+      "title": "Driving Wave AI",
+      "url": "https://samevid.com/template/driving-wave-ai"
+    }
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "dubai-vacation-ai",
+      "title": "Dubai Vacation AI",
+      "url": "https://samevid.com/template/dubai-vacation-ai"
+    }
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "edmund-fitzgerald-ai",
+      "title": "Edmund Fitzgerald AI",
+      "url": "https://samevid.com/template/edmund-fitzgerald-ai"
+    }
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "fish-cutting-meme-ai",
+      "title": "Fish Cutting Meme AI",
+      "url": "https://samevid.com/template/fish-cutting-meme-ai"
+    }
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "give-it-all-ai",
+      "title": "Give It All AI",
+      "url": "https://samevid.com/template/give-it-all-ai"
+    }
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "is-this-how-you-cut-it-ai-video",
+      "title": "Is This How You Cut It AI Video",
+      "url": "https://samevid.com/template/is-this-how-you-cut-it-ai-video"
+    }
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "lush-life-dog-ai",
+      "title": "Lush Life Dog AI",
+      "url": "https://samevid.com/template/lush-life-dog-ai"
+    }
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "motu-patlu-ai",
+      "title": "Motu Patlu AI",
+      "url": "https://samevid.com/template/motu-patlu-ai"
+    }
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "need-girl-ai",
+      "title": "I Need A Girl AI",
+      "url": "https://samevid.com/template/need-girl-ai"
+    }
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "not-like-us-ai",
+      "title": "Not Like Us AI",
+      "url": "https://samevid.com/template/not-like-us-ai"
+    }
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "pet-rock-ai",
+      "title": "Pet Rock AI",
+      "url": "https://samevid.com/template/pet-rock-ai"
+    }
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "pitch-invader-tackle-ai",
+      "title": "Pitch Invader Tackle AI",
+      "url": "https://samevid.com/template/pitch-invader-tackle-ai"
+    }
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "russian-dance-ai",
+      "title": "Russian Dance AI",
+      "url": "https://samevid.com/template/russian-dance-ai"
+    }
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "soda-pop-ai-dance",
+      "title": "Soda Pop AI Dance",
+      "url": "https://samevid.com/template/soda-pop-ai-dance"
+    }
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "talking-pet-ai",
+      "title": "Talking Pet AI",
+      "url": "https://samevid.com/template/talking-pet-ai"
+    }
+  },
+  {
+    "site": "SameVid AI",
+    "file": "samevid.json",
+    "item": {
+      "id_or_slug": "three-kittens-you-spin-me-round-dance",
+      "title": "Three Kittens You Spin Me Round Dance",
+      "url": "https://samevid.com/template/three-kittens-you-spin-me-round-dance"
+    }
+  },
+  {
+    "site": "Summrs",
+    "file": "summrs.json",
+    "item": {
+      "id_or_slug": "vintage-vuitton-earfzilla-ai-video-generator",
+      "title": "Vintage Vuitton Earfzilla AI Video Generator",
+      "url": "https://www.summrs.com/vintage-vuitton-earfzilla-ai-video-generator"
+    }
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "atm-christmas-wish-ai-video",
+      "title": "ATM Christmas Wish AI Video",
+      "url": "https://www.getstarrd.app/template/atm-christmas-wish-ai-video"
+    }
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "barbie-girl-dance",
+      "title": "Barbie Girl Dance",
+      "url": "https://www.getstarrd.app/template/barbie-girl-dance"
+    }
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "careless-whisper-car-ai-video",
+      "title": "Careless Whisper Car AI Video",
+      "url": "https://www.getstarrd.app/template/careless-whisper-car-ai-video"
+    }
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "catch-santa-at-your-tree-ai-video",
+      "title": "Catch Santa at Your Tree AI Video",
+      "url": "https://www.getstarrd.app/template/catch-santa-at-your-tree-ai-video"
+    }
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "catch-santa-down-the-chimney-ai-video",
+      "title": "Catch Santa Down the Chimney AI Video",
+      "url": "https://www.getstarrd.app/template/catch-santa-down-the-chimney-ai-video"
+    }
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "catch-santa-eating-the-cookies-ai-video",
+      "title": "Catch Santa Eating the Cookies AI Video",
+      "url": "https://www.getstarrd.app/template/catch-santa-eating-the-cookies-ai-video"
+    }
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "catch-the-grinch-ai-video",
+      "title": "Catch the Grinch AI Video",
+      "url": "https://www.getstarrd.app/template/catch-the-grinch-ai-video"
+    }
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "catch-the-sneaky-elf-ai-video",
+      "title": "Catch the Sneaky Elf AI Video",
+      "url": "https://www.getstarrd.app/template/catch-the-sneaky-elf-ai-video"
+    }
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "christmas-dance-trend",
+      "title": "Christmas Dance Trend",
+      "url": "https://www.getstarrd.app/template/christmas-dance-trend"
+    }
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "elf-dance-ai-video",
+      "title": "Elf Dance AI Video",
+      "url": "https://www.getstarrd.app/template/elf-dance-ai-video"
+    }
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "gangstas-paradise-ai-video",
+      "title": "Gangsta's Paradise AI Video",
+      "url": "https://www.getstarrd.app/template/gangstas-paradise-ai-video"
+    }
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "gangstas-paradise-extended-ai-video",
+      "title": "Gangsta's Paradise Extended AI Video",
+      "url": "https://www.getstarrd.app/template/gangstas-paradise-extended-ai-video"
+    }
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "hit-me-baby-one-more-time-ai-video",
+      "title": "Hit Me Baby One More Time AI Video",
+      "url": "https://www.getstarrd.app/template/hit-me-baby-one-more-time-ai-video"
+    }
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "iconic-by-mistake-ai-video",
+      "title": "Iconic By Mistake AI Video",
+      "url": "https://www.getstarrd.app/template/iconic-by-mistake-ai-video"
+    }
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "island-boy-ai-trend",
+      "title": "Island Boy AI Trend",
+      "url": "https://www.getstarrd.app/template/island-boy-ai-trend"
+    }
+  },
+  {
+    "site": "Starrd",
+    "file": "starrd.json",
+    "item": {
+      "id_or_slug": "shes-staring-at-me-mad-trend",
+      "title": "She's Staring At Me Mad Trend",
+      "url": "https://www.getstarrd.app/template/shes-staring-at-me-mad-trend"
+    }
+  },
+  {
+    "site": "Bolly.AI",
+    "file": "bolly.json",
+    "item": {
+      "id_or_slug": "mariah-carey-it-s-time-ai-character-swap",
+      "title": "Mariah Carey It's Time AI Character Swap",
+      "url": "https://www.bolly.ai/template/mariah-carey-it-s-time-ai-character-swap"
+    }
+  },
+  {
+    "site": "RapVideo.ai",
+    "file": "rapvideo.json",
+    "item": {
+      "id_or_slug": "gangstas-paradise-ai",
+      "title": "Gangsta's Paradise AI",
+      "url": "https://rapvideo.ai/gangstas-paradise-ai"
+    }
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "cctv-tiger-fight-ai",
+      "title": "CCTV Tiger Fight AI",
+      "url": "https://memelry.com/cctv-tiger-fight-ai"
+    }
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "dog-grooming-time-ai",
+      "title": "Dog Grooming Time AI",
+      "url": "https://memelry.com/dog-grooming-time-ai"
+    }
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "huell-money-ai",
+      "title": "Huell Money AI",
+      "url": "https://memelry.com/huell-money-ai"
+    }
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "kakalika-dance-ai",
+      "title": "Kakalika Dance AI",
+      "url": "https://memelry.com/kakalika-dance-ai"
+    }
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "mbappe-sprint-ai",
+      "title": "Mbappé Sprint AI",
+      "url": "https://memelry.com/mbappe-sprint-ai"
+    }
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "mr-bean-looking-through-window",
+      "title": "Mr Bean Looking Through the Window",
+      "url": "https://memelry.com/mr-bean-looking-through-window"
+    }
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "natsuki-hmph-dance-ai",
+      "title": "Natsuki Hmph Dance AI",
+      "url": "https://memelry.com/natsuki-hmph-dance-ai"
+    }
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "not-like-us-dance-ai",
+      "title": "Not Like Us Dance AI",
+      "url": "https://memelry.com/not-like-us-dance-ai"
+    }
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "peaky-blinders-explosion-ai",
+      "title": "Peaky Blinders Explosion AI",
+      "url": "https://memelry.com/peaky-blinders-explosion-ai"
+    }
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "perfume-transition-ai",
+      "title": "Perfume Transition AI",
+      "url": "https://memelry.com/perfume-transition-ai"
+    }
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "pregnancy-test-reveal-ai",
+      "title": "Pregnancy Test Reveal AI",
+      "url": "https://memelry.com/pregnancy-test-reveal-ai"
+    }
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "rush-hour-fantasy-ai",
+      "title": "Rush Hour Fantasy AI",
+      "url": "https://memelry.com/rush-hour-fantasy-ai"
+    }
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "steer-wrestling-ai",
+      "title": "Steer Wrestling AI",
+      "url": "https://memelry.com/steer-wrestling-ai"
+    }
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "the-office-parkour-ai",
+      "title": "The Office Parkour AI",
+      "url": "https://memelry.com/the-office-parkour-ai"
+    }
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "tricycle-crash-ai",
+      "title": "Tricycle Crash AI",
+      "url": "https://memelry.com/tricycle-crash-ai"
+    }
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "truck-driver-ai",
+      "title": "Truck Driver AI",
+      "url": "https://memelry.com/truck-driver-ai"
+    }
+  },
+  {
+    "site": "Memelry",
+    "file": "memelry.json",
+    "item": {
+      "id_or_slug": "waist-heart-ai",
+      "title": "Waist Heart AI",
+      "url": "https://memelry.com/waist-heart-ai"
+    }
+  }
+]

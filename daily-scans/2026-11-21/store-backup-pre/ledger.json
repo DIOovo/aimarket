@@ -1,0 +1,395 @@
+{
+  "checked_at": "2026-11-20T09:39:28+08:00",
+  "timezone": "Asia/Shanghai",
+  "baseline": false,
+  "previous_checked_at": "2026-11-19T09:40:27+08:00",
+  "total_templates": 3563,
+  "total_new": 109,
+  "total_digest_new": 27,
+  "putmein_bulk_new": 0,
+  "total_removed": 0,
+  "sites_count": 28,
+  "sites_updated": 28,
+  "sites_left_unchanged": 0,
+  "sites": [
+    {
+      "site": "DoTheTrend",
+      "file": "dothetrend.json",
+      "home": "https://dothetrend.ai/",
+      "sitemap_existed": true,
+      "sitemap_urls_found": [
+        "https://dothetrend.ai/sitemap.xml"
+      ],
+      "template_count": 70,
+      "new_count": 0,
+      "removed_count": 0,
+      "dropped_dead_count": 0
+    },
+    {
+      "site": "TrendTemplate",
+      "file": "trendtemplate.json",
+      "home": "https://trendtemplate.com/",
+      "sitemap_existed": true,
+      "sitemap_urls_found": [
+        "https://trendtemplate.com/sitemap.xml"
+      ],
+      "template_count": 38,
+      "new_count": 2,
+      "removed_count": 0,
+      "dropped_dead_count": 0
+    },
+    {
+      "site": "MemeFX AI",
+      "file": "memefxai.json",
+      "home": "https://memefxai.com/",
+      "sitemap_existed": true,
+      "sitemap_urls_found": [
+        "https://memefxai.com/sitemap.xml"
+      ],
+      "template_count": 74,
+      "new_count": 0,
+      "removed_count": 0,
+      "dropped_dead_count": 0
+    },
+    {
+      "site": "ClipRemake",
+      "file": "clipremake.json",
+      "home": "https://clipremake.com/",
+      "sitemap_existed": true,
+      "sitemap_urls_found": [
+        "https://clipremake.com/sitemap.xml"
+      ],
+      "template_count": 67,
+      "new_count": 3,
+      "removed_count": 0,
+      "dropped_dead_count": 0
+    },
+    {
+      "site": "Remake Your Meme",
+      "file": "remakeyourmeme.json",
+      "home": "https://remakeyourmeme.com/",
+      "sitemap_existed": true,
+      "sitemap_urls_found": [
+        "https://remakeyourmeme.com/sitemap.xml"
+      ],
+      "template_count": 44,
+      "new_count": 0,
+      "removed_count": 0,
+      "dropped_dead_count": 0,
+      "note": "Sitemap via WebFetch; box IP still 403; inventory unchanged (44)."
+    },
+    {
+      "site": "MakeViral",
+      "file": "makeviral.json",
+      "home": "https://www.makeviral.ai/",
+      "sitemap_existed": true,
+      "sitemap_urls_found": [
+        "https://www.makeviral.ai/sitemap.xml"
+      ],
+      "template_count": 578,
+      "new_count": 12,
+      "removed_count": 0,
+      "dropped_dead_count": 0
+    },
+    {
+      "site": "Smew AI",
+      "file": "smew.json",
+      "home": "https://smew.ai/",
+      "sitemap_existed": true,
+      "sitemap_urls_found": [
+        "https://smew.ai/sitemap.xml"
+      ],
+      "template_count": 439,
+      "new_count": 0,
+      "removed_count": 0,
+      "dropped_dead_count": 0
+    },
+    {
+      "site": "MakeMeme.video",
+      "file": "makememe.json",
+      "home": "https://makememe.video/",
+      "sitemap_existed": true,
+      "sitemap_urls_found": [
+        "https://makememe.video/sitemap.xml"
+      ],
+      "template_count": 160,
+      "new_count": 2,
+      "removed_count": 0,
+      "dropped_dead_count": 0
+    },
+    {
+      "site": "ViralRemake",
+      "file": "viralremake.json",
+      "home": "https://viralremake.com/",
+      "sitemap_existed": true,
+      "sitemap_urls_found": [
+        "https://viralremake.com/sitemap.xml"
+      ],
+      "template_count": 37,
+      "new_count": 0,
+      "removed_count": 0,
+      "dropped_dead_count": 0
+    },
+    {
+      "site": "MemeClone.ai",
+      "file": "memeclone.json",
+      "home": "https://memeclone.ai/",
+      "sitemap_existed": true,
+      "sitemap_urls_found": [
+        "https://memeclone.ai/sitemap.xml"
+      ],
+      "template_count": 76,
+      "new_count": 1,
+      "removed_count": 0,
+      "dropped_dead_count": 0
+    },
+    {
+      "site": "TrendSwap",
+      "file": "trendswap.json",
+      "home": "https://trendswap.app/",
+      "sitemap_existed": true,
+      "sitemap_urls_found": [
+        "https://trendswap.app/sitemap.xml",
+        "https://trendswap.app/video-sitemap.xml",
+        "https://trendswap.app/image-sitemap.xml"
+      ],
+      "template_count": 57,
+      "new_count": 0,
+      "removed_count": 0,
+      "dropped_dead_count": 0
+    },
+    {
+      "site": "Put Me In",
+      "file": "putmein.json",
+      "home": "https://putmein.app/",
+      "sitemap_existed": true,
+      "sitemap_urls_found": [
+        "https://putmein.app/sitemap.xml",
+        "https://putmein.app/sitemap-media.xml",
+        "https://putmein.app/blog/rss.xml",
+        "https://putmein.app/es/blog/rss.xml",
+        "https://putmein.app/ja/blog/rss.xml",
+        "https://putmein.app/pt/blog/rss.xml"
+      ],
+      "template_count": 226,
+      "new_count": 0,
+      "removed_count": 0,
+      "dropped_dead_count": 0
+    },
+    {
+      "site": "SameVid AI",
+      "file": "samevid.json",
+      "home": "https://samevid.com/",
+      "sitemap_existed": true,
+      "sitemap_urls_found": [
+        "https://samevid.com/sitemap.xml"
+      ],
+      "template_count": 299,
+      "new_count": 82,
+      "removed_count": 0,
+      "dropped_dead_count": 0,
+      "note": "82 genuine templates added to inventory as a catalog backfill; not itemized in the digest."
+    },
+    {
+      "site": "ZapVid",
+      "file": "zapvid.json",
+      "home": "https://zapvid.ai/",
+      "sitemap_existed": true,
+      "sitemap_urls_found": [
+        "https://zapvid.ai/sitemap.xml"
+      ],
+      "template_count": 43,
+      "new_count": 1,
+      "removed_count": 0,
+      "dropped_dead_count": 0
+    },
+    {
+      "site": "Summrs",
+      "file": "summrs.json",
+      "home": "https://www.summrs.com/",
+      "sitemap_existed": true,
+      "sitemap_urls_found": [
+        "https://www.summrs.com/sitemap.xml"
+      ],
+      "template_count": 80,
+      "new_count": 0,
+      "removed_count": 0,
+      "dropped_dead_count": 0,
+      "note": "Kept bigfoot-vlog despite missing from today's sitemap (page still 200)."
+    },
+    {
+      "site": "Trendify Video",
+      "file": "trendify.json",
+      "home": "https://trendify.video/",
+      "sitemap_existed": true,
+      "sitemap_urls_found": [
+        "https://trendify.video/sitemap.xml"
+      ],
+      "template_count": 14,
+      "new_count": 0,
+      "removed_count": 0,
+      "dropped_dead_count": 0
+    },
+    {
+      "site": "Genjutsu AI",
+      "file": "genjutsu.json",
+      "home": "https://genjutsuai.cc/",
+      "sitemap_existed": true,
+      "sitemap_urls_found": [
+        "https://genjutsuai.cc/sitemap.xml"
+      ],
+      "template_count": 45,
+      "new_count": 0,
+      "removed_count": 0,
+      "dropped_dead_count": 0
+    },
+    {
+      "site": "DanceRemake",
+      "file": "danceremake.json",
+      "home": "https://danceremake.com/",
+      "sitemap_existed": true,
+      "sitemap_urls_found": [
+        "https://danceremake.com/sitemap.xml"
+      ],
+      "template_count": 19,
+      "new_count": 0,
+      "removed_count": 0,
+      "dropped_dead_count": 0
+    },
+    {
+      "site": "Starrd",
+      "file": "starrd.json",
+      "home": "https://www.getstarrd.app/",
+      "sitemap_existed": true,
+      "sitemap_urls_found": [
+        "https://www.getstarrd.app/sitemap.xml"
+      ],
+      "template_count": 382,
+      "new_count": 4,
+      "removed_count": 0,
+      "dropped_dead_count": 0
+    },
+    {
+      "site": "AI Trend Video",
+      "file": "aitrendvideo.json",
+      "home": "https://aitrendvideo.net/",
+      "sitemap_existed": true,
+      "sitemap_urls_found": [
+        "https://aitrendvideo.net/sitemap.xml"
+      ],
+      "template_count": 10,
+      "new_count": 0,
+      "removed_count": 0,
+      "dropped_dead_count": 0
+    },
+    {
+      "site": "Ricebowl AI",
+      "file": "ricebowl.json",
+      "home": "https://ricebowl.ai/",
+      "sitemap_existed": true,
+      "sitemap_urls_found": [
+        "https://ricebowl.ai/sitemap.xml",
+        "https://ricebowl.ai/sitemap-pages.xml",
+        "https://ricebowl.ai/sitemap-models.xml",
+        "https://ricebowl.ai/sitemap-hub.xml"
+      ],
+      "template_count": 72,
+      "new_count": 0,
+      "removed_count": 0,
+      "dropped_dead_count": 0,
+      "note": "Meme catalog (/trends/meme ItemList) unchanged vs yesterday (84 claimed / 0 genuine new). Generic /app tool pages and parse junk not added."
+    },
+    {
+      "site": "Kubflow",
+      "file": "kubflow.json",
+      "home": "https://kubflow.ai/",
+      "sitemap_existed": true,
+      "sitemap_urls_found": [
+        "https://kubflow.ai/sitemap.xml"
+      ],
+      "template_count": 10,
+      "new_count": 0,
+      "removed_count": 0,
+      "dropped_dead_count": 0
+    },
+    {
+      "site": "PictureToVideo",
+      "file": "picturetovideo.json",
+      "home": "https://picturetovideo.org/",
+      "sitemap_existed": true,
+      "sitemap_urls_found": [
+        "https://picturetovideo.org/sitemap.xml"
+      ],
+      "template_count": 5,
+      "new_count": 0,
+      "removed_count": 0,
+      "dropped_dead_count": 0
+    },
+    {
+      "site": "Bolly.AI",
+      "file": "bolly.json",
+      "home": "https://www.bolly.ai/",
+      "sitemap_existed": true,
+      "sitemap_urls_found": [
+        "https://www.bolly.ai/sitemap.xml"
+      ],
+      "template_count": 219,
+      "new_count": 0,
+      "removed_count": 0,
+      "dropped_dead_count": 0
+    },
+    {
+      "site": "RapVideo.ai",
+      "file": "rapvideo.json",
+      "home": "https://rapvideo.ai/",
+      "sitemap_existed": true,
+      "sitemap_urls_found": [
+        "https://rapvideo.ai/sitemap.xml"
+      ],
+      "template_count": 42,
+      "new_count": 0,
+      "removed_count": 0,
+      "dropped_dead_count": 0
+    },
+    {
+      "site": "aiMakeVideo",
+      "file": "aimakevideo.json",
+      "home": "https://aimakevideo.com/",
+      "sitemap_existed": true,
+      "sitemap_urls_found": [
+        "https://aimakevideo.com/sitemap.xml"
+      ],
+      "template_count": 50,
+      "new_count": 1,
+      "removed_count": 0,
+      "dropped_dead_count": 0
+    },
+    {
+      "site": "Try a Trend",
+      "file": "tryatrend.json",
+      "home": "https://tryatrend.com/",
+      "sitemap_existed": true,
+      "sitemap_urls_found": [
+        "https://tryatrend.com/sitemap.xml"
+      ],
+      "template_count": 52,
+      "new_count": 1,
+      "removed_count": 0,
+      "dropped_dead_count": 0,
+      "note": "Kept ai-halloween-costume despite missing from today's sitemap (page still 200)."
+    },
+    {
+      "site": "Memelry",
+      "file": "memelry.json",
+      "home": "https://memelry.com/",
+      "sitemap_existed": true,
+      "sitemap_urls_found": [
+        "https://memelry.com/sitemap.xml"
+      ],
+      "template_count": 355,
+      "new_count": 0,
+      "removed_count": 0,
+      "dropped_dead_count": 0
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+Starrd new=32 gone=1 prev=345 now=376
+action	https://www.getstarrd.app/template/action
+anime	https://www.getstarrd.app/template/anime
+asmr	https://www.getstarrd.app/template/asmr
+atm-christmas-wish-ai-video	https://www.getstarrd.app/template/atm-christmas-wish-ai-video
+barbie-girl-dance	https://www.getstarrd.app/template/barbie-girl-dance
+careless-whisper-car-ai-video	https://www.getstarrd.app/template/careless-whisper-car-ai-video
+cars	https://www.getstarrd.app/template/cars
+catch-santa-at-your-tree-ai-video	https://www.getstarrd.app/template/catch-santa-at-your-tree-ai-video
+catch-santa-down-the-chimney-ai-video	https://www.getstarrd.app/template/catch-santa-down-the-chimney-ai-video
+catch-santa-eating-the-cookies-ai-video	https://www.getstarrd.app/template/catch-santa-eating-the-cookies-ai-video
+catch-the-grinch-ai-video	https://www.getstarrd.app/template/catch-the-grinch-ai-video
+catch-the-sneaky-elf-ai-video	https://www.getstarrd.app/template/catch-the-sneaky-elf-ai-video
+christmas-dance-trend	https://www.getstarrd.app/template/christmas-dance-trend
+crime	https://www.getstarrd.app/template/crime
+drama	https://www.getstarrd.app/template/drama
+elf-dance-ai-video	https://www.getstarrd.app/template/elf-dance-ai-video
+gaming	https://www.getstarrd.app/template/gaming
+gangstas-paradise-ai-video	https://www.getstarrd.app/template/gangstas-paradise-ai-video
+gangstas-paradise-extended-ai-video	https://www.getstarrd.app/template/gangstas-paradise-extended-ai-video
+henshin	https://www.getstarrd.app/template/henshin
+hit-me-baby-one-more-time-ai-video	https://www.getstarrd.app/template/hit-me-baby-one-more-time-ai-video
+holidays	https://www.getstarrd.app/template/holidays
+iconic-by-mistake-ai-video	https://www.getstarrd.app/template/iconic-by-mistake-ai-video
+island-boy-ai-trend	https://www.getstarrd.app/template/island-boy-ai-trend
+music	https://www.getstarrd.app/template/music
+nostalgia	https://www.getstarrd.app/template/nostalgia
+pets	https://www.getstarrd.app/template/pets
+pranks	https://www.getstarrd.app/template/pranks
+shes-staring-at-me-mad-trend	https://www.getstarrd.app/template/shes-staring-at-me-mad-trend
+song	https://www.getstarrd.app/template/song
+sports	https://www.getstarrd.app/template/sports
+trailers	https://www.getstarrd.app/template/trailers
+-- gone --
+bro-took-the-whole-bag-ai-video	https://www.getstarrd.app/template/bro-took-the-whole-bag-ai-video

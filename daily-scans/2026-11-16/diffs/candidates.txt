@@ -1,0 +1,327 @@
+YESTERDAY FILTERED SLUGS BY FILE
+  ricebowl.json: 265
+  memelry.json: 48
+  picturetovideo.json: 43
+  rapvideo.json: 28
+  summrs.json: 21
+  memefxai.json: 21
+  samevid.json: 16
+  starrd.json: 16
+  trendswap.json: 13
+  trendtemplate.json: 11
+  genjutsu.json: 8
+  bolly.json: 7
+  makememe.json: 3
+  aitrendvideo.json: 3
+  kubflow.json: 1
+
+======= CANDIDATES AFTER SUBTRACTING YEST FILTERED =======
+
+## TrendTemplate (trendtemplate.json) raw_new=12 already_filtered=11 remaining=1 missing=0
+  + need-for-speed-ai | Need For Speed AI | https://trendtemplate.com/need-for-speed-ai
+
+## MakeViral (makeviral.json) raw_new=11 already_filtered=0 remaining=11 missing=0
+  + ai-tidal-wave-video | AI Tidal Wave Video | https://www.makeviral.ai/templates/ai-tidal-wave-video
+  + airport-transition-ai-trend | Airport Transition AI Trend | https://www.makeviral.ai/templates/airport-transition-ai-trend
+  + dance-with-santa-ai | Dance With Santa AI | https://www.makeviral.ai/templates/dance-with-santa-ai
+  + dog-washing-dishes-ai-trend | Dog Washing Dishes AI Trend | https://www.makeviral.ai/templates/dog-washing-dishes-ai-trend
+  + gta-6-loading-screen-ai | Gta 6 Loading Screen AI | https://www.makeviral.ai/templates/gta-6-loading-screen-ai
+  + jingle-bell-brazil-dance-ai | Jingle Bell Brazil Dance AI | https://www.makeviral.ai/templates/jingle-bell-brazil-dance-ai
+  + nadie-ta-frio-ai-trend | Nadie Ta Frio AI Trend | https://www.makeviral.ai/templates/nadie-ta-frio-ai-trend
+  + reaching-out-cat-ai | Reaching Out Cat AI | https://www.makeviral.ai/templates/reaching-out-cat-ai
+  + ronaldo-header-ai-trend | Ronaldo Header AI Trend | https://www.makeviral.ai/templates/ronaldo-header-ai-trend
+  + tiger-transition-ai-trend | Tiger Transition AI Trend | https://www.makeviral.ai/templates/tiger-transition-ai-trend
+  + you-rock-my-world-ai-trend | You Rock My World AI Trend | https://www.makeviral.ai/templates/you-rock-my-world-ai-trend
+
+## MakeMeme.video (makememe.json) raw_new=10 already_filtered=3 remaining=7 missing=0
+  + bigxthaplug-give-it-all-ai | Bigxthaplug Give It All AI | https://makememe.video/bigxthaplug-give-it-all-ai
+  + christmas-ai-video-trends | Christmas AI Video Trends | https://makememe.video/christmas-ai-video-trends
+  + jingle-bell-rock-ai | Jingle Bell Rock AI | https://makememe.video/jingle-bell-rock-ai
+  + never-let-her-pay-ai | Never Let Her Pay AI | https://makememe.video/never-let-her-pay-ai
+  + old-town-road-ai | Old Town Road AI | https://makememe.video/old-town-road-ai
+  + pet-taxi-ai | Pet Taxi AI | https://makememe.video/pet-taxi-ai
+  + questions | Questions | https://makememe.video/questions
+
+## ClipRemake (clipremake.json) raw_new=2 already_filtered=0 remaining=2 missing=0
+  + hotline-bling-ai | Hotline Bling AI | https://clipremake.com/templates/hotline-bling-ai
+  + wassup-in-a-minute-ai | Wassup In A Minute AI | https://clipremake.com/templates/wassup-in-a-minute-ai
+
+## MemeFX AI (memefxai.json) raw_new=22 already_filtered=21 remaining=1 missing=0
+  + wassup-in-a-minute-ai-trend | Wassup In A Minute AI Trend | https://memefxai.com/wassup-in-a-minute-ai-trend
+
+## SameVid AI (samevid.json) raw_new=25 already_filtered=16 remaining=9 missing=0
+  + aircraft-carrier-dance-ai | Aircraft Carrier Dance AI | https://samevid.com/template/aircraft-carrier-dance-ai
+  + ddg-and-dub-ai-dance | Ddg And Dub AI Dance | https://samevid.com/template/ddg-and-dub-ai-dance
+  + grandma-vs-grandpa-fight-ai | Grandma Vs Grandpa Fight AI | https://samevid.com/template/grandma-vs-grandpa-fight-ai
+  + hospital-flying-knee-ai | Hospital Flying Knee AI | https://samevid.com/template/hospital-flying-knee-ai
+  + photographing-dolphins-ai | Photographing Dolphins AI | https://samevid.com/template/photographing-dolphins-ai
+  + reaching-out-cat-ai | Reaching Out Cat AI | https://samevid.com/template/reaching-out-cat-ai
+  + rich-era-ai | Rich Era AI | https://samevid.com/template/rich-era-ai
+  + ronaldo-header-ai | Ronaldo Header AI | https://samevid.com/template/ronaldo-header-ai
+  + rooster-wet-cement-ai | Rooster Wet Cement AI | https://samevid.com/template/rooster-wet-cement-ai
+
+## Put Me In (putmein.json) raw_new=133 already_filtered=0 remaining=133 missing=0
+  + abra-kadabra-ai-trend | Abra Kadabra AI Trend | https://putmein.app/templates/abra-kadabra-ai-trend
+  + ai-car-jump-trend | AI Car Jump Trend | https://putmein.app/templates/ai-car-jump-trend
+  + ai-ceiling-fan-trend | AI Ceiling Fan Trend | https://putmein.app/templates/ai-ceiling-fan-trend
+  + ai-cupid-trend | AI Cupid Trend | https://putmein.app/templates/ai-cupid-trend
+  + ai-dancing-dog-video | AI Dancing Dog Video | https://putmein.app/templates/ai-dancing-dog-video
+  + ai-doodle-dance-partner | AI Doodle Dance Partner | https://putmein.app/templates/ai-doodle-dance-partner
+  + ai-explosion-walk-trend | AI Explosion Walk Trend | https://putmein.app/templates/ai-explosion-walk-trend
+  + ai-red-riding-hood | AI Red Riding Hood | https://putmein.app/templates/ai-red-riding-hood
+  + ateez-bad-dance-challenge-ai | Ateez Bad Dance Challenge AI | https://putmein.app/templates/ateez-bad-dance-challenge-ai
+  + atm-glitch-ai-trend | Atm Glitch AI Trend | https://putmein.app/templates/atm-glitch-ai-trend
+  + babydoll-dance-ai-trend | Babydoll Dance AI Trend | https://putmein.app/templates/babydoll-dance-ai-trend
+  + bad-aim-edit-ai-trend | Bad Aim Edit AI Trend | https://putmein.app/templates/bad-aim-edit-ai-trend
+  + banana-tree-run-ai-trend | Banana Tree Run AI Trend | https://putmein.app/templates/banana-tree-run-ai-trend
+  + bby-wow-guy-ai-trend | Bby Wow Guy AI Trend | https://putmein.app/templates/bby-wow-guy-ai-trend
+  + becane-ai-trend | Becane AI Trend | https://putmein.app/templates/becane-ai-trend
+  + biker-birthday-cake-ai-trend | Biker Birthday Cake AI Trend | https://putmein.app/templates/biker-birthday-cake-ai-trend
+  + billie-jean-dance-ai-trend | Billie Jean Dance AI Trend | https://putmein.app/templates/billie-jean-dance-ai-trend
+  + birthday-car-ai-trend | Birthday Car AI Trend | https://putmein.app/templates/birthday-car-ai-trend
+  + black-and-white-cinematic-ai-video | Black And White Cinematic AI Video | https://putmein.app/templates/black-and-white-cinematic-ai-video
+  + bottle-kick-challenge-ai | Bottle Kick Challenge AI | https://putmein.app/templates/bottle-kick-challenge-ai
+  + boyfriend-picks-you-up-every-day-ai-trend | Boyfriend Picks You Up Every Day AI Trend | https://putmein.app/templates/boyfriend-picks-you-up-every-day-ai-trend
+  + bulin-47-ai-trend | Bulin 47 AI Trend | https://putmein.app/templates/bulin-47-ai-trend
+  + bulin-47-dance-ai-trend | Bulin 47 Dance AI Trend | https://putmein.app/templates/bulin-47-dance-ai-trend
+  + bye-bye-outfit-change-ai-trend | Bye Bye Outfit Change AI Trend | https://putmein.app/templates/bye-bye-outfit-change-ai-trend
+  + c-walk-ai-dance | C Walk AI Dance | https://putmein.app/templates/c-walk-ai-dance
+  + can-can-dance-ai-trend | Can Can Dance AI Trend | https://putmein.app/templates/can-can-dance-ai-trend
+  + can-i-ride-dance-ai-trend | Can I Ride Dance AI Trend | https://putmein.app/templates/can-i-ride-dance-ai-trend
+  + car-alarm-dance-ai-trend | Car Alarm Dance AI Trend | https://putmein.app/templates/car-alarm-dance-ai-trend
+  + car-roof-backflip-ai-trend | Car Roof Backflip AI Trend | https://putmein.app/templates/car-roof-backflip-ai-trend
+  + cat-middle-finger-ai-trend | Cat Middle Finger AI Trend | https://putmein.app/templates/cat-middle-finger-ai-trend
+  + cat-on-ultra-bee-ai-trend | Cat On Ultra Bee AI Trend | https://putmein.app/templates/cat-on-ultra-bee-ai-trend
+  + cat-shower-ai-trend | Cat Shower AI Trend | https://putmein.app/templates/cat-shower-ai-trend
+  + catel-madatorricelli-ai-dance | Catel Madatorricelli AI Dance | https://putmein.app/templates/catel-madatorricelli-ai-dance
+  + champagne-birthday-ai-trend | Champagne Birthday AI Trend | https://putmein.app/templates/champagne-birthday-ai-trend
+  + champagne-car-window-ai-trend | Champagne Car Window AI Trend | https://putmein.app/templates/champagne-car-window-ai-trend
+  + chased-by-hyenas-ai-trend | Chased By Hyenas AI Trend | https://putmein.app/templates/chased-by-hyenas-ai-trend
+  + chipmunks-dance-ai-trend | Chipmunks Dance AI Trend | https://putmein.app/templates/chipmunks-dance-ai-trend
+  + christian-dior-dance-ai-trend | Christian Dior Dance AI Trend | https://putmein.app/templates/christian-dior-dance-ai-trend
+  + christmas-lights-car-ai-trend | Christmas Lights Car AI Trend | https://putmein.app/templates/christmas-lights-car-ai-trend
+  + christmas-princess-carriage-ai-trend | Christmas Princess Carriage AI Trend | https://putmein.app/templates/christmas-princess-carriage-ai-trend
+  + closed-on-sunday-ai-trend | Closed On Sunday AI Trend | https://putmein.app/templates/closed-on-sunday-ai-trend
+  + closing-door-prank-ai-trend | Closing Door Prank AI Trend | https://putmein.app/templates/closing-door-prank-ai-trend
+  + coffee-making-ai-video | Coffee Making AI Video | https://putmein.app/templates/coffee-making-ai-video
+  + come-and-get-it-ai-trend | Come And Get It AI Trend | https://putmein.app/templates/come-and-get-it-ai-trend
+  + cutedog-ai-trend | Cutedog AI Trend | https://putmein.app/templates/cutedog-ai-trend
+  + damon-salvatore-ai-trend | Damon Salvatore AI Trend | https://putmein.app/templates/damon-salvatore-ai-trend
+  + devil-wears-prada-ai-trend | Devil Wears Prada AI Trend | https://putmein.app/templates/devil-wears-prada-ai-trend
+  + dog-dance-crew-ai-trend | Dog Dance Crew AI Trend | https://putmein.app/templates/dog-dance-crew-ai-trend
+  + dog-drummer-ai | Dog Drummer AI | https://putmein.app/templates/dog-drummer-ai
+  + dog-grooming-time-ai-trend | Dog Grooming Time AI Trend | https://putmein.app/templates/dog-grooming-time-ai-trend
+  + dog-pool-party-ai-dance | Dog Pool Party AI Dance | https://putmein.app/templates/dog-pool-party-ai-dance
+  + drink-fly-bump-ai-trend | Drink Fly Bump AI Trend | https://putmein.app/templates/drink-fly-bump-ai-trend
+  + elevator-outfit-change-ai-trend | Elevator Outfit Change AI Trend | https://putmein.app/templates/elevator-outfit-change-ai-trend
+  + elsa-ai-trend | Elsa AI Trend | https://putmein.app/templates/elsa-ai-trend
+  + end-of-watch-locker-scene-ai-trend | End Of Watch Locker Scene AI Trend | https://putmein.app/templates/end-of-watch-locker-scene-ai-trend
+  + escalator-outfit-change-ai-trend | Escalator Outfit Change AI Trend | https://putmein.app/templates/escalator-outfit-change-ai-trend
+  + fashion-week-outfit-ai-trend | Fashion Week Outfit AI Trend | https://putmein.app/templates/fashion-week-outfit-ai-trend
+  + fergie-baby-ai-trend | Fergie Baby AI Trend | https://putmein.app/templates/fergie-baby-ai-trend
+  + fish-cutting-meme | Fish Cutting Meme | https://putmein.app/templates/fish-cutting-meme
+  + flamingo-float-ai-trend | Flamingo Float AI Trend | https://putmein.app/templates/flamingo-float-ai-trend
+  + flower-nose-ai-trend | Flower Nose AI Trend | https://putmein.app/templates/flower-nose-ai-trend
+  + fridge-pov-ai-trend | Fridge Pov AI Trend | https://putmein.app/templates/fridge-pov-ai-trend
+  + gas-station-dance-ai-trend | Gas Station Dance AI Trend | https://putmein.app/templates/gas-station-dance-ai-trend
+  + giant-hands-dress-up-ai-trend | Giant Hands Dress Up AI Trend | https://putmein.app/templates/giant-hands-dress-up-ai-trend
+  + gimme-purr-gimme-meow-ai-trend | Gimme Purr Gimme Meow AI Trend | https://putmein.app/templates/gimme-purr-gimme-meow-ai-trend
+  + gomlegi-cekete-donusen-adam-ai | Gomlegi Cekete Donusen Adam AI | https://putmein.app/templates/gomlegi-cekete-donusen-adam-ai
+  + grandpa-handle-dinner-ai-trend | Grandpa Handle Dinner AI Trend | https://putmein.app/templates/grandpa-handle-dinner-ai-trend
+  + grau-de-moto-ai-trend | Grau De Moto AI Trend | https://putmein.app/templates/grau-de-moto-ai-trend
+  + halloween-makeup-filter | Halloween Makeup Filter | https://putmein.app/templates/halloween-makeup-filter
+  + headbop-ai-trend | Headbop AI Trend | https://putmein.app/templates/headbop-ai-trend
+  + i-just-beat-the-case-ai-trend | I Just Beat The Case AI Trend | https://putmein.app/templates/i-just-beat-the-case-ai-trend
+  + ice-ice-baby-dance-ai | Ice Ice Baby Dance AI | https://putmein.app/templates/ice-ice-baby-dance-ai
+  + im-with-you-ai-trend | Im With You AI Trend | https://putmein.app/templates/im-with-you-ai-trend
+  + just-a-lil-bit-ai-dance | Just A Lil Bit AI Dance | https://putmein.app/templates/just-a-lil-bit-ai-dance
+  + kiat-jud-dai-kitten-parade-ai | Kiat Jud Dai Kitten Parade AI | https://putmein.app/templates/kiat-jud-dai-kitten-parade-ai
+  + kung-fu-cat-ai-trend | Kung Fu Cat AI Trend | https://putmein.app/templates/kung-fu-cat-ai-trend
+  + la-calabaza-ai-dance | La Calabaza AI Dance | https://putmein.app/templates/la-calabaza-ai-dance
+  + me-sitting-and-doing-nothing-ai-trend | Me Sitting And Doing Nothing AI Trend | https://putmein.app/templates/me-sitting-and-doing-nothing-ai-trend
+  + mi-chico-dance-ai-trend | Mi Chico Dance AI Trend | https://putmein.app/templates/mi-chico-dance-ai-trend
+  + money-flex-ai-trend | Money Flex AI Trend | https://putmein.app/templates/money-flex-ai-trend
+  + monkey-eating-apple-ai-trend | Monkey Eating Apple AI Trend | https://putmein.app/templates/monkey-eating-apple-ai-trend
+  + mr-and-mrs-stretchy-ai-trend | Mr And Mrs Stretchy AI Trend | https://putmein.app/templates/mr-and-mrs-stretchy-ai-trend
+  + my-ride-is-here-broom-trend | My Ride Is Here Broom Trend | https://putmein.app/templates/my-ride-is-here-broom-trend
+  + neon-dance-ai-trend | Neon Dance AI Trend | https://putmein.app/templates/neon-dance-ai-trend
+  + nicole-kidman-dance-ai-trend | Nicole Kidman Dance AI Trend | https://putmein.app/templates/nicole-kidman-dance-ai-trend
+  + no-guidance-dance-ai-trend | No Guidance Dance AI Trend | https://putmein.app/templates/no-guidance-dance-ai-trend
+  + nyc-rats-ai-trend | Nyc Rats AI Trend | https://putmein.app/templates/nyc-rats-ai-trend
+  + opa-opa-bouncy-hair-ai | Opa Opa Bouncy Hair AI | https://putmein.app/templates/opa-opa-bouncy-hair-ai
+  + otsukare-summer-dance-ai-trend | Otsukare Summer Dance AI Trend | https://putmein.app/templates/otsukare-summer-dance-ai-trend
+  + ozil-goal-ai-trend | Ozil Goal AI Trend | https://putmein.app/templates/ozil-goal-ai-trend
+  + parrot-dance-ai-trend | Parrot Dance AI Trend | https://putmein.app/templates/parrot-dance-ai-trend
+  + party-viral-dance-ai-trend | Party Viral Dance AI Trend | https://putmein.app/templates/party-viral-dance-ai-trend
+  + passenger-princess-ai-trend | Passenger Princess AI Trend | https://putmein.app/templates/passenger-princess-ai-trend
+  + perfume-transition-ai-trend | Perfume Transition AI Trend | https://putmein.app/templates/perfume-transition-ai-trend
+  + pet-rock-dance-ai-trend | Pet Rock Dance AI Trend | https://putmein.app/templates/pet-rock-dance-ai-trend
+  + pet-taxi-ai-trend | Pet Taxi AI Trend | https://putmein.app/templates/pet-taxi-ai-trend
+  + pimpwalk-entrance-ai-trend | Pimpwalk Entrance AI Trend | https://putmein.app/templates/pimpwalk-entrance-ai-trend
+  + polska-jumpstyle-ai | Polska Jumpstyle AI | https://putmein.app/templates/polska-jumpstyle-ai
+  + pov-outfit-transition-ai-trend | Pov Outfit Transition AI Trend | https://putmein.app/templates/pov-outfit-transition-ai-trend
+  + pumpkin-kick-ai-trend | Pumpkin Kick AI Trend | https://putmein.app/templates/pumpkin-kick-ai-trend
+  + quiet-on-the-creek-ai-trend | Quiet On The Creek AI Trend | https://putmein.app/templates/quiet-on-the-creek-ai-trend
+  + ramalama-ai-trend | Ramalama AI Trend | https://putmein.app/templates/ramalama-ai-trend
+  + santa-sleigh-ai-trend | Santa Sleigh AI Trend | https://putmein.app/templates/santa-sleigh-ai-trend
+  + sawadika-dance-ai-trend | Sawadika Dance AI Trend | https://putmein.app/templates/sawadika-dance-ai-trend
+  + shan-shen-bu-ai-dance | Shan Shen Bu AI Dance | https://putmein.app/templates/shan-shen-bu-ai-dance
+  + singing-dog-ai-trend | Singing Dog AI Trend | https://putmein.app/templates/singing-dog-ai-trend
+  + single-ladies-dog-dance-ai | Single Ladies Dog Dance AI | https://putmein.app/templates/single-ladies-dog-dance-ai
+  + skull-cap-ai-trend | Skull Cap AI Trend | https://putmein.app/templates/skull-cap-ai-trend
+  + smooth-criminal-dance-ai-trend | Smooth Criminal Dance AI Trend | https://putmein.app/templates/smooth-criminal-dance-ai-trend
+  + sniffer-dog-ai-trend | Sniffer Dog AI Trend | https://putmein.app/templates/sniffer-dog-ai-trend
+  + snow-leopard-paws-at-you-ai | Snow Leopard Paws At You AI | https://putmein.app/templates/snow-leopard-paws-at-you-ai
+  + stateside-dance-ai-trend | Stateside Dance AI Trend | https://putmein.app/templates/stateside-dance-ai-trend
+  + stones-to-castle-ai-trend | Stones To Castle AI Trend | https://putmein.app/templates/stones-to-castle-ai-trend
+  + street-light-slide-ai-effect | Street Light Slide AI Effect | https://putmein.app/templates/street-light-slide-ai-effect
+  + subway-outfit-change-ai-trend | Subway Outfit Change AI Trend | https://putmein.app/templates/subway-outfit-change-ai-trend
+  + teach-me-how-to-dougie-ai-trend | Teach Me How To Dougie AI Trend | https://putmein.app/templates/teach-me-how-to-dougie-ai-trend
+  + tecktonik-dance-ai-trend | Tecktonik Dance AI Trend | https://putmein.app/templates/tecktonik-dance-ai-trend
+  + thank-you-baby-ai-trend | Thank You Baby AI Trend | https://putmein.app/templates/thank-you-baby-ai-trend
+  + the-jawn-ai-dance | The Jawn AI Dance | https://putmein.app/templates/the-jawn-ai-dance
+  + then-i-walk-in-ai-trend | Then I Walk In AI Trend | https://putmein.app/templates/then-i-walk-in-ai-trend
+  + three-bogatyrs-ai-trend | Three Bogatyrs AI Trend | https://putmein.app/templates/three-bogatyrs-ai-trend
+  + thriller-dance-ai-trend | Thriller Dance AI Trend | https://putmein.app/templates/thriller-dance-ai-trend
+  + toc-toc-dance-ai-trend | Toc Toc Dance AI Trend | https://putmein.app/templates/toc-toc-dance-ai-trend
+  + topo-gigio-celebration-ai-trend | Topo Gigio Celebration AI Trend | https://putmein.app/templates/topo-gigio-celebration-ai-trend
+  + toz-pembe-ai-trend | Toz Pembe AI Trend | https://putmein.app/templates/toz-pembe-ai-trend
+  + transmission-5-dance-ai-trend | Transmission 5 Dance AI Trend | https://putmein.app/templates/transmission-5-dance-ai-trend
+  + truck-driver-ai-trend | Truck Driver AI Trend | https://putmein.app/templates/truck-driver-ai-trend
+  + tying-shoes-money-ai-trend | Tying Shoes Money AI Trend | https://putmein.app/templates/tying-shoes-money-ai-trend
+  + ukwu-ai-trend | Ukwu AI Trend | https://putmein.app/templates/ukwu-ai-trend
+  + unforgettable-car-trend-ai | Unforgettable Car Trend AI | https://putmein.app/templates/unforgettable-car-trend-ai
+  + whiny-dog-ai-trend | Whiny Dog AI Trend | https://putmein.app/templates/whiny-dog-ai-trend
+  + wizard-cat-keyboard-smash-ai-trend | Wizard Cat Keyboard Smash AI Trend | https://putmein.app/templates/wizard-cat-keyboard-smash-ai-trend
+  + yes-yes-i-love-you-ai-trend | Yes Yes I Love You AI Trend | https://putmein.app/templates/yes-yes-i-love-you-ai-trend
+
+## DanceRemake (danceremake.json) raw_new=3 already_filtered=0 remaining=3 missing=0
+  + hotline-bling-ai | Hotline Bling AI | https://danceremake.com/templates/hotline-bling-ai
+  + pimp-walk-entrance-ai | Pimp Walk Entrance AI | https://danceremake.com/templates/pimp-walk-entrance-ai
+  + wassup-in-a-minute-ai | Wassup In A Minute AI | https://danceremake.com/templates/wassup-in-a-minute-ai
+
+## ZapVid (zapvid.json) raw_new=8 already_filtered=0 remaining=8 missing=0
+  + babydoll-dance-ai-video-generator | Babydoll Dance AI Video Generator | https://zapvid.ai/babydoll-dance-ai-video-generator
+  + bicep-heart-ai-video-generator | Bicep Heart AI Video Generator | https://zapvid.ai/bicep-heart-ai-video-generator
+  + clapping-cat-ai-video-generator | Clapping Cat AI Video Generator | https://zapvid.ai/clapping-cat-ai-video-generator
+  + flying-tesla-roadster-ai-video-generator | Flying Tesla Roadster AI Video Generator | https://zapvid.ai/flying-tesla-roadster-ai-video-generator
+  + la-tormenta-de-arena-ai-video-generator | La Tormenta De Arena AI Video Generator | https://zapvid.ai/la-tormenta-de-arena-ai-video-generator
+  + shan-shen-bu-ai-video-generator | Shan Shen Bu AI Video Generator | https://zapvid.ai/shan-shen-bu-ai-video-generator
+  + smalltown-boy-cats-ai-video-generator | Smalltown Boy Cats AI Video Generator | https://zapvid.ai/smalltown-boy-cats-ai-video-generator
+  + toy-car-to-real-car-ai-video-generator | Toy Car To Real Car AI Video Generator | https://zapvid.ai/toy-car-to-real-car-ai-video-generator
+
+## Genjutsu AI (genjutsu.json) raw_new=8 already_filtered=8 remaining=0 missing=0
+
+## TrendSwap (trendswap.json) raw_new=13 already_filtered=13 remaining=0 missing=0
+
+## AI Trend Video (aitrendvideo.json) raw_new=3 already_filtered=3 remaining=0 missing=0
+
+## PictureToVideo (picturetovideo.json) raw_new=43 already_filtered=43 remaining=0 missing=0
+
+## Summrs (summrs.json) raw_new=21 already_filtered=21 remaining=0 missing=1
+  - MISSING bigfoot-vlog | https://www.summrs.com/bigfoot-vlog
+
+## Try a Trend (tryatrend.json) raw_new=2 already_filtered=0 remaining=2 missing=1
+  + sticky-bubblegum-ai | Sticky Bubblegum AI | https://tryatrend.com/sticky-bubblegum-ai
+  + wassup-in-a-minute-ai | Wassup In A Minute AI | https://tryatrend.com/wassup-in-a-minute-ai
+  - MISSING ai-halloween-costume | https://tryatrend.com/ai-halloween-costume
+
+## Ricebowl AI (ricebowl.json) raw_new=265 already_filtered=265 remaining=0 missing=0
+
+## RapVideo.ai (rapvideo.json) raw_new=29 already_filtered=28 remaining=1 missing=0
+  + sticky-bubblegum-ai | Sticky Bubblegum AI | https://rapvideo.ai/sticky-bubblegum-ai
+
+## Memelry (memelry.json) raw_new=52 already_filtered=48 remaining=4 missing=0
+  + cortis-go-ai-from-photo | Cortis Go AI From Photo | https://memelry.com/cortis-go-ai-from-photo
+  + how-to-make-no-scrubs-ai-video | How To Make No Scrubs AI Video | https://memelry.com/how-to-make-no-scrubs-ai-video
+  + wassup-dance-face-expression-guide | Wassup Dance Face Expression Guide | https://memelry.com/wassup-dance-face-expression-guide
+  + wassup-dance-with-three-friends | Wassup Dance With Three Friends | https://memelry.com/wassup-dance-with-three-friends
+
+## Kubflow (kubflow.json) raw_new=1 already_filtered=1 remaining=0 missing=0
+
+## Bolly.AI (bolly.json) raw_new=7 already_filtered=7 remaining=0 missing=0
+
+## Starrd (starrd.json) raw_new=17 already_filtered=16 remaining=1 missing=1
+  + monkey-eating-apple-ai-video | Monkey Eating Apple AI Video | https://www.getstarrd.app/template/monkey-eating-apple-ai-video
+  - MISSING bro-took-the-whole-bag-ai-video | https://www.getstarrd.app/template/bro-took-the-whole-bag-ai-video
+
+## aiMakeVideo (aimakevideo.json) raw_new=2 already_filtered=0 remaining=2 missing=0
+  + babydoll-dance-ai | Babydoll Dance AI | https://aimakevideo.com/babydoll-dance-ai
+  + wassup-in-a-minute-ai | Wassup In A Minute AI | https://aimakevideo.com/wassup-in-a-minute-ai
+
+======= PUT ME IN URL PATTERNS =======
+new path prefixes:
+  /templates/abra-kadabra-ai-trend: 1
+  /templates/ai-car-jump-trend: 1
+  /templates/ai-ceiling-fan-trend: 1
+  /templates/ai-cupid-trend: 1
+  /templates/ai-dancing-dog-video: 1
+  /templates/ai-doodle-dance-partner: 1
+  /templates/ai-explosion-walk-trend: 1
+  /templates/ai-red-riding-hood: 1
+  /templates/ateez-bad-dance-challenge-ai: 1
+  /templates/atm-glitch-ai-trend: 1
+  /templates/babydoll-dance-ai-trend: 1
+  /templates/bad-aim-edit-ai-trend: 1
+  /templates/banana-tree-run-ai-trend: 1
+  /templates/bby-wow-guy-ai-trend: 1
+  /templates/becane-ai-trend: 1
+  /templates/biker-birthday-cake-ai-trend: 1
+  /templates/billie-jean-dance-ai-trend: 1
+  /templates/birthday-car-ai-trend: 1
+  /templates/black-and-white-cinematic-ai-video: 1
+  /templates/bottle-kick-challenge-ai: 1
+  /templates/boyfriend-picks-you-up-every-day-ai-trend: 1
+  /templates/bulin-47-ai-trend: 1
+  /templates/bulin-47-dance-ai-trend: 1
+  /templates/bye-bye-outfit-change-ai-trend: 1
+  /templates/c-walk-ai-dance: 1
+  /templates/can-can-dance-ai-trend: 1
+  /templates/can-i-ride-dance-ai-trend: 1
+  /templates/car-alarm-dance-ai-trend: 1
+  /templates/car-roof-backflip-ai-trend: 1
+  /templates/cat-middle-finger-ai-trend: 1
+sample 20:
+  abra-kadabra-ai-trend | https://putmein.app/templates/abra-kadabra-ai-trend
+  ai-car-jump-trend | https://putmein.app/templates/ai-car-jump-trend
+  ai-ceiling-fan-trend | https://putmein.app/templates/ai-ceiling-fan-trend
+  ai-cupid-trend | https://putmein.app/templates/ai-cupid-trend
+  ai-dancing-dog-video | https://putmein.app/templates/ai-dancing-dog-video
+  ai-doodle-dance-partner | https://putmein.app/templates/ai-doodle-dance-partner
+  ai-explosion-walk-trend | https://putmein.app/templates/ai-explosion-walk-trend
+  ai-red-riding-hood | https://putmein.app/templates/ai-red-riding-hood
+  ateez-bad-dance-challenge-ai | https://putmein.app/templates/ateez-bad-dance-challenge-ai
+  atm-glitch-ai-trend | https://putmein.app/templates/atm-glitch-ai-trend
+  babydoll-dance-ai-trend | https://putmein.app/templates/babydoll-dance-ai-trend
+  bad-aim-edit-ai-trend | https://putmein.app/templates/bad-aim-edit-ai-trend
+  banana-tree-run-ai-trend | https://putmein.app/templates/banana-tree-run-ai-trend
+  bby-wow-guy-ai-trend | https://putmein.app/templates/bby-wow-guy-ai-trend
+  becane-ai-trend | https://putmein.app/templates/becane-ai-trend
+  biker-birthday-cake-ai-trend | https://putmein.app/templates/biker-birthday-cake-ai-trend
+  billie-jean-dance-ai-trend | https://putmein.app/templates/billie-jean-dance-ai-trend
+  birthday-car-ai-trend | https://putmein.app/templates/birthday-car-ai-trend
+  black-and-white-cinematic-ai-video | https://putmein.app/templates/black-and-white-cinematic-ai-video
+  bottle-kick-challenge-ai | https://putmein.app/templates/bottle-kick-challenge-ai
+...
+  topo-gigio-celebration-ai-trend | https://putmein.app/templates/topo-gigio-celebration-ai-trend
+  toz-pembe-ai-trend | https://putmein.app/templates/toz-pembe-ai-trend
+  transmission-5-dance-ai-trend | https://putmein.app/templates/transmission-5-dance-ai-trend
+  truck-driver-ai-trend | https://putmein.app/templates/truck-driver-ai-trend
+  tying-shoes-money-ai-trend | https://putmein.app/templates/tying-shoes-money-ai-trend
+  ukwu-ai-trend | https://putmein.app/templates/ukwu-ai-trend
+  unforgettable-car-trend-ai | https://putmein.app/templates/unforgettable-car-trend-ai
+  whiny-dog-ai-trend | https://putmein.app/templates/whiny-dog-ai-trend
+  wizard-cat-keyboard-smash-ai-trend | https://putmein.app/templates/wizard-cat-keyboard-smash-ai-trend
+  yes-yes-i-love-you-ai-trend | https://putmein.app/templates/yes-yes-i-love-you-ai-trend
+
+PREV Put Me In templates:
+  * abcdefg-i-need-money | https://putmein.app/templates/abcdefg-i-need-money
+  * bad-times | https://putmein.app/templates/bad-times
+  * bad-times-pet | https://putmein.app/templates/bad-times-pet
+  * bby-wow-dance | https://putmein.app/templates/bby-wow-dance
+  * gangnam-style-dance | https://putmein.app/templates/gangnam-style-dance
+  * hotel-lobby | https://putmein.app/templates/hotel-lobby
+  * iphone-kupi-dance | https://putmein.app/templates/iphone-kupi-dance
+  * no-scrubs | https://putmein.app/templates/no-scrubs
+  * psy-concert-entrance | https://putmein.app/templates/psy-concert-entrance
+  * tiny-desk | https://putmein.app/templates/tiny-desk

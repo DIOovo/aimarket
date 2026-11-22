@@ -1,0 +1,1822 @@
+{
+  "site": "Memelry",
+  "home": "https://memelry.com/",
+  "checked_at": "2026-11-19T09:40:27+08:00",
+  "sitemap_urls_found": [
+    "https://memelry.com/sitemap.xml"
+  ],
+  "sitemap_existed": true,
+  "template_count": 355,
+  "templates": [
+    {
+      "id_or_slug": "24k-magic-ai",
+      "title": "24k Magic AI",
+      "url": "https://memelry.com/24k-magic-ai"
+    },
+    {
+      "id_or_slug": "58th-floor-ai",
+      "title": "58th Floor AI",
+      "url": "https://memelry.com/58th-floor-ai"
+    },
+    {
+      "id_or_slug": "58th-floor-colors-extended-ai",
+      "title": "58th Floor Colors Extended AI",
+      "url": "https://memelry.com/58th-floor-colors-extended-ai"
+    },
+    {
+      "id_or_slug": "90s-rom-com-ai",
+      "title": "90s Rom-Com Wrong Number AI",
+      "url": "https://memelry.com/90s-rom-com-ai"
+    },
+    {
+      "id_or_slug": "a2o-lite-neon-ai",
+      "title": "A2o Lite Neon AI",
+      "url": "https://memelry.com/a2o-lite-neon-ai"
+    },
+    {
+      "id_or_slug": "abra-kadabra-ai",
+      "title": "Abra Kadabra AI",
+      "url": "https://memelry.com/abra-kadabra-ai"
+    },
+    {
+      "id_or_slug": "ai-cat-gym-video-ai",
+      "title": "AI Cat Gym Video",
+      "url": "https://memelry.com/ai-cat-gym-video-ai"
+    },
+    {
+      "id_or_slug": "ai-halloween-dance-video",
+      "title": "AI Halloween Dance Video",
+      "url": "https://memelry.com/ai-halloween-dance-video"
+    },
+    {
+      "id_or_slug": "ai-love-story",
+      "title": "AI Love Story",
+      "url": "https://memelry.com/ai-love-story"
+    },
+    {
+      "id_or_slug": "ai-tiny-desk",
+      "title": "AI Tiny Desk",
+      "url": "https://memelry.com/ai-tiny-desk"
+    },
+    {
+      "id_or_slug": "airport-transition-ai",
+      "title": "Airport Transition AI",
+      "url": "https://memelry.com/airport-transition-ai"
+    },
+    {
+      "id_or_slug": "alan-and-carlos-dance-ai",
+      "title": "Alan And Carlos Dance AI",
+      "url": "https://memelry.com/alan-and-carlos-dance-ai"
+    },
+    {
+      "id_or_slug": "ali-g-driving-ai",
+      "title": "Ali G Driving AI",
+      "url": "https://memelry.com/ali-g-driving-ai"
+    },
+    {
+      "id_or_slug": "alors-on-danse-ai",
+      "title": "Alors On Danse AI",
+      "url": "https://memelry.com/alors-on-danse-ai"
+    },
+    {
+      "id_or_slug": "angel-of-my-dreams-ai",
+      "title": "Angel Of My Dreams AI",
+      "url": "https://memelry.com/angel-of-my-dreams-ai"
+    },
+    {
+      "id_or_slug": "angel-or-devil-ai",
+      "title": "Angel Or Devil AI",
+      "url": "https://memelry.com/angel-or-devil-ai"
+    },
+    {
+      "id_or_slug": "angel-wings-reveal-ai",
+      "title": "Angel Wings Reveal AI",
+      "url": "https://memelry.com/angel-wings-reveal-ai"
+    },
+    {
+      "id_or_slug": "ankle-breaker-crossover-ai",
+      "title": "Ankle Breaker Crossover AI",
+      "url": "https://memelry.com/ankle-breaker-crossover-ai"
+    },
+    {
+      "id_or_slug": "apt-ai",
+      "title": "Apt AI",
+      "url": "https://memelry.com/apt-ai"
+    },
+    {
+      "id_or_slug": "asereje-ai",
+      "title": "Asereje AI",
+      "url": "https://memelry.com/asereje-ai"
+    },
+    {
+      "id_or_slug": "atam-beni-hatirlayiniz-ai",
+      "title": "Atam Beni Hatirlayiniz AI",
+      "url": "https://memelry.com/atam-beni-hatirlayiniz-ai"
+    },
+    {
+      "id_or_slug": "atm-christmas-wish-ai",
+      "title": "ATM Christmas Wish AI",
+      "url": "https://memelry.com/atm-christmas-wish-ai"
+    },
+    {
+      "id_or_slug": "ba-ba-ba-ba-dance-ai",
+      "title": "Ba Ba Ba Ba Dance AI",
+      "url": "https://memelry.com/ba-ba-ba-ba-dance-ai"
+    },
+    {
+      "id_or_slug": "ba-ba-ba-dance-ai",
+      "title": "Ba Ba Ba Dance AI",
+      "url": "https://memelry.com/ba-ba-ba-dance-ai"
+    },
+    {
+      "id_or_slug": "baba-aku-yok-ai",
+      "title": "Baba Akü Yok AI",
+      "url": "https://memelry.com/baba-aku-yok-ai"
+    },
+    {
+      "id_or_slug": "bababa-dance-ai",
+      "title": "Bababa Dance AI",
+      "url": "https://memelry.com/bababa-dance-ai"
+    },
+    {
+      "id_or_slug": "baby-carrier-window-dance-ai",
+      "title": "Baby Carrier Window Dance AI",
+      "url": "https://memelry.com/baby-carrier-window-dance-ai"
+    },
+    {
+      "id_or_slug": "baby-knight-ai",
+      "title": "Baby Knight AI",
+      "url": "https://memelry.com/baby-knight-ai"
+    },
+    {
+      "id_or_slug": "baby-wow-trend",
+      "title": "Baby Wow Trend",
+      "url": "https://memelry.com/baby-wow-trend"
+    },
+    {
+      "id_or_slug": "baby-you-bugging-ai",
+      "title": "Baby You Bugging AI",
+      "url": "https://memelry.com/baby-you-bugging-ai"
+    },
+    {
+      "id_or_slug": "babydoll-dance-ai",
+      "title": "Babydoll Dance AI",
+      "url": "https://memelry.com/babydoll-dance-ai"
+    },
+    {
+      "id_or_slug": "bad-aim-edit-ai",
+      "title": "Bad Aim Edit AI",
+      "url": "https://memelry.com/bad-aim-edit-ai"
+    },
+    {
+      "id_or_slug": "bad-times-ai",
+      "title": "Bad Times AI",
+      "url": "https://memelry.com/bad-times-ai"
+    },
+    {
+      "id_or_slug": "ballon-dor-ai",
+      "title": "Ballon Dor AI",
+      "url": "https://memelry.com/ballon-dor-ai"
+    },
+    {
+      "id_or_slug": "bama-bound-ai",
+      "title": "Bama Bound AI",
+      "url": "https://memelry.com/bama-bound-ai"
+    },
+    {
+      "id_or_slug": "banana-tree-run-ai",
+      "title": "Banana Tree Run AI",
+      "url": "https://memelry.com/banana-tree-run-ai"
+    },
+    {
+      "id_or_slug": "basketball-ankle-breaker-ai",
+      "title": "Basketball Ankle Breaker AI",
+      "url": "https://memelry.com/basketball-ankle-breaker-ai"
+    },
+    {
+      "id_or_slug": "basketball-crossover-ai",
+      "title": "Basketball Crossover AI",
+      "url": "https://memelry.com/basketball-crossover-ai"
+    },
+    {
+      "id_or_slug": "be-my-own-housewife-dance-ai",
+      "title": "Be My Own Housewife Dance AI",
+      "url": "https://memelry.com/be-my-own-housewife-dance-ai"
+    },
+    {
+      "id_or_slug": "beggin-dog-drummer-ai",
+      "title": "Beggin Dog Drummer AI",
+      "url": "https://memelry.com/beggin-dog-drummer-ai"
+    },
+    {
+      "id_or_slug": "beni-hatirlayiniz-10-kasim-ai",
+      "title": "Beni Hatirlayiniz 10 Kasim AI",
+      "url": "https://memelry.com/beni-hatirlayiniz-10-kasim-ai"
+    },
+    {
+      "id_or_slug": "beni-hatirlayiniz-ai",
+      "title": "Beni Hatirlayiniz AI",
+      "url": "https://memelry.com/beni-hatirlayiniz-ai"
+    },
+    {
+      "id_or_slug": "bicep-heart-ai",
+      "title": "Bicep Heart AI",
+      "url": "https://memelry.com/bicep-heart-ai"
+    },
+    {
+      "id_or_slug": "bigxthaplug-give-it-all-ai",
+      "title": "BigXthaPlug Give It All AI",
+      "url": "https://memelry.com/bigxthaplug-give-it-all-ai"
+    },
+    {
+      "id_or_slug": "bing-bing-bing-kicks-ai",
+      "title": "Bing Bing Bing Kicks AI",
+      "url": "https://memelry.com/bing-bing-bing-kicks-ai"
+    },
+    {
+      "id_or_slug": "birds-of-a-feather-ai",
+      "title": "Birds Of A Feather AI",
+      "url": "https://memelry.com/birds-of-a-feather-ai"
+    },
+    {
+      "id_or_slug": "birthday-cake-car-drift-ai",
+      "title": "Birthday Cake Car Drift AI",
+      "url": "https://memelry.com/birthday-cake-car-drift-ai"
+    },
+    {
+      "id_or_slug": "birthday-car-ai",
+      "title": "Birthday Car AI",
+      "url": "https://memelry.com/birthday-car-ai"
+    },
+    {
+      "id_or_slug": "biscoitocut-ai",
+      "title": "Biscoitocut AI",
+      "url": "https://memelry.com/biscoitocut-ai"
+    },
+    {
+      "id_or_slug": "bon-jovi-dog-ai",
+      "title": "Bon Jovi Dog AI",
+      "url": "https://memelry.com/bon-jovi-dog-ai"
+    },
+    {
+      "id_or_slug": "bottle-kick-ai",
+      "title": "Bottle Kick AI",
+      "url": "https://memelry.com/bottle-kick-ai"
+    },
+    {
+      "id_or_slug": "boy-its-just-alcohol-ai",
+      "title": "Boy It's Just Alcohol AI",
+      "url": "https://memelry.com/boy-its-just-alcohol-ai"
+    },
+    {
+      "id_or_slug": "brick-by-brick-ai",
+      "title": "I Built This Brick by Brick AI",
+      "url": "https://memelry.com/brick-by-brick-ai"
+    },
+    {
+      "id_or_slug": "broomstick-crash-ai",
+      "title": "Broomstick Crash AI",
+      "url": "https://memelry.com/broomstick-crash-ai"
+    },
+    {
+      "id_or_slug": "bruno-fernandes-singing-ai",
+      "title": "Bruno Fernandes Singing AI",
+      "url": "https://memelry.com/bruno-fernandes-singing-ai"
+    },
+    {
+      "id_or_slug": "buggin-dance-ai",
+      "title": "Buggin Dance AI",
+      "url": "https://memelry.com/buggin-dance-ai"
+    },
+    {
+      "id_or_slug": "buggin-wizard-cat-ai",
+      "title": "Buggin Wizard Cat AI",
+      "url": "https://memelry.com/buggin-wizard-cat-ai"
+    },
+    {
+      "id_or_slug": "buh-buh-buggin-ai",
+      "title": "Buh Buh Buggin AI",
+      "url": "https://memelry.com/buh-buh-buggin-ai"
+    },
+    {
+      "id_or_slug": "bulin-47-ai",
+      "title": "Bulin 47 AI",
+      "url": "https://memelry.com/bulin-47-ai"
+    },
+    {
+      "id_or_slug": "burning-bridges-ai",
+      "title": "Burning Bridges AI",
+      "url": "https://memelry.com/burning-bridges-ai"
+    },
+    {
+      "id_or_slug": "bye-bye-outfit-change-ai",
+      "title": "Bye Bye Outfit Change AI",
+      "url": "https://memelry.com/bye-bye-outfit-change-ai"
+    },
+    {
+      "id_or_slug": "cadillac-dance-ai",
+      "title": "Cadillac Dance AI",
+      "url": "https://memelry.com/cadillac-dance-ai"
+    },
+    {
+      "id_or_slug": "cafune-ai",
+      "title": "Cafune AI",
+      "url": "https://memelry.com/cafune-ai"
+    },
+    {
+      "id_or_slug": "can-i-ride-dance-ai",
+      "title": "Can I Ride Dance AI",
+      "url": "https://memelry.com/can-i-ride-dance-ai"
+    },
+    {
+      "id_or_slug": "can-i-ride-pet-dance-ai",
+      "title": "Can I Ride Pet Dance AI",
+      "url": "https://memelry.com/can-i-ride-pet-dance-ai"
+    },
+    {
+      "id_or_slug": "car-alarm-ai",
+      "title": "Car Alarm AI",
+      "url": "https://memelry.com/car-alarm-ai"
+    },
+    {
+      "id_or_slug": "car-drift-ai",
+      "title": "Car Drift AI",
+      "url": "https://memelry.com/car-drift-ai"
+    },
+    {
+      "id_or_slug": "car-wrapped-in-christmas-lights-ai",
+      "title": "Car Wrapped In Christmas Lights AI",
+      "url": "https://memelry.com/car-wrapped-in-christmas-lights-ai"
+    },
+    {
+      "id_or_slug": "cardo-dinner-ai",
+      "title": "Cardo Dinner AI",
+      "url": "https://memelry.com/cardo-dinner-ai"
+    },
+    {
+      "id_or_slug": "careless-whisper-car-ai",
+      "title": "Careless Whisper Car AI",
+      "url": "https://memelry.com/careless-whisper-car-ai"
+    },
+    {
+      "id_or_slug": "cat-dj-ai",
+      "title": "Cat Dj AI",
+      "url": "https://memelry.com/cat-dj-ai"
+    },
+    {
+      "id_or_slug": "cat-on-ultra-bee-ai",
+      "title": "Cat On Ultra Bee AI",
+      "url": "https://memelry.com/cat-on-ultra-bee-ai"
+    },
+    {
+      "id_or_slug": "cat-shower-ai",
+      "title": "Cat Shower AI",
+      "url": "https://memelry.com/cat-shower-ai"
+    },
+    {
+      "id_or_slug": "catel-madatorricelli-ai-dance",
+      "title": "Catel Madatorricelli AI Dance",
+      "url": "https://memelry.com/catel-madatorricelli-ai-dance"
+    },
+    {
+      "id_or_slug": "cctv-tiger-fight-ai",
+      "title": "CCTV Tiger Fight AI",
+      "url": "https://memelry.com/cctv-tiger-fight-ai"
+    },
+    {
+      "id_or_slug": "ceiling-fan-transition-ai",
+      "title": "Ceiling Fan Transition AI",
+      "url": "https://memelry.com/ceiling-fan-transition-ai"
+    },
+    {
+      "id_or_slug": "central-cee-doja-ai",
+      "title": "Central Cee Doja AI",
+      "url": "https://memelry.com/central-cee-doja-ai"
+    },
+    {
+      "id_or_slug": "charlie-wilson-tiny-desk-ai",
+      "title": "Charlie Wilson Tiny Desk AI",
+      "url": "https://memelry.com/charlie-wilson-tiny-desk-ai"
+    },
+    {
+      "id_or_slug": "charme-ai",
+      "title": "Charme AI",
+      "url": "https://memelry.com/charme-ai"
+    },
+    {
+      "id_or_slug": "chicken-ai",
+      "title": "Chicken AI",
+      "url": "https://memelry.com/chicken-ai"
+    },
+    {
+      "id_or_slug": "chiikawa-usagi-dance-ai",
+      "title": "Chiikawa Usagi Dance AI",
+      "url": "https://memelry.com/chiikawa-usagi-dance-ai"
+    },
+    {
+      "id_or_slug": "chipmunks-dance-ai",
+      "title": "Chipmunks Dance AI",
+      "url": "https://memelry.com/chipmunks-dance-ai"
+    },
+    {
+      "id_or_slug": "choosin-texas-emo-ai",
+      "title": "Choosin Texas Emo AI",
+      "url": "https://memelry.com/choosin-texas-emo-ai"
+    },
+    {
+      "id_or_slug": "christmas-car-trend-ai",
+      "title": "Christmas Car Trend AI",
+      "url": "https://memelry.com/christmas-car-trend-ai"
+    },
+    {
+      "id_or_slug": "christmas-duo-dance-ai",
+      "title": "Christmas Duo Dance AI",
+      "url": "https://memelry.com/christmas-duo-dance-ai"
+    },
+    {
+      "id_or_slug": "christmas-lights-car-ai",
+      "title": "Christmas Lights Car AI",
+      "url": "https://memelry.com/christmas-lights-car-ai"
+    },
+    {
+      "id_or_slug": "christmas-lights-run-ai",
+      "title": "Christmas Lights Run AI",
+      "url": "https://memelry.com/christmas-lights-run-ai"
+    },
+    {
+      "id_or_slug": "christmas-lights-wife-ai",
+      "title": "Christmas Lights Wife AI",
+      "url": "https://memelry.com/christmas-lights-wife-ai"
+    },
+    {
+      "id_or_slug": "cinderella-glow-up-ai",
+      "title": "Cinderella Glow Up AI",
+      "url": "https://memelry.com/cinderella-glow-up-ai"
+    },
+    {
+      "id_or_slug": "close-the-door-prank-ai",
+      "title": "Close The Door Prank AI",
+      "url": "https://memelry.com/close-the-door-prank-ai"
+    },
+    {
+      "id_or_slug": "closing-door-prank-ai",
+      "title": "Closing Door Prank AI",
+      "url": "https://memelry.com/closing-door-prank-ai"
+    },
+    {
+      "id_or_slug": "coaches-thriller-ai",
+      "title": "Coaches Thriller AI",
+      "url": "https://memelry.com/coaches-thriller-ai"
+    },
+    {
+      "id_or_slug": "coffee-making-ai",
+      "title": "Coffee Making AI",
+      "url": "https://memelry.com/coffee-making-ai"
+    },
+    {
+      "id_or_slug": "college-football-thriller-ai",
+      "title": "College Football Thriller AI",
+      "url": "https://memelry.com/college-football-thriller-ai"
+    },
+    {
+      "id_or_slug": "convertible-coffee-drive-ai",
+      "title": "Convertible Coffee Drive AI",
+      "url": "https://memelry.com/convertible-coffee-drive-ai"
+    },
+    {
+      "id_or_slug": "corgi-queen-piano-ai",
+      "title": "Corgi Queen Piano AI",
+      "url": "https://memelry.com/corgi-queen-piano-ai"
+    },
+    {
+      "id_or_slug": "cortis-go-ai",
+      "title": "CORTIS GO AI",
+      "url": "https://memelry.com/cortis-go-ai"
+    },
+    {
+      "id_or_slug": "count-bills-like-a-boss-ai",
+      "title": "Count Bills Like A Boss AI",
+      "url": "https://memelry.com/count-bills-like-a-boss-ai"
+    },
+    {
+      "id_or_slug": "counting-money-ai",
+      "title": "Counting Money AI",
+      "url": "https://memelry.com/counting-money-ai"
+    },
+    {
+      "id_or_slug": "counting-money-meme-ai",
+      "title": "Counting Money Meme AI",
+      "url": "https://memelry.com/counting-money-meme-ai"
+    },
+    {
+      "id_or_slug": "couple-back-tattoo-ai",
+      "title": "Couple Back Tattoo AI",
+      "url": "https://memelry.com/couple-back-tattoo-ai"
+    },
+    {
+      "id_or_slug": "cowboy-fish-cutting-ai",
+      "title": "Cowboy Fish Cutting AI",
+      "url": "https://memelry.com/cowboy-fish-cutting-ai"
+    },
+    {
+      "id_or_slug": "crazy-frog-ai",
+      "title": "Crazy Frog AI",
+      "url": "https://memelry.com/crazy-frog-ai"
+    },
+    {
+      "id_or_slug": "crying-ai",
+      "title": "Crying AI",
+      "url": "https://memelry.com/crying-ai"
+    },
+    {
+      "id_or_slug": "dame-hombro-ai",
+      "title": "Dame Hombro AI",
+      "url": "https://memelry.com/dame-hombro-ai"
+    },
+    {
+      "id_or_slug": "dance-with-santa-ai",
+      "title": "Dance With Santa AI",
+      "url": "https://memelry.com/dance-with-santa-ai"
+    },
+    {
+      "id_or_slug": "dime-dime-baby-ai",
+      "title": "Dime Dime Baby AI",
+      "url": "https://memelry.com/dime-dime-baby-ai"
+    },
+    {
+      "id_or_slug": "dinner-is-served-ai",
+      "title": "Dinner Is Served AI",
+      "url": "https://memelry.com/dinner-is-served-ai"
+    },
+    {
+      "id_or_slug": "diwali-fireworks-ai",
+      "title": "Diwali Fireworks AI",
+      "url": "https://memelry.com/diwali-fireworks-ai"
+    },
+    {
+      "id_or_slug": "diwali-patakha-transition-ai",
+      "title": "Diwali Patakha Transition AI",
+      "url": "https://memelry.com/diwali-patakha-transition-ai"
+    },
+    {
+      "id_or_slug": "dj-cat-ai",
+      "title": "Dj Cat AI",
+      "url": "https://memelry.com/dj-cat-ai"
+    },
+    {
+      "id_or_slug": "dog-bartender-ai",
+      "title": "Dog Bartender AI",
+      "url": "https://memelry.com/dog-bartender-ai"
+    },
+    {
+      "id_or_slug": "dog-bohemian-rhapsody-ai",
+      "title": "Dog Bohemian Rhapsody AI",
+      "url": "https://memelry.com/dog-bohemian-rhapsody-ai"
+    },
+    {
+      "id_or_slug": "dog-couple-bedtime-dance-ai",
+      "title": "Dog Couple Bedtime Dance AI",
+      "url": "https://memelry.com/dog-couple-bedtime-dance-ai"
+    },
+    {
+      "id_or_slug": "dog-couple-dance-ai",
+      "title": "Dog Couple Dance AI",
+      "url": "https://memelry.com/dog-couple-dance-ai"
+    },
+    {
+      "id_or_slug": "dog-drummer-ai",
+      "title": "Dog Drummer AI",
+      "url": "https://memelry.com/dog-drummer-ai"
+    },
+    {
+      "id_or_slug": "dog-elevator-prank-ai",
+      "title": "Dog Elevator Prank AI",
+      "url": "https://memelry.com/dog-elevator-prank-ai"
+    },
+    {
+      "id_or_slug": "dog-filming-dog-dancing-ai",
+      "title": "Dog Filming Dog Dancing AI",
+      "url": "https://memelry.com/dog-filming-dog-dancing-ai"
+    },
+    {
+      "id_or_slug": "dog-grooming-time-ai",
+      "title": "Dog Grooming Time AI",
+      "url": "https://memelry.com/dog-grooming-time-ai"
+    },
+    {
+      "id_or_slug": "dog-pool-party-ai",
+      "title": "Dog Pool Party AI",
+      "url": "https://memelry.com/dog-pool-party-ai"
+    },
+    {
+      "id_or_slug": "dog-washing-dishes-ai",
+      "title": "Dog Washing Dishes AI",
+      "url": "https://memelry.com/dog-washing-dishes-ai"
+    },
+    {
+      "id_or_slug": "dont-you-worry-bout-a-thing-dance-ai",
+      "title": "Dont You Worry Bout A Thing Dance AI",
+      "url": "https://memelry.com/dont-you-worry-bout-a-thing-dance-ai"
+    },
+    {
+      "id_or_slug": "dougie-clone-dance-ai",
+      "title": "Dougie Clone Dance AI",
+      "url": "https://memelry.com/dougie-clone-dance-ai"
+    },
+    {
+      "id_or_slug": "drummer-dog-ai",
+      "title": "Drummer Dog AI",
+      "url": "https://memelry.com/drummer-dog-ai"
+    },
+    {
+      "id_or_slug": "dupatta-twirl-transition-ai",
+      "title": "Dupatta Twirl Transition AI",
+      "url": "https://memelry.com/dupatta-twirl-transition-ai"
+    },
+    {
+      "id_or_slug": "elevator-meet-cute-ai",
+      "title": "Elevator Meet Cute AI",
+      "url": "https://memelry.com/elevator-meet-cute-ai"
+    },
+    {
+      "id_or_slug": "elevator-push-prank-ai",
+      "title": "Elevator Push Prank AI",
+      "url": "https://memelry.com/elevator-push-prank-ai"
+    },
+    {
+      "id_or_slug": "end-of-watch-locker-ai",
+      "title": "End Of Watch Locker AI",
+      "url": "https://memelry.com/end-of-watch-locker-ai"
+    },
+    {
+      "id_or_slug": "eww-squish-it-be-gentle-ai",
+      "title": "Eww Squish It Be Gentle AI",
+      "url": "https://memelry.com/eww-squish-it-be-gentle-ai"
+    },
+    {
+      "id_or_slug": "fake-door-slam-ai",
+      "title": "Fake Door Slam AI",
+      "url": "https://memelry.com/fake-door-slam-ai"
+    },
+    {
+      "id_or_slug": "fancy-cafe-ai",
+      "title": "Fancy Cafe AI",
+      "url": "https://memelry.com/fancy-cafe-ai"
+    },
+    {
+      "id_or_slug": "fergie-baby-ai",
+      "title": "Fergie Baby AI",
+      "url": "https://memelry.com/fergie-baby-ai"
+    },
+    {
+      "id_or_slug": "first-time-in-a-fancy-cafe-ai",
+      "title": "First Time In A Fancy Cafe AI",
+      "url": "https://memelry.com/first-time-in-a-fancy-cafe-ai"
+    },
+    {
+      "id_or_slug": "fish-cutting-ai",
+      "title": "Fish Cutting AI",
+      "url": "https://memelry.com/fish-cutting-ai"
+    },
+    {
+      "id_or_slug": "flamingo-float-ai",
+      "title": "Flamingo Float AI",
+      "url": "https://memelry.com/flamingo-float-ai"
+    },
+    {
+      "id_or_slug": "flying-roadster-ai",
+      "title": "Flying Roadster AI",
+      "url": "https://memelry.com/flying-roadster-ai"
+    },
+    {
+      "id_or_slug": "funny-frank-ai",
+      "title": "Funny Frank Snack Prank AI",
+      "url": "https://memelry.com/funny-frank-ai"
+    },
+    {
+      "id_or_slug": "gangnam-style-ai",
+      "title": "Gangnam Style AI",
+      "url": "https://memelry.com/gangnam-style-ai"
+    },
+    {
+      "id_or_slug": "gas-station-ai",
+      "title": "Gas Station AI",
+      "url": "https://memelry.com/gas-station-ai"
+    },
+    {
+      "id_or_slug": "gatsby-cheers-ai",
+      "title": "Gatsby Cheers AI",
+      "url": "https://memelry.com/gatsby-cheers-ai"
+    },
+    {
+      "id_or_slug": "gender-swap-ai",
+      "title": "Gender Swap AI",
+      "url": "https://memelry.com/gender-swap-ai"
+    },
+    {
+      "id_or_slug": "genjutsu-ai",
+      "title": "Genjutsu AI",
+      "url": "https://memelry.com/genjutsu-ai"
+    },
+    {
+      "id_or_slug": "giant-fish-cutting-ai",
+      "title": "Giant Fish Cutting AI",
+      "url": "https://memelry.com/giant-fish-cutting-ai"
+    },
+    {
+      "id_or_slug": "giant-ramp-climbing-ai",
+      "title": "Giant Ramp Climbing AI",
+      "url": "https://memelry.com/giant-ramp-climbing-ai"
+    },
+    {
+      "id_or_slug": "glow-trio-ai",
+      "title": "Glow Trio AI",
+      "url": "https://memelry.com/glow-trio-ai"
+    },
+    {
+      "id_or_slug": "golden-retriever-elevator-prank-ai",
+      "title": "Golden Retriever Elevator Prank AI",
+      "url": "https://memelry.com/golden-retriever-elevator-prank-ai"
+    },
+    {
+      "id_or_slug": "golf-dance-ai",
+      "title": "Golf Dance AI",
+      "url": "https://memelry.com/golf-dance-ai"
+    },
+    {
+      "id_or_slug": "good-chat-nathan-fielder-ai",
+      "title": "Good Chat Nathan Fielder AI",
+      "url": "https://memelry.com/good-chat-nathan-fielder-ai"
+    },
+    {
+      "id_or_slug": "grease-ai",
+      "title": "Grease AI",
+      "url": "https://memelry.com/grease-ai"
+    },
+    {
+      "id_or_slug": "great-gatsby-toast-ai",
+      "title": "Great Gatsby Toast AI",
+      "url": "https://memelry.com/great-gatsby-toast-ai"
+    },
+    {
+      "id_or_slug": "gta-next-chapter-ai",
+      "title": "GTA Next Chapter AI",
+      "url": "https://memelry.com/gta-next-chapter-ai"
+    },
+    {
+      "id_or_slug": "hangover-alan-ai",
+      "title": "Hangover Alan AI",
+      "url": "https://memelry.com/hangover-alan-ai"
+    },
+    {
+      "id_or_slug": "hangover-window-dance-ai",
+      "title": "Hangover Window Dance AI",
+      "url": "https://memelry.com/hangover-window-dance-ai"
+    },
+    {
+      "id_or_slug": "hardest-walkout-ai",
+      "title": "Hardest Walkout AI",
+      "url": "https://memelry.com/hardest-walkout-ai"
+    },
+    {
+      "id_or_slug": "helicopter-skydive-ai",
+      "title": "Helicopter Skydive AI",
+      "url": "https://memelry.com/helicopter-skydive-ai"
+    },
+    {
+      "id_or_slug": "here-comes-santa-claus-dance-ai",
+      "title": "Here Comes Santa Claus Dance AI",
+      "url": "https://memelry.com/here-comes-santa-claus-dance-ai"
+    },
+    {
+      "id_or_slug": "hit-the-road-dude-ai",
+      "title": "Hit The Road Dude AI",
+      "url": "https://memelry.com/hit-the-road-dude-ai"
+    },
+    {
+      "id_or_slug": "hologram-conversation-ai",
+      "title": "Hologram Conversation AI",
+      "url": "https://memelry.com/hologram-conversation-ai"
+    },
+    {
+      "id_or_slug": "hop-hop-hop-ai",
+      "title": "Hop Hop Hop AI",
+      "url": "https://memelry.com/hop-hop-hop-ai"
+    },
+    {
+      "id_or_slug": "hotel-lobby-ai",
+      "title": "Hotel Lobby AI",
+      "url": "https://memelry.com/hotel-lobby-ai"
+    },
+    {
+      "id_or_slug": "hotel-lobby-trend",
+      "title": "Hotel Lobby Trend",
+      "url": "https://memelry.com/hotel-lobby-trend"
+    },
+    {
+      "id_or_slug": "housewife-dance-ai",
+      "title": "Housewife Dance AI",
+      "url": "https://memelry.com/housewife-dance-ai"
+    },
+    {
+      "id_or_slug": "huell-money-ai",
+      "title": "Huell Money AI",
+      "url": "https://memelry.com/huell-money-ai"
+    },
+    {
+      "id_or_slug": "husband-emporium-ai",
+      "title": "Husband Emporium AI",
+      "url": "https://memelry.com/husband-emporium-ai"
+    },
+    {
+      "id_or_slug": "i-can-fix-that-ai",
+      "title": "I Can Fix That AI",
+      "url": "https://memelry.com/i-can-fix-that-ai"
+    },
+    {
+      "id_or_slug": "i-lost-you-in-the-crowd-ai",
+      "title": "I Lost You In The Crowd AI",
+      "url": "https://memelry.com/i-lost-you-in-the-crowd-ai"
+    },
+    {
+      "id_or_slug": "i-love-the-smiths-ai",
+      "title": "I Love The Smiths AI",
+      "url": "https://memelry.com/i-love-the-smiths-ai"
+    },
+    {
+      "id_or_slug": "i-love-x-me-too-ai",
+      "title": "I Love X Me Too AI",
+      "url": "https://memelry.com/i-love-x-me-too-ai"
+    },
+    {
+      "id_or_slug": "i-want-wings-ai",
+      "title": "I Want Wings AI",
+      "url": "https://memelry.com/i-want-wings-ai"
+    },
+    {
+      "id_or_slug": "ice-ice-baby-ai",
+      "title": "Ice Ice Baby AI",
+      "url": "https://memelry.com/ice-ice-baby-ai"
+    },
+    {
+      "id_or_slug": "iconic-by-mistake-ai",
+      "title": "Iconic By Mistake AI",
+      "url": "https://memelry.com/iconic-by-mistake-ai"
+    },
+    {
+      "id_or_slug": "in-that-case-i-want-wings-ai",
+      "title": "In That Case I Want Wings AI",
+      "url": "https://memelry.com/in-that-case-i-want-wings-ai"
+    },
+    {
+      "id_or_slug": "insallah-masallah-ai",
+      "title": "Insallah Masallah AI",
+      "url": "https://memelry.com/insallah-masallah-ai"
+    },
+    {
+      "id_or_slug": "iphone-on-the-train-ai",
+      "title": "Iphone On The Train AI",
+      "url": "https://memelry.com/iphone-on-the-train-ai"
+    },
+    {
+      "id_or_slug": "italian-city-portrait-ai",
+      "title": "Italian City Portrait AI",
+      "url": "https://memelry.com/italian-city-portrait-ai"
+    },
+    {
+      "id_or_slug": "its-my-life-dog-ai",
+      "title": "Its My Life Dog AI",
+      "url": "https://memelry.com/its-my-life-dog-ai"
+    },
+    {
+      "id_or_slug": "its-time-christmas-ai",
+      "title": "Its Time Christmas AI",
+      "url": "https://memelry.com/its-time-christmas-ai"
+    },
+    {
+      "id_or_slug": "ja-morant-wemby-dunk-ai",
+      "title": "Ja Morant Wemby Dunk AI",
+      "url": "https://memelry.com/ja-morant-wemby-dunk-ai"
+    },
+    {
+      "id_or_slug": "jade-angel-trend-ai",
+      "title": "Jade Angel Trend AI",
+      "url": "https://memelry.com/jade-angel-trend-ai"
+    },
+    {
+      "id_or_slug": "jean-phil-ai",
+      "title": "Jean Phil AI",
+      "url": "https://memelry.com/jean-phil-ai"
+    },
+    {
+      "id_or_slug": "jensen-huang-ai-video-ai",
+      "title": "Jensen Huang Car Meme AI",
+      "url": "https://memelry.com/jensen-huang-ai-video-ai"
+    },
+    {
+      "id_or_slug": "jingle-bell-brazil-dance-ai",
+      "title": "Jingle Bell Brazil Dance AI",
+      "url": "https://memelry.com/jingle-bell-brazil-dance-ai"
+    },
+    {
+      "id_or_slug": "jingle-bell-rock-mean-girls-ai",
+      "title": "Mean Girls Jingle Bell Rock AI",
+      "url": "https://memelry.com/jingle-bell-rock-mean-girls-ai"
+    },
+    {
+      "id_or_slug": "jisoo-addicted-ai",
+      "title": "Jisoo Addicted AI",
+      "url": "https://memelry.com/jisoo-addicted-ai"
+    },
+    {
+      "id_or_slug": "jme-check-one-check-two-ai",
+      "title": "Jme Check One Check Two AI",
+      "url": "https://memelry.com/jme-check-one-check-two-ai"
+    },
+    {
+      "id_or_slug": "kakalika-dance-ai",
+      "title": "Kakalika Dance AI",
+      "url": "https://memelry.com/kakalika-dance-ai"
+    },
+    {
+      "id_or_slug": "kb-choreo-housewife-ai",
+      "title": "Kb Choreo Housewife AI",
+      "url": "https://memelry.com/kb-choreo-housewife-ai"
+    },
+    {
+      "id_or_slug": "king-jin-ai",
+      "title": "King Jin AI",
+      "url": "https://memelry.com/king-jin-ai"
+    },
+    {
+      "id_or_slug": "kung-fu-cat-ai",
+      "title": "Kung Fu Cat AI",
+      "url": "https://memelry.com/kung-fu-cat-ai"
+    },
+    {
+      "id_or_slug": "la-calabaza-ai",
+      "title": "La Calabaza AI",
+      "url": "https://memelry.com/la-calabaza-ai"
+    },
+    {
+      "id_or_slug": "la-la-land-dance-ai",
+      "title": "La La Land Dance AI",
+      "url": "https://memelry.com/la-la-land-dance-ai"
+    },
+    {
+      "id_or_slug": "la-tormenta-de-arena-ai",
+      "title": "La Tormenta De Arena AI",
+      "url": "https://memelry.com/la-tormenta-de-arena-ai"
+    },
+    {
+      "id_or_slug": "last-dance-ai",
+      "title": "Last Dance AI",
+      "url": "https://memelry.com/last-dance-ai"
+    },
+    {
+      "id_or_slug": "last-salute-ai",
+      "title": "Last Salute AI",
+      "url": "https://memelry.com/last-salute-ai"
+    },
+    {
+      "id_or_slug": "leo-cheers-ai",
+      "title": "Leo Cheers AI",
+      "url": "https://memelry.com/leo-cheers-ai"
+    },
+    {
+      "id_or_slug": "leonardo-dicaprio-toast-ai",
+      "title": "Leonardo Dicaprio Toast AI",
+      "url": "https://memelry.com/leonardo-dicaprio-toast-ai"
+    },
+    {
+      "id_or_slug": "like-jennie-ai",
+      "title": "Like Jennie AI",
+      "url": "https://memelry.com/like-jennie-ai"
+    },
+    {
+      "id_or_slug": "lil-yachty-walkout-ai",
+      "title": "Lil Yachty Walkout AI",
+      "url": "https://memelry.com/lil-yachty-walkout-ai"
+    },
+    {
+      "id_or_slug": "lisa-crab-dance-ai",
+      "title": "LISA Crab Dance AI",
+      "url": "https://memelry.com/lisa-crab-dance-ai"
+    },
+    {
+      "id_or_slug": "lonely-camel-ai",
+      "title": "Lonely Camel AI",
+      "url": "https://memelry.com/lonely-camel-ai"
+    },
+    {
+      "id_or_slug": "lorenzo-zurzolo-ai",
+      "title": "Lorenzo Zurzolo AI",
+      "url": "https://memelry.com/lorenzo-zurzolo-ai"
+    },
+    {
+      "id_or_slug": "lorenzo-zurzolo-edit-ai",
+      "title": "Lorenzo Zurzolo Edit AI",
+      "url": "https://memelry.com/lorenzo-zurzolo-edit-ai"
+    },
+    {
+      "id_or_slug": "luxury-hotel-ai",
+      "title": "Luxury Hotel AI",
+      "url": "https://memelry.com/luxury-hotel-ai"
+    },
+    {
+      "id_or_slug": "mabel-matiz-umrumdisi-ai",
+      "title": "Mabel Matiz Umrumdisi AI",
+      "url": "https://memelry.com/mabel-matiz-umrumdisi-ai"
+    },
+    {
+      "id_or_slug": "manchester-united-singing-ai",
+      "title": "Manchester United Singing AI",
+      "url": "https://memelry.com/manchester-united-singing-ai"
+    },
+    {
+      "id_or_slug": "mans-not-hot-ai",
+      "title": "Man's Not Hot AI",
+      "url": "https://memelry.com/mans-not-hot-ai"
+    },
+    {
+      "id_or_slug": "market-parkour-ai",
+      "title": "Market Parkour AI",
+      "url": "https://memelry.com/market-parkour-ai"
+    },
+    {
+      "id_or_slug": "market-sprint-bus-jump-ai",
+      "title": "Market Sprint Bus Jump AI",
+      "url": "https://memelry.com/market-sprint-bus-jump-ai"
+    },
+    {
+      "id_or_slug": "mbappe-sprint-ai",
+      "title": "Mbappé Sprint AI",
+      "url": "https://memelry.com/mbappe-sprint-ai"
+    },
+    {
+      "id_or_slug": "mi-chico-dance-ai",
+      "title": "Mi Chico Dance AI",
+      "url": "https://memelry.com/mi-chico-dance-ai"
+    },
+    {
+      "id_or_slug": "michael-carrick-window-scene",
+      "title": "Michael Carrick Window Scene",
+      "url": "https://memelry.com/michael-carrick-window-scene"
+    },
+    {
+      "id_or_slug": "middle-finger-dunk-ai",
+      "title": "Middle Finger Dunk AI",
+      "url": "https://memelry.com/middle-finger-dunk-ai"
+    },
+    {
+      "id_or_slug": "mini-me-ai",
+      "title": "Mini Me AI",
+      "url": "https://memelry.com/mini-me-ai"
+    },
+    {
+      "id_or_slug": "missed-train-dance-ai",
+      "title": "Missed Train Dance AI",
+      "url": "https://memelry.com/missed-train-dance-ai"
+    },
+    {
+      "id_or_slug": "mobland-paul-dance-ai",
+      "title": "MobLand Paul's Dance AI",
+      "url": "https://memelry.com/mobland-paul-dance-ai"
+    },
+    {
+      "id_or_slug": "money-flex-ai",
+      "title": "Money Flex AI",
+      "url": "https://memelry.com/money-flex-ai"
+    },
+    {
+      "id_or_slug": "mourinho-pressure-ai",
+      "title": "Mourinho Pressure AI",
+      "url": "https://memelry.com/mourinho-pressure-ai"
+    },
+    {
+      "id_or_slug": "mr-and-mrs-smith-ai",
+      "title": "Mr and Mrs Smith Edit AI",
+      "url": "https://memelry.com/mr-and-mrs-smith-ai"
+    },
+    {
+      "id_or_slug": "mr-bean-looking-through-window",
+      "title": "Mr Bean Looking Through the Window",
+      "url": "https://memelry.com/mr-bean-looking-through-window"
+    },
+    {
+      "id_or_slug": "my-wife-on-november-1-ai",
+      "title": "My Wife On November 1 AI",
+      "url": "https://memelry.com/my-wife-on-november-1-ai"
+    },
+    {
+      "id_or_slug": "nadie-ta-frio-ai",
+      "title": "Nadie Ta Frío AI",
+      "url": "https://memelry.com/nadie-ta-frio-ai"
+    },
+    {
+      "id_or_slug": "natsuki-hmph-dance-ai",
+      "title": "Natsuki Hmph Dance AI",
+      "url": "https://memelry.com/natsuki-hmph-dance-ai"
+    },
+    {
+      "id_or_slug": "need-for-speed-ai",
+      "title": "Need for Speed Car Edit AI",
+      "url": "https://memelry.com/need-for-speed-ai"
+    },
+    {
+      "id_or_slug": "nestle-crunch-ai",
+      "title": "Nestle Crunch AI",
+      "url": "https://memelry.com/nestle-crunch-ai"
+    },
+    {
+      "id_or_slug": "never-let-her-pay-ai",
+      "title": "Never Let Her Pay AI",
+      "url": "https://memelry.com/never-let-her-pay-ai"
+    },
+    {
+      "id_or_slug": "nicole-kidman-ai",
+      "title": "Nicole Kidman AI",
+      "url": "https://memelry.com/nicole-kidman-ai"
+    },
+    {
+      "id_or_slug": "no-scrubs-ai",
+      "title": "No Scrubs AI",
+      "url": "https://memelry.com/no-scrubs-ai"
+    },
+    {
+      "id_or_slug": "not-like-us-dance-ai",
+      "title": "Not Like Us Dance AI",
+      "url": "https://memelry.com/not-like-us-dance-ai"
+    },
+    {
+      "id_or_slug": "old-town-road-ai",
+      "title": "Old Town Road AI",
+      "url": "https://memelry.com/old-town-road-ai"
+    },
+    {
+      "id_or_slug": "ozil-goal-ai",
+      "title": "Ozil Goal AI",
+      "url": "https://memelry.com/ozil-goal-ai"
+    },
+    {
+      "id_or_slug": "parrot-ai",
+      "title": "Parrot AI",
+      "url": "https://memelry.com/parrot-ai"
+    },
+    {
+      "id_or_slug": "party-popper-ai",
+      "title": "Baby Boom Party Popper AI",
+      "url": "https://memelry.com/party-popper-ai"
+    },
+    {
+      "id_or_slug": "peaky-blinders-explosion-ai",
+      "title": "Peaky Blinders Explosion AI",
+      "url": "https://memelry.com/peaky-blinders-explosion-ai"
+    },
+    {
+      "id_or_slug": "perfume-transition-ai",
+      "title": "Perfume Transition AI",
+      "url": "https://memelry.com/perfume-transition-ai"
+    },
+    {
+      "id_or_slug": "permission-to-cry-sir-ai",
+      "title": "Permission To Cry Sir AI",
+      "url": "https://memelry.com/permission-to-cry-sir-ai"
+    },
+    {
+      "id_or_slug": "pet-angel-wings-ai",
+      "title": "Pet Angel Wings AI",
+      "url": "https://memelry.com/pet-angel-wings-ai"
+    },
+    {
+      "id_or_slug": "pet-dj-ai",
+      "title": "Pet Dj AI",
+      "url": "https://memelry.com/pet-dj-ai"
+    },
+    {
+      "id_or_slug": "pick-it-up-ai",
+      "title": "Pick It Up AI",
+      "url": "https://memelry.com/pick-it-up-ai"
+    },
+    {
+      "id_or_slug": "pimp-walk-ai",
+      "title": "Pimp Walk AI",
+      "url": "https://memelry.com/pimp-walk-ai"
+    },
+    {
+      "id_or_slug": "pimpwalk-entrance-ai",
+      "title": "Pimpwalk Entrance AI",
+      "url": "https://memelry.com/pimpwalk-entrance-ai"
+    },
+    {
+      "id_or_slug": "police-chase-ai",
+      "title": "Police Chase AI",
+      "url": "https://memelry.com/police-chase-ai"
+    },
+    {
+      "id_or_slug": "pov-your-first-time-in-a-fancy-cafe-ai",
+      "title": "Pov Your First Time In A Fancy Cafe AI",
+      "url": "https://memelry.com/pov-your-first-time-in-a-fancy-cafe-ai"
+    },
+    {
+      "id_or_slug": "prank-mask-ai",
+      "title": "Prank Mask AI",
+      "url": "https://memelry.com/prank-mask-ai"
+    },
+    {
+      "id_or_slug": "pray-for-me-ai",
+      "title": "Pray For Me AI",
+      "url": "https://memelry.com/pray-for-me-ai"
+    },
+    {
+      "id_or_slug": "precise-entries-ai",
+      "title": "Precise Entries AI",
+      "url": "https://memelry.com/precise-entries-ai"
+    },
+    {
+      "id_or_slug": "pregnancy-test-reveal-ai",
+      "title": "Pregnancy Test Reveal AI",
+      "url": "https://memelry.com/pregnancy-test-reveal-ai"
+    },
+    {
+      "id_or_slug": "puerto-rican-mami-ai",
+      "title": "Puerto Rican Mami AI",
+      "url": "https://memelry.com/puerto-rican-mami-ai"
+    },
+    {
+      "id_or_slug": "qotc-dance-ai",
+      "title": "Qotc Dance AI",
+      "url": "https://memelry.com/qotc-dance-ai"
+    },
+    {
+      "id_or_slug": "quiet-on-creek-dance-ai",
+      "title": "Quiet On Creek Dance AI",
+      "url": "https://memelry.com/quiet-on-creek-dance-ai"
+    },
+    {
+      "id_or_slug": "quiet-on-the-creek-ai",
+      "title": "Quiet On The Creek AI",
+      "url": "https://memelry.com/quiet-on-the-creek-ai"
+    },
+    {
+      "id_or_slug": "raccoon-and-cat-ai",
+      "title": "Raccoon and Cat Paparazzi AI",
+      "url": "https://memelry.com/raccoon-and-cat-ai"
+    },
+    {
+      "id_or_slug": "raindance-ai",
+      "title": "Raindance AI",
+      "url": "https://memelry.com/raindance-ai"
+    },
+    {
+      "id_or_slug": "ramalama-ai",
+      "title": "Ramalama AI",
+      "url": "https://memelry.com/ramalama-ai"
+    },
+    {
+      "id_or_slug": "reaching-out-cat-ai",
+      "title": "Reaching Out Cat AI",
+      "url": "https://memelry.com/reaching-out-cat-ai"
+    },
+    {
+      "id_or_slug": "reverse-hurdle-ai",
+      "title": "Reverse Hurdle AI",
+      "url": "https://memelry.com/reverse-hurdle-ai"
+    },
+    {
+      "id_or_slug": "rick-roll-ai",
+      "title": "Rick Roll AI",
+      "url": "https://memelry.com/rick-roll-ai"
+    },
+    {
+      "id_or_slug": "riding-lion-ai",
+      "title": "Riding Lion AI",
+      "url": "https://memelry.com/riding-lion-ai"
+    },
+    {
+      "id_or_slug": "roach-butterfly-trend-ai",
+      "title": "Roach Butterfly Trend AI",
+      "url": "https://memelry.com/roach-butterfly-trend-ai"
+    },
+    {
+      "id_or_slug": "ronaldo-header-ai",
+      "title": "Ronaldo Header AI",
+      "url": "https://memelry.com/ronaldo-header-ai"
+    },
+    {
+      "id_or_slug": "rubber-band-prank-ai",
+      "title": "Rubber Band Prank AI",
+      "url": "https://memelry.com/rubber-band-prank-ai"
+    },
+    {
+      "id_or_slug": "rumpelstiltskin-ai",
+      "title": "Rumpelstiltskin AI",
+      "url": "https://memelry.com/rumpelstiltskin-ai"
+    },
+    {
+      "id_or_slug": "rush-hour-fantasy-ai",
+      "title": "Rush Hour Fantasy AI",
+      "url": "https://memelry.com/rush-hour-fantasy-ai"
+    },
+    {
+      "id_or_slug": "samaya-kholodnaya-zima-ai",
+      "title": "Самая холодная зима / Milena Snow",
+      "url": "https://memelry.com/samaya-kholodnaya-zima-ai"
+    },
+    {
+      "id_or_slug": "santa-sleigh-ai",
+      "title": "Santa Sleigh AI",
+      "url": "https://memelry.com/santa-sleigh-ai"
+    },
+    {
+      "id_or_slug": "save-yourself-ai",
+      "title": "Save Yourself AI",
+      "url": "https://memelry.com/save-yourself-ai"
+    },
+    {
+      "id_or_slug": "self-hug-sketch-ai",
+      "title": "Self Hug Sketch AI",
+      "url": "https://memelry.com/self-hug-sketch-ai"
+    },
+    {
+      "id_or_slug": "shaking-head-ai",
+      "title": "Shaking Head AI",
+      "url": "https://memelry.com/shaking-head-ai"
+    },
+    {
+      "id_or_slug": "shaving-cream-ai",
+      "title": "Shaving Cream AI",
+      "url": "https://memelry.com/shaving-cream-ai"
+    },
+    {
+      "id_or_slug": "she-bugging-dance-ai",
+      "title": "She Bugging Dance AI",
+      "url": "https://memelry.com/she-bugging-dance-ai"
+    },
+    {
+      "id_or_slug": "shoulder-carry-im-the-one-ai",
+      "title": "Shoulder Carry / I'm the One AI",
+      "url": "https://memelry.com/shoulder-carry-im-the-one-ai"
+    },
+    {
+      "id_or_slug": "sidewalk-collision-ai",
+      "title": "Sidewalk Collision AI",
+      "url": "https://memelry.com/sidewalk-collision-ai"
+    },
+    {
+      "id_or_slug": "singing-car-dog-ai",
+      "title": "Singing Car Dog AI",
+      "url": "https://memelry.com/singing-car-dog-ai"
+    },
+    {
+      "id_or_slug": "singing-corgi-piano-ai",
+      "title": "Singing Corgi Piano AI",
+      "url": "https://memelry.com/singing-corgi-piano-ai"
+    },
+    {
+      "id_or_slug": "singing-pet-ai",
+      "title": "Singing Pet AI",
+      "url": "https://memelry.com/singing-pet-ai"
+    },
+    {
+      "id_or_slug": "single-camel-ai",
+      "title": "Single Camel AI",
+      "url": "https://memelry.com/single-camel-ai"
+    },
+    {
+      "id_or_slug": "single-ladies-dog-ai",
+      "title": "Single Ladies Dog AI",
+      "url": "https://memelry.com/single-ladies-dog-ai"
+    },
+    {
+      "id_or_slug": "skepta-freestyle-ai",
+      "title": "Skepta Freestyle AI",
+      "url": "https://memelry.com/skepta-freestyle-ai"
+    },
+    {
+      "id_or_slug": "skull-cap-ai",
+      "title": "Skull Cap AI",
+      "url": "https://memelry.com/skull-cap-ai"
+    },
+    {
+      "id_or_slug": "skyfall-ai",
+      "title": "Skyfall AI",
+      "url": "https://memelry.com/skyfall-ai"
+    },
+    {
+      "id_or_slug": "smalltown-boy-ai",
+      "title": "Smalltown Boy AI",
+      "url": "https://memelry.com/smalltown-boy-ai"
+    },
+    {
+      "id_or_slug": "smash-and-grab-ai",
+      "title": "Smash and Grab AI",
+      "url": "https://memelry.com/smash-and-grab-ai"
+    },
+    {
+      "id_or_slug": "smooth-criminal-ai",
+      "title": "Smooth Criminal AI",
+      "url": "https://memelry.com/smooth-criminal-ai"
+    },
+    {
+      "id_or_slug": "snatch-back-basketball-ai",
+      "title": "Snatch Back Basketball AI",
+      "url": "https://memelry.com/snatch-back-basketball-ai"
+    },
+    {
+      "id_or_slug": "snatch-back-splash-ai",
+      "title": "Snatch Back Splash AI",
+      "url": "https://memelry.com/snatch-back-splash-ai"
+    },
+    {
+      "id_or_slug": "snatch-back-three-ai",
+      "title": "Snatch Back Three AI",
+      "url": "https://memelry.com/snatch-back-three-ai"
+    },
+    {
+      "id_or_slug": "snegurochka-sleigh-ai",
+      "title": "Snegurochka Sleigh AI",
+      "url": "https://memelry.com/snegurochka-sleigh-ai"
+    },
+    {
+      "id_or_slug": "snow-maiden-sleigh-ai",
+      "title": "Snow Maiden Sleigh AI",
+      "url": "https://memelry.com/snow-maiden-sleigh-ai"
+    },
+    {
+      "id_or_slug": "snowman-dance-ai",
+      "title": "Sia Snowman Dance AI",
+      "url": "https://memelry.com/snowman-dance-ai"
+    },
+    {
+      "id_or_slug": "soldier-permission-to-cry-ai",
+      "title": "Soldier Permission To Cry AI",
+      "url": "https://memelry.com/soldier-permission-to-cry-ai"
+    },
+    {
+      "id_or_slug": "somebody-that-i-used-to-know-ai",
+      "title": "Somebody That I Used To Know AI",
+      "url": "https://memelry.com/somebody-that-i-used-to-know-ai"
+    },
+    {
+      "id_or_slug": "spider-man-pointing-ai",
+      "title": "Spider Man Pointing AI",
+      "url": "https://memelry.com/spider-man-pointing-ai"
+    },
+    {
+      "id_or_slug": "spooky-scary-skeletons-ai",
+      "title": "Spooky Scary Skeletons AI",
+      "url": "https://memelry.com/spooky-scary-skeletons-ai"
+    },
+    {
+      "id_or_slug": "srk-ai-dance-ai",
+      "title": "SRK AI Dance",
+      "url": "https://memelry.com/srk-ai-dance-ai"
+    },
+    {
+      "id_or_slug": "stadium-calm-down-ai",
+      "title": "Stadium Calm Down AI",
+      "url": "https://memelry.com/stadium-calm-down-ai"
+    },
+    {
+      "id_or_slug": "stage-walkout-ai",
+      "title": "Stage Walkout AI",
+      "url": "https://memelry.com/stage-walkout-ai"
+    },
+    {
+      "id_or_slug": "stateside-dance-ai",
+      "title": "Stateside Dance AI",
+      "url": "https://memelry.com/stateside-dance-ai"
+    },
+    {
+      "id_or_slug": "steer-wrestling-ai",
+      "title": "Steer Wrestling AI",
+      "url": "https://memelry.com/steer-wrestling-ai"
+    },
+    {
+      "id_or_slug": "stormzy-shut-up-ai",
+      "title": "Stormzy Shut Up AI",
+      "url": "https://memelry.com/stormzy-shut-up-ai"
+    },
+    {
+      "id_or_slug": "straw-hat-walk-in-ai",
+      "title": "Straw Hat Walk In AI",
+      "url": "https://memelry.com/straw-hat-walk-in-ai"
+    },
+    {
+      "id_or_slug": "strike-a-pole-ai",
+      "title": "Strike A Pole AI",
+      "url": "https://memelry.com/strike-a-pole-ai"
+    },
+    {
+      "id_or_slug": "sunglasses-dog-ai",
+      "title": "Sunglasses Dog AI",
+      "url": "https://memelry.com/sunglasses-dog-ai"
+    },
+    {
+      "id_or_slug": "superbad-window-ai",
+      "title": "Superbad Window AI",
+      "url": "https://memelry.com/superbad-window-ai"
+    },
+    {
+      "id_or_slug": "taco-dougie-ai",
+      "title": "Taco Dougie AI",
+      "url": "https://memelry.com/taco-dougie-ai"
+    },
+    {
+      "id_or_slug": "talk-dirty-dance-ai",
+      "title": "Talk Dirty Dance AI",
+      "url": "https://memelry.com/talk-dirty-dance-ai"
+    },
+    {
+      "id_or_slug": "teach-me-how-to-dougie-ai",
+      "title": "Teach Me How To Dougie AI",
+      "url": "https://memelry.com/teach-me-how-to-dougie-ai"
+    },
+    {
+      "id_or_slug": "teletubbies-ai-video",
+      "title": "Teletubbies AI Video",
+      "url": "https://memelry.com/teletubbies-ai-video"
+    },
+    {
+      "id_or_slug": "teletubbies-mud-hole-ai",
+      "title": "Teletubbies Mud Hole AI",
+      "url": "https://memelry.com/teletubbies-mud-hole-ai"
+    },
+    {
+      "id_or_slug": "the-jawn-ai",
+      "title": "The Jawn AI",
+      "url": "https://memelry.com/the-jawn-ai"
+    },
+    {
+      "id_or_slug": "the-office-parkour-ai",
+      "title": "The Office Parkour AI",
+      "url": "https://memelry.com/the-office-parkour-ai"
+    },
+    {
+      "id_or_slug": "the-one-who-knocks-ai",
+      "title": "The One Who Knocks AI",
+      "url": "https://memelry.com/the-one-who-knocks-ai"
+    },
+    {
+      "id_or_slug": "three-steps-above-heaven-ai",
+      "title": "Three Steps Above Heaven AI",
+      "url": "https://memelry.com/three-steps-above-heaven-ai"
+    },
+    {
+      "id_or_slug": "thriller-ai",
+      "title": "Thriller AI",
+      "url": "https://memelry.com/thriller-ai"
+    },
+    {
+      "id_or_slug": "tidal-wave-ai",
+      "title": "Tidal Wave / Su Gibi Git Su Gibi Gel",
+      "url": "https://memelry.com/tidal-wave-ai"
+    },
+    {
+      "id_or_slug": "tiger-transition-ai",
+      "title": "Tiger Transition AI",
+      "url": "https://memelry.com/tiger-transition-ai"
+    },
+    {
+      "id_or_slug": "tiny-desk-ai",
+      "title": "Tiny Desk AI",
+      "url": "https://memelry.com/tiny-desk-ai"
+    },
+    {
+      "id_or_slug": "titanic-ai",
+      "title": "Titanic AI",
+      "url": "https://memelry.com/titanic-ai"
+    },
+    {
+      "id_or_slug": "toc-toc-ai",
+      "title": "Toc Toc AI",
+      "url": "https://memelry.com/toc-toc-ai"
+    },
+    {
+      "id_or_slug": "tom-and-summer-elevator-ai",
+      "title": "Tom And Summer Elevator AI",
+      "url": "https://memelry.com/tom-and-summer-elevator-ai"
+    },
+    {
+      "id_or_slug": "toosie-slide-ai",
+      "title": "Toosie Slide AI",
+      "url": "https://memelry.com/toosie-slide-ai"
+    },
+    {
+      "id_or_slug": "tough-like-a-gorilla-ai",
+      "title": "Tough Like a Gorilla AI",
+      "url": "https://memelry.com/tough-like-a-gorilla-ai"
+    },
+    {
+      "id_or_slug": "training-season-ai",
+      "title": "Training Season AI",
+      "url": "https://memelry.com/training-season-ai"
+    },
+    {
+      "id_or_slug": "translucent-clone-dance-ai",
+      "title": "Translucent Clone Dance AI",
+      "url": "https://memelry.com/translucent-clone-dance-ai"
+    },
+    {
+      "id_or_slug": "tricycle-crash-ai",
+      "title": "Tricycle Crash AI",
+      "url": "https://memelry.com/tricycle-crash-ai"
+    },
+    {
+      "id_or_slug": "trouble-maker-dance-ai",
+      "title": "Trouble Maker Dance AI",
+      "url": "https://memelry.com/trouble-maker-dance-ai"
+    },
+    {
+      "id_or_slug": "truck-driver-ai",
+      "title": "Truck Driver AI",
+      "url": "https://memelry.com/truck-driver-ai"
+    },
+    {
+      "id_or_slug": "tubby-cartel-ai",
+      "title": "Tubby Cartel AI",
+      "url": "https://memelry.com/tubby-cartel-ai"
+    },
+    {
+      "id_or_slug": "turn-the-lights-off-ai",
+      "title": "Turn The Lights Off AI",
+      "url": "https://memelry.com/turn-the-lights-off-ai"
+    },
+    {
+      "id_or_slug": "tus-ojos-me-reflejan-ai",
+      "title": "Tus Ojos Me Reflejan AI",
+      "url": "https://memelry.com/tus-ojos-me-reflejan-ai"
+    },
+    {
+      "id_or_slug": "tweenslop-ai",
+      "title": "Tweenslop AI",
+      "url": "https://memelry.com/tweenslop-ai"
+    },
+    {
+      "id_or_slug": "twilight-baseball-ai",
+      "title": "Twilight Baseball AI",
+      "url": "https://memelry.com/twilight-baseball-ai"
+    },
+    {
+      "id_or_slug": "tying-shoes-money-ai",
+      "title": "Tying My Shoes Money AI",
+      "url": "https://memelry.com/tying-shoes-money-ai"
+    },
+    {
+      "id_or_slug": "ukwu-ai",
+      "title": "Ukwu AI",
+      "url": "https://memelry.com/ukwu-ai"
+    },
+    {
+      "id_or_slug": "under-arrest-dance-ai",
+      "title": "You're Under Arrest Dance AI",
+      "url": "https://memelry.com/under-arrest-dance-ai"
+    },
+    {
+      "id_or_slug": "usagi-dance-ai",
+      "title": "Usagi Dance AI",
+      "url": "https://memelry.com/usagi-dance-ai"
+    },
+    {
+      "id_or_slug": "vossi-bop-ai",
+      "title": "Vossi Bop AI",
+      "url": "https://memelry.com/vossi-bop-ai"
+    },
+    {
+      "id_or_slug": "waist-heart-ai",
+      "title": "Waist Heart AI",
+      "url": "https://memelry.com/waist-heart-ai"
+    },
+    {
+      "id_or_slug": "wassup-dance-ai",
+      "title": "Wassup Dance AI",
+      "url": "https://memelry.com/wassup-dance-ai"
+    },
+    {
+      "id_or_slug": "wassup-in-a-minute-ai",
+      "title": "Wassup In A Minute AI",
+      "url": "https://memelry.com/wassup-in-a-minute-ai"
+    },
+    {
+      "id_or_slug": "wassup-in-a-minute-wassup-ai",
+      "title": "Wassup In A Minute Wassup AI",
+      "url": "https://memelry.com/wassup-in-a-minute-wassup-ai"
+    },
+    {
+      "id_or_slug": "we-dont-talk-anymore-dance-ai",
+      "title": "We Don't Talk Anymore Dance AI",
+      "url": "https://memelry.com/we-dont-talk-anymore-dance-ai"
+    },
+    {
+      "id_or_slug": "welcome-2027-ai",
+      "title": "Welcome 2027 AI",
+      "url": "https://memelry.com/welcome-2027-ai"
+    },
+    {
+      "id_or_slug": "westcada-dance-ai",
+      "title": "Westcada Dance AI",
+      "url": "https://memelry.com/westcada-dance-ai"
+    },
+    {
+      "id_or_slug": "what-if-you-fly-ai",
+      "title": "What If You Fly AI",
+      "url": "https://memelry.com/what-if-you-fly-ai"
+    },
+    {
+      "id_or_slug": "whats-up-in-a-minute-ai",
+      "title": "Whats Up In A Minute AI",
+      "url": "https://memelry.com/whats-up-in-a-minute-ai"
+    },
+    {
+      "id_or_slug": "where-she-at-ai",
+      "title": "Where She At AI",
+      "url": "https://memelry.com/where-she-at-ai"
+    },
+    {
+      "id_or_slug": "white-chicks-ai",
+      "title": "White Chicks AI",
+      "url": "https://memelry.com/white-chicks-ai"
+    },
+    {
+      "id_or_slug": "window-dance-ai",
+      "title": "Window Dance AI",
+      "url": "https://memelry.com/window-dance-ai"
+    },
+    {
+      "id_or_slug": "window-peeper-ai",
+      "title": "Window Peeper AI",
+      "url": "https://memelry.com/window-peeper-ai"
+    },
+    {
+      "id_or_slug": "winter-wonderland-bedroom-dance-ai",
+      "title": "Winter Wonderland Bedroom Dance AI",
+      "url": "https://memelry.com/winter-wonderland-bedroom-dance-ai"
+    },
+    {
+      "id_or_slug": "winter-wonderland-dance-ai",
+      "title": "Winter Wonderland Dance AI",
+      "url": "https://memelry.com/winter-wonderland-dance-ai"
+    },
+    {
+      "id_or_slug": "with-my-husband-before-we-sleep-ai",
+      "title": "With My Husband Before We Sleep AI",
+      "url": "https://memelry.com/with-my-husband-before-we-sleep-ai"
+    },
+    {
+      "id_or_slug": "wizard-cat-buggin-ai",
+      "title": "Wizard Cat Buggin AI",
+      "url": "https://memelry.com/wizard-cat-buggin-ai"
+    },
+    {
+      "id_or_slug": "wyw-my-sweetie-ai",
+      "title": "Wyw My Sweetie AI",
+      "url": "https://memelry.com/wyw-my-sweetie-ai"
+    },
+    {
+      "id_or_slug": "you-look-lonely-ai",
+      "title": "You Look Lonely AI",
+      "url": "https://memelry.com/you-look-lonely-ai"
+    },
+    {
+      "id_or_slug": "you-rock-my-world-ai",
+      "title": "You Rock My World AI",
+      "url": "https://memelry.com/you-rock-my-world-ai"
+    }
+  ],
+  "new_count": 6,
+  "removed_count": 0,
+  "new_templates": [
+    {
+      "id_or_slug": "atm-christmas-wish-ai",
+      "title": "ATM Christmas Wish AI",
+      "url": "https://memelry.com/atm-christmas-wish-ai"
+    },
+    {
+      "id_or_slug": "gta-next-chapter-ai",
+      "title": "GTA Next Chapter AI",
+      "url": "https://memelry.com/gta-next-chapter-ai"
+    },
+    {
+      "id_or_slug": "singing-pet-ai",
+      "title": "Singing Pet AI",
+      "url": "https://memelry.com/singing-pet-ai"
+    },
+    {
+      "id_or_slug": "the-jawn-ai",
+      "title": "The Jawn AI",
+      "url": "https://memelry.com/the-jawn-ai"
+    },
+    {
+      "id_or_slug": "winter-wonderland-bedroom-dance-ai",
+      "title": "Winter Wonderland Bedroom Dance AI",
+      "url": "https://memelry.com/winter-wonderland-bedroom-dance-ai"
+    },
+    {
+      "id_or_slug": "winter-wonderland-dance-ai",
+      "title": "Winter Wonderland Dance AI",
+      "url": "https://memelry.com/winter-wonderland-dance-ai"
+    }
+  ],
+  "removed_templates": []
+}

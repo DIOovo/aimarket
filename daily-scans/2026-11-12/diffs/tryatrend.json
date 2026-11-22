@@ -1,0 +1,24 @@
+{
+  "site": "Try a Trend",
+  "file": "tryatrend.json",
+  "prev": 44,
+  "now": 44,
+  "new": [
+    {
+      "id_or_slug": "hey-boo-come-slide-with-me-ai",
+      "title": "Hey Boo Come Slide With Me AI",
+      "url": "https://tryatrend.com/hey-boo-come-slide-with-me-ai"
+    }
+  ],
+  "gone": [
+    {
+      "id_or_slug": "ai-halloween-costume",
+      "title": "AI Halloween Costume",
+      "url": "https://tryatrend.com/ai-halloween-costume"
+    }
+  ],
+  "notes": [],
+  "sitemaps": [
+    "https://tryatrend.com/sitemap.xml"
+  ]
+}

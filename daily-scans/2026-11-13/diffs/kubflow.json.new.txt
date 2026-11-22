@@ -1,0 +1,2 @@
+Kubflow new=1 gone=0 prev=10 now=11
+generations	https://kubflow.ai/trends/generations

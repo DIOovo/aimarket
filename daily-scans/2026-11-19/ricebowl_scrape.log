@@ -1,0 +1,25 @@
+Fetching ricebowl catalog...
+ricebowl status 200 final https://ricebowl.ai/trends/meme len 104952 err None
+jsonld items 88 app link mentions 171
+jsonld sample [{'id_or_slug': 'ricebowl.ai', 'title': '', 'url': 'https://ricebowl.ai/'}, {'id_or_slug': 'app', 'title': '', 'url': 'https://ricebowl.ai/app'}, {'id_or_slug': 'earth-zoom-out', 'title': 'Earth Zoom Out AI', 'url': 'https://ricebowl.ai/app/earth-zoom-out'}]
+unique app slugs from html 171
+numberOfItems 84
+catalog size 86
+new vs yest catalog 0
+new vs store 14
+  STORENEW (already in yest catalog, was filtered tool?) {'id_or_slug': 'ricebowl.ai', 'title': 'ricebowl.ai', 'url': 'https://ricebowl.ai/app/ricebowl.ai'}
+  STORENEW (already in yest catalog, was filtered tool?) {'id_or_slug': 'app', 'title': 'app', 'url': 'https://ricebowl.ai/app/app'}
+  STORENEW (already in yest catalog, was filtered tool?) {'id_or_slug': 'ai-asmr-video-generator', 'title': 'AI ASMR Video Generator', 'url': 'https://ricebowl.ai/app/ai-asmr-video-generator'}
+  STORENEW (already in yest catalog, was filtered tool?) {'id_or_slug': 'ai-lip-sync', 'title': 'AI Lip Sync', 'url': 'https://ricebowl.ai/app/ai-lip-sync'}
+  STORENEW (already in yest catalog, was filtered tool?) {'id_or_slug': 'animate-illustrations', 'title': 'Animate Illustrations', 'url': 'https://ricebowl.ai/app/animate-illustrations'}
+  STORENEW (already in yest catalog, was filtered tool?) {'id_or_slug': 'minecraft-parkour-video-generator', 'title': 'Minecraft Parkour Video', 'url': 'https://ricebowl.ai/app/minecraft-parkour-video-generator'}
+  STORENEW (already in yest catalog, was filtered tool?) {'id_or_slug': 'sketch-to-video-ai', 'title': 'Sketch To Video AI', 'url': 'https://ricebowl.ai/app/sketch-to-video-ai'}
+  STORENEW (already in yest catalog, was filtered tool?) {'id_or_slug': 'video-to-cartoon-converter', 'title': 'Video to Cartoon Converter', 'url': 'https://ricebowl.ai/app/video-to-cartoon-converter'}
+  STORENEW (already in yest catalog, was filtered tool?) {'id_or_slug': 'ai-talking-photo', 'title': 'AI Talking Photo', 'url': 'https://ricebowl.ai/app/ai-talking-photo'}
+  STORENEW (already in yest catalog, was filtered tool?) {'id_or_slug': 'angel-devil-filter', 'title': 'Angel Devil Filter', 'url': 'https://ricebowl.ai/app/angel-devil-filter'}
+  STORENEW (already in yest catalog, was filtered tool?) {'id_or_slug': 'animate-photos', 'title': 'Animate Photos', 'url': 'https://ricebowl.ai/app/animate-photos'}
+  STORENEW (already in yest catalog, was filtered tool?) {'id_or_slug': 'ai-fight-video-generator', 'title': 'AI Fight Video', 'url': 'https://ricebowl.ai/app/ai-fight-video-generator'}
+  STORENEW (already in yest catalog, was filtered tool?) {'id_or_slug': 'black-and-white-cinematic-ai-video', 'title': 'Black and White Film', 'url': 'https://ricebowl.ai/app/black-and-white-cinematic-ai-video'}
+  STORENEW (already in yest catalog, was filtered tool?) {'id_or_slug': 'gemini-rain-ai-effect', 'title': 'Gemini Rain AI Effect', 'url': 'https://ricebowl.ai/app/gemini-rain-ai-effect'}
+gone from catalog 0
+wrote ricebowl_catalog.json

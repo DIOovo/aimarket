@@ -1,0 +1,9 @@
+Bolly.AI new=8 gone=0 prev=217 now=225
+anime	https://www.bolly.ai/template/anime
+brainrot	https://www.bolly.ai/template/brainrot
+edits	https://www.bolly.ai/template/edits
+football	https://www.bolly.ai/template/football
+kpop	https://www.bolly.ai/template/kpop
+mariah-carey-it-s-time-ai-character-swap	https://www.bolly.ai/template/mariah-carey-it-s-time-ai-character-swap
+meme	https://www.bolly.ai/template/meme
+multi-person	https://www.bolly.ai/template/multi-person

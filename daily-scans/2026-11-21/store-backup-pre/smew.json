@@ -1,0 +1,2211 @@
+{
+  "site": "Smew AI",
+  "home": "https://smew.ai/",
+  "checked_at": "2026-11-20T09:39:28+08:00",
+  "sitemap_urls_found": [
+    "https://smew.ai/sitemap.xml"
+  ],
+  "sitemap_existed": true,
+  "template_count": 439,
+  "new_count": 0,
+  "removed_count": 0,
+  "new_templates": [],
+  "removed_templates": [],
+  "templates": [
+    {
+      "id_or_slug": "2016-me-meets-2026-me-ai",
+      "title": "2016 Me Meets 2026 Me AI",
+      "url": "https://smew.ai/templates/2016-me-meets-2026-me-ai"
+    },
+    {
+      "id_or_slug": "2027-new-year-ai-trend",
+      "title": "2027 New Year AI Trend",
+      "url": "https://smew.ai/templates/2027-new-year-ai-trend"
+    },
+    {
+      "id_or_slug": "24k-magic-ai-trend",
+      "title": "24k Magic AI Trend",
+      "url": "https://smew.ai/templates/24k-magic-ai-trend"
+    },
+    {
+      "id_or_slug": "3d-month-letters-ai-photo",
+      "title": "3d Month Letters AI Photo",
+      "url": "https://smew.ai/templates/3d-month-letters-ai-photo"
+    },
+    {
+      "id_or_slug": "58th-floor-ai-trend",
+      "title": "58th Floor AI Trend",
+      "url": "https://smew.ai/templates/58th-floor-ai-trend"
+    },
+    {
+      "id_or_slug": "80s-ai-trend",
+      "title": "80s AI Trend",
+      "url": "https://smew.ai/templates/80s-ai-trend"
+    },
+    {
+      "id_or_slug": "90s-rom-com-ai-trend",
+      "title": "90s Rom Com AI Trend",
+      "url": "https://smew.ai/templates/90s-rom-com-ai-trend"
+    },
+    {
+      "id_or_slug": "a2o-lite-neon-ai-dance",
+      "title": "A2o Lite Neon AI Dance",
+      "url": "https://smew.ai/templates/a2o-lite-neon-ai-dance"
+    },
+    {
+      "id_or_slug": "abcdefg-i-need-money-ai-trend",
+      "title": "Abcdefg I Need Money AI Trend",
+      "url": "https://smew.ai/templates/abcdefg-i-need-money-ai-trend"
+    },
+    {
+      "id_or_slug": "abra-kadabra-ai-trend",
+      "title": "Abra Kadabra AI Trend",
+      "url": "https://smew.ai/templates/abra-kadabra-ai-trend"
+    },
+    {
+      "id_or_slug": "ai-aging-filter",
+      "title": "AI Aging Filter",
+      "url": "https://smew.ai/templates/ai-aging-filter"
+    },
+    {
+      "id_or_slug": "ai-airport-star-arrival",
+      "title": "AI AIrport Star Arrival",
+      "url": "https://smew.ai/templates/ai-airport-star-arrival"
+    },
+    {
+      "id_or_slug": "ai-arrest-trend",
+      "title": "AI Arrest Trend",
+      "url": "https://smew.ai/templates/ai-arrest-trend"
+    },
+    {
+      "id_or_slug": "ai-baby-dance",
+      "title": "AI Baby Dance",
+      "url": "https://smew.ai/templates/ai-baby-dance"
+    },
+    {
+      "id_or_slug": "ai-baby-gangster",
+      "title": "AI Baby Gangster",
+      "url": "https://smew.ai/templates/ai-baby-gangster"
+    },
+    {
+      "id_or_slug": "ai-barn-find-truck-trend",
+      "title": "AI Barn Find Truck Trend",
+      "url": "https://smew.ai/templates/ai-barn-find-truck-trend"
+    },
+    {
+      "id_or_slug": "ai-beer-jacket-trend",
+      "title": "AI Beer Jacket Trend",
+      "url": "https://smew.ai/templates/ai-beer-jacket-trend"
+    },
+    {
+      "id_or_slug": "ai-bob-haircut-filter",
+      "title": "AI Bob Haircut Filter",
+      "url": "https://smew.ai/templates/ai-bob-haircut-filter"
+    },
+    {
+      "id_or_slug": "ai-car-crash-prank-filter",
+      "title": "AI Car Crash Prank Filter",
+      "url": "https://smew.ai/templates/ai-car-crash-prank-filter"
+    },
+    {
+      "id_or_slug": "ai-car-edit",
+      "title": "AI Car Edit",
+      "url": "https://smew.ai/templates/ai-car-edit"
+    },
+    {
+      "id_or_slug": "ai-car-jump-trend",
+      "title": "AI Car Jump Trend",
+      "url": "https://smew.ai/templates/ai-car-jump-trend"
+    },
+    {
+      "id_or_slug": "ai-caricature-trend",
+      "title": "AI Caricature Trend",
+      "url": "https://smew.ai/templates/ai-caricature-trend"
+    },
+    {
+      "id_or_slug": "ai-cartoon-couple-video",
+      "title": "AI Cartoon Couple Video",
+      "url": "https://smew.ai/templates/ai-cartoon-couple-video"
+    },
+    {
+      "id_or_slug": "ai-cat-story",
+      "title": "AI Cat Story",
+      "url": "https://smew.ai/templates/ai-cat-story"
+    },
+    {
+      "id_or_slug": "ai-ceiling-fan-trend",
+      "title": "AI Ceiling Fan Trend",
+      "url": "https://smew.ai/templates/ai-ceiling-fan-trend"
+    },
+    {
+      "id_or_slug": "ai-celebrity-autograph-signing",
+      "title": "AI Celebrity Autograph Signing",
+      "url": "https://smew.ai/templates/ai-celebrity-autograph-signing"
+    },
+    {
+      "id_or_slug": "ai-chicken-dance-trend",
+      "title": "AI Chicken Dance Trend",
+      "url": "https://smew.ai/templates/ai-chicken-dance-trend"
+    },
+    {
+      "id_or_slug": "ai-christmas-photoshoot",
+      "title": "AI Christmas Photoshoot",
+      "url": "https://smew.ai/templates/ai-christmas-photoshoot"
+    },
+    {
+      "id_or_slug": "ai-cinema-breakout-video",
+      "title": "AI Cinema Breakout Video",
+      "url": "https://smew.ai/templates/ai-cinema-breakout-video"
+    },
+    {
+      "id_or_slug": "ai-concert-singing-video",
+      "title": "AI Concert Singing Video",
+      "url": "https://smew.ai/templates/ai-concert-singing-video"
+    },
+    {
+      "id_or_slug": "ai-couple-prank-cliff",
+      "title": "AI Couple Prank Cliff",
+      "url": "https://smew.ai/templates/ai-couple-prank-cliff"
+    },
+    {
+      "id_or_slug": "ai-crochet-doll-filter",
+      "title": "AI Crochet Doll Filter",
+      "url": "https://smew.ai/templates/ai-crochet-doll-filter"
+    },
+    {
+      "id_or_slug": "ai-crying-video",
+      "title": "AI Crying Video",
+      "url": "https://smew.ai/templates/ai-crying-video"
+    },
+    {
+      "id_or_slug": "ai-cupid-trend",
+      "title": "AI Cupid Trend",
+      "url": "https://smew.ai/templates/ai-cupid-trend"
+    },
+    {
+      "id_or_slug": "ai-dancing-dog-video",
+      "title": "AI Dancing Dog Video",
+      "url": "https://smew.ai/templates/ai-dancing-dog-video"
+    },
+    {
+      "id_or_slug": "ai-danger-scene-trend",
+      "title": "AI Danger Scene Trend",
+      "url": "https://smew.ai/templates/ai-danger-scene-trend"
+    },
+    {
+      "id_or_slug": "ai-day-of-the-dead-makeup",
+      "title": "AI Day Of The Dead Makeup",
+      "url": "https://smew.ai/templates/ai-day-of-the-dead-makeup"
+    },
+    {
+      "id_or_slug": "ai-day-of-the-dead-pet",
+      "title": "AI Day Of The Dead Pet",
+      "url": "https://smew.ai/templates/ai-day-of-the-dead-pet"
+    },
+    {
+      "id_or_slug": "ai-doodle-dance-partner",
+      "title": "AI Doodle Dance Partner",
+      "url": "https://smew.ai/templates/ai-doodle-dance-partner"
+    },
+    {
+      "id_or_slug": "ai-drama-short-film",
+      "title": "AI Drama Short Film",
+      "url": "https://smew.ai/templates/ai-drama-short-film"
+    },
+    {
+      "id_or_slug": "ai-dunk-trend",
+      "title": "AI Dunk Trend",
+      "url": "https://smew.ai/templates/ai-dunk-trend"
+    },
+    {
+      "id_or_slug": "ai-electric-shock-pet-prank",
+      "title": "AI Electric Shock Pet Prank",
+      "url": "https://smew.ai/templates/ai-electric-shock-pet-prank"
+    },
+    {
+      "id_or_slug": "ai-elf-dance-video",
+      "title": "AI Elf Dance Video",
+      "url": "https://smew.ai/templates/ai-elf-dance-video"
+    },
+    {
+      "id_or_slug": "ai-explosion-walk-trend",
+      "title": "AI Explosion Walk Trend",
+      "url": "https://smew.ai/templates/ai-explosion-walk-trend"
+    },
+    {
+      "id_or_slug": "ai-family-resemblance-photo",
+      "title": "AI Family Resemblance Photo",
+      "url": "https://smew.ai/templates/ai-family-resemblance-photo"
+    },
+    {
+      "id_or_slug": "ai-fruit-story",
+      "title": "AI Fruit Story",
+      "url": "https://smew.ai/templates/ai-fruit-story"
+    },
+    {
+      "id_or_slug": "ai-future-baby-video",
+      "title": "AI Future Baby Video",
+      "url": "https://smew.ai/templates/ai-future-baby-video"
+    },
+    {
+      "id_or_slug": "ai-ghost-photoshoot",
+      "title": "AI Ghost Photoshoot",
+      "url": "https://smew.ai/templates/ai-ghost-photoshoot"
+    },
+    {
+      "id_or_slug": "ai-hair-dye-filter",
+      "title": "AI Hair Dye Filter",
+      "url": "https://smew.ai/templates/ai-hair-dye-filter"
+    },
+    {
+      "id_or_slug": "ai-halloween-costume",
+      "title": "AI Halloween Costume",
+      "url": "https://smew.ai/templates/ai-halloween-costume"
+    },
+    {
+      "id_or_slug": "ai-heaven-reunion-hug",
+      "title": "AI Heaven Reunion Hug",
+      "url": "https://smew.ai/templates/ai-heaven-reunion-hug"
+    },
+    {
+      "id_or_slug": "ai-high-altitude-trampoline",
+      "title": "AI High Altitude Trampoline",
+      "url": "https://smew.ai/templates/ai-high-altitude-trampoline"
+    },
+    {
+      "id_or_slug": "ai-hotel-lobby-trend",
+      "title": "AI Hotel Lobby Trend",
+      "url": "https://smew.ai/templates/ai-hotel-lobby-trend"
+    },
+    {
+      "id_or_slug": "ai-hug-video",
+      "title": "AI Hug Video",
+      "url": "https://smew.ai/templates/ai-hug-video"
+    },
+    {
+      "id_or_slug": "ai-lion-friend-video",
+      "title": "AI Lion Friend Video",
+      "url": "https://smew.ai/templates/ai-lion-friend-video"
+    },
+    {
+      "id_or_slug": "ai-makeup-filter",
+      "title": "AI Makeup Filter",
+      "url": "https://smew.ai/templates/ai-makeup-filter"
+    },
+    {
+      "id_or_slug": "ai-mentalist-trend",
+      "title": "AI Mentalist Trend",
+      "url": "https://smew.ai/templates/ai-mentalist-trend"
+    },
+    {
+      "id_or_slug": "ai-mini-me-trend",
+      "title": "AI Mini Me Trend",
+      "url": "https://smew.ai/templates/ai-mini-me-trend"
+    },
+    {
+      "id_or_slug": "ai-money-rain-party",
+      "title": "AI Money Rain Party",
+      "url": "https://smew.ai/templates/ai-money-rain-party"
+    },
+    {
+      "id_or_slug": "ai-pet-halloween-costume",
+      "title": "AI Pet Halloween Costume",
+      "url": "https://smew.ai/templates/ai-pet-halloween-costume"
+    },
+    {
+      "id_or_slug": "ai-plane-over-head-trend",
+      "title": "AI Plane Over Head Trend",
+      "url": "https://smew.ai/templates/ai-plane-over-head-trend"
+    },
+    {
+      "id_or_slug": "ai-pumpkin-head-photoshoot",
+      "title": "AI Pumpkin Head Photoshoot",
+      "url": "https://smew.ai/templates/ai-pumpkin-head-photoshoot"
+    },
+    {
+      "id_or_slug": "ai-red-riding-hood",
+      "title": "AI Red Riding Hood",
+      "url": "https://smew.ai/templates/ai-red-riding-hood"
+    },
+    {
+      "id_or_slug": "ai-rumpelstiltskin-dance",
+      "title": "AI Rumpelstiltskin Dance",
+      "url": "https://smew.ai/templates/ai-rumpelstiltskin-dance"
+    },
+    {
+      "id_or_slug": "ai-santa-caught-on-camera",
+      "title": "AI Santa Caught On Camera",
+      "url": "https://smew.ai/templates/ai-santa-caught-on-camera"
+    },
+    {
+      "id_or_slug": "ai-school-photo",
+      "title": "AI School Photo",
+      "url": "https://smew.ai/templates/ai-school-photo"
+    },
+    {
+      "id_or_slug": "ai-steroids-filter",
+      "title": "AI Steroids Filter",
+      "url": "https://smew.ai/templates/ai-steroids-filter"
+    },
+    {
+      "id_or_slug": "ai-text-prank",
+      "title": "AI Text Prank",
+      "url": "https://smew.ai/templates/ai-text-prank"
+    },
+    {
+      "id_or_slug": "ai-werewolf-transformation",
+      "title": "AI Werewolf Transformation",
+      "url": "https://smew.ai/templates/ai-werewolf-transformation"
+    },
+    {
+      "id_or_slug": "ai-witch-video",
+      "title": "AI Witch Video",
+      "url": "https://smew.ai/templates/ai-witch-video"
+    },
+    {
+      "id_or_slug": "ai-zombie-trend",
+      "title": "AI Zombie Trend",
+      "url": "https://smew.ai/templates/ai-zombie-trend"
+    },
+    {
+      "id_or_slug": "aint-no-mountain-subway-ai-trend",
+      "title": "Aint No Mountain Subway AI Trend",
+      "url": "https://smew.ai/templates/aint-no-mountain-subway-ai-trend"
+    },
+    {
+      "id_or_slug": "ali-g-driving-scene-ai",
+      "title": "Ali G Driving Scene AI",
+      "url": "https://smew.ai/templates/ali-g-driving-scene-ai"
+    },
+    {
+      "id_or_slug": "alors-on-danse-ai-trend",
+      "title": "Alors On Danse AI Trend",
+      "url": "https://smew.ai/templates/alors-on-danse-ai-trend"
+    },
+    {
+      "id_or_slug": "amanha-e-feriado-ai-trend",
+      "title": "Amanha E Feriado AI Trend",
+      "url": "https://smew.ai/templates/amanha-e-feriado-ai-trend"
+    },
+    {
+      "id_or_slug": "angel-of-my-dreams-ai-trend",
+      "title": "Angel Of My Dreams AI Trend",
+      "url": "https://smew.ai/templates/angel-of-my-dreams-ai-trend"
+    },
+    {
+      "id_or_slug": "angel-or-devil-ai-filter",
+      "title": "Angel Or Devil AI Filter",
+      "url": "https://smew.ai/templates/angel-or-devil-ai-filter"
+    },
+    {
+      "id_or_slug": "anime-eye-ai-trend",
+      "title": "Anime Eye AI Trend",
+      "url": "https://smew.ai/templates/anime-eye-ai-trend"
+    },
+    {
+      "id_or_slug": "anitkabir-ai-trend",
+      "title": "Anitkabir AI Trend",
+      "url": "https://smew.ai/templates/anitkabir-ai-trend"
+    },
+    {
+      "id_or_slug": "apt-ai-trend",
+      "title": "APT AI Trend",
+      "url": "https://smew.ai/templates/apt-ai-trend"
+    },
+    {
+      "id_or_slug": "asereje-ketchup-song-ai-trend",
+      "title": "Asereje Ketchup Song AI Trend",
+      "url": "https://smew.ai/templates/asereje-ketchup-song-ai-trend"
+    },
+    {
+      "id_or_slug": "atam-izindeyiz-ai-trend",
+      "title": "Atam Izindeyiz AI Trend",
+      "url": "https://smew.ai/templates/atam-izindeyiz-ai-trend"
+    },
+    {
+      "id_or_slug": "ataturk-ile-fotograf-ai-trend",
+      "title": "Ataturk Ile Fotograf AI Trend",
+      "url": "https://smew.ai/templates/ataturk-ile-fotograf-ai-trend"
+    },
+    {
+      "id_or_slug": "ateez-bad-dance-challenge-ai",
+      "title": "Ateez Bad Dance Challenge AI",
+      "url": "https://smew.ai/templates/ateez-bad-dance-challenge-ai"
+    },
+    {
+      "id_or_slug": "atm-glitch-ai-trend",
+      "title": "Atm Glitch AI Trend",
+      "url": "https://smew.ai/templates/atm-glitch-ai-trend"
+    },
+    {
+      "id_or_slug": "ba-ba-ba-dance-ai-trend",
+      "title": "Ba Ba Ba Dance AI Trend",
+      "url": "https://smew.ai/templates/ba-ba-ba-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "baby-knight-ai-video",
+      "title": "Baby Knight AI Video",
+      "url": "https://smew.ai/templates/baby-knight-ai-video"
+    },
+    {
+      "id_or_slug": "baby-lip-sync-ai-trend",
+      "title": "Baby Lip Sync AI Trend",
+      "url": "https://smew.ai/templates/baby-lip-sync-ai-trend"
+    },
+    {
+      "id_or_slug": "baby-mustache-ai-trend",
+      "title": "Baby Mustache AI Trend",
+      "url": "https://smew.ai/templates/baby-mustache-ai-trend"
+    },
+    {
+      "id_or_slug": "baby-reindeer-santa-ai-video",
+      "title": "Baby Reindeer Santa AI Video",
+      "url": "https://smew.ai/templates/baby-reindeer-santa-ai-video"
+    },
+    {
+      "id_or_slug": "babydoll-dance-ai-trend",
+      "title": "Babydoll Dance AI Trend",
+      "url": "https://smew.ai/templates/babydoll-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "babymonster-deserve-ai-video",
+      "title": "Babymonster Deserve AI Video",
+      "url": "https://smew.ai/templates/babymonster-deserve-ai-video"
+    },
+    {
+      "id_or_slug": "bad-times-ai-trend",
+      "title": "Bad Times AI Trend",
+      "url": "https://smew.ai/templates/bad-times-ai-trend"
+    },
+    {
+      "id_or_slug": "ballon-dor-ai-prank",
+      "title": "Ballon Dor AI Prank",
+      "url": "https://smew.ai/templates/ballon-dor-ai-prank"
+    },
+    {
+      "id_or_slug": "bama-bound-ai-trend",
+      "title": "Bama Bound AI Trend",
+      "url": "https://smew.ai/templates/bama-bound-ai-trend"
+    },
+    {
+      "id_or_slug": "banana-tree-run-ai-trend",
+      "title": "Banana Tree Run AI Trend",
+      "url": "https://smew.ai/templates/banana-tree-run-ai-trend"
+    },
+    {
+      "id_or_slug": "barbie-and-raquelle-ai-trend",
+      "title": "Barbie And Raquelle AI Trend",
+      "url": "https://smew.ai/templates/barbie-and-raquelle-ai-trend"
+    },
+    {
+      "id_or_slug": "bby-wow-dance-ai-trend",
+      "title": "BbY Wow Dance AI Trend",
+      "url": "https://smew.ai/templates/bby-wow-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "bby-wow-guy-ai-trend",
+      "title": "BbY Wow Guy AI Trend",
+      "url": "https://smew.ai/templates/bby-wow-guy-ai-trend"
+    },
+    {
+      "id_or_slug": "becane-ai-trend",
+      "title": "Becane AI Trend",
+      "url": "https://smew.ai/templates/becane-ai-trend"
+    },
+    {
+      "id_or_slug": "bicep-heart-ai-trend",
+      "title": "Bicep Heart AI Trend",
+      "url": "https://smew.ai/templates/bicep-heart-ai-trend"
+    },
+    {
+      "id_or_slug": "biker-birthday-cake-ai-trend",
+      "title": "Biker Birthday Cake AI Trend",
+      "url": "https://smew.ai/templates/biker-birthday-cake-ai-trend"
+    },
+    {
+      "id_or_slug": "billie-jean-dance-ai-trend",
+      "title": "Billie Jean Dance AI Trend",
+      "url": "https://smew.ai/templates/billie-jean-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "bing-bing-bing-kicking-ai-trend",
+      "title": "Bing Bing Bing Kicking AI Trend",
+      "url": "https://smew.ai/templates/bing-bing-bing-kicking-ai-trend"
+    },
+    {
+      "id_or_slug": "birds-of-a-feather-ai-trend",
+      "title": "Birds Of A Feather AI Trend",
+      "url": "https://smew.ai/templates/birds-of-a-feather-ai-trend"
+    },
+    {
+      "id_or_slug": "birthday-car-ai-trend",
+      "title": "Birthday Car AI Trend",
+      "url": "https://smew.ai/templates/birthday-car-ai-trend"
+    },
+    {
+      "id_or_slug": "black-and-white-cinematic-ai-video",
+      "title": "Black And White Cinematic AI Video",
+      "url": "https://smew.ai/templates/black-and-white-cinematic-ai-video"
+    },
+    {
+      "id_or_slug": "blue-screen-glitch-ai-trend",
+      "title": "Blue Screen Glitch AI Trend",
+      "url": "https://smew.ai/templates/blue-screen-glitch-ai-trend"
+    },
+    {
+      "id_or_slug": "bonito-bonito-ai-baby-dance",
+      "title": "Bonito Bonito AI Baby Dance",
+      "url": "https://smew.ai/templates/bonito-bonito-ai-baby-dance"
+    },
+    {
+      "id_or_slug": "boombox-rap-ai-trend",
+      "title": "Boombox Rap AI Trend",
+      "url": "https://smew.ai/templates/boombox-rap-ai-trend"
+    },
+    {
+      "id_or_slug": "bottle-kick-challenge-ai",
+      "title": "Bottle Kick Challenge AI",
+      "url": "https://smew.ai/templates/bottle-kick-challenge-ai"
+    },
+    {
+      "id_or_slug": "boyfriend-makeup-prank-filter",
+      "title": "Boyfriend Makeup Prank Filter",
+      "url": "https://smew.ai/templates/boyfriend-makeup-prank-filter"
+    },
+    {
+      "id_or_slug": "boyfriend-picks-you-up-every-day-ai-trend",
+      "title": "Boyfriend Picks You Up Every Day AI Trend",
+      "url": "https://smew.ai/templates/boyfriend-picks-you-up-every-day-ai-trend"
+    },
+    {
+      "id_or_slug": "bruno-window-serenade-ai-trend",
+      "title": "Bruno Window Serenade AI Trend",
+      "url": "https://smew.ai/templates/bruno-window-serenade-ai-trend"
+    },
+    {
+      "id_or_slug": "buggin-dance-ai-trend",
+      "title": "Buggin Dance AI Trend",
+      "url": "https://smew.ai/templates/buggin-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "bulin-47-ai-trend",
+      "title": "Bulin 47 AI Trend",
+      "url": "https://smew.ai/templates/bulin-47-ai-trend"
+    },
+    {
+      "id_or_slug": "bulin-47-dance-ai-trend",
+      "title": "Bulin 47 Dance AI Trend",
+      "url": "https://smew.ai/templates/bulin-47-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "burning-bridges-ai-trend",
+      "title": "Burning Bridges AI Trend",
+      "url": "https://smew.ai/templates/burning-bridges-ai-trend"
+    },
+    {
+      "id_or_slug": "bye-bye-outfit-change-ai-trend",
+      "title": "Bye Bye Outfit Change AI Trend",
+      "url": "https://smew.ai/templates/bye-bye-outfit-change-ai-trend"
+    },
+    {
+      "id_or_slug": "c-walk-ai-dance",
+      "title": "C Walk AI Dance",
+      "url": "https://smew.ai/templates/c-walk-ai-dance"
+    },
+    {
+      "id_or_slug": "can-can-dance-ai-trend",
+      "title": "Can Can Dance AI Trend",
+      "url": "https://smew.ai/templates/can-can-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "can-i-ride-dance-ai-trend",
+      "title": "Can I Ride Dance AI Trend",
+      "url": "https://smew.ai/templates/can-i-ride-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "capybara-couple-ai-video",
+      "title": "Capybara Couple AI Video",
+      "url": "https://smew.ai/templates/capybara-couple-ai-video"
+    },
+    {
+      "id_or_slug": "car-alarm-dance-ai-trend",
+      "title": "Car Alarm Dance AI Trend",
+      "url": "https://smew.ai/templates/car-alarm-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "car-falling-from-sky-ai-trend",
+      "title": "Car Falling From Sky AI Trend",
+      "url": "https://smew.ai/templates/car-falling-from-sky-ai-trend"
+    },
+    {
+      "id_or_slug": "car-roof-backflip-ai-trend",
+      "title": "Car Roof Backflip AI Trend",
+      "url": "https://smew.ai/templates/car-roof-backflip-ai-trend"
+    },
+    {
+      "id_or_slug": "cardo-dinner-ai-trend",
+      "title": "Cardo Dinner AI Trend",
+      "url": "https://smew.ai/templates/cardo-dinner-ai-trend"
+    },
+    {
+      "id_or_slug": "careless-whisper-car-meme",
+      "title": "Careless Whisper Car Meme",
+      "url": "https://smew.ai/templates/careless-whisper-car-meme"
+    },
+    {
+      "id_or_slug": "cat-human-ai-video",
+      "title": "Cat Human AI Video",
+      "url": "https://smew.ai/templates/cat-human-ai-video"
+    },
+    {
+      "id_or_slug": "cat-in-the-hat-ai-trend",
+      "title": "Cat In The Hat AI Trend",
+      "url": "https://smew.ai/templates/cat-in-the-hat-ai-trend"
+    },
+    {
+      "id_or_slug": "cat-middle-finger-ai-trend",
+      "title": "Cat Middle Finger AI Trend",
+      "url": "https://smew.ai/templates/cat-middle-finger-ai-trend"
+    },
+    {
+      "id_or_slug": "cat-on-ultra-bee-ai-trend",
+      "title": "Cat On Ultra Bee AI Trend",
+      "url": "https://smew.ai/templates/cat-on-ultra-bee-ai-trend"
+    },
+    {
+      "id_or_slug": "catel-madatorricelli-ai-dance",
+      "title": "Catel Madatorricelli AI Dance",
+      "url": "https://smew.ai/templates/catel-madatorricelli-ai-dance"
+    },
+    {
+      "id_or_slug": "caught-at-the-window-ai-ad",
+      "title": "Caught At The Window AI Ad",
+      "url": "https://smew.ai/templates/caught-at-the-window-ai-ad"
+    },
+    {
+      "id_or_slug": "champagne-birthday-ai-trend",
+      "title": "Champagne Birthday AI Trend",
+      "url": "https://smew.ai/templates/champagne-birthday-ai-trend"
+    },
+    {
+      "id_or_slug": "champagne-car-window-ai-trend",
+      "title": "Champagne Car Window AI Trend",
+      "url": "https://smew.ai/templates/champagne-car-window-ai-trend"
+    },
+    {
+      "id_or_slug": "charlie-brown-christmas-ai-trend",
+      "title": "Charlie Brown Christmas AI Trend",
+      "url": "https://smew.ai/templates/charlie-brown-christmas-ai-trend"
+    },
+    {
+      "id_or_slug": "charme-dance-ai-trend",
+      "title": "Charme Dance AI Trend",
+      "url": "https://smew.ai/templates/charme-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "chased-by-hyenas-ai-trend",
+      "title": "Chased By Hyenas AI Trend",
+      "url": "https://smew.ai/templates/chased-by-hyenas-ai-trend"
+    },
+    {
+      "id_or_slug": "chat-gtt-lookin-ahh-ai",
+      "title": "Chat Gtt Lookin Ahh AI",
+      "url": "https://smew.ai/templates/chat-gtt-lookin-ahh-ai"
+    },
+    {
+      "id_or_slug": "chatgpt-millionaire-ai-trend",
+      "title": "Chatgpt Millionaire AI Trend",
+      "url": "https://smew.ai/templates/chatgpt-millionaire-ai-trend"
+    },
+    {
+      "id_or_slug": "check-one-check-two-ai-filter",
+      "title": "Check One Check Two AI Filter",
+      "url": "https://smew.ai/templates/check-one-check-two-ai-filter"
+    },
+    {
+      "id_or_slug": "chiikawa-dancing-nokia-ai",
+      "title": "Chiikawa Dancing Nokia AI",
+      "url": "https://smew.ai/templates/chiikawa-dancing-nokia-ai"
+    },
+    {
+      "id_or_slug": "chipmunks-dance-ai-trend",
+      "title": "Chipmunks Dance AI Trend",
+      "url": "https://smew.ai/templates/chipmunks-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "choosin-texas-emo-ai-trend",
+      "title": "Choosin Texas Emo AI Trend",
+      "url": "https://smew.ai/templates/choosin-texas-emo-ai-trend"
+    },
+    {
+      "id_or_slug": "christmas-dance-ai-trend",
+      "title": "Christmas Dance AI Trend",
+      "url": "https://smew.ai/templates/christmas-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "christmas-lights-car-ai-trend",
+      "title": "Christmas Lights Car AI Trend",
+      "url": "https://smew.ai/templates/christmas-lights-car-ai-trend"
+    },
+    {
+      "id_or_slug": "christmas-lights-wife-ai-trend",
+      "title": "Christmas Lights Wife AI Trend",
+      "url": "https://smew.ai/templates/christmas-lights-wife-ai-trend"
+    },
+    {
+      "id_or_slug": "christmas-pfp-ai-trend",
+      "title": "Christmas Pfp AI Trend",
+      "url": "https://smew.ai/templates/christmas-pfp-ai-trend"
+    },
+    {
+      "id_or_slug": "christmas-princess-carriage-ai-trend",
+      "title": "Christmas Princess Carriage AI Trend",
+      "url": "https://smew.ai/templates/christmas-princess-carriage-ai-trend"
+    },
+    {
+      "id_or_slug": "cilvelim-ai-trend",
+      "title": "Cilvelim AI Trend",
+      "url": "https://smew.ai/templates/cilvelim-ai-trend"
+    },
+    {
+      "id_or_slug": "clapping-cat-ai-video",
+      "title": "Clapping Cat AI Video",
+      "url": "https://smew.ai/templates/clapping-cat-ai-video"
+    },
+    {
+      "id_or_slug": "closed-door-ai-trend",
+      "title": "Closed Door AI Trend",
+      "url": "https://smew.ai/templates/closed-door-ai-trend"
+    },
+    {
+      "id_or_slug": "closed-on-sunday-ai-trend",
+      "title": "Closed On Sunday AI Trend",
+      "url": "https://smew.ai/templates/closed-on-sunday-ai-trend"
+    },
+    {
+      "id_or_slug": "closer-dance-ai-trend",
+      "title": "Closer Dance AI Trend",
+      "url": "https://smew.ai/templates/closer-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "closing-door-prank-ai-trend",
+      "title": "Closing Door Prank AI Trend",
+      "url": "https://smew.ai/templates/closing-door-prank-ai-trend"
+    },
+    {
+      "id_or_slug": "coffee-making-ai-video",
+      "title": "Coffee Making AI Video",
+      "url": "https://smew.ai/templates/coffee-making-ai-video"
+    },
+    {
+      "id_or_slug": "coldplay-affair-ai-trend",
+      "title": "Coldplay Affair AI Trend",
+      "url": "https://smew.ai/templates/coldplay-affair-ai-trend"
+    },
+    {
+      "id_or_slug": "come-and-get-it-ai-trend",
+      "title": "Come And Get It AI Trend",
+      "url": "https://smew.ai/templates/come-and-get-it-ai-trend"
+    },
+    {
+      "id_or_slug": "convertible-coffee-drive-ai-trend",
+      "title": "Convertible Coffee Drive AI Trend",
+      "url": "https://smew.ai/templates/convertible-coffee-drive-ai-trend"
+    },
+    {
+      "id_or_slug": "coraline-ai-trend",
+      "title": "Coraline AI Trend",
+      "url": "https://smew.ai/templates/coraline-ai-trend"
+    },
+    {
+      "id_or_slug": "corpse-bride-ai-trend",
+      "title": "Corpse Bride AI Trend",
+      "url": "https://smew.ai/templates/corpse-bride-ai-trend"
+    },
+    {
+      "id_or_slug": "counting-money-meme-ai",
+      "title": "Counting Money Meme AI",
+      "url": "https://smew.ai/templates/counting-money-meme-ai"
+    },
+    {
+      "id_or_slug": "couple-back-tattoo-ai-trend",
+      "title": "Couple Back Tattoo AI Trend",
+      "url": "https://smew.ai/templates/couple-back-tattoo-ai-trend"
+    },
+    {
+      "id_or_slug": "couple-eye-initials-ai-trend",
+      "title": "Couple Eye Initials AI Trend",
+      "url": "https://smew.ai/templates/couple-eye-initials-ai-trend"
+    },
+    {
+      "id_or_slug": "couple-thriller-ai-trend",
+      "title": "Couple Thriller AI Trend",
+      "url": "https://smew.ai/templates/couple-thriller-ai-trend"
+    },
+    {
+      "id_or_slug": "crazy-frog-ai-trend",
+      "title": "Crazy Frog AI Trend",
+      "url": "https://smew.ai/templates/crazy-frog-ai-trend"
+    },
+    {
+      "id_or_slug": "cutedog-ai-trend",
+      "title": "Cutedog AI Trend",
+      "url": "https://smew.ai/templates/cutedog-ai-trend"
+    },
+    {
+      "id_or_slug": "cutting-the-branch-ai-trend",
+      "title": "Cutting The Branch AI Trend",
+      "url": "https://smew.ai/templates/cutting-the-branch-ai-trend"
+    },
+    {
+      "id_or_slug": "damon-salvatore-ai-trend",
+      "title": "Damon Salvatore AI Trend",
+      "url": "https://smew.ai/templates/damon-salvatore-ai-trend"
+    },
+    {
+      "id_or_slug": "dancing-crocodiles-ai",
+      "title": "Dancing Crocodiles AI",
+      "url": "https://smew.ai/templates/dancing-crocodiles-ai"
+    },
+    {
+      "id_or_slug": "dark-mirror-reflection-ai-trend",
+      "title": "Dark Mirror Reflection AI Trend",
+      "url": "https://smew.ai/templates/dark-mirror-reflection-ai-trend"
+    },
+    {
+      "id_or_slug": "darts-170-ai-prank",
+      "title": "Darts 170 AI Prank",
+      "url": "https://smew.ai/templates/darts-170-ai-prank"
+    },
+    {
+      "id_or_slug": "dayimin-cocuklari-ai-trend",
+      "title": "Dayimin Cocuklari AI Trend",
+      "url": "https://smew.ai/templates/dayimin-cocuklari-ai-trend"
+    },
+    {
+      "id_or_slug": "deep-down-in-my-heart-ai-trend",
+      "title": "Deep Down In My Heart AI Trend",
+      "url": "https://smew.ai/templates/deep-down-in-my-heart-ai-trend"
+    },
+    {
+      "id_or_slug": "devil-wears-prada-ai-trend",
+      "title": "Devil Wears Prada AI Trend",
+      "url": "https://smew.ai/templates/devil-wears-prada-ai-trend"
+    },
+    {
+      "id_or_slug": "diamond-miner-meme-ai",
+      "title": "Diamond Miner Meme AI",
+      "url": "https://smew.ai/templates/diamond-miner-meme-ai"
+    },
+    {
+      "id_or_slug": "diwali-fireworks-ai-transition",
+      "title": "Diwali Fireworks AI Transition",
+      "url": "https://smew.ai/templates/diwali-fireworks-ai-transition"
+    },
+    {
+      "id_or_slug": "dj-cat-ai",
+      "title": "DJ Cat AI",
+      "url": "https://smew.ai/templates/dj-cat-ai"
+    },
+    {
+      "id_or_slug": "dog-bartender-ai-trend",
+      "title": "Dog Bartender AI Trend",
+      "url": "https://smew.ai/templates/dog-bartender-ai-trend"
+    },
+    {
+      "id_or_slug": "dog-bohemian-rhapsody-ai-trend",
+      "title": "Dog Bohemian Rhapsody AI Trend",
+      "url": "https://smew.ai/templates/dog-bohemian-rhapsody-ai-trend"
+    },
+    {
+      "id_or_slug": "dog-couple-dance-ai-trend",
+      "title": "Dog Couple Dance AI Trend",
+      "url": "https://smew.ai/templates/dog-couple-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "dog-dance-crew-ai-trend",
+      "title": "Dog Dance Crew AI Trend",
+      "url": "https://smew.ai/templates/dog-dance-crew-ai-trend"
+    },
+    {
+      "id_or_slug": "dog-drummer-ai",
+      "title": "Dog Drummer AI",
+      "url": "https://smew.ai/templates/dog-drummer-ai"
+    },
+    {
+      "id_or_slug": "dog-elevator-prank-ai-trend",
+      "title": "Dog Elevator Prank AI Trend",
+      "url": "https://smew.ai/templates/dog-elevator-prank-ai-trend"
+    },
+    {
+      "id_or_slug": "dont-you-dare-christmas-ai-trend",
+      "title": "Dont You Dare Christmas AI Trend",
+      "url": "https://smew.ai/templates/dont-you-dare-christmas-ai-trend"
+    },
+    {
+      "id_or_slug": "drink-fly-bump-ai-trend",
+      "title": "Drink Fly Bump AI Trend",
+      "url": "https://smew.ai/templates/drink-fly-bump-ai-trend"
+    },
+    {
+      "id_or_slug": "dugun-oyunu-ai-trend",
+      "title": "Dugun Oyunu AI Trend",
+      "url": "https://smew.ai/templates/dugun-oyunu-ai-trend"
+    },
+    {
+      "id_or_slug": "earth-zoom-out-ai",
+      "title": "Earth Zoom Out AI",
+      "url": "https://smew.ai/templates/earth-zoom-out-ai"
+    },
+    {
+      "id_or_slug": "elevator-outfit-change-ai-trend",
+      "title": "Elevator Outfit Change AI Trend",
+      "url": "https://smew.ai/templates/elevator-outfit-change-ai-trend"
+    },
+    {
+      "id_or_slug": "elsa-ai-trend",
+      "title": "Elsa AI Trend",
+      "url": "https://smew.ai/templates/elsa-ai-trend"
+    },
+    {
+      "id_or_slug": "enchantress-filter-ai",
+      "title": "Enchantress Filter AI",
+      "url": "https://smew.ai/templates/enchantress-filter-ai"
+    },
+    {
+      "id_or_slug": "end-of-watch-locker-scene-ai-trend",
+      "title": "End Of Watch Locker Scene AI Trend",
+      "url": "https://smew.ai/templates/end-of-watch-locker-scene-ai-trend"
+    },
+    {
+      "id_or_slug": "escalator-outfit-change-ai-trend",
+      "title": "Escalator Outfit Change AI Trend",
+      "url": "https://smew.ai/templates/escalator-outfit-change-ai-trend"
+    },
+    {
+      "id_or_slug": "esref-tek-ai-trend",
+      "title": "Esref Tek AI Trend",
+      "url": "https://smew.ai/templates/esref-tek-ai-trend"
+    },
+    {
+      "id_or_slug": "facebook-marketplace-husband-ai-trend",
+      "title": "Facebook Marketplace Husband AI Trend",
+      "url": "https://smew.ai/templates/facebook-marketplace-husband-ai-trend"
+    },
+    {
+      "id_or_slug": "fashion-week-outfit-ai-trend",
+      "title": "Fashion Week Outfit AI Trend",
+      "url": "https://smew.ai/templates/fashion-week-outfit-ai-trend"
+    },
+    {
+      "id_or_slug": "fergie-baby-ai-trend",
+      "title": "Fergie Baby AI Trend",
+      "url": "https://smew.ai/templates/fergie-baby-ai-trend"
+    },
+    {
+      "id_or_slug": "firestarter-dance-ai-trend",
+      "title": "Firestarter Dance AI Trend",
+      "url": "https://smew.ai/templates/firestarter-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "first-time-in-a-fancy-cafe-ai-trend",
+      "title": "First Time In A Fancy Cafe AI Trend",
+      "url": "https://smew.ai/templates/first-time-in-a-fancy-cafe-ai-trend"
+    },
+    {
+      "id_or_slug": "fish-cutting-meme",
+      "title": "Fish Cutting Meme",
+      "url": "https://smew.ai/templates/fish-cutting-meme"
+    },
+    {
+      "id_or_slug": "flamingo-float-ai-trend",
+      "title": "Flamingo Float AI Trend",
+      "url": "https://smew.ai/templates/flamingo-float-ai-trend"
+    },
+    {
+      "id_or_slug": "flower-bouquet-of-me-ai-trend",
+      "title": "Flower Bouquet Of Me AI Trend",
+      "url": "https://smew.ai/templates/flower-bouquet-of-me-ai-trend"
+    },
+    {
+      "id_or_slug": "flower-nose-ai-trend",
+      "title": "Flower Nose AI Trend",
+      "url": "https://smew.ai/templates/flower-nose-ai-trend"
+    },
+    {
+      "id_or_slug": "flying-roadster-ai-trend",
+      "title": "Flying Roadster AI Trend",
+      "url": "https://smew.ai/templates/flying-roadster-ai-trend"
+    },
+    {
+      "id_or_slug": "fridge-pov-ai-trend",
+      "title": "Fridge Pov AI Trend",
+      "url": "https://smew.ai/templates/fridge-pov-ai-trend"
+    },
+    {
+      "id_or_slug": "fuzzy-dream-dance-ai-trend",
+      "title": "Fuzzy Dream Dance AI Trend",
+      "url": "https://smew.ai/templates/fuzzy-dream-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "gang-gang-dance-ai-trend",
+      "title": "Gang Gang Dance AI Trend",
+      "url": "https://smew.ai/templates/gang-gang-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "gangnam-style-ai-dance",
+      "title": "Gangnam Style AI Dance",
+      "url": "https://smew.ai/templates/gangnam-style-ai-dance"
+    },
+    {
+      "id_or_slug": "gas-station-dance-ai-trend",
+      "title": "Gas Station Dance AI Trend",
+      "url": "https://smew.ai/templates/gas-station-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "gemini-rain-ai-effect",
+      "title": "Gemini Rain AI Effect",
+      "url": "https://smew.ai/templates/gemini-rain-ai-effect"
+    },
+    {
+      "id_or_slug": "gender-swap-ai-filter",
+      "title": "Gender Swap AI Filter",
+      "url": "https://smew.ai/templates/gender-swap-ai-filter"
+    },
+    {
+      "id_or_slug": "ghost-filter-prank-ai-trend",
+      "title": "Ghost Filter Prank AI Trend",
+      "url": "https://smew.ai/templates/ghost-filter-prank-ai-trend"
+    },
+    {
+      "id_or_slug": "ghostface-ai-trend",
+      "title": "Ghostface AI Trend",
+      "url": "https://smew.ai/templates/ghostface-ai-trend"
+    },
+    {
+      "id_or_slug": "giant-bed-ai-trend",
+      "title": "Giant Bed AI Trend",
+      "url": "https://smew.ai/templates/giant-bed-ai-trend"
+    },
+    {
+      "id_or_slug": "giant-cat-ai-video",
+      "title": "Giant Cat AI Video",
+      "url": "https://smew.ai/templates/giant-cat-ai-video"
+    },
+    {
+      "id_or_slug": "giant-hands-dress-up-ai-trend",
+      "title": "Giant Hands Dress Up AI Trend",
+      "url": "https://smew.ai/templates/giant-hands-dress-up-ai-trend"
+    },
+    {
+      "id_or_slug": "giant-ramp-climbing-ai-trend",
+      "title": "Giant Ramp Climbing AI Trend",
+      "url": "https://smew.ai/templates/giant-ramp-climbing-ai-trend"
+    },
+    {
+      "id_or_slug": "gimme-purr-gimme-meow-ai-trend",
+      "title": "Gimme Purr Gimme Meow AI Trend",
+      "url": "https://smew.ai/templates/gimme-purr-gimme-meow-ai-trend"
+    },
+    {
+      "id_or_slug": "glitch-makeup-ai-transition",
+      "title": "Glitch Makeup AI Transition",
+      "url": "https://smew.ai/templates/glitch-makeup-ai-transition"
+    },
+    {
+      "id_or_slug": "gomlegi-cekete-donusen-adam-ai",
+      "title": "Gomlegi Cekete Donusen Adam AI",
+      "url": "https://smew.ai/templates/gomlegi-cekete-donusen-adam-ai"
+    },
+    {
+      "id_or_slug": "grandma-parkour-ai-trend",
+      "title": "Grandma Parkour AI Trend",
+      "url": "https://smew.ai/templates/grandma-parkour-ai-trend"
+    },
+    {
+      "id_or_slug": "grandpa-handle-dinner-ai-trend",
+      "title": "Grandpa Handle Dinner AI Trend",
+      "url": "https://smew.ai/templates/grandpa-handle-dinner-ai-trend"
+    },
+    {
+      "id_or_slug": "grau-de-moto-ai-trend",
+      "title": "Grau De Moto AI Trend",
+      "url": "https://smew.ai/templates/grau-de-moto-ai-trend"
+    },
+    {
+      "id_or_slug": "grease-dance-ai-trend",
+      "title": "Grease Dance AI Trend",
+      "url": "https://smew.ai/templates/grease-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "grinch-pet-ai-trend",
+      "title": "Grinch Pet AI Trend",
+      "url": "https://smew.ai/templates/grinch-pet-ai-trend"
+    },
+    {
+      "id_or_slug": "halay-ai-trend",
+      "title": "Halay AI Trend",
+      "url": "https://smew.ai/templates/halay-ai-trend"
+    },
+    {
+      "id_or_slug": "hali-saha-konum-gonderin-ai-trend",
+      "title": "Hali Saha Konum Gonderin AI Trend",
+      "url": "https://smew.ai/templates/hali-saha-konum-gonderin-ai-trend"
+    },
+    {
+      "id_or_slug": "halloween-ceiling-fan-trend",
+      "title": "Halloween Ceiling Fan Trend",
+      "url": "https://smew.ai/templates/halloween-ceiling-fan-trend"
+    },
+    {
+      "id_or_slug": "halloween-makeup-filter",
+      "title": "Halloween Makeup Filter",
+      "url": "https://smew.ai/templates/halloween-makeup-filter"
+    },
+    {
+      "id_or_slug": "hand-pinch-filter-ai",
+      "title": "Hand Pinch Filter AI",
+      "url": "https://smew.ai/templates/hand-pinch-filter-ai"
+    },
+    {
+      "id_or_slug": "hangover-alan-ai-trend",
+      "title": "Hangover Alan AI Trend",
+      "url": "https://smew.ai/templates/hangover-alan-ai-trend"
+    },
+    {
+      "id_or_slug": "hawak-mo-ang-beat-ai-dance",
+      "title": "Hawak Mo Ang Beat AI Dance",
+      "url": "https://smew.ai/templates/hawak-mo-ang-beat-ai-dance"
+    },
+    {
+      "id_or_slug": "headbop-ai-trend",
+      "title": "Headbop AI Trend",
+      "url": "https://smew.ai/templates/headbop-ai-trend"
+    },
+    {
+      "id_or_slug": "hearts2hearts-next-chapter-ai-dance",
+      "title": "Hearts2hearts Next Chapter AI Dance",
+      "url": "https://smew.ai/templates/hearts2hearts-next-chapter-ai-dance"
+    },
+    {
+      "id_or_slug": "helicopter-skydive-ai-trend",
+      "title": "Helicopter Skydive AI Trend",
+      "url": "https://smew.ai/templates/helicopter-skydive-ai-trend"
+    },
+    {
+      "id_or_slug": "hideaway-dance-ai-trend",
+      "title": "Hideaway Dance AI Trend",
+      "url": "https://smew.ai/templates/hideaway-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "hippo-pathway-giant-pop-star-ai-trend",
+      "title": "Hippo Pathway Giant Pop Star AI Trend",
+      "url": "https://smew.ai/templates/hippo-pathway-giant-pop-star-ai-trend"
+    },
+    {
+      "id_or_slug": "hit-the-road-dude-ai-trend",
+      "title": "Hit The Road Dude AI Trend",
+      "url": "https://smew.ai/templates/hit-the-road-dude-ai-trend"
+    },
+    {
+      "id_or_slug": "hole-in-shirt-ai-effect",
+      "title": "Hole In Shirt AI Effect",
+      "url": "https://smew.ai/templates/hole-in-shirt-ai-effect"
+    },
+    {
+      "id_or_slug": "hop-hop-hop-ai-dance",
+      "title": "Hop Hop Hop AI Dance",
+      "url": "https://smew.ai/templates/hop-hop-hop-ai-dance"
+    },
+    {
+      "id_or_slug": "hot-tea-prank-ai",
+      "title": "Hot Tea Prank AI",
+      "url": "https://smew.ai/templates/hot-tea-prank-ai"
+    },
+    {
+      "id_or_slug": "housewife-dance-ai-trend",
+      "title": "Housewife Dance AI Trend",
+      "url": "https://smew.ai/templates/housewife-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "i-dont-listen-to-opinions-baby-dance",
+      "title": "I Dont Listen To Opinions Baby Dance",
+      "url": "https://smew.ai/templates/i-dont-listen-to-opinions-baby-dance"
+    },
+    {
+      "id_or_slug": "i-just-beat-the-case-ai-trend",
+      "title": "I Just Beat The Case AI Trend",
+      "url": "https://smew.ai/templates/i-just-beat-the-case-ai-trend"
+    },
+    {
+      "id_or_slug": "i-love-the-smiths-ai-trend",
+      "title": "I Love The Smiths AI Trend",
+      "url": "https://smew.ai/templates/i-love-the-smiths-ai-trend"
+    },
+    {
+      "id_or_slug": "i-need-a-girl-dance-ai-trend",
+      "title": "I Need A Girl Dance AI Trend",
+      "url": "https://smew.ai/templates/i-need-a-girl-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "i-put-my-heart-in-this-ai-trend",
+      "title": "I Put My Heart In This AI Trend",
+      "url": "https://smew.ai/templates/i-put-my-heart-in-this-ai-trend"
+    },
+    {
+      "id_or_slug": "i-thought-we-were-having-a-nice-date-ai-trend",
+      "title": "I Thought We Were Having A Nice Date AI Trend",
+      "url": "https://smew.ai/templates/i-thought-we-were-having-a-nice-date-ai-trend"
+    },
+    {
+      "id_or_slug": "i-wanna-love-you-ai-pet",
+      "title": "I Wanna Love You AI Pet",
+      "url": "https://smew.ai/templates/i-wanna-love-you-ai-pet"
+    },
+    {
+      "id_or_slug": "i-want-wings-ai-trend",
+      "title": "I Want Wings AI Trend",
+      "url": "https://smew.ai/templates/i-want-wings-ai-trend"
+    },
+    {
+      "id_or_slug": "ice-ice-baby-dance-ai",
+      "title": "Ice Ice Baby Dance AI",
+      "url": "https://smew.ai/templates/ice-ice-baby-dance-ai"
+    },
+    {
+      "id_or_slug": "illit-youre-under-arrest-ai-dance",
+      "title": "Illit Youre Under Arrest AI Dance",
+      "url": "https://smew.ai/templates/illit-youre-under-arrest-ai-dance"
+    },
+    {
+      "id_or_slug": "im-not-yo-b-no-more-ai-dance",
+      "title": "Im Not Yo B No More AI Dance",
+      "url": "https://smew.ai/templates/im-not-yo-b-no-more-ai-dance"
+    },
+    {
+      "id_or_slug": "im-onnat-football-ai-trend",
+      "title": "Im Onnat Football AI Trend",
+      "url": "https://smew.ai/templates/im-onnat-football-ai-trend"
+    },
+    {
+      "id_or_slug": "im-with-you-ai-trend",
+      "title": "Im With You AI Trend",
+      "url": "https://smew.ai/templates/im-with-you-ai-trend"
+    },
+    {
+      "id_or_slug": "insallah-masallah-ai-trend",
+      "title": "Insallah Masallah AI Trend",
+      "url": "https://smew.ai/templates/insallah-masallah-ai-trend"
+    },
+    {
+      "id_or_slug": "iphone-kupi-dance-ai-trend",
+      "title": "Iphone Kupi Dance AI Trend",
+      "url": "https://smew.ai/templates/iphone-kupi-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "its-my-life-dog-ai",
+      "title": "Its My Life Dog AI",
+      "url": "https://smew.ai/templates/its-my-life-dog-ai"
+    },
+    {
+      "id_or_slug": "ive-looks-can-kill-ai-dance",
+      "title": "Ive Looks Can Kill AI Dance",
+      "url": "https://smew.ai/templates/ive-looks-can-kill-ai-dance"
+    },
+    {
+      "id_or_slug": "jisoo-addicted-ai-dance",
+      "title": "Jisoo Addicted AI Dance",
+      "url": "https://smew.ai/templates/jisoo-addicted-ai-dance"
+    },
+    {
+      "id_or_slug": "just-a-lil-bit-ai-dance",
+      "title": "Just A Lil Bit AI Dance",
+      "url": "https://smew.ai/templates/just-a-lil-bit-ai-dance"
+    },
+    {
+      "id_or_slug": "keep-on-steppin-ai-dance",
+      "title": "Keep On Steppin AI Dance",
+      "url": "https://smew.ai/templates/keep-on-steppin-ai-dance"
+    },
+    {
+      "id_or_slug": "kids-drawing-to-life-ai",
+      "title": "Kids Drawing To Life AI",
+      "url": "https://smew.ai/templates/kids-drawing-to-life-ai"
+    },
+    {
+      "id_or_slug": "knight-cat-ai-video",
+      "title": "Knight Cat AI Video",
+      "url": "https://smew.ai/templates/knight-cat-ai-video"
+    },
+    {
+      "id_or_slug": "knight-standing-ai-video",
+      "title": "Knight Standing AI Video",
+      "url": "https://smew.ai/templates/knight-standing-ai-video"
+    },
+    {
+      "id_or_slug": "knight-sword-swap-ai-video",
+      "title": "Knight Sword Swap AI Video",
+      "url": "https://smew.ai/templates/knight-sword-swap-ai-video"
+    },
+    {
+      "id_or_slug": "knocked-out-shadow-boxing-ai-trend",
+      "title": "Knocked Out Shadow Boxing AI Trend",
+      "url": "https://smew.ai/templates/knocked-out-shadow-boxing-ai-trend"
+    },
+    {
+      "id_or_slug": "kung-fu-cat-ai-trend",
+      "title": "Kung Fu Cat AI Trend",
+      "url": "https://smew.ai/templates/kung-fu-cat-ai-trend"
+    },
+    {
+      "id_or_slug": "la-calabaza-ai-dance",
+      "title": "La Calabaza AI Dance",
+      "url": "https://smew.ai/templates/la-calabaza-ai-dance"
+    },
+    {
+      "id_or_slug": "last-dance-ai-trend",
+      "title": "Last Dance AI Trend",
+      "url": "https://smew.ai/templates/last-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "laughing-fairy-ai-trend",
+      "title": "Laughing Fairy AI Trend",
+      "url": "https://smew.ai/templates/laughing-fairy-ai-trend"
+    },
+    {
+      "id_or_slug": "le-dije-a-chatgpt-ai-trend",
+      "title": "Le Dije A Chatgpt AI Trend",
+      "url": "https://smew.ai/templates/le-dije-a-chatgpt-ai-trend"
+    },
+    {
+      "id_or_slug": "lego-car-wash-ai-trend",
+      "title": "Lego Car Wash AI Trend",
+      "url": "https://smew.ai/templates/lego-car-wash-ai-trend"
+    },
+    {
+      "id_or_slug": "leo-cheers-ai-trend",
+      "title": "Leo Cheers AI Trend",
+      "url": "https://smew.ai/templates/leo-cheers-ai-trend"
+    },
+    {
+      "id_or_slug": "lets-break-up-ai-trend",
+      "title": "Lets Break Up AI Trend",
+      "url": "https://smew.ai/templates/lets-break-up-ai-trend"
+    },
+    {
+      "id_or_slug": "like-jennie-ai-trend",
+      "title": "Like Jennie AI Trend",
+      "url": "https://smew.ai/templates/like-jennie-ai-trend"
+    },
+    {
+      "id_or_slug": "lil-t-jones-ai-dance",
+      "title": "Lil T Jones AI Dance",
+      "url": "https://smew.ai/templates/lil-t-jones-ai-dance"
+    },
+    {
+      "id_or_slug": "lil-yachty-walkout-ai-trend",
+      "title": "Lil Yachty Walkout AI Trend",
+      "url": "https://smew.ai/templates/lil-yachty-walkout-ai-trend"
+    },
+    {
+      "id_or_slug": "lisa-tarantino-ai-dance",
+      "title": "Lisa Tarantino AI Dance",
+      "url": "https://smew.ai/templates/lisa-tarantino-ai-dance"
+    },
+    {
+      "id_or_slug": "lonyo-ai-trend",
+      "title": "Lonyo AI Trend",
+      "url": "https://smew.ai/templates/lonyo-ai-trend"
+    },
+    {
+      "id_or_slug": "lorenzo-zurzolo-ai-trend",
+      "title": "Lorenzo Zurzolo AI Trend",
+      "url": "https://smew.ai/templates/lorenzo-zurzolo-ai-trend"
+    },
+    {
+      "id_or_slug": "love-me-ai-trend",
+      "title": "Love Me AI Trend",
+      "url": "https://smew.ai/templates/love-me-ai-trend"
+    },
+    {
+      "id_or_slug": "love-options-ai-dance",
+      "title": "Love Options AI Dance",
+      "url": "https://smew.ai/templates/love-options-ai-dance"
+    },
+    {
+      "id_or_slug": "mabel-matiz-umrumdisi",
+      "title": "Mabel Matiz Umrumdisi",
+      "url": "https://smew.ai/templates/mabel-matiz-umrumdisi"
+    },
+    {
+      "id_or_slug": "mafia-boss-ai-filter",
+      "title": "Mafia Boss AI Filter",
+      "url": "https://smew.ai/templates/mafia-boss-ai-filter"
+    },
+    {
+      "id_or_slug": "malfoid-ai-trend",
+      "title": "Malfoid AI Trend",
+      "url": "https://smew.ai/templates/malfoid-ai-trend"
+    },
+    {
+      "id_or_slug": "mandem-in-disguise-ai-trend",
+      "title": "Mandem In Disguise AI Trend",
+      "url": "https://smew.ai/templates/mandem-in-disguise-ai-trend"
+    },
+    {
+      "id_or_slug": "manhattan-fpv-drone-ai",
+      "title": "Manhattan Fpv Drone AI",
+      "url": "https://smew.ai/templates/manhattan-fpv-drone-ai"
+    },
+    {
+      "id_or_slug": "marigold-bridge-ai-trend",
+      "title": "Marigold Bridge AI Trend",
+      "url": "https://smew.ai/templates/marigold-bridge-ai-trend"
+    },
+    {
+      "id_or_slug": "masha-and-the-bear-ai-trend",
+      "title": "Masha And The Bear AI Trend",
+      "url": "https://smew.ai/templates/masha-and-the-bear-ai-trend"
+    },
+    {
+      "id_or_slug": "me-sitting-and-doing-nothing-ai-trend",
+      "title": "Me Sitting And Doing Nothing AI Trend",
+      "url": "https://smew.ai/templates/me-sitting-and-doing-nothing-ai-trend"
+    },
+    {
+      "id_or_slug": "meri-nas-nas-mein-ai-trend",
+      "title": "Meri Nas Nas Mein AI Trend",
+      "url": "https://smew.ai/templates/meri-nas-nas-mein-ai-trend"
+    },
+    {
+      "id_or_slug": "mi-chico-dance-ai-trend",
+      "title": "Mi Chico Dance AI Trend",
+      "url": "https://smew.ai/templates/mi-chico-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "mickey-ds-dance-ai-trend",
+      "title": "Mickey Ds Dance AI Trend",
+      "url": "https://smew.ai/templates/mickey-ds-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "middle-finger-dunk-ai-trend",
+      "title": "Middle Finger Dunk AI Trend",
+      "url": "https://smew.ai/templates/middle-finger-dunk-ai-trend"
+    },
+    {
+      "id_or_slug": "mind-enterprises-balcony-ai-trend",
+      "title": "Mind Enterprises Balcony AI Trend",
+      "url": "https://smew.ai/templates/mind-enterprises-balcony-ai-trend"
+    },
+    {
+      "id_or_slug": "missed-train-dance-ai-trend",
+      "title": "Missed Train Dance AI Trend",
+      "url": "https://smew.ai/templates/missed-train-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "mom-dad-sister-brother-ai-trend",
+      "title": "Mom Dad Sister Brother AI Trend",
+      "url": "https://smew.ai/templates/mom-dad-sister-brother-ai-trend"
+    },
+    {
+      "id_or_slug": "money-flex-ai-trend",
+      "title": "Money Flex AI Trend",
+      "url": "https://smew.ai/templates/money-flex-ai-trend"
+    },
+    {
+      "id_or_slug": "monkey-eating-apple-ai-trend",
+      "title": "Monkey Eating Apple AI Trend",
+      "url": "https://smew.ai/templates/monkey-eating-apple-ai-trend"
+    },
+    {
+      "id_or_slug": "mr-and-mrs-stretchy-ai-trend",
+      "title": "Mr And Mrs Stretchy AI Trend",
+      "url": "https://smew.ai/templates/mr-and-mrs-stretchy-ai-trend"
+    },
+    {
+      "id_or_slug": "my-girl-couple-pinch-ai-trend",
+      "title": "My Girl Couple Pinch AI Trend",
+      "url": "https://smew.ai/templates/my-girl-couple-pinch-ai-trend"
+    },
+    {
+      "id_or_slug": "my-ride-is-here-broom-trend",
+      "title": "My Ride Is Here Broom Trend",
+      "url": "https://smew.ai/templates/my-ride-is-here-broom-trend"
+    },
+    {
+      "id_or_slug": "nestle-crunch-ai-ad",
+      "title": "Nestle Crunch AI Ad",
+      "url": "https://smew.ai/templates/nestle-crunch-ai-ad"
+    },
+    {
+      "id_or_slug": "nicole-kidman-dance-ai-trend",
+      "title": "Nicole Kidman Dance AI Trend",
+      "url": "https://smew.ai/templates/nicole-kidman-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "nightwing-costume-ai-trend",
+      "title": "Nightwing Costume AI Trend",
+      "url": "https://smew.ai/templates/nightwing-costume-ai-trend"
+    },
+    {
+      "id_or_slug": "no-guidance-dance-ai-trend",
+      "title": "No Guidance Dance AI Trend",
+      "url": "https://smew.ai/templates/no-guidance-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "no-renunciare-ai-trend",
+      "title": "No Renunciare AI Trend",
+      "url": "https://smew.ai/templates/no-renunciare-ai-trend"
+    },
+    {
+      "id_or_slug": "no-scrubs-ai-trend",
+      "title": "No Scrubs AI Trend",
+      "url": "https://smew.ai/templates/no-scrubs-ai-trend"
+    },
+    {
+      "id_or_slug": "nunca-ando-sola-ai-trend",
+      "title": "Nunca Ando Sola AI Trend",
+      "url": "https://smew.ai/templates/nunca-ando-sola-ai-trend"
+    },
+    {
+      "id_or_slug": "on-the-radar-ai-trend",
+      "title": "On The Radar AI Trend",
+      "url": "https://smew.ai/templates/on-the-radar-ai-trend"
+    },
+    {
+      "id_or_slug": "oouuh-ai-trend",
+      "title": "Oouuh AI Trend",
+      "url": "https://smew.ai/templates/oouuh-ai-trend"
+    },
+    {
+      "id_or_slug": "opa-opa-bouncy-hair-ai",
+      "title": "Opa Opa Bouncy Hair AI",
+      "url": "https://smew.ai/templates/opa-opa-bouncy-hair-ai"
+    },
+    {
+      "id_or_slug": "otsukare-summer-dance-ai-trend",
+      "title": "Otsukare Summer Dance AI Trend",
+      "url": "https://smew.ai/templates/otsukare-summer-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "ozil-goal-ai-trend",
+      "title": "OZIL Goal AI Trend",
+      "url": "https://smew.ai/templates/ozil-goal-ai-trend"
+    },
+    {
+      "id_or_slug": "parrot-dance-ai-trend",
+      "title": "Parrot Dance AI Trend",
+      "url": "https://smew.ai/templates/parrot-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "party-viral-dance-ai-trend",
+      "title": "Party Viral Dance AI Trend",
+      "url": "https://smew.ai/templates/party-viral-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "passenger-princess-ai-trend",
+      "title": "Passenger Princess AI Trend",
+      "url": "https://smew.ai/templates/passenger-princess-ai-trend"
+    },
+    {
+      "id_or_slug": "patrick-swayze-dance-ai-trend",
+      "title": "Patrick Swayze Dance AI Trend",
+      "url": "https://smew.ai/templates/patrick-swayze-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "perdon-ai-photo-trend",
+      "title": "Perdon AI Photo Trend",
+      "url": "https://smew.ai/templates/perdon-ai-photo-trend"
+    },
+    {
+      "id_or_slug": "permission-to-cry-sir-ai-trend",
+      "title": "Permission To Cry Sir AI Trend",
+      "url": "https://smew.ai/templates/permission-to-cry-sir-ai-trend"
+    },
+    {
+      "id_or_slug": "pet-rock-dance-ai-trend",
+      "title": "Pet Rock Dance AI Trend",
+      "url": "https://smew.ai/templates/pet-rock-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "pet-seal-filter-ai",
+      "title": "Pet Seal Filter AI",
+      "url": "https://smew.ai/templates/pet-seal-filter-ai"
+    },
+    {
+      "id_or_slug": "phone-on-train-trend",
+      "title": "Phone On Train Trend",
+      "url": "https://smew.ai/templates/phone-on-train-trend"
+    },
+    {
+      "id_or_slug": "photogenic-filter",
+      "title": "Photogenic Filter",
+      "url": "https://smew.ai/templates/photogenic-filter"
+    },
+    {
+      "id_or_slug": "pick-it-up-dance-ai-trend",
+      "title": "Pick It Up Dance AI Trend",
+      "url": "https://smew.ai/templates/pick-it-up-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "pimpwalk-entrance-ai-trend",
+      "title": "Pimpwalk Entrance AI Trend",
+      "url": "https://smew.ai/templates/pimpwalk-entrance-ai-trend"
+    },
+    {
+      "id_or_slug": "plug-walk-ai-filter",
+      "title": "Plug Walk AI Filter",
+      "url": "https://smew.ai/templates/plug-walk-ai-filter"
+    },
+    {
+      "id_or_slug": "polar-bear-ai-trend",
+      "title": "Polar Bear AI Trend",
+      "url": "https://smew.ai/templates/polar-bear-ai-trend"
+    },
+    {
+      "id_or_slug": "police-chase-ai-trend",
+      "title": "Police Chase AI Trend",
+      "url": "https://smew.ai/templates/police-chase-ai-trend"
+    },
+    {
+      "id_or_slug": "popstar-ai-trend",
+      "title": "Popstar AI Trend",
+      "url": "https://smew.ai/templates/popstar-ai-trend"
+    },
+    {
+      "id_or_slug": "pray-for-me-slow-mo-ai-trend",
+      "title": "Pray For Me Slow Mo AI Trend",
+      "url": "https://smew.ai/templates/pray-for-me-slow-mo-ai-trend"
+    },
+    {
+      "id_or_slug": "puerto-rican-mami-ai-dance",
+      "title": "Puerto Rican Mami AI Dance",
+      "url": "https://smew.ai/templates/puerto-rican-mami-ai-dance"
+    },
+    {
+      "id_or_slug": "pull-out-of-tv-ai-trend",
+      "title": "Pull Out Of Tv AI Trend",
+      "url": "https://smew.ai/templates/pull-out-of-tv-ai-trend"
+    },
+    {
+      "id_or_slug": "pumpkin-kick-ai-trend",
+      "title": "Pumpkin Kick AI Trend",
+      "url": "https://smew.ai/templates/pumpkin-kick-ai-trend"
+    },
+    {
+      "id_or_slug": "quiet-on-the-creek-ai-trend",
+      "title": "Quiet On The Creek AI Trend",
+      "url": "https://smew.ai/templates/quiet-on-the-creek-ai-trend"
+    },
+    {
+      "id_or_slug": "raindance-ai-trend",
+      "title": "Raindance AI Trend",
+      "url": "https://smew.ai/templates/raindance-ai-trend"
+    },
+    {
+      "id_or_slug": "ramalama-ai-trend",
+      "title": "Ramalama AI Trend",
+      "url": "https://smew.ai/templates/ramalama-ai-trend"
+    },
+    {
+      "id_or_slug": "reverse-hurdle-ai-trend",
+      "title": "Reverse Hurdle AI Trend",
+      "url": "https://smew.ai/templates/reverse-hurdle-ai-trend"
+    },
+    {
+      "id_or_slug": "rick-roll-ai-trend",
+      "title": "Rick Roll AI Trend",
+      "url": "https://smew.ai/templates/rick-roll-ai-trend"
+    },
+    {
+      "id_or_slug": "robot-girl-ai-trend",
+      "title": "Robot Girl AI Trend",
+      "url": "https://smew.ai/templates/robot-girl-ai-trend"
+    },
+    {
+      "id_or_slug": "rugrats-cartoon-ai-filter",
+      "title": "Rugrats Cartoon AI Filter",
+      "url": "https://smew.ai/templates/rugrats-cartoon-ai-filter"
+    },
+    {
+      "id_or_slug": "run-fast-ai-effect",
+      "title": "Run Fast AI Effect",
+      "url": "https://smew.ai/templates/run-fast-ai-effect"
+    },
+    {
+      "id_or_slug": "ryuk-ai-trend",
+      "title": "Ryuk AI Trend",
+      "url": "https://smew.ai/templates/ryuk-ai-trend"
+    },
+    {
+      "id_or_slug": "santa-nice-list-ai-video",
+      "title": "Santa Nice List AI Video",
+      "url": "https://smew.ai/templates/santa-nice-list-ai-video"
+    },
+    {
+      "id_or_slug": "santa-sleigh-ai-trend",
+      "title": "Santa Sleigh AI Trend",
+      "url": "https://smew.ai/templates/santa-sleigh-ai-trend"
+    },
+    {
+      "id_or_slug": "save-yourself-ai-trend",
+      "title": "Save Yourself AI Trend",
+      "url": "https://smew.ai/templates/save-yourself-ai-trend"
+    },
+    {
+      "id_or_slug": "sawadika-dance-ai-trend",
+      "title": "Sawadika Dance AI Trend",
+      "url": "https://smew.ai/templates/sawadika-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "shaking-head-ai-trend",
+      "title": "Shaking Head AI Trend",
+      "url": "https://smew.ai/templates/shaking-head-ai-trend"
+    },
+    {
+      "id_or_slug": "shan-shen-bu-ai-dance",
+      "title": "Shan Shen Bu AI Dance",
+      "url": "https://smew.ai/templates/shan-shen-bu-ai-dance"
+    },
+    {
+      "id_or_slug": "shaving-cream-trend",
+      "title": "Shaving Cream Trend",
+      "url": "https://smew.ai/templates/shaving-cream-trend"
+    },
+    {
+      "id_or_slug": "she-kisses-my-boo-boos-ai-trend",
+      "title": "She Kisses My Boo Boos AI Trend",
+      "url": "https://smew.ai/templates/she-kisses-my-boo-boos-ai-trend"
+    },
+    {
+      "id_or_slug": "shoulder-carry-im-the-one-ai-trend",
+      "title": "Shoulder Carry Im The One AI Trend",
+      "url": "https://smew.ai/templates/shoulder-carry-im-the-one-ai-trend"
+    },
+    {
+      "id_or_slug": "singing-dog-ai-trend",
+      "title": "Singing Dog AI Trend",
+      "url": "https://smew.ai/templates/singing-dog-ai-trend"
+    },
+    {
+      "id_or_slug": "single-camel-ai-trend",
+      "title": "Single Camel AI Trend",
+      "url": "https://smew.ai/templates/single-camel-ai-trend"
+    },
+    {
+      "id_or_slug": "single-ladies-dog-dance-ai",
+      "title": "Single Ladies Dog Dance AI",
+      "url": "https://smew.ai/templates/single-ladies-dog-dance-ai"
+    },
+    {
+      "id_or_slug": "skull-cap-ai-trend",
+      "title": "Skull Cap AI Trend",
+      "url": "https://smew.ai/templates/skull-cap-ai-trend"
+    },
+    {
+      "id_or_slug": "skyfall-ai-trend",
+      "title": "Skyfall AI Trend",
+      "url": "https://smew.ai/templates/skyfall-ai-trend"
+    },
+    {
+      "id_or_slug": "slap-everyone-ai-trend",
+      "title": "Slap Everyone AI Trend",
+      "url": "https://smew.ai/templates/slap-everyone-ai-trend"
+    },
+    {
+      "id_or_slug": "smalltown-boy-ai-dance",
+      "title": "Smalltown Boy AI Dance",
+      "url": "https://smew.ai/templates/smalltown-boy-ai-dance"
+    },
+    {
+      "id_or_slug": "smash-and-grab-ai-trend",
+      "title": "Smash And Grab AI Trend",
+      "url": "https://smew.ai/templates/smash-and-grab-ai-trend"
+    },
+    {
+      "id_or_slug": "smooth-criminal-dance-ai-trend",
+      "title": "Smooth Criminal Dance AI Trend",
+      "url": "https://smew.ai/templates/smooth-criminal-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "snatch-back-splash-ai-trend",
+      "title": "Snatch Back Splash AI Trend",
+      "url": "https://smew.ai/templates/snatch-back-splash-ai-trend"
+    },
+    {
+      "id_or_slug": "sniffer-dog-ai-trend",
+      "title": "Sniffer Dog AI Trend",
+      "url": "https://smew.ai/templates/sniffer-dog-ai-trend"
+    },
+    {
+      "id_or_slug": "snow-leopard-paws-at-you-ai",
+      "title": "Snow Leopard Paws At You AI",
+      "url": "https://smew.ai/templates/snow-leopard-paws-at-you-ai"
+    },
+    {
+      "id_or_slug": "sofa-outfit-change-ai-trend",
+      "title": "Sofa Outfit Change AI Trend",
+      "url": "https://smew.ai/templates/sofa-outfit-change-ai-trend"
+    },
+    {
+      "id_or_slug": "somebody-that-i-used-to-know-ai-trend",
+      "title": "Somebody That I Used To Know AI Trend",
+      "url": "https://smew.ai/templates/somebody-that-i-used-to-know-ai-trend"
+    },
+    {
+      "id_or_slug": "south-park-ai-filter",
+      "title": "South Park AI Filter",
+      "url": "https://smew.ai/templates/south-park-ai-filter"
+    },
+    {
+      "id_or_slug": "spider-filter-prank-ai-trend",
+      "title": "Spider Filter Prank AI Trend",
+      "url": "https://smew.ai/templates/spider-filter-prank-ai-trend"
+    },
+    {
+      "id_or_slug": "spiderman-pointing-meme-ai",
+      "title": "Spiderman Pointing Meme AI",
+      "url": "https://smew.ai/templates/spiderman-pointing-meme-ai"
+    },
+    {
+      "id_or_slug": "spooky-scary-skeletons-ai-dance",
+      "title": "Spooky Scary Skeletons AI Dance",
+      "url": "https://smew.ai/templates/spooky-scary-skeletons-ai-dance"
+    },
+    {
+      "id_or_slug": "squishy-ai-trend",
+      "title": "Squishy AI Trend",
+      "url": "https://smew.ai/templates/squishy-ai-trend"
+    },
+    {
+      "id_or_slug": "stadium-calm-down-ai-trend",
+      "title": "Stadium Calm Down AI Trend",
+      "url": "https://smew.ai/templates/stadium-calm-down-ai-trend"
+    },
+    {
+      "id_or_slug": "stateside-dance-ai-trend",
+      "title": "Stateside Dance AI Trend",
+      "url": "https://smew.ai/templates/stateside-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "stones-to-castle-ai-trend",
+      "title": "Stones To Castle AI Trend",
+      "url": "https://smew.ai/templates/stones-to-castle-ai-trend"
+    },
+    {
+      "id_or_slug": "storm-ai-trend",
+      "title": "Storm AI Trend",
+      "url": "https://smew.ai/templates/storm-ai-trend"
+    },
+    {
+      "id_or_slug": "street-light-slide-ai-effect",
+      "title": "Street Light Slide AI Effect",
+      "url": "https://smew.ai/templates/street-light-slide-ai-effect"
+    },
+    {
+      "id_or_slug": "strike-a-pole-ai-trend",
+      "title": "Strike A Pole AI Trend",
+      "url": "https://smew.ai/templates/strike-a-pole-ai-trend"
+    },
+    {
+      "id_or_slug": "stuffed-animal-ufc-ai-video",
+      "title": "Stuffed Animal Ufc AI Video",
+      "url": "https://smew.ai/templates/stuffed-animal-ufc-ai-video"
+    },
+    {
+      "id_or_slug": "suave-cat-dance-ai",
+      "title": "Suave Cat Dance AI",
+      "url": "https://smew.ai/templates/suave-cat-dance-ai"
+    },
+    {
+      "id_or_slug": "subway-outfit-change-ai-trend",
+      "title": "Subway Outfit Change AI Trend",
+      "url": "https://smew.ai/templates/subway-outfit-change-ai-trend"
+    },
+    {
+      "id_or_slug": "susan-dell-dance-ai",
+      "title": "Susan Dell Dance AI",
+      "url": "https://smew.ai/templates/susan-dell-dance-ai"
+    },
+    {
+      "id_or_slug": "symmetry-filter-ai",
+      "title": "Symmetry Filter AI",
+      "url": "https://smew.ai/templates/symmetry-filter-ai"
+    },
+    {
+      "id_or_slug": "take-me-home-dom-perignon-ai-trend",
+      "title": "Take Me Home Dom Perignon AI Trend",
+      "url": "https://smew.ai/templates/take-me-home-dom-perignon-ai-trend"
+    },
+    {
+      "id_or_slug": "talk-dirty-dance-ai-trend",
+      "title": "Talk Dirty Dance AI Trend",
+      "url": "https://smew.ai/templates/talk-dirty-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "tamagawa-koi-ai-dance",
+      "title": "Tamagawa Koi AI Dance",
+      "url": "https://smew.ai/templates/tamagawa-koi-ai-dance"
+    },
+    {
+      "id_or_slug": "te-he-perdido-entre-la-gente-ai-trend",
+      "title": "Te He Perdido Entre La Gente AI Trend",
+      "url": "https://smew.ai/templates/te-he-perdido-entre-la-gente-ai-trend"
+    },
+    {
+      "id_or_slug": "teach-me-how-to-dougie-ai-trend",
+      "title": "Teach Me How To Dougie AI Trend",
+      "url": "https://smew.ai/templates/teach-me-how-to-dougie-ai-trend"
+    },
+    {
+      "id_or_slug": "tecktonik-dance-ai-trend",
+      "title": "Tecktonik Dance AI Trend",
+      "url": "https://smew.ai/templates/tecktonik-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "teletubbies-ai-video",
+      "title": "Teletubbies AI Video",
+      "url": "https://smew.ai/templates/teletubbies-ai-video"
+    },
+    {
+      "id_or_slug": "thank-you-baby-ai-trend",
+      "title": "Thank You Baby AI Trend",
+      "url": "https://smew.ai/templates/thank-you-baby-ai-trend"
+    },
+    {
+      "id_or_slug": "thanksgiving-pfp-ai-trend",
+      "title": "Thanksgiving Pfp AI Trend",
+      "url": "https://smew.ai/templates/thanksgiving-pfp-ai-trend"
+    },
+    {
+      "id_or_slug": "the-end-ai-trend",
+      "title": "The End AI Trend",
+      "url": "https://smew.ai/templates/the-end-ai-trend"
+    },
+    {
+      "id_or_slug": "the-jawn-ai-dance",
+      "title": "The Jawn AI Dance",
+      "url": "https://smew.ai/templates/the-jawn-ai-dance"
+    },
+    {
+      "id_or_slug": "the-one-who-knocks-ai-trend",
+      "title": "The One Who Knocks AI Trend",
+      "url": "https://smew.ai/templates/the-one-who-knocks-ai-trend"
+    },
+    {
+      "id_or_slug": "then-i-walk-in-ai-trend",
+      "title": "Then I Walk In AI Trend",
+      "url": "https://smew.ai/templates/then-i-walk-in-ai-trend"
+    },
+    {
+      "id_or_slug": "three-bogatyrs-ai-trend",
+      "title": "Three Bogatyrs AI Trend",
+      "url": "https://smew.ai/templates/three-bogatyrs-ai-trend"
+    },
+    {
+      "id_or_slug": "thriller-dance-ai-trend",
+      "title": "Thriller Dance AI Trend",
+      "url": "https://smew.ai/templates/thriller-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "tim-burton-girls-ai-trend",
+      "title": "Tim Burton Girls AI Trend",
+      "url": "https://smew.ai/templates/tim-burton-girls-ai-trend"
+    },
+    {
+      "id_or_slug": "times-square-billboard-ai-trend",
+      "title": "Times Square Billboard AI Trend",
+      "url": "https://smew.ai/templates/times-square-billboard-ai-trend"
+    },
+    {
+      "id_or_slug": "tiny-desk-ai-trend",
+      "title": "Tiny Desk AI Trend",
+      "url": "https://smew.ai/templates/tiny-desk-ai-trend"
+    },
+    {
+      "id_or_slug": "toc-toc-dance-ai-trend",
+      "title": "Toc Toc Dance AI Trend",
+      "url": "https://smew.ai/templates/toc-toc-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "toesa-quit-job-ai-trend",
+      "title": "Toesa Quit Job AI Trend",
+      "url": "https://smew.ai/templates/toesa-quit-job-ai-trend"
+    },
+    {
+      "id_or_slug": "toosie-slide-ai-trend",
+      "title": "Toosie Slide AI Trend",
+      "url": "https://smew.ai/templates/toosie-slide-ai-trend"
+    },
+    {
+      "id_or_slug": "topo-gigio-celebration-ai-trend",
+      "title": "Topo Gigio Celebration AI Trend",
+      "url": "https://smew.ai/templates/topo-gigio-celebration-ai-trend"
+    },
+    {
+      "id_or_slug": "toy-car-to-real-car-ai-trend",
+      "title": "Toy Car To Real Car AI Trend",
+      "url": "https://smew.ai/templates/toy-car-to-real-car-ai-trend"
+    },
+    {
+      "id_or_slug": "toz-pembe-ai-trend",
+      "title": "Toz Pembe AI Trend",
+      "url": "https://smew.ai/templates/toz-pembe-ai-trend"
+    },
+    {
+      "id_or_slug": "training-season-dance-ai-trend",
+      "title": "Training Season Dance AI Trend",
+      "url": "https://smew.ai/templates/training-season-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "transmission-5-dance-ai-trend",
+      "title": "Transmission 5 Dance AI Trend",
+      "url": "https://smew.ai/templates/transmission-5-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "trouble-maker-ai-dance",
+      "title": "Trouble Maker AI Dance",
+      "url": "https://smew.ai/templates/trouble-maker-ai-dance"
+    },
+    {
+      "id_or_slug": "tung-tung-tung-sahur-ai-dance",
+      "title": "Tung Tung Tung Sahur AI Dance",
+      "url": "https://smew.ai/templates/tung-tung-tung-sahur-ai-dance"
+    },
+    {
+      "id_or_slug": "turn-the-lights-off-ai-trend",
+      "title": "Turn The Lights Off AI Trend",
+      "url": "https://smew.ai/templates/turn-the-lights-off-ai-trend"
+    },
+    {
+      "id_or_slug": "turning-my-mom-into-me-ai-trend",
+      "title": "Turning My Mom Into Me AI Trend",
+      "url": "https://smew.ai/templates/turning-my-mom-into-me-ai-trend"
+    },
+    {
+      "id_or_slug": "tus-ojos-me-reflejan-ai-trend",
+      "title": "Tus Ojos Me Reflejan AI Trend",
+      "url": "https://smew.ai/templates/tus-ojos-me-reflejan-ai-trend"
+    },
+    {
+      "id_or_slug": "twilight-baseball-scene-ai",
+      "title": "Twilight Baseball Scene AI",
+      "url": "https://smew.ai/templates/twilight-baseball-scene-ai"
+    },
+    {
+      "id_or_slug": "ukwu-ai-trend",
+      "title": "Ukwu AI Trend",
+      "url": "https://smew.ai/templates/ukwu-ai-trend"
+    },
+    {
+      "id_or_slug": "unforgettable-car-trend-ai",
+      "title": "Unforgettable Car Trend AI",
+      "url": "https://smew.ai/templates/unforgettable-car-trend-ai"
+    },
+    {
+      "id_or_slug": "uptown-funk-ai-trend",
+      "title": "Uptown Funk AI Trend",
+      "url": "https://smew.ai/templates/uptown-funk-ai-trend"
+    },
+    {
+      "id_or_slug": "venom-car-ai-trend",
+      "title": "Venom Car AI Trend",
+      "url": "https://smew.ai/templates/venom-car-ai-trend"
+    },
+    {
+      "id_or_slug": "venom-makeup-ai-trend",
+      "title": "Venom Makeup AI Trend",
+      "url": "https://smew.ai/templates/venom-makeup-ai-trend"
+    },
+    {
+      "id_or_slug": "victoria-secret-runway-ai-trend",
+      "title": "Victoria Secret Runway AI Trend",
+      "url": "https://smew.ai/templates/victoria-secret-runway-ai-trend"
+    },
+    {
+      "id_or_slug": "vossi-bop-ai-trend",
+      "title": "Vossi Bop AI Trend",
+      "url": "https://smew.ai/templates/vossi-bop-ai-trend"
+    },
+    {
+      "id_or_slug": "walk-it-like-i-talk-it-ai-trend",
+      "title": "Walk It Like I Talk It AI Trend",
+      "url": "https://smew.ai/templates/walk-it-like-i-talk-it-ai-trend"
+    },
+    {
+      "id_or_slug": "wassup-in-a-minute-ai-trend",
+      "title": "Wassup In A Minute AI Trend",
+      "url": "https://smew.ai/templates/wassup-in-a-minute-ai-trend"
+    },
+    {
+      "id_or_slug": "what-stop-sign-ai-trend",
+      "title": "What Stop Sign AI Trend",
+      "url": "https://smew.ai/templates/what-stop-sign-ai-trend"
+    },
+    {
+      "id_or_slug": "whiny-dog-ai-trend",
+      "title": "Whiny Dog AI Trend",
+      "url": "https://smew.ai/templates/whiny-dog-ai-trend"
+    },
+    {
+      "id_or_slug": "white-chicks-ai-trend",
+      "title": "White Chicks AI Trend",
+      "url": "https://smew.ai/templates/white-chicks-ai-trend"
+    },
+    {
+      "id_or_slug": "window-dance-ai-trend",
+      "title": "Window Dance AI Trend",
+      "url": "https://smew.ai/templates/window-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "window-peeper-ai-filter",
+      "title": "Window Peeper AI Filter",
+      "url": "https://smew.ai/templates/window-peeper-ai-filter"
+    },
+    {
+      "id_or_slug": "wipe-me-down-ai-dance",
+      "title": "Wipe Me Down AI Dance",
+      "url": "https://smew.ai/templates/wipe-me-down-ai-dance"
+    },
+    {
+      "id_or_slug": "witch-flying-on-broom-video",
+      "title": "Witch Flying On Broom Video",
+      "url": "https://smew.ai/templates/witch-flying-on-broom-video"
+    },
+    {
+      "id_or_slug": "wyw-my-sweetie-ai-dance",
+      "title": "Wyw My Sweetie AI Dance",
+      "url": "https://smew.ai/templates/wyw-my-sweetie-ai-dance"
+    },
+    {
+      "id_or_slug": "yamal-no-rabona-ai-trend",
+      "title": "Yamal No Rabona AI Trend",
+      "url": "https://smew.ai/templates/yamal-no-rabona-ai-trend"
+    },
+    {
+      "id_or_slug": "yes-yes-i-love-you-ai-trend",
+      "title": "Yes Yes I Love You AI Trend",
+      "url": "https://smew.ai/templates/yes-yes-i-love-you-ai-trend"
+    },
+    {
+      "id_or_slug": "you-look-lonely-ai-trend",
+      "title": "You Look Lonely AI Trend",
+      "url": "https://smew.ai/templates/you-look-lonely-ai-trend"
+    },
+    {
+      "id_or_slug": "you-talking-bout-me-ai-trend",
+      "title": "You Talking Bout Me AI Trend",
+      "url": "https://smew.ai/templates/you-talking-bout-me-ai-trend"
+    },
+    {
+      "id_or_slug": "you-tweaking-ai-trend",
+      "title": "You Tweaking AI Trend",
+      "url": "https://smew.ai/templates/you-tweaking-ai-trend"
+    },
+    {
+      "id_or_slug": "your-next-opponent-is-you-ai-trend",
+      "title": "Your Next Opponent Is You AI Trend",
+      "url": "https://smew.ai/templates/your-next-opponent-is-you-ai-trend"
+    }
+  ]
+}

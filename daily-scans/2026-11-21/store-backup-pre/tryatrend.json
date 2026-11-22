@@ -1,0 +1,283 @@
+{
+  "site": "Try a Trend",
+  "home": "https://tryatrend.com/",
+  "checked_at": "2026-11-20T09:39:28+08:00",
+  "sitemap_urls_found": [
+    "https://tryatrend.com/sitemap.xml"
+  ],
+  "sitemap_existed": true,
+  "template_count": 52,
+  "new_count": 1,
+  "removed_count": 0,
+  "new_templates": [
+    {
+      "id_or_slug": "oh-my-carne-asada-ai",
+      "title": "Oh My Carne Asada AI",
+      "url": "https://tryatrend.com/oh-my-carne-asada-ai"
+    }
+  ],
+  "removed_templates": [],
+  "templates": [
+    {
+      "id_or_slug": "24-car-trend-ai",
+      "title": "24 Car Trend AI",
+      "url": "https://tryatrend.com/24-car-trend-ai"
+    },
+    {
+      "id_or_slug": "add-loved-one-to-photo-ai",
+      "title": "Add Loved One To Photo AI",
+      "url": "https://tryatrend.com/add-loved-one-to-photo-ai"
+    },
+    {
+      "id_or_slug": "ai-crying-trend",
+      "title": "AI Crying Trend",
+      "url": "https://tryatrend.com/ai-crying-trend"
+    },
+    {
+      "id_or_slug": "ai-halloween-costume",
+      "title": "AI Halloween Costume",
+      "url": "https://tryatrend.com/ai-halloween-costume"
+    },
+    {
+      "id_or_slug": "bicep-heart-ai",
+      "title": "Bicep Heart AI",
+      "url": "https://tryatrend.com/bicep-heart-ai"
+    },
+    {
+      "id_or_slug": "burning-bridges-ai-trend",
+      "title": "Burning Bridges AI Trend",
+      "url": "https://tryatrend.com/burning-bridges-ai-trend"
+    },
+    {
+      "id_or_slug": "catch-santa-on-camera-ai",
+      "title": "Catch Santa on Camera AI",
+      "url": "https://tryatrend.com/catch-santa-on-camera-ai"
+    },
+    {
+      "id_or_slug": "ceiling-fan-ai-trend",
+      "title": "Ceiling Fan AI Trend",
+      "url": "https://tryatrend.com/ceiling-fan-ai-trend"
+    },
+    {
+      "id_or_slug": "charlie-brown-dance-ai",
+      "title": "Charlie Brown Dance AI",
+      "url": "https://tryatrend.com/charlie-brown-dance-ai"
+    },
+    {
+      "id_or_slug": "chipmunks-dance-ai",
+      "title": "Chipmunks Dance AI",
+      "url": "https://tryatrend.com/chipmunks-dance-ai"
+    },
+    {
+      "id_or_slug": "christmas-dog-ai",
+      "title": "Christmas Dog AI",
+      "url": "https://tryatrend.com/christmas-dog-ai"
+    },
+    {
+      "id_or_slug": "christmas-in-heaven-ai",
+      "title": "Christmas In Heaven AI",
+      "url": "https://tryatrend.com/christmas-in-heaven-ai"
+    },
+    {
+      "id_or_slug": "color-changing-clown-makeup-ai",
+      "title": "Color Changing Clown Makeup AI",
+      "url": "https://tryatrend.com/color-changing-clown-makeup-ai"
+    },
+    {
+      "id_or_slug": "crazy-frog-ai",
+      "title": "Crazy Frog AI",
+      "url": "https://tryatrend.com/crazy-frog-ai"
+    },
+    {
+      "id_or_slug": "dame-hombro-ai",
+      "title": "Dame Hombro AI",
+      "url": "https://tryatrend.com/dame-hombro-ai"
+    },
+    {
+      "id_or_slug": "day-of-the-dead-family-ai",
+      "title": "Day Of The Dead Family AI",
+      "url": "https://tryatrend.com/day-of-the-dead-family-ai"
+    },
+    {
+      "id_or_slug": "day-of-the-dead-pet-ai",
+      "title": "Day Of The Dead Pet AI",
+      "url": "https://tryatrend.com/day-of-the-dead-pet-ai"
+    },
+    {
+      "id_or_slug": "dime-dime-baby-ai",
+      "title": "Dime Dime Baby AI",
+      "url": "https://tryatrend.com/dime-dime-baby-ai"
+    },
+    {
+      "id_or_slug": "dog-dance-ai",
+      "title": "Dog Dance AI",
+      "url": "https://tryatrend.com/dog-dance-ai"
+    },
+    {
+      "id_or_slug": "dog-pool-party-ai",
+      "title": "Dog Pool Party AI",
+      "url": "https://tryatrend.com/dog-pool-party-ai"
+    },
+    {
+      "id_or_slug": "elf-dance-ai",
+      "title": "Elf Dance AI",
+      "url": "https://tryatrend.com/elf-dance-ai"
+    },
+    {
+      "id_or_slug": "flying-car-ai",
+      "title": "Flying Car AI",
+      "url": "https://tryatrend.com/flying-car-ai"
+    },
+    {
+      "id_or_slug": "gangnam-style-ai",
+      "title": "Gangnam Style AI",
+      "url": "https://tryatrend.com/gangnam-style-ai"
+    },
+    {
+      "id_or_slug": "halloween-makeup-transition-ai",
+      "title": "Halloween Makeup Transition AI",
+      "url": "https://tryatrend.com/halloween-makeup-transition-ai"
+    },
+    {
+      "id_or_slug": "happy-birthday-in-heaven-ai",
+      "title": "Happy Birthday In Heaven AI",
+      "url": "https://tryatrend.com/happy-birthday-in-heaven-ai"
+    },
+    {
+      "id_or_slug": "hey-boo-come-slide-with-me-ai",
+      "title": "Hey Boo Come Slide With Me AI",
+      "url": "https://tryatrend.com/hey-boo-come-slide-with-me-ai"
+    },
+    {
+      "id_or_slug": "hit-the-road-dude-pet-ai",
+      "title": "Hit The Road Dude Pet AI",
+      "url": "https://tryatrend.com/hit-the-road-dude-pet-ai"
+    },
+    {
+      "id_or_slug": "hotel-lobby-ai-trend",
+      "title": "Hotel Lobby AI Trend",
+      "url": "https://tryatrend.com/hotel-lobby-ai-trend"
+    },
+    {
+      "id_or_slug": "hug-in-heaven-ai",
+      "title": "Hug In Heaven AI",
+      "url": "https://tryatrend.com/hug-in-heaven-ai"
+    },
+    {
+      "id_or_slug": "ice-ice-baby-dance-ai",
+      "title": "Ice Ice Baby Dance AI",
+      "url": "https://tryatrend.com/ice-ice-baby-dance-ai"
+    },
+    {
+      "id_or_slug": "kung-fu-pet-flash-step-ai",
+      "title": "Kung Fu Pet Flash Step AI",
+      "url": "https://tryatrend.com/kung-fu-pet-flash-step-ai"
+    },
+    {
+      "id_or_slug": "last-dance-trend-ai",
+      "title": "Last Dance Trend AI",
+      "url": "https://tryatrend.com/last-dance-trend-ai"
+    },
+    {
+      "id_or_slug": "mom-dad-in-heaven-ai",
+      "title": "Mom Dad In Heaven AI",
+      "url": "https://tryatrend.com/mom-dad-in-heaven-ai"
+    },
+    {
+      "id_or_slug": "ozil-goal-ai",
+      "title": "Ozil Goal AI",
+      "url": "https://tryatrend.com/ozil-goal-ai"
+    },
+    {
+      "id_or_slug": "paws-at-you-ai",
+      "title": "Paws At You AI",
+      "url": "https://tryatrend.com/paws-at-you-ai"
+    },
+    {
+      "id_or_slug": "rainbow-bridge-pet-ai",
+      "title": "Rainbow Bridge Pet AI",
+      "url": "https://tryatrend.com/rainbow-bridge-pet-ai"
+    },
+    {
+      "id_or_slug": "ramalama-pet-ai-trend",
+      "title": "Ramalama Pet AI Trend",
+      "url": "https://tryatrend.com/ramalama-pet-ai-trend"
+    },
+    {
+      "id_or_slug": "rumpelstiltskin-tiptoe-ai",
+      "title": "Rumpelstiltskin Tiptoe AI",
+      "url": "https://tryatrend.com/rumpelstiltskin-tiptoe-ai"
+    },
+    {
+      "id_or_slug": "santa-in-your-house-ai",
+      "title": "Santa In Your House AI",
+      "url": "https://tryatrend.com/santa-in-your-house-ai"
+    },
+    {
+      "id_or_slug": "sawadika-dance-ai",
+      "title": "Sawadika Dance AI",
+      "url": "https://tryatrend.com/sawadika-dance-ai"
+    },
+    {
+      "id_or_slug": "schooling-seniors-ai",
+      "title": "Schooling Seniors AI",
+      "url": "https://tryatrend.com/schooling-seniors-ai"
+    },
+    {
+      "id_or_slug": "sorry-i-lied-costume-ai",
+      "title": "Sorry I Lied Costume AI",
+      "url": "https://tryatrend.com/sorry-i-lied-costume-ai"
+    },
+    {
+      "id_or_slug": "sticky-bubblegum-ai",
+      "title": "Sticky Bubblegum AI",
+      "url": "https://tryatrend.com/sticky-bubblegum-ai"
+    },
+    {
+      "id_or_slug": "talk-to-me-doja-ai",
+      "title": "Talk to Me Doja AI",
+      "url": "https://tryatrend.com/talk-to-me-doja-ai"
+    },
+    {
+      "id_or_slug": "thanksgiving-dance-ai",
+      "title": "Thanksgiving Dance AI",
+      "url": "https://tryatrend.com/thanksgiving-dance-ai"
+    },
+    {
+      "id_or_slug": "tiny-desk-ai",
+      "title": "Tiny Desk AI",
+      "url": "https://tryatrend.com/tiny-desk-ai"
+    },
+    {
+      "id_or_slug": "waist-heart-ai",
+      "title": "Waist Heart AI",
+      "url": "https://tryatrend.com/waist-heart-ai"
+    },
+    {
+      "id_or_slug": "wassup-in-a-minute-ai",
+      "title": "Wassup In A Minute AI",
+      "url": "https://tryatrend.com/wassup-in-a-minute-ai"
+    },
+    {
+      "id_or_slug": "witch-broom-ai",
+      "title": "Witch Broom AI",
+      "url": "https://tryatrend.com/witch-broom-ai"
+    },
+    {
+      "id_or_slug": "zombie-couple-ai",
+      "title": "Zombie Couple AI",
+      "url": "https://tryatrend.com/zombie-couple-ai"
+    },
+    {
+      "id_or_slug": "zombie-love-story-ai-trend",
+      "title": "Zombie Love Story AI Trend",
+      "url": "https://tryatrend.com/zombie-love-story-ai-trend"
+    },
+    {
+      "id_or_slug": "oh-my-carne-asada-ai",
+      "title": "Oh My Carne Asada AI",
+      "url": "https://tryatrend.com/oh-my-carne-asada-ai"
+    }
+  ],
+  "note": "Kept ai-halloween-costume despite missing from today's sitemap (page still 200)."
+}

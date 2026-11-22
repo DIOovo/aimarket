@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://trendswap.app/watch/prilili-ai</loc>
+    <video:video>
+      <video:thumbnail_loc>https://trendswap.app/template/prilili-ai/poster.webp</video:thumbnail_loc>
+      <video:title>Watch the Prilili Laughing Fairy Template Reference</video:title>
+      <video:description>Watch the Prilili reference clip: a tiny fairy on a mossy branch whispers and laughs, with scene audio.</video:description>
+      <video:content_loc>https://trendswap.app/template/prilili-ai/motion.mp4</video:content_loc>
+      <video:duration>9</video:duration>
+      <video:publication_date>2026-10-27T00:00:00+08:00</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:requires_subscription>no</video:requires_subscription>
+      <video:live>no</video:live>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://trendswap.app/watch/hit-the-road-dude</loc>
+    <video:video>
+      <video:thumbnail_loc>https://trendswap.app/images/hit-the-road-dude/pond-pickup.webp</video:thumbnail_loc>
+      <video:title>Watch the Hit the Road Dude Pickup Template Reference</video:title>
+      <video:description>Watch the Hit the Road Dude reference clip: the viral white pickup truck confrontation by the pond with scene dialogue.</video:description>
+      <video:content_loc>https://trendswap.app/videos/hit-the-road-dude/pond-pickup.mp4</video:content_loc>
+      <video:duration>15</video:duration>
+      <video:publication_date>2026-10-15T00:00:00+08:00</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:requires_subscription>no</video:requires_subscription>
+      <video:live>no</video:live>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://trendswap.app/watch/sheru-bhai-ai</loc>
+    <video:video>
+      <video:thumbnail_loc>https://trendswap.app/images/sheru-bhai-ai/sheru-white-lion-palace-walk.jpg</video:thumbnail_loc>
+      <video:title>Watch the Sheru Bhai White Lion Template Reference</video:title>
+      <video:description>Watch the Sheru Bhai AI reference clip: walking beside a white lion through a grand palace courtyard with scene audio.</video:description>
+      <video:content_loc>https://trendswap.app/videos/sheru-bhai-ai/sheru-white-lion-palace-walk.mp4</video:content_loc>
+      <video:duration>6</video:duration>
+      <video:publication_date>2026-11-12T00:00:00+08:00</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:requires_subscription>no</video:requires_subscription>
+      <video:live>no</video:live>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://trendswap.app/watch/cat-clapping-ai</loc>
+    <video:video>
+      <video:thumbnail_loc>https://trendswap.app/template/cat-clapping-ai/poster.webp</video:thumbnail_loc>
+      <video:title>Watch the Black Cat Clapping Template Reference</video:title>
+      <video:description>Watch the Black Cat Clapping reference clip: a deadpan black cat slowly clapping in the viral TikTok reaction format.</video:description>
+      <video:content_loc>https://trendswap.app/template/cat-clapping-ai/motion.mp4</video:content_loc>
+      <video:duration>6</video:duration>
+      <video:publication_date>2026-10-21T00:00:00+08:00</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:requires_subscription>no</video:requires_subscription>
+      <video:live>no</video:live>
+    </video:video>
+  </url>
+</urlset>

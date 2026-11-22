@@ -1,0 +1,366 @@
+{
+  "site": "DoTheTrend",
+  "home": "https://dothetrend.ai/",
+  "checked_at": "2026-11-18T09:43:11+08:00",
+  "sitemap_urls_found": [
+    "https://dothetrend.ai/sitemap.xml"
+  ],
+  "sitemap_existed": true,
+  "template_count": 70,
+  "templates": [
+    {
+      "id_or_slug": "24k-magic-ai-trend",
+      "title": "24k Magic AI Trend",
+      "url": "https://dothetrend.ai/templates/24k-magic-ai-trend"
+    },
+    {
+      "id_or_slug": "a2o-lite-neon-ai-dance",
+      "title": "A2o Lite Neon AI Dance",
+      "url": "https://dothetrend.ai/templates/a2o-lite-neon-ai-dance"
+    },
+    {
+      "id_or_slug": "ai-ceiling-fan-trend",
+      "title": "AI Ceiling Fan Trend",
+      "url": "https://dothetrend.ai/templates/ai-ceiling-fan-trend"
+    },
+    {
+      "id_or_slug": "ai-day-of-the-dead-pet",
+      "title": "AI Day Of The Dead Pet",
+      "url": "https://dothetrend.ai/templates/ai-day-of-the-dead-pet"
+    },
+    {
+      "id_or_slug": "ai-hotel-lobby-trend",
+      "title": "AI Hotel Lobby Trend",
+      "url": "https://dothetrend.ai/templates/ai-hotel-lobby-trend"
+    },
+    {
+      "id_or_slug": "ai-rumpelstiltskin-dance",
+      "title": "AI Rumpelstiltskin Dance",
+      "url": "https://dothetrend.ai/templates/ai-rumpelstiltskin-dance"
+    },
+    {
+      "id_or_slug": "ai-zombie-trend",
+      "title": "AI Zombie Trend",
+      "url": "https://dothetrend.ai/templates/ai-zombie-trend"
+    },
+    {
+      "id_or_slug": "alors-on-danse-ai-trend",
+      "title": "Alors On Danse AI Trend",
+      "url": "https://dothetrend.ai/templates/alors-on-danse-ai-trend"
+    },
+    {
+      "id_or_slug": "apt-ai-trend",
+      "title": "APT AI Trend",
+      "url": "https://dothetrend.ai/templates/apt-ai-trend"
+    },
+    {
+      "id_or_slug": "baby-knight-ai-video",
+      "title": "Baby Knight AI Video",
+      "url": "https://dothetrend.ai/templates/baby-knight-ai-video"
+    },
+    {
+      "id_or_slug": "baby-with-mustache-ai-trend",
+      "title": "Baby With Mustache AI Trend",
+      "url": "https://dothetrend.ai/templates/baby-with-mustache-ai-trend"
+    },
+    {
+      "id_or_slug": "babydoll-dance-ai-trend",
+      "title": "Babydoll Dance AI Trend",
+      "url": "https://dothetrend.ai/templates/babydoll-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "bad-times-ai-trend",
+      "title": "Bad Times AI Trend",
+      "url": "https://dothetrend.ai/templates/bad-times-ai-trend"
+    },
+    {
+      "id_or_slug": "ballon-dor-ai-filter",
+      "title": "Ballon Dor AI Filter",
+      "url": "https://dothetrend.ai/templates/ballon-dor-ai-filter"
+    },
+    {
+      "id_or_slug": "bby-wow-guy-ai-trend",
+      "title": "BbY Wow Guy AI Trend",
+      "url": "https://dothetrend.ai/templates/bby-wow-guy-ai-trend"
+    },
+    {
+      "id_or_slug": "billie-jean-dance-ai-trend",
+      "title": "Billie Jean Dance AI Trend",
+      "url": "https://dothetrend.ai/templates/billie-jean-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "birthday-car-ai-trend",
+      "title": "Birthday Car AI Trend",
+      "url": "https://dothetrend.ai/templates/birthday-car-ai-trend"
+    },
+    {
+      "id_or_slug": "bulin-47-ai-trend",
+      "title": "Bulin 47 AI Trend",
+      "url": "https://dothetrend.ai/templates/bulin-47-ai-trend"
+    },
+    {
+      "id_or_slug": "burning-bridges-ai-trend",
+      "title": "Burning Bridges AI Trend",
+      "url": "https://dothetrend.ai/templates/burning-bridges-ai-trend"
+    },
+    {
+      "id_or_slug": "can-can-dance-ai-trend",
+      "title": "Can Can Dance AI Trend",
+      "url": "https://dothetrend.ai/templates/can-can-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "cat-in-the-hat-ai-trend",
+      "title": "Cat In The Hat AI Trend",
+      "url": "https://dothetrend.ai/templates/cat-in-the-hat-ai-trend"
+    },
+    {
+      "id_or_slug": "caught-at-the-window-ai-ad",
+      "title": "Caught At The Window AI Ad",
+      "url": "https://dothetrend.ai/templates/caught-at-the-window-ai-ad"
+    },
+    {
+      "id_or_slug": "champagne-birthday-ai-trend",
+      "title": "Champagne Birthday AI Trend",
+      "url": "https://dothetrend.ai/templates/champagne-birthday-ai-trend"
+    },
+    {
+      "id_or_slug": "chatgpt-millionaire-ai-trend",
+      "title": "Chatgpt Millionaire AI Trend",
+      "url": "https://dothetrend.ai/templates/chatgpt-millionaire-ai-trend"
+    },
+    {
+      "id_or_slug": "closed-on-sunday-ai-trend",
+      "title": "Closed On Sunday AI Trend",
+      "url": "https://dothetrend.ai/templates/closed-on-sunday-ai-trend"
+    },
+    {
+      "id_or_slug": "closer-dance-ai-trend",
+      "title": "Closer Dance AI Trend",
+      "url": "https://dothetrend.ai/templates/closer-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "corpse-bride-ai-trend",
+      "title": "Corpse Bride AI Trend",
+      "url": "https://dothetrend.ai/templates/corpse-bride-ai-trend"
+    },
+    {
+      "id_or_slug": "damon-salvatore-ai-trend",
+      "title": "Damon Salvatore AI Trend",
+      "url": "https://dothetrend.ai/templates/damon-salvatore-ai-trend"
+    },
+    {
+      "id_or_slug": "devil-wears-prada-ai-trend",
+      "title": "Devil Wears Prada AI Trend",
+      "url": "https://dothetrend.ai/templates/devil-wears-prada-ai-trend"
+    },
+    {
+      "id_or_slug": "dog-dance-crew-ai-trend",
+      "title": "Dog Dance Crew AI Trend",
+      "url": "https://dothetrend.ai/templates/dog-dance-crew-ai-trend"
+    },
+    {
+      "id_or_slug": "dunk-ai-trend",
+      "title": "Dunk AI Trend",
+      "url": "https://dothetrend.ai/templates/dunk-ai-trend"
+    },
+    {
+      "id_or_slug": "first-time-in-a-fancy-cafe-ai-trend",
+      "title": "First Time In A Fancy Cafe AI Trend",
+      "url": "https://dothetrend.ai/templates/first-time-in-a-fancy-cafe-ai-trend"
+    },
+    {
+      "id_or_slug": "gang-gang-dance-ai-trend",
+      "title": "Gang Gang Dance AI Trend",
+      "url": "https://dothetrend.ai/templates/gang-gang-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "gangnam-style-ai-dance",
+      "title": "Gangnam Style AI Dance",
+      "url": "https://dothetrend.ai/templates/gangnam-style-ai-dance"
+    },
+    {
+      "id_or_slug": "gas-station-dance-ai-trend",
+      "title": "Gas Station Dance AI Trend",
+      "url": "https://dothetrend.ai/templates/gas-station-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "hit-the-road-dude-ai-trend",
+      "title": "Hit The Road Dude AI Trend",
+      "url": "https://dothetrend.ai/templates/hit-the-road-dude-ai-trend"
+    },
+    {
+      "id_or_slug": "knight-standing-ai-video",
+      "title": "Knight Standing AI Video",
+      "url": "https://dothetrend.ai/templates/knight-standing-ai-video"
+    },
+    {
+      "id_or_slug": "la-calabaza-ai-dance",
+      "title": "La Calabaza AI Dance",
+      "url": "https://dothetrend.ai/templates/la-calabaza-ai-dance"
+    },
+    {
+      "id_or_slug": "love-options-ai-dance",
+      "title": "Love Options AI Dance",
+      "url": "https://dothetrend.ai/templates/love-options-ai-dance"
+    },
+    {
+      "id_or_slug": "mi-chico-dance-ai-trend",
+      "title": "Mi Chico Dance AI Trend",
+      "url": "https://dothetrend.ai/templates/mi-chico-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "middle-finger-basketball-ai-trend",
+      "title": "Middle Finger Basketball AI Trend",
+      "url": "https://dothetrend.ai/templates/middle-finger-basketball-ai-trend"
+    },
+    {
+      "id_or_slug": "money-flex-ai-trend",
+      "title": "Money Flex AI Trend",
+      "url": "https://dothetrend.ai/templates/money-flex-ai-trend"
+    },
+    {
+      "id_or_slug": "next-chapter-dance-ai-trend",
+      "title": "Next Chapter Dance AI Trend",
+      "url": "https://dothetrend.ai/templates/next-chapter-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "one-step-to-the-end-ai-trend",
+      "title": "One Step To The End AI Trend",
+      "url": "https://dothetrend.ai/templates/one-step-to-the-end-ai-trend"
+    },
+    {
+      "id_or_slug": "oouuh-ai-trend",
+      "title": "Oouuh AI Trend",
+      "url": "https://dothetrend.ai/templates/oouuh-ai-trend"
+    },
+    {
+      "id_or_slug": "ozil-goal-ai-trend",
+      "title": "OZIL Goal AI Trend",
+      "url": "https://dothetrend.ai/templates/ozil-goal-ai-trend"
+    },
+    {
+      "id_or_slug": "parrot-dance-ai-trend",
+      "title": "Parrot Dance AI Trend",
+      "url": "https://dothetrend.ai/templates/parrot-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "phone-on-train-trend",
+      "title": "Phone On Train Trend",
+      "url": "https://dothetrend.ai/templates/phone-on-train-trend"
+    },
+    {
+      "id_or_slug": "raindance-ai-trend",
+      "title": "Raindance AI Trend",
+      "url": "https://dothetrend.ai/templates/raindance-ai-trend"
+    },
+    {
+      "id_or_slug": "sasha-la-catrina-ai-trend",
+      "title": "Sasha La Catrina AI Trend",
+      "url": "https://dothetrend.ai/templates/sasha-la-catrina-ai-trend"
+    },
+    {
+      "id_or_slug": "sawadika-dance-ai-trend",
+      "title": "Sawadika Dance AI Trend",
+      "url": "https://dothetrend.ai/templates/sawadika-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "shaving-cream-ai-trend",
+      "title": "Shaving Cream AI Trend",
+      "url": "https://dothetrend.ai/templates/shaving-cream-ai-trend"
+    },
+    {
+      "id_or_slug": "single-ladies-dog-dance-ai",
+      "title": "Single Ladies Dog Dance AI",
+      "url": "https://dothetrend.ai/templates/single-ladies-dog-dance-ai"
+    },
+    {
+      "id_or_slug": "skull-cap-ai-trend",
+      "title": "Skull Cap AI Trend",
+      "url": "https://dothetrend.ai/templates/skull-cap-ai-trend"
+    },
+    {
+      "id_or_slug": "smalltown-boy-ai-dance",
+      "title": "Smalltown Boy AI Dance",
+      "url": "https://dothetrend.ai/templates/smalltown-boy-ai-dance"
+    },
+    {
+      "id_or_slug": "stones-to-castle-ai-trend",
+      "title": "Stones To Castle AI Trend",
+      "url": "https://dothetrend.ai/templates/stones-to-castle-ai-trend"
+    },
+    {
+      "id_or_slug": "susan-dell-dance-ai",
+      "title": "Susan Dell Dance AI",
+      "url": "https://dothetrend.ai/templates/susan-dell-dance-ai"
+    },
+    {
+      "id_or_slug": "te-he-perdido-entre-la-gente-ai-trend",
+      "title": "Te He Perdido Entre La Gente AI Trend",
+      "url": "https://dothetrend.ai/templates/te-he-perdido-entre-la-gente-ai-trend"
+    },
+    {
+      "id_or_slug": "tecktonik-dance-ai-trend",
+      "title": "Tecktonik Dance AI Trend",
+      "url": "https://dothetrend.ai/templates/tecktonik-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "the-jawn-ai-dance",
+      "title": "The Jawn AI Dance",
+      "url": "https://dothetrend.ai/templates/the-jawn-ai-dance"
+    },
+    {
+      "id_or_slug": "then-i-walk-in-ai-trend",
+      "title": "Then I Walk In AI Trend",
+      "url": "https://dothetrend.ai/templates/then-i-walk-in-ai-trend"
+    },
+    {
+      "id_or_slug": "tiny-desk-ai-trend",
+      "title": "Tiny Desk AI Trend",
+      "url": "https://dothetrend.ai/templates/tiny-desk-ai-trend"
+    },
+    {
+      "id_or_slug": "toc-toc-dance-ai-trend",
+      "title": "Toc Toc Dance AI Trend",
+      "url": "https://dothetrend.ai/templates/toc-toc-dance-ai-trend"
+    },
+    {
+      "id_or_slug": "toy-car-to-real-car-ai-trend",
+      "title": "Toy Car To Real Car AI Trend",
+      "url": "https://dothetrend.ai/templates/toy-car-to-real-car-ai-trend"
+    },
+    {
+      "id_or_slug": "two-legends-make-coffee-ai-trend",
+      "title": "Two Legends Make Coffee AI Trend",
+      "url": "https://dothetrend.ai/templates/two-legends-make-coffee-ai-trend"
+    },
+    {
+      "id_or_slug": "unforgettable-car-trend-ai",
+      "title": "Unforgettable Car Trend AI",
+      "url": "https://dothetrend.ai/templates/unforgettable-car-trend-ai"
+    },
+    {
+      "id_or_slug": "uptown-funk-ai-trend",
+      "title": "Uptown Funk AI Trend",
+      "url": "https://dothetrend.ai/templates/uptown-funk-ai-trend"
+    },
+    {
+      "id_or_slug": "walk-it-like-i-talk-it-ai-trend",
+      "title": "Walk It Like I Talk It AI Trend",
+      "url": "https://dothetrend.ai/templates/walk-it-like-i-talk-it-ai-trend"
+    },
+    {
+      "id_or_slug": "white-chicks-ai-trend",
+      "title": "White Chicks AI Trend",
+      "url": "https://dothetrend.ai/templates/white-chicks-ai-trend"
+    },
+    {
+      "id_or_slug": "window-dance-ai-trend",
+      "title": "Window Dance AI Trend",
+      "url": "https://dothetrend.ai/templates/window-dance-ai-trend"
+    }
+  ],
+  "new_count": 0,
+  "removed_count": 0,
+  "new_templates": [],
+  "removed_templates": []
+}

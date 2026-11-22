@@ -1,0 +1,402 @@
+{
+  "site": "MemeClone.ai",
+  "home": "https://memeclone.ai/",
+  "checked_at": "2026-11-20T09:39:28+08:00",
+  "sitemap_urls_found": [
+    "https://memeclone.ai/sitemap.xml"
+  ],
+  "sitemap_existed": true,
+  "template_count": 76,
+  "new_count": 1,
+  "removed_count": 0,
+  "new_templates": [
+    {
+      "id_or_slug": "need-for-speed",
+      "title": "Need for Speed",
+      "url": "https://memeclone.ai/templates/need-for-speed"
+    }
+  ],
+  "removed_templates": [],
+  "templates": [
+    {
+      "id_or_slug": "age-filter",
+      "title": "Age Filter",
+      "url": "https://memeclone.ai/templates/age-filter"
+    },
+    {
+      "id_or_slug": "all-my-money-cash",
+      "title": "All My Money Cash",
+      "url": "https://memeclone.ai/templates/all-my-money-cash"
+    },
+    {
+      "id_or_slug": "alors-on-danse",
+      "title": "Alors On Danse",
+      "url": "https://memeclone.ai/templates/alors-on-danse"
+    },
+    {
+      "id_or_slug": "apt-pink-studio",
+      "title": "Apt Pink Studio",
+      "url": "https://memeclone.ai/templates/apt-pink-studio"
+    },
+    {
+      "id_or_slug": "babydoll-dance",
+      "title": "Babydoll Dance",
+      "url": "https://memeclone.ai/templates/babydoll-dance"
+    },
+    {
+      "id_or_slug": "bad-times",
+      "title": "Bad Times",
+      "url": "https://memeclone.ai/templates/bad-times"
+    },
+    {
+      "id_or_slug": "bald",
+      "title": "Bald",
+      "url": "https://memeclone.ai/templates/bald"
+    },
+    {
+      "id_or_slug": "bangs",
+      "title": "Bangs",
+      "url": "https://memeclone.ai/templates/bangs"
+    },
+    {
+      "id_or_slug": "beard",
+      "title": "Beard",
+      "url": "https://memeclone.ai/templates/beard"
+    },
+    {
+      "id_or_slug": "bigfoot",
+      "title": "Bigfoot",
+      "url": "https://memeclone.ai/templates/bigfoot"
+    },
+    {
+      "id_or_slug": "black-cat-clap",
+      "title": "Black Cat Clap",
+      "url": "https://memeclone.ai/templates/black-cat-clap"
+    },
+    {
+      "id_or_slug": "braces",
+      "title": "Braces",
+      "url": "https://memeclone.ai/templates/braces"
+    },
+    {
+      "id_or_slug": "bulin-47",
+      "title": "Bulin 47",
+      "url": "https://memeclone.ai/templates/bulin-47"
+    },
+    {
+      "id_or_slug": "burning-bridges",
+      "title": "Burning Bridges",
+      "url": "https://memeclone.ai/templates/burning-bridges"
+    },
+    {
+      "id_or_slug": "buzz-cut",
+      "title": "Buzz Cut",
+      "url": "https://memeclone.ai/templates/buzz-cut"
+    },
+    {
+      "id_or_slug": "car-alarm-dance",
+      "title": "Car Alarm Dance",
+      "url": "https://memeclone.ai/templates/car-alarm-dance"
+    },
+    {
+      "id_or_slug": "car-jump",
+      "title": "Car Jump",
+      "url": "https://memeclone.ai/templates/car-jump"
+    },
+    {
+      "id_or_slug": "cat-ears",
+      "title": "Cat Ears",
+      "url": "https://memeclone.ai/templates/cat-ears"
+    },
+    {
+      "id_or_slug": "christmas-elf",
+      "title": "Elf Yourself AI",
+      "url": "https://memeclone.ai/templates/christmas-elf"
+    },
+    {
+      "id_or_slug": "clones",
+      "title": "Clones",
+      "url": "https://memeclone.ai/templates/clones"
+    },
+    {
+      "id_or_slug": "costume-swap",
+      "title": "Costume Swap",
+      "url": "https://memeclone.ai/templates/costume-swap"
+    },
+    {
+      "id_or_slug": "crazy-frog",
+      "title": "Crazy Frog",
+      "url": "https://memeclone.ai/templates/crazy-frog"
+    },
+    {
+      "id_or_slug": "dame-hombro-dance",
+      "title": "Dame Hombro Dance",
+      "url": "https://memeclone.ai/templates/dame-hombro-dance"
+    },
+    {
+      "id_or_slug": "dime-dime-baby",
+      "title": "Dime Dime Baby",
+      "url": "https://memeclone.ai/templates/dime-dime-baby"
+    },
+    {
+      "id_or_slug": "disintegration",
+      "title": "Disintegration",
+      "url": "https://memeclone.ai/templates/disintegration"
+    },
+    {
+      "id_or_slug": "diva-dance",
+      "title": "Diva Dance",
+      "url": "https://memeclone.ai/templates/diva-dance"
+    },
+    {
+      "id_or_slug": "dotd-pet",
+      "title": "Dotd Pet",
+      "url": "https://memeclone.ai/templates/dotd-pet"
+    },
+    {
+      "id_or_slug": "drake-meme",
+      "title": "Drake Meme",
+      "url": "https://memeclone.ai/templates/drake-meme"
+    },
+    {
+      "id_or_slug": "earth-zoom",
+      "title": "Earth Zoom",
+      "url": "https://memeclone.ai/templates/earth-zoom"
+    },
+    {
+      "id_or_slug": "eighties",
+      "title": "Eighties",
+      "url": "https://memeclone.ai/templates/eighties"
+    },
+    {
+      "id_or_slug": "enzo-celebration",
+      "title": "Enzo Celebration",
+      "url": "https://memeclone.ai/templates/enzo-celebration"
+    },
+    {
+      "id_or_slug": "eye-color",
+      "title": "Eye Color",
+      "url": "https://memeclone.ai/templates/eye-color"
+    },
+    {
+      "id_or_slug": "fan-outfit",
+      "title": "Fan Outfit",
+      "url": "https://memeclone.ai/templates/fan-outfit"
+    },
+    {
+      "id_or_slug": "flying-car",
+      "title": "Flying Car",
+      "url": "https://memeclone.ai/templates/flying-car"
+    },
+    {
+      "id_or_slug": "gangnam-style",
+      "title": "Gangnam Style",
+      "url": "https://memeclone.ai/templates/gangnam-style"
+    },
+    {
+      "id_or_slug": "gas-station-dance",
+      "title": "Gas Station Dance",
+      "url": "https://memeclone.ai/templates/gas-station-dance"
+    },
+    {
+      "id_or_slug": "gender-swap",
+      "title": "Gender Swap",
+      "url": "https://memeclone.ai/templates/gender-swap"
+    },
+    {
+      "id_or_slug": "ghost-filter",
+      "title": "Ghost Filter",
+      "url": "https://memeclone.ai/templates/ghost-filter"
+    },
+    {
+      "id_or_slug": "ghost-photoshoot",
+      "title": "Ghost Photoshoot",
+      "url": "https://memeclone.ai/templates/ghost-photoshoot"
+    },
+    {
+      "id_or_slug": "halloween-costume",
+      "title": "Halloween Costume",
+      "url": "https://memeclone.ai/templates/halloween-costume"
+    },
+    {
+      "id_or_slug": "hit-the-road",
+      "title": "Hit The Road",
+      "url": "https://memeclone.ai/templates/hit-the-road"
+    },
+    {
+      "id_or_slug": "hotel-lobby",
+      "title": "Hotel Lobby",
+      "url": "https://memeclone.ai/templates/hotel-lobby"
+    },
+    {
+      "id_or_slug": "iphone-kupi",
+      "title": "Iphone Kupi",
+      "url": "https://memeclone.ai/templates/iphone-kupi"
+    },
+    {
+      "id_or_slug": "knight-cat",
+      "title": "Knight Cat",
+      "url": "https://memeclone.ai/templates/knight-cat"
+    },
+    {
+      "id_or_slug": "kpop-demon-hunter",
+      "title": "Kpop Demon Hunter",
+      "url": "https://memeclone.ai/templates/kpop-demon-hunter"
+    },
+    {
+      "id_or_slug": "lets-groove",
+      "title": "Lets Groove",
+      "url": "https://memeclone.ai/templates/lets-groove"
+    },
+    {
+      "id_or_slug": "levitation",
+      "title": "Levitation",
+      "url": "https://memeclone.ai/templates/levitation"
+    },
+    {
+      "id_or_slug": "money-rain",
+      "title": "Money Rain",
+      "url": "https://memeclone.ai/templates/money-rain"
+    },
+    {
+      "id_or_slug": "moonwalk",
+      "title": "Moonwalk",
+      "url": "https://memeclone.ai/templates/moonwalk"
+    },
+    {
+      "id_or_slug": "nicole-kidman-dance",
+      "title": "Nicole Kidman Dance",
+      "url": "https://memeclone.ai/templates/nicole-kidman-dance"
+    },
+    {
+      "id_or_slug": "ozil-goal",
+      "title": "Ozil Goal",
+      "url": "https://memeclone.ai/templates/ozil-goal"
+    },
+    {
+      "id_or_slug": "polaroid-hug",
+      "title": "Polaroid Hug",
+      "url": "https://memeclone.ai/templates/polaroid-hug"
+    },
+    {
+      "id_or_slug": "pumpkin-head",
+      "title": "Pumpkin Head",
+      "url": "https://memeclone.ai/templates/pumpkin-head"
+    },
+    {
+      "id_or_slug": "raindance",
+      "title": "Raindance",
+      "url": "https://memeclone.ai/templates/raindance"
+    },
+    {
+      "id_or_slug": "ramalama-walk",
+      "title": "Ramalama Walk",
+      "url": "https://memeclone.ai/templates/ramalama-walk"
+    },
+    {
+      "id_or_slug": "rumpelstiltskin",
+      "title": "Rumpelstiltskin",
+      "url": "https://memeclone.ai/templates/rumpelstiltskin"
+    },
+    {
+      "id_or_slug": "sean-opry-edit",
+      "title": "Sean Opry Edit",
+      "url": "https://memeclone.ai/templates/sean-opry-edit"
+    },
+    {
+      "id_or_slug": "sey-mami",
+      "title": "Sey Mami",
+      "url": "https://memeclone.ai/templates/sey-mami"
+    },
+    {
+      "id_or_slug": "shan-shen-bu",
+      "title": "Shan Shen Bu",
+      "url": "https://memeclone.ai/templates/shan-shen-bu"
+    },
+    {
+      "id_or_slug": "skull-cap",
+      "title": "Skull Cap",
+      "url": "https://memeclone.ai/templates/skull-cap"
+    },
+    {
+      "id_or_slug": "smalltown-boy",
+      "title": "Smalltown Boy",
+      "url": "https://memeclone.ai/templates/smalltown-boy"
+    },
+    {
+      "id_or_slug": "sorry-lied-move",
+      "title": "Sorry Lied Move",
+      "url": "https://memeclone.ai/templates/sorry-lied-move"
+    },
+    {
+      "id_or_slug": "storm-ii",
+      "title": "Storm Ii",
+      "url": "https://memeclone.ai/templates/storm-ii"
+    },
+    {
+      "id_or_slug": "talk-dirty-dance",
+      "title": "Talk Dirty Dance",
+      "url": "https://memeclone.ai/templates/talk-dirty-dance"
+    },
+    {
+      "id_or_slug": "thriller-dance",
+      "title": "Thriller Dance",
+      "url": "https://memeclone.ai/templates/thriller-dance"
+    },
+    {
+      "id_or_slug": "tiny-desk-soul",
+      "title": "Tiny Desk Soul",
+      "url": "https://memeclone.ai/templates/tiny-desk-soul"
+    },
+    {
+      "id_or_slug": "toc-toc",
+      "title": "Toc Toc",
+      "url": "https://memeclone.ai/templates/toc-toc"
+    },
+    {
+      "id_or_slug": "turning-metal",
+      "title": "Turning Metal",
+      "url": "https://memeclone.ai/templates/turning-metal"
+    },
+    {
+      "id_or_slug": "twerk",
+      "title": "Twerk",
+      "url": "https://memeclone.ai/templates/twerk"
+    },
+    {
+      "id_or_slug": "unforgettable-car",
+      "title": "Unforgettable Car",
+      "url": "https://memeclone.ai/templates/unforgettable-car"
+    },
+    {
+      "id_or_slug": "victoria-secret-runway",
+      "title": "Victoria Secret Runway",
+      "url": "https://memeclone.ai/templates/victoria-secret-runway"
+    },
+    {
+      "id_or_slug": "window-peeper",
+      "title": "Window Peeper",
+      "url": "https://memeclone.ai/templates/window-peeper"
+    },
+    {
+      "id_or_slug": "wipe-me-down",
+      "title": "Wipe Me Down",
+      "url": "https://memeclone.ai/templates/wipe-me-down"
+    },
+    {
+      "id_or_slug": "zombie",
+      "title": "Zombie",
+      "url": "https://memeclone.ai/templates/zombie"
+    },
+    {
+      "id_or_slug": "zombie-story",
+      "title": "Zombie Story",
+      "url": "https://memeclone.ai/templates/zombie-story"
+    },
+    {
+      "id_or_slug": "need-for-speed",
+      "title": "Need for Speed",
+      "url": "https://memeclone.ai/templates/need-for-speed"
+    }
+  ]
+}

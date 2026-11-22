@@ -1,0 +1,547 @@
+================================================================================
+TrendTemplate (6)
+================================================================================
+- candidate    dancing-snowman-ai
+  URL: https://trendtemplate.com/dancing-snowman-ai
+  page: Dancing Snowman AI: Dance in a Snowman Costume
+  h1: Dancing Snowman AI
+  desc: Make a Dancing Snowman AI video from one photo: you dance in a snowman costume in the snow, face showing, to the chorus of Sia's Snowman. 7 or 12 s.
+  final: https://trendtemplate.com/dancing-snowman-ai
+
+- candidate    jingle-bell-brazil-dance-ai
+  URL: https://trendtemplate.com/jingle-bell-brazil-dance-ai
+  page: Jingle Bell Brazil Dance AI: Your Face on the Trio
+  h1: Jingle Bell Brazil Dance AI
+  desc: Make the Jingle Bell Brazil dance AI video: 1 to 3 photos replace the masked Santa hat dancers, and one photo plays all three. Original sound, 7 or 15 s.
+  final: https://trendtemplate.com/jingle-bell-brazil-dance-ai
+
+- candidate    nutcracker-soldier-dance-ai
+  URL: https://trendtemplate.com/nutcracker-soldier-dance-ai
+  page: Nutcracker Soldier Dance AI: March as a Toy Soldier
+  h1: Nutcracker Soldier Dance AI
+  desc: Make a Nutcracker Soldier Dance video from your photo: two toy soldiers march, salute and turn on a Christmas stage to the Trepak. Add a friend. 7 or 15 s.
+  final: https://trendtemplate.com/nutcracker-soldier-dance-ai
+
+- candidate    santa-caught-on-camera-ai
+  URL: https://trendtemplate.com/santa-caught-on-camera-ai
+  page: Santa Caught on Camera AI: Catch Santa in Your Living Room
+  h1: Santa Caught on Camera AI
+  desc: Catch Santa on camera in your own living room. One room photo, no faces: AI makes a grainy security camera clip of Santa leaving gifts. 7 or 15 s, 9:16.
+  final: https://trendtemplate.com/santa-caught-on-camera-ai
+
+- candidate    santa-hug-ai
+  URL: https://trendtemplate.com/santa-hug-ai
+  page: Santa Hug AI: Get a Warm Hug From Santa From One Photo
+  h1: Santa Hug AI
+  desc: Make a Santa Hug AI video from one photo: Santa walks into a Christmas living room, taps your shoulder and gives you a bear hug. 7 or 12 s, 720p.
+  final: https://trendtemplate.com/santa-hug-ai
+
+- candidate    snowman-dance-ai
+  URL: https://trendtemplate.com/snowman-dance-ai
+  page: Snowman Dance AI: Make the Sia Couples Dance Video
+  h1: Snowman Dance AI
+  desc: Make the TikTok Snowman Dance with AI from 1 or 2 photos: the Sia couples dance by the Christmas tree, spin and piggyback included. 6 or 12 s.
+  final: https://trendtemplate.com/snowman-dance-ai
+
+================================================================================
+MakeViral (10)
+================================================================================
+- candidate    car-drift-ai-video
+  URL: https://www.makeviral.ai/templates/car-drift-ai-video
+  page: Car Drift AI Video: Make Your Car Drift Past the Camera
+  h1: Car Drift AI Video : Your Car Slides Sideways Past the Camera
+  desc: Make the viral car drift AI video from one photo: your car turns in hard at a wet intersection and slides sideways past the camera. With the original song.
+  final: https://www.makeviral.ai/templates/car-drift-ai-video
+
+- candidate    gta-5-goodbye-ai-trend
+  URL: https://www.makeviral.ai/templates/gta-5-goodbye-ai-trend
+  page: GTA 5 Goodbye AI Trend: Say Goodbye on the Pier
+  h1: GTA 5 Goodbye AI Trend : The Farewell on the Sunset Pier, Starring You
+  desc: Make the GTA 5 goodbye AI video: the three leads say goodbye to you on a sunset pier, then you drive off. Add one photo of you or your pet.
+  final: https://www.makeviral.ai/templates/gta-5-goodbye-ai-trend
+
+- candidate    james-bond-reveal-ai-trend
+  URL: https://www.makeviral.ai/templates/james-bond-reveal-ai-trend
+  page: New James Bond AI: Make Your Own 007 Reveal Video
+  h1: New James Bond Reveal : Step Out of the Dark as the New 007
+  desc: Be the new James Bond: step out of the dark in a black tuxedo into one hard beam of light, like the 007 reveal. Add one photo of you or your pet to start.
+  final: https://www.makeviral.ai/templates/james-bond-reveal-ai-trend
+
+- candidate    laisse-tomber-les-filles-ai-trend
+  URL: https://www.makeviral.ai/templates/laisse-tomber-les-filles-ai-trend
+  page: Laisse Tomber Les Filles Trend: Giant Eyes AI Video
+  h1: Laisse Tomber Les Filles Trend : Pose in Front of Your Own Giant Eyes
+  desc: Make the Laisse Tomber Les Filles trend with AI: you pose in front of a giant projection of your own eyes, with the song. Add one photo.
+  final: https://www.makeviral.ai/templates/laisse-tomber-les-filles-ai-trend
+
+- candidate    me-and-my-girlfriend-ai-trend
+  URL: https://www.makeviral.ai/templates/me-and-my-girlfriend-ai-trend
+  page: Me and My Girlfriend Trend: AI Mirror Selfie Video
+  h1: Me and My Girlfriend Trend : The Mirror Selfie With Extra Arms, Starring You Two
+  desc: Make the me and my girlfriend trend from two photos: your partner hides across your shoulders, then peeks out, with the song. Create yours now.
+  final: https://www.makeviral.ai/templates/me-and-my-girlfriend-ai-trend
+
+- candidate    me-parece-que-te-vi-bailando-ai-trend
+  URL: https://www.makeviral.ai/templates/me-parece-que-te-vi-bailando-ai-trend
+  page: Me Parece Que Te Vi Bailando AI Trend: Jersey Swap Car Clip
+  h1: Me Parece Que Te Vi Bailando AI Trend : Rap the Cumbia in Your Team's Shirt
+  desc: Make the Me Parece Que Te Vi Bailando AI trend: you and your friends rap the cumbia in a car, each in your team's shirt. Add 1 to 3 photos.
+  final: https://www.makeviral.ai/templates/me-parece-que-te-vi-bailando-ai-trend
+
+- candidate    ps2-filter
+  URL: https://www.makeviral.ai/templates/ps2-filter
+  page: PS2 Filter: Turn Any Idea or Photo into a PS2 Game Video
+  h1: PS2 Filter : Turn Any Idea into a PS2 Game Video
+  desc: PS2 filter video maker: type any idea, like "how Switzerland must feel like", and get an early-2000s game cutscene in PS2 graphics. Add your photo to star in it.
+  final: https://www.makeviral.ai/templates/ps2-filter
+
+- candidate    sidewalk-drop-in-ai-trend
+  URL: https://www.makeviral.ai/templates/sidewalk-drop-in-ai-trend
+  page: Sidewalk Drop-In AI Trend: Land on a New York Street
+  h1: Sidewalk Drop-In AI Trend : Drop Onto a New York Sidewalk and Walk
+  desc: Make the sidewalk drop-in AI trend: your boots land on a New York sidewalk, the camera tilts up and you walk to it in sunglasses. Add one photo to start.
+  final: https://www.makeviral.ai/templates/sidewalk-drop-in-ai-trend
+
+- candidate    sunlight-eye-portrait-ai
+  URL: https://www.makeviral.ai/templates/sunlight-eye-portrait-ai
+  page: Sunlight Eye Portrait AI: Horizontal Sunlight Trend
+  h1: Sunlight Eye Portrait : One Strip of Sun Across Your Eyes
+  desc: Make the sunlight eye portrait from one selfie: a strip of golden sun across your eyes, the rest in shadow. Same face, own eye color. Add a photo to start.
+  final: https://www.makeviral.ai/templates/sunlight-eye-portrait-ai
+
+- candidate    you-met-me-at-a-very-chinese-time-ai
+  URL: https://www.makeviral.ai/templates/you-met-me-at-a-very-chinese-time-ai
+  page: You Met Me at a Very Chinese Time in My Life: AI Video
+  h1: Make Your "You Met Me at a Very Chinese Time in My Life" Video
+  desc: Make your own "you met me at a very Chinese time in my life" video: type your word, get the PS2 game cutscene with your subtitle and the song. Add a photo to be the hero.
+  final: https://www.makeviral.ai/templates/you-met-me-at-a-very-chinese-time-ai
+
+================================================================================
+ClipRemake (1)
+================================================================================
+- candidate    never-let-her-pay-ai
+  URL: https://clipremake.com/templates/never-let-her-pay-ai
+  page: Never Let Her Pay AI Video Generator: the Sponge Wallet Trend
+  h1: Never Let Her Pay AI video generator: say "I got this", pay with a sponge
+  desc: Never Let Her Pay AI video generator: one photo puts you in the viral sponge-wallet restaurant clip, from "I got this" to the dirty dishes. 11 s, 9:16, with sound.
+  final: https://clipremake.com/templates/never-let-her-pay-ai
+
+================================================================================
+MakeMeme.video (4)
+================================================================================
+- candidate    husband-emporium-ai
+  URL: https://makememe.video/husband-emporium-ai
+  page: Husband Emporium AI: Your Partner in the Retro Ad | MakeMeme
+  h1: Husband Emporium AI Video Generator
+  desc: Make your own Husband Emporium ad from one photo: your partner, pet or anyone on the gold pedestal, with the model name and sales line you type. With voices.
+  final: https://makememe.video/husband-emporium-ai
+
+- candidate    king-jin-ai
+  URL: https://makememe.video/king-jin-ai
+  page: King Jin AI Trend: The Whole Street Bows to You | MakeMeme
+  h1: King Jin AI Video Generator
+  desc: Make the King Jin AI trend from one photo: you stand still while the crowd bows, on a neon street or anywhere you type, with whoever you want bowing. 10s.
+  final: https://makememe.video/king-jin-ai
+
+- candidate    my-moon-my-man-ai
+  URL: https://makememe.video/my-moon-my-man-ai
+  page: My Moon My Man AI: The Jesus Painting With You | MakeMeme
+  h1: My Moon My Man AI Video Generator
+  desc: Make the my moon my man Jesus trend from one photo: your photo, then a soft oil painting of you picking a flower while Jesus hides a huge bouquet. With sound.
+  final: https://makememe.video/my-moon-my-man-ai
+
+- candidate    rollie-on-my-wrist-ai
+  URL: https://makememe.video/rollie-on-my-wrist-ai
+  page: Put the Rollie On My Wrist Trend: AI Couple Video | MakeMeme
+  h1: Rollie On My Wrist AI Video Generator
+  desc: Make the put the rollie on my wrist trend from two photos: one carries the other on the shoulders, turns round, and the other pops up in front. 9s, with sound.
+  final: https://makememe.video/rollie-on-my-wrist-ai
+
+================================================================================
+MemeFX AI (1)
+================================================================================
+- candidate    jingle-bell-brazil-dance
+  URL: https://memefxai.com/jingle-bell-brazil-dance
+  page: Jingle Bell Brazil Dance AI: Pick a Clip, Add Photos
+  h1: Jingle Bell Brazil Dance AI: your crew in the Christmas funk routine
+  desc: Put yourself and up to two friends in the Jingle Bell x Brazil dance: pick one of 11 TikTok takes, add one photo per dancer, get 15 s with the sound.
+  final: https://memefxai.com/jingle-bell-brazil-dance
+
+================================================================================
+SameVid AI (12)
+================================================================================
+- candidate    ai-cafe
+  URL: https://samevid.com/template/ai-cafe
+  page: AI Cafe Video Generator — First Time in a Fancy Cafe
+  h1: AI Cafe Video Generator
+  desc: Turn 1 or 2 photos into the 15-second AI Cafe table mix-up video with Kling 4.0. 720p 9:16 vertical MP4 with original sound for 400 credits.
+  final: https://samevid.com/template/ai-cafe
+
+- candidate    ai-chaos-trend
+  URL: https://samevid.com/template/ai-chaos-trend
+  page: AI Chaos Trend Video Generator | SameVid AI
+  h1: AI Chaos Trend Video Generator
+  desc: Turn one photo into a 10s 720p AI Chaos Trend sidewalk collision video with slow-motion coffee, sunglasses, and phone fly-throughs for 270 credits.
+  final: https://samevid.com/template/ai-chaos-trend
+
+- candidate    ai-dress-trend
+  URL: https://samevid.com/template/ai-dress-trend
+  page: AI Dress Trend Video Generator | SameVid AI
+  h1: AI Dress Trend Video Generator
+  desc: Upload one photo to make a 15-second AI dress trend ceiling-fan outfit transition video in 720p with original sound. 400 credits.
+  final: https://samevid.com/template/ai-dress-trend
+
+- candidate    ai-tattoo-filter
+  URL: https://samevid.com/template/ai-tattoo-filter
+  page: AI Tattoo Filter Video Generator | SameVid AI
+  h1: AI Tattoo Filter Video Generator
+  desc: Upload one portrait to generate a 10-second 720p AI Tattoo Filter reveal video with realistic skin shading and original audio. 270 credits.
+  final: https://samevid.com/template/ai-tattoo-filter
+
+- candidate    cause-im-the-one-ai
+  URL: https://samevid.com/template/cause-im-the-one-ai
+  page: Cause I'm The One AI Video Generator | SameVid AI
+  h1: Cause I'm The One AI Video Generator
+  desc: Turn 1 or 2 portraits into the viral 9s Cause I'm The One shoulder-carry spin video in 720p vertical 9:16 with original audio. 240 credits.
+  final: https://samevid.com/template/cause-im-the-one-ai
+
+- candidate    clayface-ai
+  URL: https://samevid.com/template/clayface-ai
+  page: Clayface AI Video Generator — Hand-Wipe Clay Melt Effect
+  h1: Clayface AI Video Generator
+  desc: Turn one front portrait into the 5-second Clayface AI hand-wipe clay melt video. 720p 9:16 vertical MP4 with original sound for 140 credits.
+  final: https://samevid.com/template/clayface-ai
+
+- candidate    mermaid-ai
+  URL: https://samevid.com/template/mermaid-ai
+  page: Mermaid AI Video Generator — Photo to Mermaid Video
+  h1: Mermaid AI Video Generator
+  desc: Use the Mermaid AI video generator to turn one photo into a 5-second 9:16 underwater mermaid video with a splash reveal and original sound. 140 credits.
+  final: https://samevid.com/template/mermaid-ai
+
+- candidate    ocarina-of-time-remake-meme
+  URL: https://samevid.com/template/ocarina-of-time-remake-meme
+  page: Ocarina of Time Remake Meme AI Video Generator | SameVid
+  h1: Ocarina of Time Remake Meme Video Generator
+  desc: Upload one portrait to make a 13s Ocarina of Time Remake meme video in 1:1 720p with original audio. Uses 350 credits—no editing needed.
+  final: https://samevid.com/template/ocarina-of-time-remake-meme
+
+- candidate    prada-ai
+  URL: https://samevid.com/template/prada-ai
+  page: Prada AI Video Generator — 15s Transition | SameVid AI
+  h1: Prada AI Video Generator
+  desc: Upload one portrait to create the 15s 720p Prada AI indoor-to-night leather jacket transition with synced audio. Ready in minutes for 400 credits.
+  final: https://samevid.com/template/prada-ai
+
+- candidate    sheru-bhai-ai
+  URL: https://samevid.com/template/sheru-bhai-ai
+  page: Sheru Bhai AI: Boss Entrance Video Generator | SameVid AI
+  h1: Sheru Bhai AI Video Generator
+  desc: Turn one portrait into an 8-second Sheru Bhai AI limousine entrance in a white suit and gold chain with original sound. 9:16 720p MP4 for 220 credits.
+  final: https://samevid.com/template/sheru-bhai-ai
+
+- candidate    trouble-maker-ai-dance
+  URL: https://samevid.com/template/trouble-maker-ai-dance
+  page: Trouble Maker AI Dance Video Generator | SameVid AI
+  h1: Trouble Maker AI Dance Video Generator
+  desc: Turn 1 or 2 photos into the 15s Trouble Maker AI dance duet with synced K-pop choreography, 9:16 720p MP4, and original sound for 400 credits.
+  final: https://samevid.com/template/trouble-maker-ai-dance
+
+- candidate    trump-ai-meme
+  URL: https://samevid.com/template/trump-ai-meme
+  page: Trump AI Meme Video Generator | SameVid AI
+  h1: Trump AI Meme Video Generator
+  desc: Upload one portrait photo to star in a 10-second 720p Trump AI Meme office comedy clip with original audio. Costs 270 credits.
+  final: https://samevid.com/template/trump-ai-meme
+
+================================================================================
+Summrs (2)
+================================================================================
+- candidate    old-town-road-ai-video-generator
+  URL: https://www.summrs.com/old-town-road-ai-video-generator
+  page: Old Town Road AI Video Generator | Summrs | Summrs
+  h1: SUMMRS
+  desc: Make the Old Town Road AI video from two photos. You and a friend in the red convertible scene — candy shop, money bag, and overhead drive-off. 16:9 with the song.
+  final: https://www.summrs.com/old-town-road-ai-video-generator
+
+- keep_missing bigfoot-vlog
+  URL: https://www.summrs.com/bigfoot-vlog
+  page: AI Bigfoot Vlog Generator - Create Viral Found Footage | Summrs | Summrs
+  h1: SUMMRS
+  desc: Generate bigfoot vlogs instantly with AI. Describe the scene, get VHS-style found footage. Free to try—no editing or uploads needed.
+  final: https://www.summrs.com/bigfoot-vlog
+
+================================================================================
+Ricebowl AI (11)
+================================================================================
+- candidate    ai-singing-video
+  URL: https://ricebowl.ai/app/ai-singing-video
+  page: AI Singing Video: Your Friend Takes the Spotlight | Ricebowl
+  h1: AI Singing Video: Your Friend Takes the Spotlight
+  desc: Turn one photo into a 15-second AI singing video: your friend grabs the mic, then the beat drops. Pick a scene; instrumental sound comes built in.
+  final: https://ricebowl.ai/app/ai-singing-video
+
+- candidate    birthday-video-message
+  URL: https://ricebowl.ai/app/birthday-video-message
+  page: Birthday Video Message: Toast in 15 Seconds | Ricebowl
+  h1: Birthday Video Message: A Birthday Toast Without Words
+  desc: Make a birthday video message from one photo: pick a toast, party, candle or garden scene for a 15-second vertical clip with instrumental sound and no voice.
+  final: https://ricebowl.ai/app/birthday-video-message
+
+- candidate    deck-the-halls-dance
+  URL: https://ricebowl.ai/app/deck-the-halls-dance
+  page: Deck the Halls AI Dance: Your Photo in the Routine | Ricebowl
+  h1: Deck the Halls AI Dance: Your Photo Takes Every Fist Pump
+  desc: Make a Deck the Halls AI dance from one photo. MiniMax H3 follows the reference routine, camera and timing in a 15-second vertical clip with instrumental audio.
+  final: https://ricebowl.ai/app/deck-the-halls-dance
+
+- candidate    fish-chop-ai-video
+  URL: https://ricebowl.ai/app/fish-chop-ai-video
+  page: Fish Chop AI Video: Giant Fish, One Big Chop | Ricebowl
+  h1: Fish Chop AI Video: One Very Determined Cook Faces a Giant Fish
+  desc: Make a fish chop AI video from one photo. Choose a preset scene for a 15-second vertical clip with an oversized fish, cleaver, and instrumental sound.
+  final: https://ricebowl.ai/app/fish-chop-ai-video
+
+- candidate    funny-birthday-ecard
+  URL: https://ricebowl.ai/app/funny-birthday-ecard
+  page: Funny Birthday Ecard: Party Popper Setup | Ricebowl
+  h1: Funny Birthday Ecard: A Party Popper Setup
+  desc: Make a funny birthday ecard from one photo. Pick a birthday mishap and get a 15-second vertical video with environmental sound and instrumental music.
+  final: https://ricebowl.ai/app/funny-birthday-ecard
+
+- candidate    king-jin-ai-trend
+  URL: https://ricebowl.ai/app/king-jin-ai-trend
+  page: King Jin AI Trend: The Street Stands at Attention | Ricebowl
+  h1: King Jin AI Trend: The Crowd Frames Your Calm Entrance
+  desc: Make an AI video from one photo with the King Jin AI trend: step into a street as a crowd frames your entrance. Create a 15-second vertical clip.
+  final: https://ricebowl.ai/app/king-jin-ai-trend
+
+- candidate    make-old-photos-talk
+  URL: https://ricebowl.ai/app/make-old-photos-talk
+  page: Make Old Photos Talk: Grandpa Steals the Last Word | Ricebowl
+  h1: Make Old Photos Talk: Grandpa Gets the Last Word
+  desc: Make old photos talk with one portrait and a scene chip. Create a 15-second vertical video with environmental sound and instrumental music, without vocals.
+  final: https://ricebowl.ai/app/make-old-photos-talk
+
+- candidate    mini-tricycle-crash
+  URL: https://ricebowl.ai/app/mini-tricycle-crash
+  page: Mini Tricycle Crash AI Video: Tiny Trike Tumble | Ricebowl
+  h1: Mini Tricycle Crash AI Video: The Tiny Trike Wins
+  desc: Make a mini tricycle crash AI video from one photo. Pick a scene and get a 15-second vertical ride, wobble, and comic spill with instrumental sound.
+  final: https://ricebowl.ai/app/mini-tricycle-crash
+
+- candidate    step-brothers-dance
+  URL: https://ricebowl.ai/app/step-brothers-dance
+  page: Step Brothers AI Dance: Couple Photo to Duo Clip | Ricebowl
+  h1: Step Brothers AI Dance: Fist Pumps, Swaps, and Hallway Struts
+  desc: Make a Step Brothers AI dance from one couple photo. The reference clip guides the moves, camera and timing in a 15-second video with instrumental audio.
+  final: https://ricebowl.ai/app/step-brothers-dance
+
+- candidate    teardrop-sink-ai-video
+  URL: https://ricebowl.ai/app/teardrop-sink-ai-video
+  page: Teardrop Sink AI Video: The Confused Reach | Ricebowl
+  h1: Teardrop Sink AI Video: You Reach for the Sink That Isn’t
+  desc: Make a teardrop sink AI video from one photo. Pick a restroom scene and get a 15-second vertical clip with ambient sound and instrumental music.
+  final: https://ricebowl.ai/app/teardrop-sink-ai-video
+
+- candidate    valentine-video-card
+  URL: https://ricebowl.ai/app/valentine-video-card
+  page: Valentine Video Card: Pet Greeting Maker | Ricebowl
+  h1: Valentine Video Card: Your Pet Delivers the Heart
+  desc: Make a Valentine video card from one pet photo. Choose a rose delivery, heart portrait, cozy blanket, gift box, or playful tunnel scene.
+  final: https://ricebowl.ai/app/valentine-video-card
+
+================================================================================
+Memelry (8)
+================================================================================
+- candidate    car-drift-ai
+  URL: https://memelry.com/car-drift-ai
+  page: Car Drift AI Video From One Photo | Memelry
+  h1: Make the Car Drift AI video from your photo
+  desc: Make the Car Drift AI intersection video from a photo of your own car. About 15s, 720p, $14.99. One-time payment. No monthly subscription.
+  final: https://memelry.com/car-drift-ai
+
+- candidate    car-drift-photo-guide
+  URL: https://memelry.com/car-drift-photo-guide
+  page: Car Drift AI: Which Photo Should I Use? | Memelry
+  h1: Which photo should I use for Car Drift AI?
+  desc: Make the Car Drift AI intersection video from a photo of your own car. About 15s, 720p, $14.99. One-time payment. No monthly subscription.
+  final: https://memelry.com/car-drift-photo-guide
+
+- candidate    central-cee-doja-ai
+  URL: https://memelry.com/central-cee-doja-ai
+  page: Central Cee Doja AI Video From One Photo | Memelry
+  h1: Make the Central Cee Doja AI video from your photo
+  desc: Make the Central Cee Doja AI street montage from one photo. About 13s, 720p, $12.99. One-time payment. No monthly subscription.
+  final: https://memelry.com/central-cee-doja-ai
+
+- candidate    central-cee-doja-ai-origin
+  URL: https://memelry.com/central-cee-doja-ai-origin
+  page: Central Cee Doja AI: Source, Song & Versions | Memelry
+  h1: Which Central Cee Doja AI version is this?
+  desc: Make the Central Cee Doja AI street montage from one photo. About 13s, 720p, $12.99. One-time payment. No monthly subscription.
+  final: https://memelry.com/central-cee-doja-ai-origin
+
+- candidate    central-cee-doja-photo-guide
+  URL: https://memelry.com/central-cee-doja-photo-guide
+  page: Central Cee Doja AI: Which Photo Should I Use? | Memelry
+  h1: Which photo should I use for Central Cee Doja AI?
+  desc: Make the Central Cee Doja AI street montage from one photo. About 13s, 720p, $12.99. One-time payment. No monthly subscription.
+  final: https://memelry.com/central-cee-doja-photo-guide
+
+- candidate    mans-not-hot-ai
+  URL: https://memelry.com/mans-not-hot-ai
+  page: Man’s Not Hot AI Video From One Photo | Memelry
+  h1: Make the Man’s Not Hot AI video from your photo
+  desc: Make the Man’s Not Hot AI bedroom-to-beach rap video from one photo. About 14s, 720p, sound, $13.99. One-time payment. No monthly subscription.
+  final: https://memelry.com/mans-not-hot-ai
+
+- candidate    mans-not-hot-ai-origin
+  URL: https://memelry.com/mans-not-hot-ai-origin
+  page: Man’s Not Hot AI: Mr Bean, Big Shaq & the Meme | Memelry
+  h1: What is the Man’s Not Hot AI meme?
+  desc: Make the Man’s Not Hot AI bedroom-to-beach rap video from one photo. About 14s, 720p, sound, $13.99. One-time payment. No monthly subscription.
+  final: https://memelry.com/mans-not-hot-ai-origin
+
+- candidate    what-if-you-fly-ai
+  URL: https://memelry.com/what-if-you-fly-ai
+  page: What If You Fly Video From One Photo | Memelry
+  h1: Make the What If You Fly video from your photo
+  desc: Make the What If You Fly / What If You Fall Twin AI meme from one photo. About 17s, 720p, $16.99. One-time payment. No monthly subscription.
+  final: https://memelry.com/what-if-you-fly-ai
+
+================================================================================
+Starrd (16)
+================================================================================
+- candidate    feel-the-pressure-ai-video
+  URL: https://www.getstarrd.app/template/feel-the-pressure-ai-video
+  page: Feel The Pressure — AI Video Template | Starrd
+  h1: Feel The Pressure
+  desc: Star in the viral "I'm not feeling the pressure" football edit: a calm post-match TV interview, then a floodlit victory lap on the touchline, a water…
+  final: https://www.getstarrd.app/template/feel-the-pressure-ai-video
+
+- candidate    gta-6-airboat-escape-ai-video
+  URL: https://www.getstarrd.app/template/gta-6-airboat-escape-ai-video
+  page: GTA 6: Swamp Airboat Escape — AI Video Template | Starrd
+  h1: GTA 6: Swamp Airboat Escape
+  desc: Outrun the police on an airboat through a GTA 6-style Florida swamp: dodge a gator, launch off a mud bank and leave the cops in the reeds. 15 seconds…
+  final: https://www.getstarrd.app/template/gta-6-airboat-escape-ai-video
+
+- candidate    gta-6-bonnie-and-clyde-heist-ai-video
+  URL: https://www.getstarrd.app/template/gta-6-bonnie-and-clyde-heist-ai-video
+  page: GTA 6: Bonnie & Clyde Heist — AI Video Template | Starrd
+  h1: GTA 6: Bonnie & Clyde Heist
+  desc: Join a GTA 6-style outlaw duo on a 30-second convenience-store job, slide over the hood and peel off through neon Vice City. 15 seconds, with dialogue…
+  final: https://www.getstarrd.app/template/gta-6-bonnie-and-clyde-heist-ai-video
+
+- candidate    gta-6-brand-drop-ai-video
+  URL: https://www.getstarrd.app/template/gta-6-brand-drop-ai-video
+  page: GTA 6 Brand Drop — AI Video Template | Starrd
+  h1: GTA 6 Brand Drop
+  desc: Your product in GTA 6. You (and a friend) walk out of your own shop at dusk holding your product, your brand name glowing on the sign, drawn as Vice City…
+  final: https://www.getstarrd.app/template/gta-6-brand-drop-ai-video
+
+- candidate    gta-6-brand-poster-ai
+  URL: https://www.getstarrd.app/template/gta-6-brand-poster-ai
+  page: GTA 6 Brand Poster — AI Photo Template | Starrd
+  h1: GTA 6 Brand Poster
+  desc: The photo version of Brand Drop: you (and a friend) holding your product outside your own shop, your brand name on the sign, as GTA 6 style cover art. A…
+  final: https://www.getstarrd.app/template/gta-6-brand-poster-ai
+
+- candidate    gta-6-car-loading-screen-ai-video
+  URL: https://www.getstarrd.app/template/gta-6-car-loading-screen-ai-video
+  page: GTA 6 Loading Screen: Your Ride — AI Video Template | Starrd
+  h1: GTA 6 Loading Screen: Your Ride
+  desc: Your car sits on a painted Vice City boulevard while the loading bar fills and the world builds itself around it: sunset, palms, skyline, a plane…
+  final: https://www.getstarrd.app/template/gta-6-car-loading-screen-ai-video
+
+- candidate    gta-6-couple-ai-video
+  URL: https://www.getstarrd.app/template/gta-6-couple-ai-video
+  page: Vice City Couple — AI Video Template | Starrd
+  h1: Vice City Couple
+  desc: You and your person as an outlaw duo in a neon Miami crime-game trailer. Cruise the causeway at sunset, pull off a quick corner-store job, and walk out…
+  final: https://www.getstarrd.app/template/gta-6-couple-ai-video
+
+- candidate    gta-6-farewell-ai-video
+  URL: https://www.getstarrd.app/template/gta-6-farewell-ai-video
+  page: GTA 6: The Farewell — AI Video Template | Starrd
+  h1: GTA 6: The Farewell
+  desc: Say goodbye to your old crew at sunset, then jump in the car with your new crew in a neon GTA 6-style Vice City. 30 seconds, with dialogue and music…
+  final: https://www.getstarrd.app/template/gta-6-farewell-ai-video
+
+- candidate    gta-6-he-wont-let-you-leave-ai-video
+  URL: https://www.getstarrd.app/template/gta-6-he-wont-let-you-leave-ai-video
+  page: GTA 6: He Won't Let You Leave — AI Video Template | Starrd
+  h1: GTA 6: He Won't Let You Leave
+  desc: You left your old GTA-style crew for a new one, and the wild one is NOT letting go: he chases your getaway SUV across a tropical bridge. 15 seconds, with…
+  final: https://www.getstarrd.app/template/gta-6-he-wont-let-you-leave-ai-video
+
+- candidate    gta-6-loading-screen-ai-video
+  URL: https://www.getstarrd.app/template/gta-6-loading-screen-ai-video
+  page: GTA 6 Loading Screen — AI Video Template | Starrd
+  h1: GTA 6 Loading Screen
+  desc: Become GTA 6 loading screen art. A casual phone-video moment of you in sunny Miami freezes, ink outlines and halftone dots sweep across, and you turn…
+  final: https://www.getstarrd.app/template/gta-6-loading-screen-ai-video
+
+- candidate    gta-6-vice-city-arrival-ai-video
+  URL: https://www.getstarrd.app/template/gta-6-vice-city-arrival-ai-video
+  page: GTA 6: Vice City Arrival — AI Video Template | Starrd
+  h1: GTA 6: Vice City Arrival
+  desc: Arrive in GTA 6's Vice City by speedboat at golden hour, hero-walk up the beach with your new crew and freeze on your own character intro. 15 seconds…
+  final: https://www.getstarrd.app/template/gta-6-vice-city-arrival-ai-video
+
+- candidate    i-just-seen-a-rainbow-ai-video
+  URL: https://www.getstarrd.app/template/i-just-seen-a-rainbow-ai-video
+  page: I Just Seen A Rainbow — AI Video Template | Starrd
+  h1: I Just Seen A Rainbow
+  desc: You're the star of the viral "I just seen a rainbow" selfie: you stare into the phone acting hard, whip it round to film a giant rainbow over town, and…
+  final: https://www.getstarrd.app/template/i-just-seen-a-rainbow-ai-video
+
+- candidate    james-bond-reveal-ai-video
+  URL: https://www.getstarrd.app/template/james-bond-reveal-ai-video
+  page: James Bond Reveal — AI Video Template | Starrd
+  h1: James Bond Reveal
+  desc: You get the spy-movie teaser treatment: out of total darkness a hard light finds your hand on a pistol, then your face slowly rises out of the shadow and…
+  final: https://www.getstarrd.app/template/james-bond-reveal-ai-video
+
+- candidate    not-just-a-cutie-jamaican-core-ai-video
+  URL: https://www.getstarrd.app/template/not-just-a-cutie-jamaican-core-ai-video
+  page: Not Just A Cutie Jamaican Core — AI Video Template | Starrd
+  h1: Not Just A Cutie Jamaican Core
+  desc: You're the star of the viral "Not just a cutie" Jamaican compliment: in a hand-knitted rasta tam, you stroll down a sunny footpath and shower the camera…
+  final: https://www.getstarrd.app/template/not-just-a-cutie-jamaican-core-ai-video
+
+- candidate    old-town-road-ai-video
+  URL: https://www.getstarrd.app/template/old-town-road-ai-video
+  page: Old Town Road — AI Video Template | Starrd
+  h1: Old Town Road
+  desc: You and a friend (or your pet) star in an "Old Town Road" music video: one of you rides shotgun in a red convertible with a bag of cash, you each sing a…
+  final: https://www.getstarrd.app/template/old-town-road-ai-video
+
+- candidate    shoulder-carry-ai-video
+  URL: https://www.getstarrd.app/template/shoulder-carry-ai-video
+  page: Shoulder Carry — AI Video Template | Starrd
+  h1: Shoulder Carry
+  desc: You and a friend do the viral shoulder carry to "I'm the One": one of you carries, spins around, and the other pops up on top facing the camera to…
+  final: https://www.getstarrd.app/template/shoulder-carry-ai-video
+
+================================================================================
+aiMakeVideo (1)
+================================================================================
+- candidate    bigxthaplug-give-it-all-ai
+  URL: https://aimakevideo.com/bigxthaplug-give-it-all-ai
+  page: BigXthaPlug Give It All AI Generator: Hanging Mic Trend
+  h1: BigXthaPlug Give It All AI Video Generator
+  desc: Turn one photo into the BigXthaPlug Give It All AI trend: rap at a hanging mic in a packed cinema lobby, crowd behind you. 15 seconds, no watermark.
+  final: https://aimakevideo.com/bigxthaplug-give-it-all-ai
+
+================================================================================
+Try a Trend (1)
+================================================================================
+- keep_missing ai-halloween-costume
+  URL: https://tryatrend.com/ai-halloween-costume
+  page: AI Halloween Costume Video Generator: See Yourself in Costume
+  h1: AI Halloween Costume Video Generator
+  desc: See yourself in a Halloween costume with AI: upload one selfie, get a free AI Halloween photo as a witch, vampire, zombie and more, then a video. From $4.99.
+  final: https://tryatrend.com/ai-halloween-costume
+
